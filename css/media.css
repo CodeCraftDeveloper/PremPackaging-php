@@ -1,0 +1,181 @@
+@media (max-width: 1199px){
+	.navbar-light .navbar-nav .nav-link{
+		padding: 10px;
+	}
+	.design-content h3{
+		font-size: 24px;
+	}
+	.paddingLR{
+	    padding: 0px;
+	}
+}
+@media (max-width: 991px){
+
+	.navbar{
+		padding: 10px 0;
+	}
+	div#mobile_nav {
+	    position: absolute;
+	    top: 100px;
+	    left: 0px;
+	    right: 0px;
+	    background: rgb(255, 255, 255);
+	    padding: 15px;
+	    box-shadow: 0 0 13px 0 rgb(0 0 0 / 3%);
+	}
+	.navbar-light .navbar-nav .nav-link {
+	    padding: 15px;
+	    color: #14254c;
+	    border-top: 1px solid #eee;
+	}
+	.dropdown-toggle::after{
+		float: right;
+	}
+	.navbar-brand{
+		margin-right: 0;
+		margin-left: 15px;
+	}
+	footer h3{
+		font-size: 46px;
+	}
+	.design-content{
+		padding: 40px 25px;
+	}
+	.EXp_BG{
+		margin:30px 0 0;
+	}
+	.page-hero h1{
+		line-height: 52px;
+	}
+	
+	.harry {
+    padding-left: 16px;
+}
+
+.copyright {
+    text-align: center;
+    border-top: 1px solid rgba(255, 255, 255, 0.12);
+    margin-top: 60px;
+    padding: 30px 0 0 1px;
+}
+
+
+
+}
+
+@media (max-width: 767px){
+	.site-banner-content{
+		top: 10%;
+	}
+	.site-banner-content h1{
+		font-size: 52px;
+		line-height: 62px;
+	}
+	.site-banner-content p{
+		font-size: 18px;
+		line-height: 30px;
+	}
+	.more-btn {
+	    padding: 15px 30px;
+	    letter-spacing: inherit;
+	}
+	h2{
+		font-size: 42px;
+	}
+	.design-content{
+		padding: 40px 20px;
+	}
+	.order1{
+		order: 1;
+	}
+	.order2{
+		order: 2;
+	}
+	footer h3 {
+	    font-size: 42px;
+	}
+	.btnSubmit{
+		margin-top: 25px;
+	}
+	.Average-Clients h1{
+		font-size: 130px;
+	}
+	.EXp_Content {
+	    padding-left: 15px;
+	    padding-bottom: 20px;
+	}
+	.image-box-wrapper{
+		margin: 10px 0;
+	}
+	
+	
+	.harry {
+    padding-left: 16px;
+}
+
+.copyright {
+    text-align: center;
+    border-top: 1px solid rgba(255, 255, 255, 0.12);
+    margin-top: 60px;
+    padding: 30px 0 0 1px;
+}
+
+
+
+
+}
+@media (max-width: 360px){
+	.site-banner-content h1 {
+	    font-size: 42px;
+	    line-height: 48px;
+	}
+	.site-banner-content p{
+		font-size: 17px;
+	}
+	footer h3 {
+	    font-size: 36px;
+	}
+	.Logo_IMG {
+    	padding: 25px 10px 25px 10px;
+	}
+	
+	
+	.modal-content {
+  background-color: #fefefe;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 100%;
+}
+	
+	input#submit{
+	background-color: #14254c!important;
+    border: none;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 600;
+    width: 50%;
+}
+
+input#submit:hover{
+	background-color: red!important;
+    border: none;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 600;
+    width: 50%;
+}
+	
+	.harry {
+    padding-left: 16px;
+}
+
+.copyright {
+    text-align: center;
+    border-top: 1px solid rgba(255, 255, 255, 0.12);
+    margin-top: 60px;
+    padding: 30px 0 0 1px;
+}
+
+
+}

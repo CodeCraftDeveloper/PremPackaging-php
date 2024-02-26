@@ -1,0 +1,5 @@
+User-agent: * 
+Disallow: /admin
+Disallow: /phpadmin
+
+Sitemap: https://prempackaging.com/sitemap.xml
