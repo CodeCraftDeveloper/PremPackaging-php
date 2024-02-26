@@ -56,170 +56,170 @@
                 <div class="col-lg-12">
                     <div class="row justify-content-center align-items-center">
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/1.png" alt="" title="" />
+                            <img src="img/clients/1.png" alt="Amazon" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/2.png" alt="" title="" />
+                            <img src="img/clients/2.png" alt="Flipkart" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/3.png" alt="" title="" />
+                            <img src="img/clients/3.png" alt="Vivo" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/4.png" alt="" title="" />
-                        </div>
-                    </div>
-                    <div class="row justify-content-center align-items-center">
-                        <div class="col-md-3 col-6">
-                            <img src="img/clients/5.png" alt="" title="" />
-                        </div>
-                        <div class="col-md-3 col-6">
-                            <img src="img/clients/6.png" alt="" title="" />
-                        </div>
-                        <div class="col-md-3 col-6">
-                            <img src="img/clients/7.png" alt="" title="" />
-                        </div>
-                        <div class="col-md-3 col-6">
-                            <img src="img/clients/8.png" alt="" title="" />
+                            <img src="img/clients/29.png" alt="DS Group" title="" />
                         </div>
                     </div>
                     <div class="row justify-content-center align-items-center">
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/9.png" alt="" title="" />
+                            <img src="img/clients/5.png" alt="Bikano" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/10.png" alt="" title="" />
+                            <img src="img/clients/6.png" alt="Myntra" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/11.png" alt="" title="" />
+                            <img src="img/clients/7.png" alt="Reckitt" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/12.png" alt="" title="" />
+                            <img src="img/clients/33.png" alt="Dabur" title="" />
+                        </div>
+                    </div>
+                    <div class="row justify-content-center align-items-center">
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/9.png" alt="LG" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/10.png" alt="Hindware" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/11.png" alt="ITC" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/12.png" alt="Adani" title="" />
                         </div>
                     </div>
                     <div class="row last justify-content-center align-items-center">
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/13.png" alt="" title="" />
+                            <img src="img/clients/13.png" alt="Symphony" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/14.png" alt="" title="" />
+                            <img src="img/clients/14.png" alt="Panasonic" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/15.png" alt="" title="" />
+                            <img src="img/clients/15.png" alt="SnapDeal" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/16.png" alt="" title="" />
-                        </div>
-                    </div>
-                    <div class="row last justify-content-center align-items-center">
-                        <div class="col-md-3 col-6">
-                            <img src="img/clients/17.png" alt="" title="" />
-                        </div>
-                        <div class="col-md-3 col-6">
-                            <img src="img/clients/18.png" alt="" title="" />
-                        </div>
-                        <div class="col-md-3 col-6">
-                            <img src="img/clients/19.png" alt="" title="" />
-                        </div>
-                        <div class="col-md-3 col-6">
-                            <img src="img/clients/20.png" alt="" title="" />
+                            <img src="img/clients/16.png" alt="Airtel" title="" />
                         </div>
                     </div>
                     <div class="row last justify-content-center align-items-center">
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/21.png" alt="" title="" />
+                            <img src="img/clients/17.png" alt="Havells" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/22.png" alt="" title="" />
+                            <img src="img/clients/18.png" alt="Carrier" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/23.png" alt="" title="" />
+                            <img src="img/clients/19.png" alt="Pan Vilas" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/24.png" alt="" title="" />
-                        </div>
-                    </div>
-                    <div class="row last justify-content-center align-items-center">
-                        <div class="col-md-3 col-6">
-                            <img src="img/clients/25.png" alt="" title="" />
-                        </div>
-                        <div class="col-md-3 col-6">
-                            <img src="img/clients/26.png" alt="" title="" />
-                        </div>
-                        <div class="col-md-3 col-6">
-                            <img src="img/clients/27.png" alt="" title="" />
-                        </div>
-                        <div class="col-md-3 col-6">
-                            <img src="img/clients/28.png" alt="" title="" />
+                            <img src="img/clients/20.png" alt="Superon" title="" />
                         </div>
                     </div>
                     <div class="row last justify-content-center align-items-center">
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/29.png" alt="" title="" />
+                            <img src="img/clients/21.png" alt="standard" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/30.png" alt="" title="" />
+                            <img src="img/clients/22.png" alt="Videocon" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/31.png" alt="" title="" />
+                            <img src="img/clients/23.png" alt="Samsung" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/32.png" alt="" title="" />
-                        </div>
-                    </div>
-                    <div class="row last justify-content-center align-items-center">
-                        <div class="col-md-3 col-6">
-                            <img src="img/clients/33.png" alt="" title="" />
-                        </div>
-                        <div class="col-md-3 col-6">
-                            <img src="img/clients/34.png" alt="" title="" />
-                        </div>
-                        <div class="col-md-3 col-6">
-                            <img src="img/clients/35.png" alt="" title="" />
-                        </div>
-                        <div class="col-md-3 col-6">
-                            <img src="img/clients/36.png" alt="" title="" />
+                            <img src="img/clients/24.png" alt="Paytm" title="" />
                         </div>
                     </div>
                     <div class="row last justify-content-center align-items-center">
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/37.png" alt="" title="" />
+                            <img src="img/clients/25.png" alt="Onida" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/38.png" alt="" title="" />
+                            <img src="img/clients/26.png" alt="Crompton" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/31.png" alt="" title="" />
+                            <img src="img/clients/27.png" alt="Luxor" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/40.png" alt="" title="" />
+                            <img src="img/clients/28.png" alt="Sylvania" title="" />
                         </div>
                     </div>
                     <div class="row last justify-content-center align-items-center">
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/41.png" alt="" title="" />
+                            <img src="img/clients/4.png" alt="Wipro" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/42.png" alt="" title="" />
+                            <img src="img/clients/30.png" alt="Whirlpool" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/43.png" alt="" title="" />
+                            <img src="img/clients/31.png" alt="Oriflame" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/44.png" alt="" title="" />
+                            <img src="img/clients/32.png" alt="Philips" title="" />
+                        </div>
+                    </div>
+                    <div class="row last justify-content-center align-items-center">
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/8.png" alt="Karbonn" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/34.png" alt="Polycab" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/35.png" alt="pepsi" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/36.png" alt="micromax" title="" />
+                        </div>
+                    </div>
+                    <div class="row last justify-content-center align-items-center">
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/37.png" alt="orient electric" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/38.png" alt="salora" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/31.png" alt="oriflame" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/40.png" alt="johnson and johnson" title="" />
+                        </div>
+                    </div>
+                    <div class="row last justify-content-center align-items-center">
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/41.png" alt="zen" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/42.png" alt="okaya" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/43.png" alt="nasaka" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/44.png" alt="tulsi" title="" />
                         </div>
                     </div>
                     <div class="row last justify-content-center align-items-center bdrNone">
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/45.png" alt="" title="" />
+                            <img src="img/clients/45.png" alt="vadilal" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/46.png" alt="" title="" />
+                            <img src="img/clients/46.png" alt="future group" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/47.png" alt="" title="" />
+                            <img src="img/clients/47.png" alt="braun" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/48.png" alt="" title="" />
+                            <img src="img/clients/48.png" alt="sa re ga ma" title="" />
                         </div>
                     </div>
                 </div>

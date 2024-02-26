@@ -363,7 +363,7 @@
                 <img src="img/logo/7.png" alt="reckitt benckiser" title="" />
               </div>
               <div class="Logo_IMG">
-                <img src="img/logo/8.png" alt="karbonn" title="" />
+                <img src="img/clients/29.png" alt="DS Group" title="" />
               </div>
               <div class="Logo_IMG">
                 <img src="img/logo/9.png" alt="lg" title="" />
