@@ -55,14 +55,14 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="row justify-content-center align-items-center">
+                    <div class="col-md-3 col-6">
+                            <img src="img/clients/42.png" alt="okaya" title="" />
+                        </div>
                         <div class="col-md-3 col-6">
                             <img src="img/clients/1.png" alt="Amazon" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/2.png" alt="Flipkart" title="" />
-                        </div>
-                        <div class="col-md-3 col-6">
-                            <img src="img/clients/3.png" alt="Vivo" title="" />
+                            <img src="img/clients/34.png" alt="Polycab" title="" />
                         </div>
                         <div class="col-md-3 col-6">
                             <img src="img/clients/29.png" alt="DS Group" title="" />
@@ -171,13 +171,13 @@
                             <img src="img/clients/8.png" alt="Karbonn" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/34.png" alt="Polycab" title="" />
-                        </div>
-                        <div class="col-md-3 col-6">
                             <img src="img/clients/35.png" alt="pepsi" title="" />
                         </div>
                         <div class="col-md-3 col-6">
                             <img src="img/clients/36.png" alt="micromax" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/2.png" alt="Flipkart" title="" />
                         </div>
                     </div>
                     <div class="row last justify-content-center align-items-center">
@@ -199,10 +199,10 @@
                             <img src="img/clients/41.png" alt="zen" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/42.png" alt="okaya" title="" />
+                            <img src="img/clients/43.png" alt="nasaka" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/43.png" alt="nasaka" title="" />
+                            <img src="img/clients/3.png" alt="Vivo" title="" />
                         </div>
                         <div class="col-md-3 col-6">
                             <img src="img/clients/44.png" alt="tulsi" title="" />
@@ -220,6 +220,17 @@
                         </div>
                         <div class="col-md-3 col-6">
                             <img src="img/clients/48.png" alt="sa re ga ma" title="" />
+                        </div>
+                    </div>
+                    <div class="row last justify-content-center align-items-center bdrNone">
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/49.png" alt="Hero Cycles" height="140" width="130" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/50.png" alt="Campus" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/51.png" alt="Haier" title="" />
                         </div>
                     </div>
                 </div>
