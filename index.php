@@ -173,14 +173,16 @@
   <section class="body__content padding second border-bottom">
     <div class="container">
       <div class="row">
-        <div class="col-md-4">
-          <div class="text-center">
+        <div class="col-md-2"></div>
+        <div class="col-md-8">
+        <div class="text-center">
             <h2 class="wow fadeInUp" style="font-size: 46px;">What's New at Prem?</h2>
             <p class="wow fadeInUp mt-4">We keep our innovation game always on! See our latest arrivals, soon-to-be-launched products, technology, and more here.</p>
           </div>
         </div>
-        <div class="col-md-7 offset-md-1">
-          <div class="new-arrivals__slider owl-carousel owl-theme">
+        <div class="col-md-2"></div>
+        <div class="col-md-6">
+          <div class="new-arrivals__slider owl-carousel owl-theme mt-5 pt-5">
             <div class="product-wrap">
               <div class="overflow-hidden">
                 <img src="img/arrivals2.jpg" alt="Label Stock" title="" />
@@ -198,6 +200,10 @@
               </div>
             </div>
           </div>
+        </div>
+        <div class="col-md-1"></div>
+        <div class="col-md-5">
+        <img src="img/aahar-invite.jpeg" class="mt-2" width="500" height="300" alt="Invitation_Image" title="" />
         </div>
       </div>
     </div>
