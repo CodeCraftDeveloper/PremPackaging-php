@@ -56,35 +56,35 @@
                 <div class="col-lg-12">
                     <div class="row justify-content-center align-items-center">
                     <div class="col-md-3 col-6">
+                            <img src="img/clients/5.png" alt="Bikano" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/33.png" alt="Dabur" title="" />
+                        </div>    
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/29.png" alt="DS Group" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
                             <img src="img/clients/42.png" alt="okaya" title="" />
+                        </div>
+                    </div>
+                    <div class="row justify-content-center align-items-center">
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/2.png" alt="Flipkart" title="" />
                         </div>
                         <div class="col-md-3 col-6">
                             <img src="img/clients/1.png" alt="Amazon" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/34.png" alt="Polycab" title="" />
-                        </div>
-                        <div class="col-md-3 col-6">
-                            <img src="img/clients/29.png" alt="DS Group" title="" />
-                        </div>
-                    </div>
-                    <div class="row justify-content-center align-items-center">
-                        <div class="col-md-3 col-6">
-                            <img src="img/clients/5.png" alt="Bikano" title="" />
-                        </div>
+                            <img src="img/clients/52.png" alt="Ajio" height="167" width="170" title="" />
+                        </div>    
                         <div class="col-md-3 col-6">
                             <img src="img/clients/6.png" alt="Myntra" title="" />
                         </div>
-                        <div class="col-md-3 col-6">
-                            <img src="img/clients/7.png" alt="Reckitt" title="" />
-                        </div>
-                        <div class="col-md-3 col-6">
-                            <img src="img/clients/33.png" alt="Dabur" title="" />
-                        </div>
                     </div>
                     <div class="row justify-content-center align-items-center">
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/9.png" alt="LG" title="" />
+                            <img src="img/clients/34.png" alt="Polycab" title="" />
                         </div>
                         <div class="col-md-3 col-6">
                             <img src="img/clients/10.png" alt="Hindware" title="" />
@@ -124,7 +124,7 @@
                             <img src="img/clients/20.png" alt="Superon" title="" />
                         </div>
                     </div>
-                    <div class="row last justify-content-center align-items-center">
+                    <div class="row justify-content-center align-items-center">
                         <div class="col-md-3 col-6">
                             <img src="img/clients/21.png" alt="standard" title="" />
                         </div>
@@ -138,7 +138,7 @@
                             <img src="img/clients/24.png" alt="Paytm" title="" />
                         </div>
                     </div>
-                    <div class="row last justify-content-center align-items-center">
+                    <div class="row justify-content-center align-items-center">
                         <div class="col-md-3 col-6">
                             <img src="img/clients/25.png" alt="Onida" title="" />
                         </div>
@@ -152,7 +152,7 @@
                             <img src="img/clients/28.png" alt="Sylvania" title="" />
                         </div>
                     </div>
-                    <div class="row last justify-content-center align-items-center">
+                    <div class="row justify-content-center align-items-center">
                         <div class="col-md-3 col-6">
                             <img src="img/clients/4.png" alt="Wipro" title="" />
                         </div>
@@ -166,7 +166,7 @@
                             <img src="img/clients/32.png" alt="Philips" title="" />
                         </div>
                     </div>
-                    <div class="row last justify-content-center align-items-center">
+                    <div class="row justify-content-center align-items-center">
                         <div class="col-md-3 col-6">
                             <img src="img/clients/8.png" alt="Karbonn" title="" />
                         </div>
@@ -177,10 +177,10 @@
                             <img src="img/clients/36.png" alt="micromax" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/2.png" alt="Flipkart" title="" />
+                            <img src="img/clients/9.png" alt="LG" title="" />
                         </div>
                     </div>
-                    <div class="row last justify-content-center align-items-center">
+                    <div class="row justify-content-center align-items-center">
                         <div class="col-md-3 col-6">
                             <img src="img/clients/37.png" alt="orient electric" title="" />
                         </div>
@@ -194,7 +194,7 @@
                             <img src="img/clients/40.png" alt="johnson and johnson" title="" />
                         </div>
                     </div>
-                    <div class="row last justify-content-center align-items-center">
+                    <div class="row justify-content-center align-items-center">
                         <div class="col-md-3 col-6">
                             <img src="img/clients/41.png" alt="zen" title="" />
                         </div>
@@ -208,7 +208,7 @@
                             <img src="img/clients/44.png" alt="tulsi" title="" />
                         </div>
                     </div>
-                    <div class="row last justify-content-center align-items-center bdrNone">
+                    <div class="row justify-content-center align-items-center">
                         <div class="col-md-3 col-6">
                             <img src="img/clients/45.png" alt="vadilal" title="" />
                         </div>
@@ -222,15 +222,18 @@
                             <img src="img/clients/48.png" alt="sa re ga ma" title="" />
                         </div>
                     </div>
-                    <div class="row last justify-content-center align-items-center bdrNone">
+                    <div class="row  justify-content-center align-items-center bdrNone">
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/49.png" alt="Hero Cycles" height="140" width="130" title="" />
+                            <img src="img/clients/49.png" alt="Hero Cycles" height="138" width="128" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/50.png" alt="Campus" title="" />
+                            <img src="img/clients/50.png" alt="Campus" height="165" width="138" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/51.png" alt="Haier" title="" />
+                            <img src="img/clients/51.png" alt="Haier" height="138" width="180" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/7.png" alt="Reckitt" height="150" width="308" title="" />
                         </div>
                     </div>
                 </div>

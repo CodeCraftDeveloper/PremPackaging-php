@@ -1730,3 +1730,9 @@ input#submit:hover {
   font-weight: 600;
   width: 30%;
 }
+
+/* BRANDS CSS */
+.ajio-brand {
+  height: 140px;
+  width: 130px;
+}
