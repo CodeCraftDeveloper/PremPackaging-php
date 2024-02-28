@@ -29,15 +29,64 @@
       }
       @keyframes scroll-left {
       0% {
-        transform: translateX(100%);
+        transform: translateX(40%);
       }
       100% {
-        transform: translateX(-100%);
+        transform: translateX(-40%);
       }
+    }
+    @media (max-width: 800px) {
+      .scrolling-text-container {
+        display: none;
+      }
+    }
+    .modal {
+        display: none; /* Hidden by default */
+        position: fixed;
+        z-index: 1;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        overflow: auto;
+        background-color: rgba(0, 0, 0, 0.7); /* Black with opacity */
+    }
+
+    /* Modal content */
+    .modal-content {
+        /* margin: 10% auto; */
+        display: block;
+        width: 95%;
+        max-width: 500px;
+    }
+
+    /* CSS for the close button */
+    .close {
+        color: #fff;
+        float: right;
+        font-size: 28px;
+        font-weight: bold;
+    }
+
+    .close:hover,
+    .close:focus {
+        color: #ccc;
+        text-decoration: none;
+        cursor: pointer;
+    }
+    .modal{
+      z-index:999;
     }
     </style>
   </head>
   <body>
+  <div id="myModal" class="modal">
+    <div class="modal-content p-5">
+        <span class="close text-dark">&times;</span>
+        <h3 class="text-center">Announcement</h3>    
+        <img src="img/aahar-invite.jpeg" alt="Image">
+      </div>
+    </div>
     <!-- header start -->
     <?php include 'header.php';?>
       
@@ -54,7 +103,9 @@
     ">
         Our website is under development. Sorry for the inconvenience!
     </marquee> -->
-    <div class="p-2 pb-0 mb-0 text-white scrolling-text-container" style="background-color: #E92227"><p class="mb-0 scrolling-text"  style="font-size: 17px">We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!</p></div>
+    <div class="p-2 pb-0 mb-0 text-white scrolling-text-container" style="background-color: #E92227">
+      <p class="mb-0 scrolling-text" style="font-size: 17px; white-space: nowrap;">We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!</p>
+    </div>
     <div id="site-banner" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active">
@@ -462,6 +513,26 @@
         }
       }
     });
+    var modal = document.getElementById("myModal");
 
+// Get the <span> element that closes the modal
+  var span = document.getElementsByClassName("close")[0];
+
+// When the page is loaded, display the modal
+  window.onload = function() {
+    modal.style.display = "block";
+  }
+
+// When the user clicks on <span> (x), close the modal
+  span.onclick = function() {
+    modal.style.display = "none";
+  }
+
+// When the user clicks anywhere outside of the modal, close it
+  window.onclick = function(event) {
+    if (event.target == modal) {
+        modal.style.display = "none";
+    }
+  }
     
   </script>
