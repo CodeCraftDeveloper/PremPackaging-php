@@ -19,6 +19,23 @@
     <!-- Custom styles for this site -->
     <link href="css/main.css" rel="stylesheet">
     <link href="css/media.css" rel="stylesheet">
+    <style>
+      .scrolling-text-container {
+        width: 100%;
+        overflow: hidden;
+      }
+      .scrolling-text {
+        animation: scroll-left 20s linear infinite; /* Adjust duration as needed */
+      }
+      @keyframes scroll-left {
+      0% {
+        transform: translateX(100%);
+      }
+      100% {
+        transform: translateX(-100%);
+      }
+    }
+    </style>
   </head>
   <body>
     <!-- header start -->
@@ -37,6 +54,7 @@
     ">
         Our website is under development. Sorry for the inconvenience!
     </marquee> -->
+    <div class="p-2 pb-0 mb-0 text-white scrolling-text-container" style="background-color: #E92227"><p class="mb-0 scrolling-text">We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, Pragati Maidan, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!</p></div>
     <div id="site-banner" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active">
@@ -203,7 +221,7 @@
         </div>
         <div class="col-md-1"></div>
         <div class="col-md-5">
-        <img src="img/aahar-invite.jpeg" class="mt-2" width="500" height="300" alt="Invitation_Image" title="" />
+        <img src="img/aahar-invite.jpeg" class="mt-2" width="375" height="300" alt="Invitation_Image" title="" />
         </div>
       </div>
     </div>
