@@ -54,7 +54,7 @@
     ">
         Our website is under development. Sorry for the inconvenience!
     </marquee> -->
-    <div class="p-2 pb-0 mb-0 text-white scrolling-text-container" style="background-color: #E92227"><p class="mb-0 scrolling-text">We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, Pragati Maidan, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!</p></div>
+    <div class="p-2 pb-0 mb-0 text-white scrolling-text-container" style="background-color: #E92227"><p class="mb-0 scrolling-text"  style="font-size: 17px">We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!</p></div>
     <div id="site-banner" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active">
