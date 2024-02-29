@@ -87,7 +87,7 @@
                             <img src="img/clients/34.png" alt="Polycab" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/10.png" alt="Hindware" title="" />
+                            <img src="img/clients/51.png" alt="Haier" height="108" width="70" title="" />
                         </div>
                         <div class="col-md-3 col-6">
                             <img src="img/clients/11.png" alt="ITC" title="" />
@@ -104,7 +104,7 @@
                             <img src="img/clients/14.png" alt="Panasonic" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/15.png" alt="SnapDeal" title="" />
+                            <img src="img/clients/10.png" alt="Hindware" title="" />
                         </div>
                         <div class="col-md-3 col-6">
                             <img src="img/clients/16.png" alt="Airtel" title="" />
@@ -224,13 +224,13 @@
                     </div>
                     <div class="row  justify-content-center align-items-center bdrNone">
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/49.png" alt="Hero Cycles" height="138" width="128" title="" />
+                            <img src="img/clients/49.png" alt="Hero Cycles" height="138" width="105" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/50.png" alt="Campus" height="165" width="138" title="" />
+                            <img src="img/clients/50.png" alt="Campus" height="165" width="115" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/51.png" alt="Haier" height="138" width="180" title="" />
+                            <img src="img/clients/15.png" alt="SnapDeal" title="" />
                         </div>
                         <div class="col-md-3 col-6">
                             <img src="img/clients/7.png" alt="Reckitt" height="150" width="308" title="" />
