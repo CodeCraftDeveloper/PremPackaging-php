@@ -56,7 +56,7 @@
     .modal-content {
         /* margin: 10% auto; */
         display: block;
-        width: 95%;
+        width: 100%;
         max-width: 500px;
     }
 
@@ -81,7 +81,7 @@
   </head>
   <body>
   <div id="myModal" class="modal">
-    <div class="modal-content p-5">
+    <div class="modal-content">
         <span class="close text-dark">&times;</span>
         <h3 class="text-center">Announcement</h3>    
         <img src="img/aahar-invite.jpeg" alt="Image">
@@ -227,7 +227,7 @@
                 <a href="#"><i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
               </div>
               <div class="Heading">
-                <h2>47</h2>
+                <h2>48</h2>
                 <p>Years of Excellence</p>
               </div>
               <h3>A team of experts with common beliefs</h3>
