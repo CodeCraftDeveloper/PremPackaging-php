@@ -83,8 +83,7 @@
   <div id="myModal" class="modal">
     <div class="modal-content">
         <span class="close text-dark">&times;</span>
-        <h3 class="text-center">Announcement</h3>    
-        <img src="img/aahar-invite.jpeg" alt="Image">
+          <img src="img/aahar-invite.jpeg" alt="Image">
       </div>
     </div>
     <!-- header start -->
