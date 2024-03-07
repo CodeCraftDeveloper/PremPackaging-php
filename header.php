@@ -64,6 +64,7 @@
 				  <a class="dropdown-item" href="careers.php">Careers</a>
 				  <a class="dropdown-item" href="quality-control.php">Quality Control</a>
 				  <a class="dropdown-item" href="research-development.php">Research & Development</a>
+				  <a class="dropdown-item" href="./brochure/Prem Packaging.pdf" download="Prem Packaging.pdf" target="_blank" rel="noreferrer">Download Brochure</a>
                   
 				  
                   <!-- <a class="dropdown-item" href="mission-vision.php">Mission & Vision</a> -->
