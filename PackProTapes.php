@@ -64,7 +64,7 @@
             <a class="gallery-col" href="img/Tapes/Ajio.png" data-fancybox="images">
               <div class="gallery-box">
                 <img src="img/Tapes/Ajio.png" alt="">
-                <h4>Ajio Tapes</h4>
+                <h4>Ajio Tape</h4>
               </div>
             </a>
           </div>
@@ -125,10 +125,10 @@
             </a>
           </div>
           <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/Tapes/Lables.png" data-fancybox="images">
+            <a class="gallery-col" href="img/Tapes/Labels.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/Tapes/Lables.png" alt="">
-                <h4>Lables</h4>
+                <img src="img/Tapes/Labels.png" alt="">
+                <h4>Labels</h4>
               </div>
             </a>
           </div>
