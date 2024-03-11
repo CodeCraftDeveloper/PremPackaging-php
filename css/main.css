@@ -1598,6 +1598,12 @@ footer ul li a:hover {
   background-size: cover;
   background-position: center;
 }
+.pack-pro-banner {
+  background: #eee url(../img/Pack-Pro-Banner.jpg);
+  height: 350px;
+  background-size: cover;
+  background-position: center;
+}
 .Laminates-in-RollForm {
   background: #eee url(../img/Laminates-in-RollForm.jpg);
   height: 350px;
