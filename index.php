@@ -271,6 +271,16 @@
                 <h3>Paper Tape</h3>
               </div>
             </div>
+            <div class="product-wrap">
+              <div class="overflow-hidden">
+                <img src="img/flexpad.jpeg" alt="Flexpad-Image"/>
+              </div>
+            </div>
+            <div class="product-wrap">
+              <div class="overflow-hidden">
+                <img src="img/waterproof-box.jpeg" alt="Waterproof-box-Image" />
+              </div>
+            </div>
           </div>
         </div>
         <div class="col-md-1"></div>

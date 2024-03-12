@@ -1742,3 +1742,21 @@ input#submit:hover {
   height: 140px;
   width: 130px;
 }
+
+.pack-pro-download-btn {
+  padding: 18px 35px;
+  font-size: 16px;
+  color: #fff;
+  display: inline-block;
+  -webkit-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+  font-size: 14px;
+  letter-spacing: 0.5px;
+  background: #132348;
+  text-transform: uppercase;
+  font-weight: 600;
+  border: none;
+}
+a {
+  text-decoration: none;
+}

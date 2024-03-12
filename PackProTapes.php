@@ -46,17 +46,23 @@
             </div>
           </div>
         </div>
-        <div class="row mt-4">
-          <div class="col-md-10 offset-md-1">
+        <div class="row mt-4 d-flex justify-content-center">
+          <!-- <div class="col-md-10 offset-md-1">
             <div class="body-content text-center">
               <p class="wow fadeInUp mt-0 pt-0">Welcome to Packpro Tapes, a premium division of Prem Industries India Limited! Our extensive range of high-quality packaging tapes is designed to meet the diverse packaging needs of various industries. Explore our specialized tapes, including the popular Ajio tapes, ensuring secure and reliable packaging for your products. Trust in the strength and durability of our Amazon Prime tapes, specifically crafted for optimal performance in shipping and storage. <br> We take pride in our commitment to environmental responsibility with our APEO-free tape, providing a sustainable solution without compromising on effectiveness. DS Group tape exemplifies our dedication to meeting industry standards, offering a reliable choice for a wide array of applications. For fashion-forward packaging solutions, discover our H&M tape, combining style and functionality. <br> At Packpro Tapes, we prioritize innovation and excellence to ensure your packaging needs are met with precision. Explore our diverse tape offerings, each catering to specific requirements, and experience the reliability and quality that set us apart in the packaging industry. Elevate your packaging game with Packpro Tapes – your trusted partner in efficient and secure packaging solutions.</p>
             </div>
-          </div>
+          </div> -->
+				  <a class="packpro-brochure-a" href="./brochure/Tape Brochure.pdf" download="Tape Brochure.pdf" target="_blank" rel="noreferrer">
+          <button class="btn btn-outline-danger pack-pro-download-btn"><i class="fa fa-solid fa-arrow-down" aria-hidden="true"></i> Download Brochure</button>
+          </a>
+        </div>
+        <div class="row pt-5 d-flex justify-content-center">
+          <h3 class="pt-5">Product Details Coming Soon...</h3>
         </div>
       </div>
     </section>
 
-    <h1 class="text-center mb-5" style="text-transform: uppercase">Our Products</h1>
+    <!-- <h1 class="text-center mb-5" style="text-transform: uppercase">Our Products</h1>
     <div class="e-commerce-gallery BoxesGallery">
       <div class="container-fluid">
         <div class="row">
@@ -150,7 +156,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
 
     <section class="ContactPrem pt-0 mt-4">
       <div class="container">
