@@ -42,7 +42,7 @@
         <div class="row">
           <div class="col-md-12">
             <div class="text-center mb-4">
-              <h3 class="wow fadeInUp">Tape it Right, Everytime!</h3>
+              <!-- <h3 class="wow fadeInUp">Tape it Right, Everytime!</h3> -->
             </div>
           </div>
         </div>
@@ -57,7 +57,7 @@
           </a>
         </div>
         <div class="row pt-5 d-flex justify-content-center">
-          <h3 class="pt-5">Product Details Coming Soon...</h3>
+          <h3 class="pt-5">Details Coming Soon...</h3>
         </div>
       </div>
     </section>
