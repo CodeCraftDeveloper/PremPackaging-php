@@ -276,7 +276,7 @@
                 <img src="img/flexpad.jpeg" alt="Flexpad-Image"/>
               </div>
               <div class="arrivals-content-block">
-                <h3 class="text-center">Flexpand</h3>
+                <h3 class="text-center">Flexpand™</h3>
               </div>
             </div>
             <div class="product-wrap">
@@ -284,7 +284,7 @@
                 <img src="img/waterproof-box.jpeg" alt="Waterproof-box-Image" />
               </div>
               <div class="arrivals-content-block">
-                <h3 class="text-center">Wetbox Tech</h3>
+                <h3 class="text-center">Wetbox Tech™</h3>
               </div>
             </div>
           </div>
