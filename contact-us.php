@@ -68,7 +68,7 @@
     <div class="container">
       <div class="row">
         <div class="col-md-8 offset-md-2">
-            <div class="text-left text-center">
+            <div class="text-center">
                 <h3 class="wow fadeInUp animated mb-0 pb-0">CONTACT US</h3>
                 <p class="mt-3">Have You any Questions! Ask Us!</p>
             </div>

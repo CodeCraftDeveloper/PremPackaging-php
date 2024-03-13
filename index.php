@@ -284,7 +284,7 @@
                 <img src="img/waterproof-box.jpeg" alt="Waterproof-box-Image" />
               </div>
               <div class="arrivals-content-block">
-                <h3 class="text-center">WetBox Tech™</h3>
+                <h3 class="text-center">WetBoxTech™</h3>
               </div>
             </div>
           </div>
