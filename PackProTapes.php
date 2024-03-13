@@ -9,7 +9,7 @@
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
 
-    <title>Pack Pro Tapes</title>
+    <title>PackPro™ Tapes</title>
     <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
     <!-- Bootstrap core css -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -24,13 +24,13 @@
       <div class="container">
         <div class="row">
           <div class="col-md-8">
-            <h1>Pack Pro Tapes</h1>
+            <h1 style="text-transform: none;">PackPro™ Tapes</h1>
           </div>
           <div class="col-md-12">
             <nav aria-label="breadcrumb">
               <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="/"><i class="fa fa-home"></i> Home</a></li>
-                <li class="breadcrumb-item active" aria-current="page">PackProTapes</li>
+                <li class="breadcrumb-item active" aria-current="page" style="text-transform: none;">PackPro™ Tapes</li>
               </ol>
             </nav>
           </div> 
@@ -158,7 +158,7 @@
       </div>
     </div> -->
 
-    <section class="ContactPrem pt-0 mt-4">
+    <!-- <section class="ContactPrem pt-0 mt-4">
       <div class="container">
         <div class="ContactPrem-content">
           <h3>Connect to know us better!</h3>
@@ -166,7 +166,7 @@
           <a href="contact-us.php" class="more-btn mt-4"><i class="fa fa-clone" aria-hidden="true"></i> Contact Us</a>
         </div>
       </div>
-    </section>
+    </section> -->
 
     <?php include 'footer.php';?>
 </body>

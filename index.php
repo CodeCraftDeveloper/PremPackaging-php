@@ -260,7 +260,7 @@
                 <img src="img/arrivals2.jpg" alt="Label Stock" title="" />
               </div>
               <div class="arrivals-content-block">
-                <h3>Label Stock</h3>
+                <h3 class="text-center">Label Stock</h3>
               </div>
             </div>
             <div class="product-wrap">
@@ -268,17 +268,23 @@
                 <img src="img/paper-tape-home.jpg" alt="Paper Tape" title="" />
               </div>
               <div class="arrivals-content-block">
-                <h3>Paper Tape</h3>
+                <h3 class="text-center">Paper Tape</h3>
               </div>
             </div>
             <div class="product-wrap">
               <div class="overflow-hidden">
                 <img src="img/flexpad.jpeg" alt="Flexpad-Image"/>
               </div>
+              <div class="arrivals-content-block">
+                <h3 class="text-center">Flexpad</h3>
+              </div>
             </div>
             <div class="product-wrap">
               <div class="overflow-hidden">
                 <img src="img/waterproof-box.jpeg" alt="Waterproof-box-Image" />
+              </div>
+              <div class="arrivals-content-block">
+                <h3 class="text-center">Waterproof Box</h3>
               </div>
             </div>
           </div>
