@@ -23,73 +23,9 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
     />
-    <style>
-      .scrolling-text-container {
-        width: 100%;
-        overflow: hidden;
-      }
-      .scrolling-text {
-        animation: scroll-left 1100s linear infinite; /* Adjust duration as needed */
-      }
-      @keyframes scroll-left {
-      0% {
-        transform: translateX(100%);
-      }
-      100% {
-        transform: translateX(-4850%);
-      }
-    }
-    @media (max-width: 800px) {
-      .scrolling-text-container {
-        display: none;
-      }
-    }
-    .modal {
-        display: none; /* Hidden by default */
-        position: fixed;
-        z-index: 1;
-        left: 0;
-        top: 0;
-        width: 100%;
-        height: 100%;
-        overflow: auto;
-        background-color: rgba(0, 0, 0, 0.7); /* Black with opacity */
-    }
-
-    /* Modal content */
-    .modal-content {
-        /* margin: 10% auto; */
-        display: block;
-        width: 100%;
-        max-width: 500px;
-    }
-
-    /* CSS for the close button */
-    .close {
-        color: #fff;
-        float: right;
-        font-size: 28px;
-        font-weight: bold;
-    }
-
-    .close:hover,
-    .close:focus {
-        color: #ccc;
-        text-decoration: none;
-        cursor: pointer;
-    }
-    .modal{
-      z-index:999;
-    }
-  </style>
   </head>
   <body>
-  <div id="myModal" class="modal">
-    <div class="modal-content">
-        <span class="close text-dark">&times;</span>
-          <img src="img/aahar-invite.jpeg" alt="Image">
-      </div>
-    </div>
+  <div>
     <!-- header start -->
     <?php include 'header.php';?>
       
@@ -106,9 +42,6 @@
     ">
         Our website is under development. Sorry for the inconvenience!
     </marquee> -->
-    <div class="p-2 pb-0 mb-0 text-white scrolling-text-container infinite-scroll-banner" style="background-color: #E92227">
-      <p class="mb-0 scrolling-text" style="font-size: 17px; white-space: nowrap;">We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!  We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!  <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>   We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there! <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>  We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!    <span class="pl-3 pr-3"><i class="fa-solid fa-bullhorn"></i></span>    We are exhibiting in the 38th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>5F05A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!</p>
-    </div>
     <div id="site-banner" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active">
@@ -245,16 +178,14 @@
   <section class="body__content padding second border-bottom">
     <div class="container">
       <div class="row">
-        <div class="col-md-2"></div>
-        <div class="col-md-8">
+        <div class="col-md-4 mt-5">
         <div class="text-center">
             <h2 class="wow fadeInUp" style="font-size: 46px;">What's New at Prem?</h2>
             <p class="wow fadeInUp mt-4">We keep our innovation game always on! See our latest arrivals, soon-to-be-launched products, technology, and more here.</p>
           </div>
         </div>
-        <div class="col-md-2"></div>
-        <div class="col-md-6">
-          <div class="new-arrivals__slider owl-carousel owl-theme mt-5 pt-5">
+        <div class="col-md-7 offset-md-1">
+          <div class="new-arrivals__slider owl-carousel owl-theme">
             <div class="product-wrap">
               <div class="overflow-hidden">
                 <img src="img/arrivals2.jpg" alt="Label Stock" title="" />
@@ -288,10 +219,6 @@
               </div>
             </div>
           </div>
-        </div>
-        <div class="col-md-1"></div>
-        <div class="col-md-5">
-        <img src="img/aahar-invite.jpeg" class="mt-2" width="375" height="300" alt="Invitation_Image" title="" />
         </div>
       </div>
     </div>
