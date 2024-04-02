@@ -52,10 +52,10 @@
               <p class="wow fadeInUp mt-0 pt-0">Welcome to Packpro Tapes, a premium division of Prem Industries India Limited! Our extensive range of high-quality packaging tapes is designed to meet the diverse packaging needs of various industries. Explore our specialized tapes, including the popular Ajio tapes, ensuring secure and reliable packaging for your products. Trust in the strength and durability of our Amazon Prime tapes, specifically crafted for optimal performance in shipping and storage. <br> We take pride in our commitment to environmental responsibility with our APEO-free tape, providing a sustainable solution without compromising on effectiveness. DS Group tape exemplifies our dedication to meeting industry standards, offering a reliable choice for a wide array of applications. For fashion-forward packaging solutions, discover our H&M tape, combining style and functionality. <br> At Packpro Tapes, we prioritize innovation and excellence to ensure your packaging needs are met with precision. Explore our diverse tape offerings, each catering to specific requirements, and experience the reliability and quality that set us apart in the packaging industry. Elevate your packaging game with Packpro Tapes – your trusted partner in efficient and secure packaging solutions.</p>
             </div>
           </div> -->
-          <div class="card mb-3" style="max-width: 540px; border:none;">
-            <div class="row g-0">
+          <div class="card mb-3" style="max-width: 490px; border:none;">
+            <div class="row">
               <div class="col-md-5">
-                <img src="./brochure/tape-brochure-img.jpg" class="img-fluid rounded-start" alt="...">
+                <img src="./brochure/tape-brochure-img.jpg" class="rounded-start" alt="...">
               </div>
               <div class="col-md-7">
                 <div class="card-body mt-4">
