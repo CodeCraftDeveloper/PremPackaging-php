@@ -20,17 +20,17 @@
 </head>
 <body>
     <?php include 'header.php';?>
-    <div class="page-hero pageheade" style="background: #eee url(../img/Pack-Pro-Banner.jpg); height: 350px; background-size: cover; background-position: center;">
+    <div class="page-hero pageheade" style="background: #eee url(./img/pack-pro-banner.jpg); height: 350px; background-size: cover; background-position: center;">
       <div class="container">
         <div class="row">
           <div class="col-md-8">
-            <h1 style="text-transform: none;">PackPro™ Tapes</h1>
+            <h1>PackPro<sup>™</sup> Tapes</h1>
           </div>
           <div class="col-md-12">
             <nav aria-label="breadcrumb">
               <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="/"><i class="fa fa-home"></i> Home</a></li>
-                <li class="breadcrumb-item active" aria-current="page" style="text-transform: none;">PackPro™ Tapes</li>
+                <li class="breadcrumb-item active" aria-current="page">PackPro™ Tapes</li>
               </ol>
             </nav>
           </div> 
