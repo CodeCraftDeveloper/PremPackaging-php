@@ -20,7 +20,7 @@
 </head>
 <body>
     <?php include 'header.php';?>
-    <div class="page-hero pageheade" style="background: #eee url(./img/PackPro-Banner.jpg); height: 350px; background-size: cover; background-position: center;">
+    <div class="page-hero pageheade" style="background: #eee url(./img/packpro-bg.jpg); height: 350px; background-size: cover; background-position: center;">
       <div class="container">
         <div class="row">
           <div class="col-md-8">
