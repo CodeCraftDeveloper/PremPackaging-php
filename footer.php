@@ -131,7 +131,7 @@ Pin code: 201009
             <li><a href="https://in.linkedin.com/company/prem-packaging" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
 			<li><a href="https://www.instagram.com/prem_packaging/" target="_blank"><i class="fab fa-instagram "></i></a></li>
 			<li><a href="https://www.youtube.com/@premindustries9251/videos" target="_blank"><i class="fab fa-youtube"></i></a></li>
-			<li><a href="https://whatsapp.com/channel/0029Va9f6nk4SpkOkMUjHu2J" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
+			<li><a href="https://api.whatsapp.com/send?phone=+918447247227&text=`Hi`" target="_blank"><i class="fab fa-whatsapp"></i></a></li>
 			
 			
 			

@@ -87,7 +87,7 @@
         <ul class="prem-right-menu">
           <li class="call-header-button">
             <div class="sub-header-button">
-              <div class="header-info p-1 m-0">
+              <div class="header-info">
                 <span>Talk to an expert</span>
                 <!-- <a href="tel:120-286-7136"><p>120-286-7136</p></a>-->
                 <a href="tel:+91 84472 47227"><p>+91 84472 47227</p></a>
