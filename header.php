@@ -80,7 +80,7 @@
      
      <li class="nav-item"><a class="nav-link" href="https://store.prempackaging.com/"><div style="display:flex ; flex-direction:row">
       <div> Shop</div>
-      <div><i class="fa fa-shopping-cart"></i></div>
+      <!-- <div><i class="fa fa-shopping-cart"></i></div> -->
      </div></a></li> 
 		  
         </ul>

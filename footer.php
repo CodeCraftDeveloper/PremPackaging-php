@@ -101,7 +101,7 @@
             <li><a href="careers.php">Careers</a></li>
 			<li><a href="quality-control.php">Quality Control</a></li>
 			<li><a href="research-development.php">Research & Development</a></li>
-      <li><a href="https://store.prempackaging.com">Online Store</a></li>
+      <li><a href="https://store.prempackaging.com">Shop</a></li>
           </ul>
         </div>
         <div class="col-lg-3 col-md-6 harry">
