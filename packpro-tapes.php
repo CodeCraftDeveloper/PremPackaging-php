@@ -39,28 +39,21 @@
     </div>
     <section class="body__content padding page-body-content">
       <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="text-center mb-4">
-              <!-- <h3 class="wow fadeInUp">Tape it Right, Everytime!</h3> -->
-            </div>
-          </div>
-        </div>
         <div class="row mt-4 d-flex justify-content-center">
           <!-- <div class="col-md-10 offset-md-1">
             <div class="body-content text-center">
               <p class="wow fadeInUp mt-0 pt-0">Welcome to Packpro Tapes, a premium division of Prem Industries India Limited! Our extensive range of high-quality packaging tapes is designed to meet the diverse packaging needs of various industries. Explore our specialized tapes, including the popular Ajio tapes, ensuring secure and reliable packaging for your products. Trust in the strength and durability of our Amazon Prime tapes, specifically crafted for optimal performance in shipping and storage. <br> We take pride in our commitment to environmental responsibility with our APEO-free tape, providing a sustainable solution without compromising on effectiveness. DS Group tape exemplifies our dedication to meeting industry standards, offering a reliable choice for a wide array of applications. For fashion-forward packaging solutions, discover our H&M tape, combining style and functionality. <br> At Packpro Tapes, we prioritize innovation and excellence to ensure your packaging needs are met with precision. Explore our diverse tape offerings, each catering to specific requirements, and experience the reliability and quality that set us apart in the packaging industry. Elevate your packaging game with Packpro Tapes – your trusted partner in efficient and secure packaging solutions.</p>
             </div>
           </div> -->
-          <div class="card mb-3" style="max-width: 490px; border:none;">
-            <div class="row">
-              <div class="col-md-5">
-                <img src="./brochure/tape-brochure-img.jpg" class="rounded-start" alt="...">
+          <div class="card mb-3" style=" border:none;">
+            <div class="row p-0 m-0">
+              <div class="col-md-4 p-0 m-0">
+                <img src="./brochure/tape-brochure-img.png" class="rounded-start" alt="...">
               </div>
-              <div class="col-md-7">
-                <div class="card-body mt-4">
-                  <h3 class="card-title">Tape Brochure</h3>
-                  <a class="packpro-brochure-a" href="./brochure/Tape Brochure.pdf" download="Tape Brochure.pdf" target="_blank" rel="noreferrer">
+              <div class="col-md-8">
+                <div class="card-body mt-5 pt-5 justify-content-center">
+                  <h3 class="card-title text-center">Tape Brochure</h3>
+                  <a class="packpro-brochure-a text-center d-flex justify-content-center" href="./brochure/Tape Brochure.pdf" download="Tape Brochure.pdf" target="_blank" rel="noreferrer">
                     <button class="btn btn-outline-danger pack-pro-download-btn">Download</button>
                   </a>
                 </div>
@@ -70,7 +63,7 @@
 
         </div>
         <div class="row pt-5 d-flex justify-content-center">
-          <h3 class="pt-5" style="text-transform: none;">Details Coming Soon...</h3>
+          <h3 class="pt-5 text-center" style="text-transform: none;">Details Coming Soon...</h3>
         </div>
       </div>
     </section>
