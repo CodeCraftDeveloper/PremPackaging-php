@@ -90,7 +90,7 @@
               <div class="header-info">
                 <span>Talk to an expert</span>
                 <!-- <a href="tel:120-286-7136"><p>120-286-7136</p></a>-->
-                <a href="tel:+91 84472 47227"><p>+91 84472 47227</p></a>
+                <a href="tel:+91 84472 47227"><p>+918447247227</p></a>
 
               </div>
               <div class="icon-box"><a href="tel:+91 84472 47227"><i class="fas fa-phone text-white"></i></a></div>
