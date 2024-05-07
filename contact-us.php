@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Prem Packaging">
-<meta property="og:title" content="Prem Packaging">
+<meta name="description" content="Get in touch with Prem Industries India Limited for quality packaging solutions. Reach out for inquiries, quotes, or assistance. Contact us now for tailored packaging solutions!">
+<meta property="og:title" content="Contact Prem Industries India Limited for Packaging Solutions">
 <title>CONTACT US</title>
 <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
 <!-- Bootstrap core css -->

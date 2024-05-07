@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Prem Packaging">
-    <meta property="og:title" content="Prem Packaging">
+    <meta name="description" content="Experience groundbreaking packaging innovation at Prem Industries India Limited. Discover innovative solutions tailored to your needs. Partner with us for a packaging revolution!">
+    <meta property="og:title" content="Innovation in every packaging product at Prem Industries India limited ">
     <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
