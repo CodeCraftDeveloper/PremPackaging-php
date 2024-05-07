@@ -3,13 +3,13 @@
 <head>
 <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Pack Pro Tapes">
-    <meta property="og:title" content="Pack Pro Tapes">
+    <meta name="description" content="Discover PackPro™ Tapes for superior packaging solutions. High-quality adhesive tapes for all your packaging needs. Elevate your packaging game with Prem Industries India Limited. Order now!">
+    <meta property="og:title" content="Get the best PackPro™ Tapes | Prem Industries India Limited">
     <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
 
-    <title>PackPro™ Tapes</title>
+    <title>Get the best PackPro™ Tapes</title>
     <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
     <!-- Bootstrap core css -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
