@@ -82,12 +82,6 @@
         <div class="row">
           <div class="col-md-4">
             <div class="gallery-box">
-              <img src="img/ecom-g/Custom-Corrugated-Boxes.jpg" alt="">
-              <h4>Custom Corrugated Boxes</h4>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="gallery-box">
               <img src="img/ecom-g/Gift-Boxes.jpg" alt="">
               <h4>Gift Boxes</h4>
             </div>
@@ -100,8 +94,8 @@
           </div>
           <div class="col-md-4">
             <div class="gallery-box">
-              <img src="img/ecom-g/Paper-Tapes.jpg" alt="">
-              <h4>Paper Tapes</h4>
+              <img src="img/ecom-g/Custom-Corrugated-Boxes.jpg" alt="">
+              <h4>Custom Corrugated Boxes</h4>
             </div>
           </div>
           <div class="col-md-4">
@@ -114,6 +108,12 @@
             <div class="gallery-box">
               <img src="img/ecom-g/Paper-Mailer-Bags.jpg" alt="">
               <h4>Paper Mailer Bags</h4>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="gallery-box">
+              <img src="img/ecom-g/Paper-Tapes.jpg" alt="">
+              <h4>Paper Tapes</h4>
             </div>
           </div>
           <div class="col-md-4">
