@@ -97,49 +97,49 @@
             <div class="product-wrap">
               <div class="Years-of-excellence-content">
                 <h3>1977</h3>
-                <p>Installation of first foot operated corrugation machine and we landed our first client Dabur India in 1978 - A long relationship we still carry.</p>
+                <p style="font-size: 14px;">Installation of first foot operated corrugation machine and we landed our first client Dabur India in 1978 - A long relationship we still carry.</p>
               </div>
             </div>
             <div class="product-wrap">
               <div class="Years-of-excellence-content">
                 <h3>2005</h3>
-                <p>This was the year, installation of offset printing machine/Offset printing setup took place</p>
+                <p style="font-size: 14px;">This was the year, installation of offset printing machine/Offset printing setup took place</p>
               </div>
             </div>
             <div class="product-wrap">
               <div class="Years-of-excellence-content">
                 <h3>2006</h3>
-                <p>Prem began its Automated Corrugation Line that shaped the growth trajectory of the company</p>
+                <p style="font-size: 14px;">Prem began its Automated Corrugation Line that shaped the growth trajectory of the company</p>
               </div>
             </div>
             <div class="product-wrap">
               <div class="Years-of-excellence-content">
                 <h3>2012</h3>
-                <p>2006 to 2012 was our phase of expansion, exploring technologies & advancements for the company.</p>
+                <p style="font-size: 14px;">2006 to 2012 was our phase of expansion, exploring technologies & advancements for the company.</p>
               </div>
             </div>
             <div class="product-wrap">
               <div class="Years-of-excellence-content">
                 <h3>2013</h3>
-                <p>New manufacturing facility launched, covering 2 lac sq. ft with state of the art corrugated box setup with machines from industry leading innovators.</p>
+                <p style="font-size: 14px;">New manufacturing facility launched, covering 2 lac sq. ft with state of the art corrugated box setup with machines from industry leading innovators.</p>
               </div>
             </div>
             <div class="product-wrap">
               <div class="Years-of-excellence-content">
                 <h3>2017</h3>
-                <p>Introduction of rigid box manufacturing segment took place in this year. It was a revolutionary move that added value to our growth & production capacity</p>
+                <p style="font-size: 14px;">Introduction of rigid box manufacturing segment took place in this year. It was a revolutionary move that added value to our growth & production capacity</p>
               </div>
             </div>
             <div class="product-wrap">
               <div class="Years-of-excellence-content">
                 <h3>2019</h3>
-                <p>Prem started producing tailor-made flexible packaging solutions with innovative approach and advanced machinery</p>
+                <p style="font-size: 14px;">Prem started producing tailor-made flexible packaging solutions with innovative approach and advanced machinery</p>
               </div>
             </div>
             <div class="product-wrap">
               <div class="Years-of-excellence-content">
                 <h3>2022</h3>
-                <p>In April we became a Limited Company (tagline). Also, in June our paper coating division started. </p>
+                <p style="font-size: 14px;">In April we became a Limited Company (tagline). Also, in June our paper coating division started. </p>
               </div>
             </div>
             <!-- <div class="product-wrap">
@@ -229,7 +229,7 @@
       <div class="row">
         <div class="col-md-12">
           <div class="text-center">
-            <h2 class="wow fadeInUp">PACKAGING SOLUTIONS</h2>
+            <h2 class="wow fadeInUp" style="font-size: 42px;">PACKAGING SOLUTIONS</h2>
           </div>
         </div>
       </div>
@@ -307,8 +307,8 @@
     <div class="row">
       <div class="col-lg-8 offset-lg-2">
         <div class="Sustainability_ConentP text-center">
-            <h2 class="wow fadeInUp">Manufacturing with Technology</h2>
-            <p class="wow fadeInUp paddingLR">We solve the biggest packaging challenges of our customers with an innovative approach and leading technology. We have a team under R & D who deals with premium quality materials, packaging designs & technical aspects. Our team manages machinery and automation with a digital approach to ensure the best output.</p>
+            <h2 class="wow fadeInUp" style="font-size: 42px;">Manufacturing with Technology</h2>
+            <p class="wow fadeInUp paddingLR" style="font-size: 16px;">We solve the biggest packaging challenges of our customers with an innovative approach and leading technology. We have a team under R & D who deals with premium quality materials, packaging designs & technical aspects. Our team manages machinery and automation with a digital approach to ensure the best output.</p>
         </div>
       </div>
     </div>
@@ -324,10 +324,10 @@
       <div class="row">
         <div class="col-md-8 offset-md-2 text-center">
           <div class="position-relative" style="z-index: 1;">
-            <h2 class="wow fadeInUp">We are keeping it 'Green'</h2>
-            <p class="wow fadeInUp">Our vision to be the best packaging solution provider in the world, it drives everything we do. We’re innovating to help our customers reach their sustainability goals and win in the market. We’re setting science-based goals to reduce greenhouse gas emissions. Stewarding natural resources & using material that can be recycled, reused or decomposed. We are working towards 100% safety & becoming an employer of choice.  </p>
-            <p class="wow fadeInUp">Through these and many other efforts, we aim to help our business, our customers, our team members, our investors and our communities realize the promise of a sustainable future. </p>
-            <p>We are crafting paper packaging and recycling the plastic. With our team recycled over 2000 tonnes of plastic in the last three years, averaging 50 tonnes per month.</p>
+            <h2 class="wow fadeInUp" style="font-size: 42px;">We are keeping it 'Green'</h2>
+            <p class="wow fadeInUp" style="font-size: 16px;">Our vision to be the best packaging solution provider in the world, it drives everything we do. We’re innovating to help our customers reach their sustainability goals and win in the market. We’re setting science-based goals to reduce greenhouse gas emissions. Stewarding natural resources & using material that can be recycled, reused or decomposed. We are working towards 100% safety & becoming an employer of choice.  </p>
+            <p class="wow fadeInUp" style="font-size: 16px;">Through these and many other efforts, we aim to help our business, our customers, our team members, our investors and our communities realize the promise of a sustainable future. </p>
+            <p style="font-size: 16px;">We are crafting paper packaging and recycling the plastic. With our team recycled over 2000 tonnes of plastic in the last three years, averaging 50 tonnes per month.</p>
           </div>
           <div class="Sustainability_move">
             <img src="img/SustainabilityMove.png" alt="vision" />
@@ -354,7 +354,7 @@
         </div>
         <div class="col-lg-6 offset-lg-1">
           <div class="Cliets_Logo">
-            <p>We began our packaging journey with Dabur in 1977 and since then there is no looking back. We have been a flourishing enterprise ever since.</p>
+            <p style="font-size: 16px;">We began our packaging journey with Dabur in 1977 and since then there is no looking back. We have been a flourishing enterprise ever since.</p>
             <div class="Logos_Row clearfix">
               <div class="Logo_IMG">
                 <img src="img/logo/1.png" alt="amazon" title="" />
