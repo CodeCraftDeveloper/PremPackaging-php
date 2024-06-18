@@ -63,49 +63,49 @@
       </div>
       <div class="row margin__top pt-3">
         <div class="col-lg-3 col-md-6">
-          <h5>Packaging Solutions</h5>
+          <h5 style="font-size: 18px">Packaging Solutions</h5>
           <ul>
-            <li><a href="E-commerce-packaging.php">E-Commerce Packaging</a></li>
-            <li><a href="E-com-paper-bags.php">E-com Paper Bags </a></li>
-            <li><a href="food-packaging.php">Food Packaging</a></li>
-            <li><a href="luxury-packaging.php">Luxury Packaging</a></li>
-            <li><a href="commercial-printing.php">Commercial Printing</a></li>
-            <li><a href="electronics-packaging.php">Electronics Packaging</a></li>
-            <li><a href="beauty-personal-care.php">Beauty & Personal Care</a></li>
-            <li><a href="fmcg-packaging.php">FMCG Packaging</a></li>
+            <li><a href="E-commerce-packaging.php" style="font-size: 16px">E-Commerce Packaging</a></li>
+            <li><a href="E-com-paper-bags.php" style="font-size: 16px">E-com Paper Bags </a></li>
+            <li><a href="food-packaging.php" style="font-size: 16px">Food Packaging</a></li>
+            <li><a href="luxury-packaging.php" style="font-size: 16px">Luxury Packaging</a></li>
+            <li><a href="commercial-printing.php" style="font-size: 16px">Commercial Printing</a></li>
+            <li><a href="electronics-packaging.php" style="font-size: 16px">Electronics Packaging</a></li>
+            <li><a href="beauty-personal-care.php" style="font-size: 16px">Beauty & Personal Care</a></li>
+            <li><a href="fmcg-packaging.php" style="font-size: 16px">FMCG Packaging</a></li>
           </ul>
-          <a href="packaging-technology.php"><h5>Packaging Technology</h5></a>
+          <a href="packaging-technology.php"><h5  style="font-size: 18px">Packaging Technology</h5></a>
           <ul>
             <li><a href="#"></a></li>
           </ul>
         </div>
         <div class="col-lg-3 col-md-6">
-          <a href="corrugated-packaging.php"><h5>Corrugated Packaging</h5></a>
+          <a href="corrugated-packaging.php"><h5  style="font-size: 18px">Corrugated Packaging</h5></a>
           <ul>
-            <li><a href="corrugated-containers.php">Corrugated Containers</a></li>
-            <li><a href="displays.php">Displays</a></li>          
+            <li><a href="corrugated-containers.php" style="font-size: 16px">Corrugated Containers</a></li>
+            <li><a href="displays.php" style="font-size: 16px">Displays</a></li>          
           </ul>
-          <a href="sustainability.php"><h5>Sustainability</h5></a>
+          <a href="sustainability.php"><h5 style="font-size: 18px">Sustainability</h5></a>
           <ul>
             <li><a href="#">&nbsp;</a></li>
           </ul>
         </div>
         <div class="col-lg-3 col-md-6">
-          <h5>Company Overview</h5>
+          <h5 style="font-size: 18px">Company Overview</h5>
           <ul>
-            <li><a href="about-us.php">About Us</a></li>
+            <li><a href="about-us.php" style="font-size: 16px">About Us</a></li>
 		<!--	 <li><a href="team.php">Our Team</a></li> -->
-			<li><a href="clients.php">Our Clients</a></li>
+			<li><a href="clients.php"  style="font-size: 16px">Our Clients</a></li>
             
             <!-- <li><a href="mission-vision.php">Mission & Vision</a></li> -->
-            <li><a href="careers.php">Careers</a></li>
-			<li><a href="quality-control.php">Quality Control</a></li>
-			<li><a href="research-development.php">Research & Development</a></li>
-      <li><a href="https://store.prempackaging.com">Shop</a></li>
+            <li><a href="careers.php" style="font-size: 16px">Careers</a></li>
+			<li><a href="quality-control.php" style="font-size: 16px">Quality Control</a></li>
+			<li><a href="research-development.php" style="font-size: 16px">Research & Development</a></li>
+      <li><a href="https://store.prempackaging.com" style="font-size: 16px">Shop</a></li>
           </ul>
         </div>
         <div class="col-lg-3 col-md-6 harry">
-		 <h5>About Company</h5>
+		 <h5 style="font-size: 18px">About Company</h5>
 		<div class="margin__top pt-3 mobile">
 		<a style="color:rgba(255, 255, 255, 0.62); font-size:16px" href="tel:+91 84472 47227">+91 84472 47227</a>
 		</div>
@@ -115,14 +115,14 @@
 		</div>
 		
 		<div>
-		<h6 style="color:rgba(255, 255, 255, 0.62); padding-top:5px"> C- 209, Bulandshahr Road, NH- 34,<br> Near Silver City Mall, Industries Area, Ghaziabad, Uttar Pradesh,<br> 
+		<h6 style="color:rgba(255, 255, 255, 0.62); padding-top:5px; font-size:16px"> C- 209, Bulandshahr Road, NH- 34,<br> Near Silver City Mall, Industries Area, Ghaziabad, Uttar Pradesh,<br> 
 Pin code: 201009
  </h6>
 		</div>
 
 
     <div>
-		<p style="color:rgba(255, 255, 255, 0.62); padding-top:5px"><b style="color:#FFF;"> Working Hours</b><br>9 AM - 6 PM<br>(Monday - Saturday) </p>
+		<p style="color:rgba(255, 255, 255, 0.62); padding-top:5px; font-size:16px"><b style="color:#FFF;"> Working Hours</b><br>9 AM - 6 PM<br>(Monday - Saturday) </p>
 		</div>
 		
 		
