@@ -25,7 +25,7 @@
         <div class="row">
             <div class="col-md-6">
                 <h1>Perfect Protection</h1>
-                <p>Prem Industries was established in 1977. With over four glorious decades of manufacturing excellence behind us. </p>
+                <p>Prem Industries was established in 1976. With over four glorious decades of manufacturing excellence behind us. </p>
             </div>
             <div class="col-md-12">
                 <nav aria-label="breadcrumb">
@@ -87,7 +87,7 @@
                             <img src="img/clients/34.png" alt="Polycab" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/51.png" alt="Haier" height="108" width="70" title="" />
+                            <img src="img/clients/Haier.png" alt="Haier" height="108" width="175" title="" />
                         </div>
                         <div class="col-md-3 col-6">
                             <img src="img/clients/11.png" alt="ITC" title="" />
@@ -222,21 +222,96 @@
                             <img src="img/clients/48.png" alt="sa re ga ma" title="" />
                         </div>
                     </div>
-                    <div class="row  justify-content-center align-items-center bdrNone">
+                    <div class="row  justify-content-center align-items-center">
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/49.png" alt="Hero Cycles" height="138" width="105" title="" />
+                            <img src="img/clients/49.png" alt="Hero Cycles" height="138" width="106" title="" />
                         </div>
                         <div class="col-md-3 col-6">
                             <img src="img/clients/50.png" alt="Campus" height="165" width="115" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/15.png" alt="SnapDeal" title="" />
+                            <img src="img/clients/Krown-Biscuits.jpg" alt="Krown Biscuits" height="208" width="175" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/7.png" alt="Reckitt" height="150" width="308" title="" />
+                            <img src="img/clients/pizza-hut.png" alt="Pizza Hut" height="165" width="104" title="" />
+                        </div>
+                    </div>
+                    <div class="row  justify-content-center align-items-center">
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/Fena.png" alt="Fena" height="38" width="137" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/del-monte.png" alt="Del Monte" height="145" width="108" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/Honda.png" alt="Honda" height="28" width="215" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/Maruti-Suzuki.png" alt="Maruti Suzuki" height="15" width="192" title="" />
+                        </div>
+                    </div>
+                    <div class="row  justify-content-center align-items-center">
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/India-gate.png" alt="India Gate" height="38" width="117" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/catch.png" alt="Catch" height="145" width="160" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/healthkart.png" alt="HealthKart" height="28" width="233" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/godrej.png" alt="Godrej" height="15" width="160" title="" />
+                        </div>
+                    </div>
+                    <div class="row  justify-content-center align-items-center">
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/adidas.png" alt="Adidas" height="38" width="150" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/rajnigandha.png" alt="Rajnigandha" height="145" width="200" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/sri-sri.png" alt="Sri Sri" height="28" width="201" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/grofers.png" alt="Grofers" height="15" width="105" title="" />
+                        </div>
+                    </div>
+                    <div class="row  justify-content-center align-items-center">
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/kent.png" alt="Kent" height="38" width="150" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/lotte-choco-pie.png" alt="Lotte Choco Pie" height="145" width="235" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/muscle-blaze.png" alt="Muscle Blaze" height="28" width="107" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/dabur-homemade-3.jpg" alt="Dabur Homemade" height="105" width="107" title="" />
+                        </div>
+                    </div>
+                    <div class="row  justify-content-center align-items-center">
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/zepto.png" alt="Zepto" height="38" width="107" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/kakaji.png" alt="kakaji" height="145" width="107" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/snapdeal.png" alt="Snapdeal" height="28" width="160" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/reckitt.png" alt="Reckitt" height="105" width="205" title="" />
                         </div>
                     </div>
                 </div>
+            </div>
+        </div>
+        <div class="row mt-5">
+            <div class="col-md-12 text-center">
+                <h3 class="wow fadeInUp animated mb-0 pb-0">AND MANY MORE...</h3>
             </div>
         </div>
     </div>
