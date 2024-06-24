@@ -252,7 +252,7 @@
                     </div>
                     <div class="row  justify-content-center align-items-center">
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/India-gate.png" alt="India Gate" height="38" width="117" title="" />
+                            <img src="img/clients/India-Gate.png" alt="India Gate" height="38" width="117" title="" />
                         </div>
                         <div class="col-md-3 col-6">
                             <img src="img/clients/catch.png" alt="Catch" height="145" width="160" title="" />
@@ -303,7 +303,7 @@
                             <img src="img/clients/snapdeal.png" alt="Snapdeal" height="28" width="160" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/reckitt.png" alt="Reckitt" height="105" width="205" title="" />
+                            <img src="img/clients/reckitt-img.png" alt="Reckitt" height="105" width="205" title="" />
                         </div>
                     </div>
                 </div>
