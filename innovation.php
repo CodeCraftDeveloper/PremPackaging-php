@@ -119,7 +119,7 @@
 <div class="container">
   <div class="row">
     <div class="col-md-12">
-      <h1 class="text-center mb-5" style="font-size: 36px; color: #3A5BA2; font-weight: 600">OUR LATEST INNOVATIONS</h1>
+      <h1 class="text-center mb-5" style="font-size: 36px; color: #3A5BA2; font-weight: 700">OUR LATEST INNOVATIONS</h1>
     </div>
   </div>
 </div>
