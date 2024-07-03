@@ -23,6 +23,42 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
     />
+    <style>
+      iframe {
+            width: 100%;
+            height: 100%;
+        }
+
+        @media (min-width: 900px) {
+            iframe {
+                width: 700px;
+                height: 450px;
+            }
+        }
+
+        @media (min-width: 1200px) {
+            iframe {
+                width: 900px;
+                height: 506px;
+            }
+        }
+        .video-container {
+            position: relative;
+            padding-bottom: 56.25%; /* 16:9 aspect ratio */
+            height: 0;
+            overflow: hidden;
+            max-width: 100%;
+            background: #000;
+        }
+
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+    </style>
   </head>
   <body>
   <div>
@@ -336,7 +372,23 @@
       </div>
     </div>
   </section>
-
+  <section class="mt-5 mb-3">
+    <div class="container mt-5">
+      <div class="row">
+        <div class="col-md-12">
+        <h1 class="text-center" style="font-size: 42px; color: #3A5BA2; font-weight: 700">CORPORATE VIDEO</h1>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-1"></div>
+        <div class="col-md-10 video-container text-center mt-5">
+        <iframe height="500" width="500" src="https://www.youtube.com/embed/sgXaThtSFNY">
+          </iframe>
+        </div>
+        <div class="col-md-1"></div>
+      </div>
+    </div>
+  </section>
   <section class="Prem_Clients">
     <div class="container">
       <div class="row">
