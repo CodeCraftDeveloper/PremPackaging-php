@@ -16,6 +16,8 @@
     <!-- Custom styles for this site -->
     <link href="css/main.css" rel="stylesheet">
     <link href="css/media.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/jquery.fancybox.min.css" />
+
   </head>
   <body>
     <!-- header start -->
@@ -114,6 +116,61 @@
       </div>
     </div>
   </section>
+
+  <div class="e-commerce-gallery BoxesGallery">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-md-4 p-1">
+            <a class="gallery-col" href="img/Corrugated-Boxes/Corrugated1.jpg" data-fancybox="images">
+              <div class="gallery-box">
+                <img src="img/Corrugated-Boxes/Corrugated1.jpg" alt="">
+                <h4>3/5/7 Ply Corrugated Box</h4>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-4 p-1">
+            <a class="gallery-col" href="img/Corrugated-Boxes/Corrugated2.jpg" data-fancybox="images">
+              <div class="gallery-box">
+                <img src="img/Corrugated-Boxes/Corrugated2.jpg" alt="">
+                <h4>Corrugated Bins</h4>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-4 p-1">
+            <a class="gallery-col" href="img/Corrugated-Boxes/Corrugated3.jpg" data-fancybox="images">
+              <div class="gallery-box">
+                <img src="img/Corrugated-Boxes/Corrugated3.jpg" alt="">
+                <h4>Corrugated Pallets</h4>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-4 p-1">
+            <a class="gallery-col" href="img/Corrugated-Boxes/Corrugated4.jpg" data-fancybox="images">
+              <div class="gallery-box">
+                <img src="img/Corrugated-Boxes/Corrugated4.jpg" alt="">
+                <h4> Fruit Trays</h4>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-4 p-1">
+            <a class="gallery-col" href="img/Corrugated-Boxes/Corrugated5.jpg" data-fancybox="images">
+              <div class="gallery-box">
+                <img src="img/Corrugated-Boxes/Corrugated5.jpg" alt="">
+                <h4>PDQ/Displays</h4>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-4 p-1">
+            <a class="gallery-col" href="img/Corrugated-Boxes/Corrugated6.jpg" data-fancybox="images">
+              <div class="gallery-box">
+                <img src="img/Corrugated-Boxes/Corrugated6.jpg" alt="">
+                <h4> Pizza Boxes/ E Fluted </h4>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
 
   <div class="e-commerce-video">
     <video loop="loop" autoplay="" playsinline="" muted="" class="packaging-video">

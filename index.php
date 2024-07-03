@@ -254,6 +254,46 @@
                 <h3 class="text-center">WetBoxTech™</h3>
               </div>
             </div>
+            <div class="product-wrap">
+              <div class="overflow-hidden">
+                <img src="img/labels-with-multi-ups.png" alt="Paper Tape" title="" />
+              </div>
+              <div class="arrivals-content-block">
+                <h3 class="text-center">Labels with Multi-ups</h3>
+              </div>
+            </div>
+            <div class="product-wrap">
+              <div class="overflow-hidden">
+                <img src="img/apeo-free-tape-img.png" alt="Paper Tape" title="" />
+              </div>
+              <div class="arrivals-content-block">
+                <h3 class="text-center">APEO Free Tape</h3>
+              </div>
+            </div>
+            <div class="product-wrap">
+              <div class="overflow-hidden">
+                <img src="img/aluminium-tape-img.png" alt="Paper Tape" title="" />
+              </div>
+              <div class="arrivals-content-block">
+                <h3 class="text-center">Aluminium Tape</h3>
+              </div>
+            </div>
+            <div class="product-wrap">
+              <div class="overflow-hidden">
+                <img src="img/masking-tape-img.png" alt="Paper Tape" title="" />
+              </div>
+              <div class="arrivals-content-block">
+                <h3 class="text-center">Masking Tape</h3>
+              </div>
+            </div>
+            <div class="product-wrap">
+              <div class="overflow-hidden">
+                <img src="img/glass-cloth-tape-img.png" alt="Paper Tape" title="" />
+              </div>
+              <div class="arrivals-content-block">
+                <h3 class="text-center">Glass Cloth Tape</h3>
+              </div>
+            </div>
           </div>
         </div>
       </div>
