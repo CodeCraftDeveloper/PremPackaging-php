@@ -380,12 +380,12 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-md-1"></div>
-        <div class="col-md-10 video-container text-center mt-5">
+        <div class="col-md-2"></div>
+        <div class="col-md-8 video-container text-center mt-5">
         <iframe height="500" width="500" src="https://www.youtube.com/embed/sgXaThtSFNY">
           </iframe>
         </div>
-        <div class="col-md-1"></div>
+        <div class="col-md-2"></div>
       </div>
     </div>
   </section>
