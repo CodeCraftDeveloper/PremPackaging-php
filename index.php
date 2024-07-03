@@ -204,7 +204,7 @@
             </div>
             <div class="product-wrap">
               <div class="overflow-hidden">
-                <img src="img/flexpad.jpeg" alt="Flexpad-Image"/>
+                <img src="img/flexpand-img.png" height="50" width="50" alt="Flexpad-Image"/>
               </div>
               <div class="arrivals-content-block">
                 <h3 class="text-center">Flexpand™</h3>
@@ -212,7 +212,7 @@
             </div>
             <div class="product-wrap">
               <div class="overflow-hidden">
-                <img src="img/waterproof-box.jpeg" alt="Waterproof-box-Image" />
+                <img src="img/wetbox-img.png" alt="Waterproof-box-Image" />
               </div>
               <div class="arrivals-content-block">
                 <h3 class="text-center">WetBoxTech™</h3>

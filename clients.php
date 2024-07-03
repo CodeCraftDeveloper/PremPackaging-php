@@ -303,7 +303,7 @@
                             <img src="img/clients/snapdeal.png" alt="Snapdeal" height="28" width="160" title="" />
                         </div>
                         <div class="col-md-3 col-6">
-                            <img src="img/clients/reckitt-img.png" alt="Reckitt" height="105" width="205" title="" />
+                            <img src="img/clients/Reckitt.png" alt="Reckitt" height="105" width="205" title="" />
                         </div>
                     </div>
                 </div>
