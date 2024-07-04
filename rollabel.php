@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Rollabel">
-    <meta property="og:title" content="Prem Packaging">
+    <meta name="description" content="Explore Rollabel™ labels at Prem Industries India Limited for all your packaging needs. We deal with Chromo and direct thermal labels. Know more.">
+    <meta property="og:title" content="Rollabel Labels - Versatile Labeling for Retail, Pharmacy, Logistics">
     <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
