@@ -10,7 +10,7 @@
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
 
 
-    <title>Prem Industries India Limited | Best Packaging Company in India</title>
+    <title>Prem Industries India Limited : Best Packaging Company in India</title>
     <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
     <!-- Bootstrap core css -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -44,19 +44,22 @@
         }
         .video-container {
             position: relative;
-            padding-bottom: 56.25%; /* 16:9 aspect ratio */
+            padding-bottom: 50%;
             height: 0;
             overflow: hidden;
-            max-width: 100%;
-            background: #000;
+            max-width: 80%;
+            background: white;
         }
 
         .video-container iframe {
             position: absolute;
             top: 0;
             left: 0;
-            width: 100%;
-            height: 100%;
+            width: 80%;
+            height: 80%;
+            display: flex;
+            justify-content: center;
+            align-self: center;
         }
     </style>
   </head>
@@ -248,7 +251,7 @@
             </div>
             <div class="product-wrap">
               <div class="overflow-hidden">
-                <img src="img/wetbox-img.png" alt="Waterproof-box-Image" />
+                <img src="img/wetbox-img.png" alt="WetBoxTech™" />
               </div>
               <div class="arrivals-content-block">
                 <h3 class="text-center">WetBoxTech™</h3>
@@ -256,7 +259,7 @@
             </div>
             <div class="product-wrap">
               <div class="overflow-hidden">
-                <img src="img/labels-with-multi-ups.png" alt="Paper Tape" title="" />
+                <img src="img/labels-with-multi-ups.png" alt="Labels with Multi-ups" title="" />
               </div>
               <div class="arrivals-content-block">
                 <h3 class="text-center">Labels with Multi-ups</h3>
@@ -264,7 +267,7 @@
             </div>
             <div class="product-wrap">
               <div class="overflow-hidden">
-                <img src="img/apeo-free-tape-img.png" alt="Paper Tape" title="" />
+                <img src="img/apeo-free-tape-img.png" alt="APEO Free Tape" title="" />
               </div>
               <div class="arrivals-content-block">
                 <h3 class="text-center">APEO Free Tape</h3>
@@ -272,7 +275,7 @@
             </div>
             <div class="product-wrap">
               <div class="overflow-hidden">
-                <img src="img/aluminium-tape-img.png" alt="Paper Tape" title="" />
+                <img src="img/aluminium-tape-img.png" alt="Aluminium Tape" title="" />
               </div>
               <div class="arrivals-content-block">
                 <h3 class="text-center">Aluminium Tape</h3>
@@ -280,7 +283,7 @@
             </div>
             <div class="product-wrap">
               <div class="overflow-hidden">
-                <img src="img/masking-tape-img.png" alt="Paper Tape" title="" />
+                <img src="img/masking-tape-img.png" alt="Masking Tape" title="" />
               </div>
               <div class="arrivals-content-block">
                 <h3 class="text-center">Masking Tape</h3>
@@ -288,10 +291,18 @@
             </div>
             <div class="product-wrap">
               <div class="overflow-hidden">
-                <img src="img/glass-cloth-tape-img.png" alt="Paper Tape" title="" />
+                <img src="img/glass-cloth-tape-img.png" alt="Glass Cloth Tape" title="" />
               </div>
               <div class="arrivals-content-block">
                 <h3 class="text-center">Glass Cloth Tape</h3>
+              </div>
+            </div>
+            <div class="product-wrap">
+              <div class="overflow-hidden">
+                <img src="img/honeycomb-wrapper-img.png" alt="Honeycomb Wrapper" title="" />
+              </div>
+              <div class="arrivals-content-block">
+                <h3 class="text-center">Honeycomb Wrapper</h3>
               </div>
             </div>
           </div>
@@ -420,12 +431,13 @@
         </div>
       </div>
       <div class="row">
-        <div class="col-md-2"></div>
-        <div class="col-md-8 video-container text-center mt-5">
-        <iframe height="500" width="500" src="https://www.youtube.com/embed/sgXaThtSFNY">
+        <!-- <div class="col-md-3"></div> -->
+         <div class="col-md-1"></div>
+        <div class="col-md-10 text-center mt-5">
+        <iframe src="https://www.youtube.com/embed/sgXaThtSFNY">
           </iframe>
         </div>
-        <div class="col-md-2"></div>
+        <!-- <div class="col-md-1"></div> -->
       </div>
     </div>
   </section>

@@ -41,16 +41,35 @@
           <li class="nav-item dropdown megamenu-li dmenu">
               <a class="nav-link dropdown-toggle" href="" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Products</a>
               <div class="dropdown-menu megamenu sm-menu border-top" aria-labelledby="dropdown01">
+                  <div class="row">
+                      <div class="col-sm-6 col-lg-6 border-right mb-4">
+                          <a class="dropdown-item" href="corrugated-boxes.php">Corrugated Boxes</a>
+                          <a class="dropdown-item" href="offset-printed-cartons-folding-cartons.php">Offset Printed Cartons / <br>Folding Cartons</a>
+                          <a class="dropdown-item" href="flexible-laminates-pouches.php">Flexible Laminates & Pouches</a>
+                          <a class="dropdown-item" href="retort-packaging.php">Retort Packaging</a>
+                          <a class="dropdown-item" href="luxury-rigid-boxes.php">Luxury Rigid Boxes</a>
+                          <a class="dropdown-item" href="paper-mailer-bags.php">Paper Mailer Bags</a>
+                          <a class="dropdown-item" href="2-ply-corrugated-mailer-bags.php">2 Ply Corrugated Mailer Bags</a>
+                      </div>
+                      <div class="col-sm-6 col-lg-6 border-right mb-4">
+                        <a class="dropdown-item" href="packpro-tapes.php">PackPro<sup>™</sup> Tapes</a>
+                        <a class="dropdown-item" href="wetboxtech.php">WetBoxTech<sup>™</sup></a>
+                        <a class="dropdown-item" href="flexpand.php">Flexpand<sup>™</sup></a>
+                        <a class="dropdown-item" href="rollabel.php">Rollabel Label</a>
+                        <a class="dropdown-item" href="honeycomb-wrapper.php">Honeycomb Wrapper</a>
+                      </div>
+                  </div>
+              </div>
+              <!-- <div class="dropdown-menu megamenu sm-menu border-top" aria-labelledby="dropdown01">
                   <a class="dropdown-item" href="corrugated-boxes.php">Corrugated Boxes</a>
                   <a class="dropdown-item" href="offset-printed-cartons-folding-cartons.php">Offset Printed Cartons/ Folding Cartons</a>
-                  <!-- <a class="dropdown-item" href="laminates-in-roll-form.php">Laminates in Roll Form</a> -->
                   <a class="dropdown-item" href="flexible-laminates-pouches.php">Flexible Laminates & Pouches</a>
                   <a class="dropdown-item" href="retort-packaging.php">Retort Packaging</a>
                   <a class="dropdown-item" href="luxury-rigid-boxes.php">Luxury Rigid Boxes</a>
                   <a class="dropdown-item" href="paper-mailer-bags.php">Paper Mailer Bags</a>
                   <a class="dropdown-item" href="2-ply-corrugated-mailer-bags.php">2 Ply Corrugated Mailer Bags</a>
                   <a class="dropdown-item" href="packpro-tapes.php">PackPro<sup>™</sup> Tapes</a>
-              </div>
+              </div> -->
           </li>
           <!--=========-->
           

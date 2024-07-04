@@ -182,6 +182,14 @@
               </div>
             </a>
           </div>
+          <div class="col-md-4 p-1">
+            <a class="gallery-col" href="img/honeycomb-wrapper-img.png" data-fancybox="images">
+              <div class="gallery-box">
+                <img src="img/honeycomb-wrapper-img.png" alt="">
+                <h4>Honeycomb Wrapper</h4>
+              </div>
+            </a>
+          </div>
         </div>
       </div>
     </div>
