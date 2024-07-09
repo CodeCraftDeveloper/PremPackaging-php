@@ -68,9 +68,9 @@
         <div class="row justify-content-center">
           
           <div class="col-md-6">
-            <a class="gallery-col" href="img/ply-corrugated.jpg" data-fancybox="images">
+            <a class="gallery-col" href="img/ply-corrugated2.jpg" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/ply-corrugated.jpg" alt="">
+                <img src="img/ply-corrugated2.jpg" alt="">
                 <h4></h4>
               </div>
             </a>
