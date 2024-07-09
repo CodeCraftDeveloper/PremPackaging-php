@@ -61,13 +61,56 @@
             justify-content: center;
             align-self: center;
         }
+        .modal {
+        display: none; /* Hidden by default */
+        position: fixed;
+        z-index: 1;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        overflow: auto;
+        background-color: rgba(0, 0, 0, 0.7); /* Black with opacity */
+    }
+
+    /* Modal content */
+    .modal-content {
+        /* margin: 10% auto; */
+        display: block;
+        width: 100%;
+        max-width: 450px;
+    }
+
+    /* CSS for the close button */
+    .close {
+        color: #fff;
+        float: right;
+        font-size: 38px;
+        font-weight: bold;
+    }
+
+    .close:hover,
+    .close:focus {
+        color: #ccc;
+        text-decoration: none;
+        cursor: pointer;
+    }
+    .modal{
+      z-index:999;
+    }
     </style>
   </head>
   <body>
   <div>
+  <div id="myModal" class="modal">
+    <div class="modal-content text-center">
+    <span class="close text-dark"><i class="fa-solid fa-square-xmark"></i></span>
+          <img src="img/freeshipimg.jpg" alt="Image">
+          <a href="https://www.store.prempackaging.com/" target="_blank"><button class="btn btn-primary mt-2"><i class="fa-solid fa-cart-shopping"></i> Visit our Store</button></a>
+      </div>
+    </div>
     <!-- header start -->
     <?php include 'header.php';?>
-      
    <!--  <marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();" style="
         position: absolute;
         top: 100px;
