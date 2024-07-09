@@ -522,7 +522,7 @@
                 <img src="img/logo/6.png" alt="myntra" title="" />
               </div>
               <div class="Logo_IMG">
-                <img src="img/logo/7.png" alt="reckitt benckiser" title="" />
+                <img src="img/clients/del-monte.png" alt="Del Monte" width="50" title=""/>
               </div>
               <div class="Logo_IMG">
                 <img src="img/clients/29.png" alt="DS Group" title="" />
