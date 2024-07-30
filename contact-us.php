@@ -12,6 +12,10 @@
 <!-- Custom styles for this site -->
 <link href="css/main.css" rel="stylesheet">
 <link href="css/media.css" rel="stylesheet">
+<link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+    />
 
 <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script> <!-- Include Axios library -->
 
@@ -64,6 +68,7 @@
 <body>
 <!-- header start -->
 <?php include 'header.php';?>
+
 <section class="body__content padding page-body-content">
     <div class="container">
       <div class="row">

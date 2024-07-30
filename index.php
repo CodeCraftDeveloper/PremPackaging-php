@@ -3,14 +3,14 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Prem Industries India Limited - The best packaging company in India, we offer high-quality packaging solutions like corrugated boxes, pouches, rigid boxes, labels, tapes, etc">
+    <meta name="description" content="Prem Industries India Limited is the best packaging company in India, we offer a wide range of corrugated boxes, pouches, rigid boxes, labels, tapes, etc.">
     <meta property="og:title" content="Prem Industries India Limited | Best Packaging Company in India">
     <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
 
 
-    <title>Best Packaging Company in India | Prem Industries India Limited</title>
+    <title>Prem Industries India Limited | Best Packaging Company in India</title>
     <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
     <!-- Bootstrap core css -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -98,6 +98,7 @@
     .modal{
       z-index:999;
     }
+
     </style>
   </head>
   <body>
@@ -111,6 +112,7 @@
     </div>
     <!-- header start -->
     <?php include 'header.php';?>
+    <?php include 'StaticSocialButtons.php';?>
    <!--  <marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();" style="
         position: absolute;
         top: 100px;
@@ -367,8 +369,8 @@
         <div class="col-md-6 order2">
           <div class="design-content">
             <h3 class="wow fadeInUp">Tailor-made Solutions</h3>
-            <p class="wow fadeInUp">We are manufacturers of all kinds of packaging solutions, including corrugated
-              boxes, luxury boxes, flexible laminates, mono cartons, e-com packaging and outer cartons. Our mission as a small start up in 1976 was simple: To tailor a
+            <p class="wow fadeInUp">We are manufacturers of all kinds of packaging solutions, including <a href="https://www.store.prempackaging.com/corrugated-boxes" target="_blank" style="color: #555555">corrugated
+              boxes</a>, luxury boxes, flexible laminates, mono cartons, <a href="https://www.store.prempackaging.com/" target="_blank" style="color: #555555">e-com packaging</a> and outer cartons. Our mission as a small start up in 1976 was simple: To tailor a
               company with the flexibility to fill orders of all sizes and to consistently provide our customers with a
             superior product.</p>
             <a href="corrugated-packaging.php" class="more-btn mt-4"><i class="fa fa-clone" aria-hidden="true"></i> Read More</a>
@@ -437,7 +439,7 @@
     <div class="row">
       <div class="col-lg-8 offset-lg-2">
         <div class="Sustainability_ConentP text-center">
-            <h2 class="wow fadeInUp" style="font-size: 42px;">Manufacturing with Technology</h2>
+            <h2 class="wow fadeInUp" style="font-size: 35px;">Manufacturing with Technology</h2>
             <p class="wow fadeInUp paddingLR" style="font-size: 16px;">We solve the biggest packaging challenges of our customers with an innovative approach and leading technology. We have a team under R & D who deals with premium quality materials, packaging designs & technical aspects. Our team manages machinery and automation with a digital approach to ensure the best output.</p>
         </div>
       </div>
@@ -609,7 +611,7 @@
     var modal = document.getElementById("myModal");
 
 // Get the <span> element that closes the modal
-  var span = document.getElementsByClassName("close")[0];
+  var span = document.getElementsByclass("close")[0];
 
 // When the page is loaded, display the modal
   window.onload = function() {

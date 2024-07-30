@@ -1,3 +1,4 @@
+
 <header>
   <nav class="navbar navbar-expand-lg navbar-light sticky-top">
     <div class="container-fluid p-0">
@@ -114,11 +115,12 @@
                 <a href="tel:+91 84472 47227"><p>+918447247227</p></a>
 
               </div>
-              <div class="icon-box"><a href="tel:+91 84472 47227"><i class="fas fa-phone text-white"></i></a></div>
+              <!-- <div class="icon-box"><a href="https://wa.link/yts00a" target="_blank"><i class="fa-brands fa-whatsapp text-white" style="font-size: 32px;"></i></a></div> -->
             </div>
           </li>
         </ul>
       </div>
     </div>
+    <?php include 'StaticSocialButtons.php';?>
   </nav>
 </header>

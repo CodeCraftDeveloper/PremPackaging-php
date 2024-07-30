@@ -17,10 +17,15 @@
     <!-- Custom styles for this site -->
     <link href="css/main.css" rel="stylesheet">
     <link href="css/media.css" rel="stylesheet">
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+    />
   </head>
   <body>
     <!-- header start -->
     <?php include 'header.php';?>
+
 
     <div class="page-hero Flexible-Laminates-Pouches pageheade">
       <div class="container">
