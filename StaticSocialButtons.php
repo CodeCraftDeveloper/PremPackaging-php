@@ -33,6 +33,13 @@
   transform: translateY(-50%);
   z-index: 999
 }
+.sticky-button-5 {
+  position: fixed;
+  top: 94%;
+  right: 20px;
+  transform: translateY(-50%);
+  z-index: 999
+}
 .mobile-hide{
   display: none
 }
@@ -49,6 +56,25 @@
   .sticky-button-4 {
     display: none
   }
+  .sticky-button-5 {
+    display: none
+  }
+}
+@keyframes wiggle {
+    0% { transform: rotate(0deg); }
+   80% { transform: rotate(0deg); }
+   85% { transform: rotate(5deg); }
+   95% { transform: rotate(-5deg); }
+  100% { transform: rotate(0deg); }
+}
+
+.wiggle {
+  display: inline-block;
+  animation: wiggle 2.5s infinite;
+}
+
+.wiggle:hover {
+  animation: none;
 }
 </style>
 </head>
@@ -92,6 +118,16 @@
       >
         <button class=" btn sticky-button-4 p-2 text-white" style="background-color: #1AD03F">
         <i class="fa-brands fa-whatsapp fa-2xl"></i>
+        </button>
+      </a>
+      <a
+        href="https://store.prempackaging.com/"
+        target="_blank"
+        rel="noreferrer"
+        class="shadow-lg"
+      >
+        <button class=" btn sticky-button-5 p-2 text-white" style="background-color: #182C5A">
+        <i class="fa-solid fa-cart-shopping fa-2xl wiggle shadow-lg"></i>
         </button>
       </a>
     </div>
