@@ -502,7 +502,62 @@
           </div>
         </div>
         <div class="col-lg-6 offset-lg-1">
-          <div class="Cliets_Logo">
+        <section class="clients padding wow fadeIn">
+    <div class="container">
+        <div class="white-bg">
+            <div class="row">
+                <div class="col-lg-12">
+                <p style="font-size: 16px;">We began our packaging journey with Dabur in 1977 and since then there is no looking back. We have been a flourishing enterprise ever since.</p>
+                    <div class="row justify-content-center align-items-center">
+                        <div class="col-md-4 col-4">
+                          <img src="img/clients/1.png" alt="Amazon" title="" />
+                        </div>
+                        <div class="col-md-4 col-4">
+                          <img src="img/clients/2.png" alt="Flipkart" title="" />
+                        </div>
+                        <div class="col-md-4 col-4">
+                          <img src="img/clients/3.png" alt="Vivo" title="" />
+                        </div>
+                    </div>
+                    <div class="row justify-content-center align-items-center">
+                        <div class="col-md-4 col-4">
+                          <img src="img/clients/4.png" alt="Wipro" title="" />
+                        </div>
+                        <div class="col-md-4 col-4">
+                          <img src="img/clients/5.png" alt="Bikano" title="" />
+                        </div>
+                        <div class="col-md-4 col-4">
+                          <img src="img/clients/6.png" alt="Myntra" title="" />
+                        </div>
+                    </div>
+                    <div class="row justify-content-center align-items-center">
+                        <div class="col-md-4 col-4">
+                          <img src="img/clients/del-monte.png" alt="Del Monte" height="137" width="100" title="" />
+                        </div>
+                        <div class="col-md-4 col-4">
+                          <img src="img/clients/29.png" alt="DS Group" title="" />
+                        </div>
+                        <div class="col-md-4 col-4">
+                          <img src="img/clients/9.png" alt="LG" title="" />
+                        </div>
+                    </div>
+                    <div class="row justify-content-center align-items-center">
+                        <div class="col-md-4 col-4">
+                          <img src="img/clients/10.png" alt="Hindware" title="" />
+                        </div>
+                        <div class="col-md-4 col-4">
+                          <img src="img/clients/11.png" alt="ITC" title="" />
+                        </div>
+                        <div class="col-md-4 col-4">
+                          <img src="img/clients/12.png" alt="Adani" title="" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>  
+        <!-- <div class="Cliets_Logo">
             <p style="font-size: 16px;">We began our packaging journey with Dabur in 1977 and since then there is no looking back. We have been a flourishing enterprise ever since.</p>
             <div class="Logos_Row clearfix">
               <div class="Logo_IMG">
@@ -542,15 +597,7 @@
                 <img src="img/logo/12.png" alt="adani" title="" />
               </div>
             </div>
-			
-			 <!-- 
-            <div class="text-center mt-5">
-              <a href="clients.php" class="more-btn"><i class="fa fa-clone" aria-hidden="true"></i> See More</a>
-            </div>
-			
-			-->
-			
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
