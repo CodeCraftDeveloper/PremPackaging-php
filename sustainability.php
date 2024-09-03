@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Discover eco-friendly packaging options at Prem Industries India. Reduce environmental impact with our sustainable solutions. Join us in preserving the planet! Explore now.">
+    <meta name="description" content="If you are looking for sustainable packaging solutions, Prem Industries India Limited is one of the best packaging manufacturers. Our focus is sustainable, and effective packaging.">
     <meta property="og:title" content="Sustainable Packaging Solutions | Prem Industries India Limited">
     <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
 <!-- Google tag (gtag.js) -->

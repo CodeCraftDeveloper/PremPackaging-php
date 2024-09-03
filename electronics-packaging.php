@@ -60,11 +60,11 @@
       <div class="row mt-60">
         <div class="col-md-6 order2">
           <div class="body-content">
-            <p class="wow fadeInUp">In the world of electronics, brand loyalty is a significant way to increase sales. Brand loyalty is built on many factors, one being amazing packaging. Nearly 50% of the consumers of electronic products already know what brand they will buy. Hence, the packing is the first look of your brand and it can’t be compromised. It also affects the frequency of repeat purchases from the same brand.</p>
+            <p class="wow fadeInUp">In the world of electronics, brand loyalty is a significant way to increase sales. Brand loyalty is built on many factors, one being amazing packaging solutions. Nearly 50% of the consumers of electronic products already know what brand they will buy. Hence, the packing is the first look of your brand and it can’t be compromised. It also affects the frequency of repeat purchases from the same brand.</p>
 
             <p>Your carton-based branding is done at Prem Industries with a state-of-the-art digital design centre. There are folding carton plants installed. Your products' packaging is handled by our premium facilities that make customised corrugated packaging, rigid boxes, and tailor-made printed packaging that can do wonders for your brand image.</p>
 
-            <p>At Prem Industries, we offer the following for better electronic branding:</p>
+            <p>At Prem Industries, we offer the following electronic packaging solutions:</p>
 
             <ul class="listing-content">
               <li><i class="fa fa-arrow-right"></i> Complete graphic and customized design services.</li>

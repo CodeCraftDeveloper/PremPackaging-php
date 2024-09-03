@@ -56,7 +56,7 @@
         <div class="row mt-5">
           <div class="col-md-10 offset-md-1">
             <div class="body-content text-center">
-              <p class="wow fadeInUp">We are engaged in manufacturing and supplying stiff firm Luxury Rigid Boxes for decades. Carrying huge volumes of industrial expertise is desired nowadays reflects in our boxes' eternal sheen and class attached to them. A vast selection of specialty papers makes sure that we can customize our premium boxes exactly to fit your tastes. Available in posh color combinations to cater to the niche market, we also customize the boxes with your logos & emboss them.</p>
+              <p class="wow fadeInUp">We are engaged in manufacturing and supplying stiff firm Luxury Rigid Boxes for decades. Carrying huge volumes of industrial expertise is desired nowadays reflects in our boxes' eternal sheen and class attached to them. A vast selection of specialty papers makes sure that we can customize our premium boxes exactly to fit your tastes. Available in posh color combinations to cater to the niche market, we also customize the boxes with your logos & emboss them. We offer the best quality luxury rigid boxes at cost effective prices.</p>
       
             </div>
           </div>

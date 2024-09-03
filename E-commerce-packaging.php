@@ -49,7 +49,7 @@
         <div class="row">
           <div class="col-md-12">
             <div class="text-left mb-4">
-              <h3 class="wow fadeInUp">PACKAGING SOLUTIONS THAT CLICK</h3>
+              <h3 class="wow fadeInUp">E-COMMERCE PACKAGING SOLUTIONS THAT CLICK</h3>
               <a href="contact-us.php" class="contact-add">
                 <i class="fa fa-envelope"></i>
                 <span>Get more information</span>
@@ -69,7 +69,7 @@
                 <li><i class="fa fa-arrow-right"></i> Improved supply chain</li>
               </ul>
 
-              <p>We offer packaging enhancements that create significant consumer connections. With unique packaging, we offer your e-commerce business a voice. We guard and enhance the image of your brand with the best packaging possible.</p>
+              <p>We offer packaging enhancements that create significant consumer connections. With unique packaging, we offer your e-commerce business a voice. We provide premium e-commerce packaging solutions, with the best quality.</p>
       
             </div>
           </div>

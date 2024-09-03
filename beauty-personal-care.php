@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Elevate your personal care products with Prem Industries India Limited's customized packaging solutions. Trust us for premium personal care packaging Solutions.">
+    <meta name="description" content="Elevate your personal care products with Prem Industries India Limited's customized personal packaging solutions. Trust us for premium personal care packaging Solutions.">
     <meta property="og:title" content="Personal Care Packaging Solutions | Prem Industries India Limited">
     <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
 <!-- Google tag (gtag.js) -->
@@ -29,7 +29,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-7">
-            <h1>Meet the Global Standards of Beauty & Care</h1>
+            <h1>Meet the Global Standards of Beauty & Personal Care</h1>
           </div>
           <div class="col-md-12">
             <nav aria-label="breadcrumb">
@@ -59,7 +59,7 @@
       <div class="row mt-60">
         <div class="col-md-6 order2">
           <div class="body-content">
-            <p class="wow fadeInUp">The importance of high-quality personal care, beauty and hygiene product packaging is a necessity. Self-care personal products must be sealed safely to keep the fragrance locked, ensuring easy dispensing and hassle-free packaging. At Prem Industries, we excel at offering flexible, tailor-made packaging according to your needs. There are various factors we consider as providers of elite beauty and personal care packaging:</p>
+            <p class="wow fadeInUp">The importance of high-quality personal care, beauty and hygiene product packaging is a necessity. Self-care personal products must be sealed safely to keep the fragrance locked, ensuring easy dispensing and hassle-free packaging. At Prem Industries, we excel at offering flexible, tailor-made packaging according to your needs. There are various factors we consider as providers of elite beauty and personal care packaging solutions:</p>
 
             <ul class="listing-content">
               <li><i class="fa fa-arrow-right"></i> Minimal product wastage with a longer secondary shelf life.</li>

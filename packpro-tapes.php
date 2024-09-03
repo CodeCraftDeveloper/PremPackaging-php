@@ -41,21 +41,24 @@
         </div>
       </div>
     </div>
-    <section class="body__content padding page-body-content">
+    <section class="body__content pt-5 page-body-content">
       <div class="container">
-        <div class="row mt-4 d-flex justify-content-center">
-          <!-- <div class="col-md-10 offset-md-1">
-            <div class="body-content text-center">
-              <p class="wow fadeInUp mt-0 pt-0">Welcome to Packpro Tapes, a premium division of Prem Industries India Limited! Our extensive range of high-quality packaging tapes is designed to meet the diverse packaging needs of various industries. Explore our specialized tapes, including the popular Ajio tapes, ensuring secure and reliable packaging for your products. Trust in the strength and durability of our Amazon Prime tapes, specifically crafted for optimal performance in shipping and storage. <br> We take pride in our commitment to environmental responsibility with our APEO-free tape, providing a sustainable solution without compromising on effectiveness. DS Group tape exemplifies our dedication to meeting industry standards, offering a reliable choice for a wide array of applications. For fashion-forward packaging solutions, discover our H&M tape, combining style and functionality. <br> At Packpro Tapes, we prioritize innovation and excellence to ensure your packaging needs are met with precision. Explore our diverse tape offerings, each catering to specific requirements, and experience the reliability and quality that set us apart in the packaging industry. Elevate your packaging game with Packpro Tapes – your trusted partner in efficient and secure packaging solutions.</p>
-            </div>
-          </div> -->
+        <div class="row d-flex justify-content-center">
+          <h3 class=" text-center" style="text-transform: none;">Secure your packing with our PackPro<sup>TM</sup> Tapes</h3>
+          <p class="mt-5">Making it easier for you to brand your packages in an easy way, we offer PackPro™ Tapes. Our tapes can be customized to display your brand logo and design. We offer BOPP tapes, Paper tapes, and speciality tapes. Suitable for all weather types, our shipping tapes keep all your products absolutely secured avoiding any rip-offs in transit.
+          You can easily order our PackPro™ tapes online from our store. Our packaging tapes include BOPP tapes, paper tapes, and speciality tapes. Our speciality tapes include glass cloth tape, masking tape, APEO-free tape, no marks polyester tape, masking tape, cross-filament tape, aluminium foil tape.  Moreover, we offer customized packaging tapes with your selected prints, making it possible for you to brand your packages as per your business requirement.
+        </div>
+      </div>
+    </section>
+
+    <!-- <section class="body__content padding page-body-content">
+      <div class="container">
+      <div class="row d-flex justify-content-center">
+          
           <div class="card mb-3" style=" border:none;">
             <div class="row p-0 m-0">
-              <div class="col-md-4 p-0 m-0">
-                <img src="./brochure/tape-brochure-img.png" class="rounded-start" alt="...">
-              </div>
-              <div class="col-md-8">
-                <div class="card-body mt-5 pt-5 justify-content-center">
+              <div class="col-md-12">
+                <div class="card-body justify-content-center">
                   <h3 class="card-title text-center">Tape Brochure</h3>
                   <a class="packpro-brochure-a text-center d-flex justify-content-center" href="./brochure/Tape Brochure.pdf" download="Tape Brochure.pdf" target="_blank" rel="noreferrer">
                     <button class="btn btn-outline-danger pack-pro-download-btn">Download</button>
@@ -66,117 +69,21 @@
           </div>
 
         </div>
-        <div class="row pt-5 d-flex justify-content-center">
-          <h3 class="pt-5 text-center" style="text-transform: none;">Details Coming Soon...</h3>
-        </div>
       </div>
-    </section>
+    </section> -->
 
-    <!-- <h1 class="text-center mb-5" style="text-transform: uppercase">Our Products</h1>
-    <div class="e-commerce-gallery BoxesGallery">
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/Tapes/Ajio.png" data-fancybox="images">
-              <div class="gallery-box">
-                <img src="img/Tapes/Ajio.png" alt="">
-                <h4>Ajio Tape</h4>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/Tapes/Aluminium-Tape.png" data-fancybox="images">
-              <div class="gallery-box">
-                <img src="img/Tapes/Aluminium-Tape.png" alt="">
-                <h4>Aluminium Tape</h4>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/Tapes/Amazon-Tape.png" data-fancybox="images">
-              <div class="gallery-box">
-                <img src="img/Tapes/Amazon-Tape.png" alt="">
-                <h4>Amazon Tape</h4>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/Tapes/APEO-Free-Tape.png" data-fancybox="images">
-              <div class="gallery-box">
-                <img src="img/Tapes/APEO-Free-Tape.png" alt="">
-                <h4>APEO Free Tape</h4>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/Tapes/Cross-Filament-Tape.png" data-fancybox="images">
-              <div class="gallery-box">
-                <img src="img/Tapes/Cross-Filament-Tape.png" alt="">
-                <h4>Cross Filament Tape</h4>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/Tapes/DS-Group.png" data-fancybox="images">
-              <div class="gallery-box">
-                <img src="img/Tapes/DS-Group.png" alt="">
-                <h4>DS Group Tape</h4>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/Tapes/Glass-Cloth-Tape.png" data-fancybox="images">
-              <div class="gallery-box">
-                <img src="img/Tapes/Glass-Cloth-Tape.png" alt="">
-                <h4>Glass Cloth Tape</h4>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/Tapes/H-&-M-Tapes.png" data-fancybox="images">
-              <div class="gallery-box">
-                <img src="img/Tapes/H-&-M-Tapes.png" alt="">
-                <h4>H&M Tape</h4>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/Tapes/Labels.png" data-fancybox="images">
-              <div class="gallery-box">
-                <img src="img/Tapes/Labels.png" alt="">
-                <h4>Labels</h4>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/Tapes/Maskting-Tape.png" data-fancybox="images">
-              <div class="gallery-box">
-                <img src="img/Tapes/Maskting-Tape.png" alt="">
-                <h4>Maskting Tape</h4>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/Tapes/Stop-Tape.png" data-fancybox="images">
-              <div class="gallery-box">
-                <img src="img/Tapes/Stop-Tape.png" alt="">
-                <h4>Stop Tape</h4>
-              </div>
-            </a>
-          </div>
-        </div>
-      </div>
-    </div> -->
-
-    <!-- <section class="ContactPrem pt-0 mt-4">
+    <section class="ContactPrem pt-0 mt-5">
       <div class="container">
         <div class="ContactPrem-content">
           <h3>Connect to know us better!</h3>
           <p>Let’s discuss a blend of your products and our packaging.</p>
-          <a href="contact-us.php" class="more-btn mt-4"><i class="fa fa-clone" aria-hidden="true"></i> Contact Us</a>
+          <div>
+            <a href="contact-us.php" class="more-btn mt-4"><i class="fa fa-clone" aria-hidden="true"></i> Contact Us</a>
+            <a href="https://www.store.prempackaging.com/tape" class="more-btn mt-4" target="_blank"><i class="fa-solid fa-cart-shopping"></i> Shop Now</a>
+          </div>
         </div>
       </div>
-    </section> -->
+    </section>
 
     <?php include 'footer.php';?>
 </body>

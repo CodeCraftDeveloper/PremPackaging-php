@@ -7,28 +7,28 @@
     <style>
   .sticky-button {
   position: fixed;
-  top: 20%;
+  top: 26%;
   right: 18px;
   transform: translateY(-50%);
   z-index: 999
 }
 .sticky-button-2 {
   position: fixed;
-  top: 34%;
+  top: 40%;
   right: 20px;
   transform: translateY(-50%);
   z-index: 999
 }
 .sticky-button-3 {
   position: fixed;
-  top: 27%;
+  top: 33%;
   right: 20px;
   transform: translateY(-50%);
   z-index: 999
 }
 .sticky-button-4 {
   position: fixed;
-  top: 41%;
+  top: 47%;
   right: 20px;
   transform: translateY(-50%);
   z-index: 999
