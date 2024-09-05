@@ -50,14 +50,14 @@
         <div class="row">
           <div class="col-md-12">
             <div class="text-center mb-4">
-              <h3 class="wow fadeInUp">Heading goes here... </h3>
+              <h3 class="wow fadeInUp" style="text-transform: none;">Go-To Solution for storing fragile items.</h3>
             </div>
           </div>
         </div>
         <div class="row mt-5">
           <div class="col-md-10 offset-md-1">
             <div class="body-content text-center">
-              <p class="wow fadeInUp">Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia doloribus enim velit explicabo minus ipsa officiis itaque quisquam non veritatis repudiandae ipsam, necessitatibus voluptate magni molestias soluta saepe, ullam provident aliquid culpa commodi quidem repellat quo. Cum vitae dolor veritatis magni excepturi. Velit quaerat neque quos quasi? Dolorum, eveniet? Aspernatur, inventore cum? Minus nihil repellendus autem similique debitis distinctio reiciendis sit tenetur iusto rem impedit qui corrupti, neque, quia quo error. Nemo porro dolorum quam similique ea ducimus, praesentium expedita harum possimus ratione doloremque quod animi, aliquid, accusantium rem voluptatum nisi at odio. Autem facere illum cupiditate repellat ratione sunt?</p>
+              <p class="wow fadeInUp">Flexpand™ is your go-to solution for storing fragile items. Combining eco-friendly materials with superior protection, it offers unmatched flexibility and safety. Ideal for those seeking sustainable, intelligent packaging that keeps your valuables secure. If you are on the lookout for eco-conscious and customer-centric damage protections, Flexpand™ is a great choice. </p>
       
             </div>
           </div>
@@ -65,7 +65,7 @@
       </div>
     </section>
 
-    <div class="e-commerce-gallery BoxesGallery">
+    <!-- <div class="e-commerce-gallery BoxesGallery">
       <div class="container-fluid">
         <div class="row">
           <div class="col-md-4 p-1">
@@ -118,7 +118,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
 
     <section class="ContactPrem pt-0 mt-4">
       <div class="container">
