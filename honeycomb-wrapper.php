@@ -50,75 +50,20 @@
         <div class="row">
           <div class="col-md-12">
             <div class="text-center mb-4">
-              <h3 class="wow fadeInUp">Heading goes here... </h3>
+              <h3 class="wow fadeInUp">Enjoy Crispy Food with HoneyComb Food Wrapper</h3>
             </div>
           </div>
         </div>
         <div class="row mt-5">
           <div class="col-md-10 offset-md-1">
             <div class="body-content text-center">
-              <p class="wow fadeInUp">Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia doloribus enim velit explicabo minus ipsa officiis itaque quisquam non veritatis repudiandae ipsam, necessitatibus voluptate magni molestias soluta saepe, ullam provident aliquid culpa commodi quidem repellat quo. Cum vitae dolor veritatis magni excepturi. Velit quaerat neque quos quasi? Dolorum, eveniet? Aspernatur, inventore cum? Minus nihil repellendus autem similique debitis distinctio reiciendis sit tenetur iusto rem impedit qui corrupti, neque, quia quo error. Nemo porro dolorum quam similique ea ducimus, praesentium expedita harum possimus ratione doloremque quod animi, aliquid, accusantium rem voluptatum nisi at odio. Autem facere illum cupiditate repellat ratione sunt?</p>
+              <p class="wow fadeInUp">HoneyComb Food Wrapper is your solution to enjoying crispy, fresh food every time! Designed with advanced honeycomb technology, our food wrappers ensure your meals stay delicious and crunchy without the sogginess. Whether it's hot fries, fried snacks, or any crispy delight, it locks in the texture and taste you love. Eco-friendly and convenient, it’s perfect for takeaways, catering, and on-the-go meals. Keep your food crispy with HoneyComb Food Wrapper – because great taste deserves great packaging. Experience the difference and elevate your food experience today!</p>
       
             </div>
           </div>
         </div>
       </div>
     </section>
-
-    <div class="e-commerce-gallery BoxesGallery">
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/Pouches/Pouch2.jpg" data-fancybox="images">
-              <div class="gallery-box">
-                <img src="img/Pouches/Pouch2.jpg" alt="">
-                <h4>Gusset Pouch</h4>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/Pouches/Pouch5.jpg" data-fancybox="images">
-              <div class="gallery-box">
-                <img src="img/Pouches/Pouch5.jpg" alt="">
-                <h4>Shape Pouch</h4>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/Pouches/Pouch6.jpg" data-fancybox="images">
-              <div class="gallery-box">
-                <img src="img/Pouches/Pouch6.jpg" alt="">
-                <h4>Spout Pouch</h4>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/Pouches/Pouch7.jpg" data-fancybox="images">
-              <div class="gallery-box">
-                <img src="img/Pouches/Pouch7.jpg" alt="">
-                <h4>Standup Pouch</h4>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/Pouches/Pouch8.jpg" data-fancybox="images">
-              <div class="gallery-box">
-                <img src="img/Pouches/Pouch8.jpg" alt="">
-                <h4>Three Side Seal Pouch</h4>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/Pouches/Pouch9.jpg" data-fancybox="images">
-              <div class="gallery-box">
-                <img src="img/Pouches/Pouch9.jpg" alt="">
-                <h4>Zipper Pouch</h4>
-              </div>
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
 
     <section class="ContactPrem pt-0 mt-4">
       <div class="container">
