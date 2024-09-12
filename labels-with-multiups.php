@@ -27,7 +27,7 @@
     <?php include 'header.php';?>
 
 
-    <div class="page-hero pageheade" style="background: #eee url(../img/honeycomb-wrapper-banner-img.jpg); height: 350px; background-size: cover; background-position: center;">
+    <div class="page-hero pageheade" style="background: #eee url(../img/labels-with-multiups-banner.jpg); height: 350px; background-size: cover; background-position: center;">
       <div class="container">
         <div class="row">
           <div class="col-md-8">
@@ -50,7 +50,7 @@
         <div class="row">
           <div class="col-md-12">
             <div class="text-center mb-4">
-              <h3 class="wow fadeInUp" style="text-transform: none;">Efficient Solution for Bulk Shipments.</h3>
+              <h3 class="wow fadeInUp">Efficient Solution for Bulk Shipments</h3>
             </div>
           </div>
         </div>

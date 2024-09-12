@@ -44,7 +44,7 @@
     <section class="body__content pt-5 page-body-content">
       <div class="container">
         <div class="row d-flex justify-content-center">
-          <h3 class=" text-center" style="text-transform: none;">Secure your packing with our PackPro<sup>TM</sup> Tapes</h3>
+          <h3 class=" text-center">Secure your packing with our PackPro<sup>TM</sup> Tapes</h3>
           <p class="mt-5">Making it easier for you to brand your packages in an easy way, we offer PackPro™ Tapes. Our tapes can be customized to display your brand logo and design. We offer BOPP tapes, Paper tapes, and speciality tapes. Suitable for all weather types, our shipping tapes keep all your products absolutely secured avoiding any rip-offs in transit.
           You can easily order our PackPro™ tapes online from our store. Our packaging tapes include BOPP tapes, paper tapes, and speciality tapes. Our speciality tapes include glass cloth tape, masking tape, APEO-free tape, no marks polyester tape, masking tape, cross-filament tape, aluminium foil tape.  Moreover, we offer customized packaging tapes with your selected prints, making it possible for you to brand your packages as per your business requirement.
         </div>

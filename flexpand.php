@@ -50,7 +50,7 @@
         <div class="row">
           <div class="col-md-12">
             <div class="text-center mb-4">
-              <h3 class="wow fadeInUp" style="text-transform: none;">Go-To Solution for storing fragile items.</h3>
+              <h3 class="wow fadeInUp">Go-To Solution for storing fragile items</h3>
             </div>
           </div>
         </div>

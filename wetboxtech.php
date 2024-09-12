@@ -49,7 +49,7 @@
         <div class="row">
           <div class="col-md-12">
             <div class="text-center mb-4">
-              <h3 class="wow fadeInUp" style="text-transform: none;">Get 100% Moisture Resistance with WetBoxTech™ </h3>
+              <h3 class="wow fadeInUp">Get 100% Moisture Resistance with WetBoxTech™ </h3>
             </div>
           </div>
         </div>
