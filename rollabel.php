@@ -64,61 +64,6 @@
       </div>
     </section>
 
-    <div class="e-commerce-gallery BoxesGallery">
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/Pouches/Pouch2.jpg" data-fancybox="images">
-              <div class="gallery-box">
-                <img src="img/Pouches/Pouch2.jpg" alt="">
-                <h4>Gusset Pouch</h4>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/Pouches/Pouch5.jpg" data-fancybox="images">
-              <div class="gallery-box">
-                <img src="img/Pouches/Pouch5.jpg" alt="">
-                <h4>Shape Pouch</h4>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/Pouches/Pouch6.jpg" data-fancybox="images">
-              <div class="gallery-box">
-                <img src="img/Pouches/Pouch6.jpg" alt="">
-                <h4>Spout Pouch</h4>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/Pouches/Pouch7.jpg" data-fancybox="images">
-              <div class="gallery-box">
-                <img src="img/Pouches/Pouch7.jpg" alt="">
-                <h4>Standup Pouch</h4>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/Pouches/Pouch8.jpg" data-fancybox="images">
-              <div class="gallery-box">
-                <img src="img/Pouches/Pouch8.jpg" alt="">
-                <h4>Three Side Seal Pouch</h4>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/Pouches/Pouch9.jpg" data-fancybox="images">
-              <div class="gallery-box">
-                <img src="img/Pouches/Pouch9.jpg" alt="">
-                <h4>Zipper Pouch</h4>
-              </div>
-            </a>
-          </div>
-        </div>
-      </div>
-    </div>
-
     <section class="ContactPrem pt-0 mt-4">
       <div class="container">
         <div class="ContactPrem-content">
