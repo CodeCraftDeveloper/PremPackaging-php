@@ -57,7 +57,7 @@
         <div class="row mt-5">
           <div class="col-md-10 offset-md-1">
             <div class="body-content text-center">
-              <p class="wow fadeInUp">Our newly launched labels, featuring multi-ups and perforation, provide an efficient solution for bulk shipments. Pre-cut labels can be printed in various formats on a single sheet, simplifying the labeling process. These are perfect for inventory management, shipping, and product identification, ensuring accuracy and efficiency in your e-commerce operations.</p>
+              <p class="wow fadeInUp">Our newly launched <span><a href="https://www.store.prempackaging.com/label" target="_blank" style="color: black">labels</a></span>, featuring multi-ups and perforation, provide an efficient solution for bulk shipments. Pre-cut <span><a href="https://www.store.prempackaging.com/label" target="_blank" style="color: black">labels</a></span> can be printed in various formats on a single sheet, simplifying the labeling process. These are perfect for inventory management, shipping, and product identification, ensuring accuracy and efficiency in your e-commerce operations.</p>
       
             </div>
           </div>
@@ -120,12 +120,15 @@
       </div>
     </div> -->
 
-    <section class="ContactPrem pt-0 mt-4">
+    <section class="ContactPrem pt-0 mt-5">
       <div class="container">
         <div class="ContactPrem-content">
           <h3>Connect to know us better!</h3>
           <p>Let’s discuss a blend of your products and our packaging.</p>
-          <a href="contact-us.php" class="more-btn mt-4"><i class="fa fa-clone" aria-hidden="true"></i> Contact Us</a>
+          <div>
+            <a href="contact-us.php" class="more-btn mt-4"><i class="fa fa-clone" aria-hidden="true"></i> Contact Us</a>
+            <a href="https://www.store.prempackaging.com/label" class="more-btn mt-4" target="_blank"><i class="fa-solid fa-cart-shopping"></i> Shop Now</a>
+          </div>
         </div>
       </div>
     </section>

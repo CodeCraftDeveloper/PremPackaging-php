@@ -56,20 +56,23 @@
         <div class="row mt-5">
           <div class="col-md-10 offset-md-1">
             <div class="body-content text-center">
-              <p class="wow fadeInUp">Prem Industries India Limited proudly presents Rollabel™, your go-to solution for premium labels. With a strong legacy of excellence, we provide a diverse range of high-quality labels tailored to suit your specific needs. From customized designs to standardized options, our focus on quality and innovation ensures your products shine in today’s competitive market.</p>
-              <p>Whether you require Direct Thermal Labels for on-demand printing or Chromo Labels for vibrant, attention-grabbing branding, Rollabel™ offers flexible and user-friendly label solutions for all your packaging requirements.</p>
+              <p class="wow fadeInUp">Prem Industries India Limited proudly presents <span><a href="https://www.store.prempackaging.com/label" target="_blank" style="color: black">Rollabel™</a></span>, your go-to solution for premium <span><a href="https://www.store.prempackaging.com/label" target="_blank" style="color: black">labels</a></span>. With a strong legacy of excellence, we provide a diverse range of high-quality <span><a href="https://www.store.prempackaging.com/label" target="_blank" style="color: black">labels</a></span> tailored to suit your specific needs. From customized designs to standardized options, our focus on quality and innovation ensures your products shine in today’s competitive market.</p>
+              <p>Whether you require <span><a href="https://www.store.prempackaging.com/direct-thermal-label" target="_blank" style="color: black">Direct Thermal Labels</a></span> for on-demand printing or <span><a href="https://www.store.prempackaging.com/chromo-label" target="_blank" style="color: black">Chromo Labels</a></span> for vibrant, attention-grabbing branding, <span><a href="https://www.store.prempackaging.com/label" target="_blank" style="color: black">Rollabel™</a></span> offers flexible and user-friendly <span><a href="https://www.store.prempackaging.com/label" target="_blank" style="color: black">label</a></span> solutions for all your packaging requirements.</p>
             </div>
           </div>
         </div>
       </div>
     </section>
 
-    <section class="ContactPrem pt-0 mt-4">
+    <section class="ContactPrem pt-0 mt-5">
       <div class="container">
         <div class="ContactPrem-content">
           <h3>Connect to know us better!</h3>
           <p>Let’s discuss a blend of your products and our packaging.</p>
-          <a href="contact-us.php" class="more-btn mt-4"><i class="fa fa-clone" aria-hidden="true"></i> Contact Us</a>
+          <div>
+            <a href="contact-us.php" class="more-btn mt-4"><i class="fa fa-clone" aria-hidden="true"></i> Contact Us</a>
+            <a href="https://www.store.prempackaging.com/label" class="more-btn mt-4" target="_blank"><i class="fa-solid fa-cart-shopping"></i> Shop Now</a>
+          </div>
         </div>
       </div>
     </section>
