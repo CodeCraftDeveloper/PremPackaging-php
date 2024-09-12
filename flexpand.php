@@ -57,8 +57,9 @@
         <div class="row mt-5">
           <div class="col-md-10 offset-md-1">
             <div class="body-content text-center">
-              <p class="wow fadeInUp">Flexpand™ is your go-to solution for storing fragile items. Combining eco-friendly materials with superior protection, it offers unmatched flexibility and safety. Ideal for those seeking sustainable, intelligent packaging that keeps your valuables secure. If you are on the lookout for eco-conscious and customer-centric damage protections, Flexpand™ is a great choice. </p>
-      
+              <p class="wow fadeInUp">We’re excited to introduce Flexpand™, an innovative, eco-friendly retention and suspension packaging solution that combines sustainability with exceptional product protection. Flexpand™ is designed to secure products of various shapes, sizes, and weights, providing a perfect balance of utility and environmental responsibility. This 100% curbside recyclable solution offers snug retention and suspension protection, tailored to your product’s specific needs. Its patented weave holds items firmly in place, reducing the need for excess cushioning. By optimizing space and minimizing materials, it enhances shipping efficiency, helping to lower carbon emissions and supporting your sustainability goals without compromising on protection.
+              </p>
+      <p>Prem Industries India Limited’ award-winning Structural Designers assess your product protection needs across industries. Contact us to explore the Flexpand™ experience today.</p>
             </div>
           </div>
         </div>

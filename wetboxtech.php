@@ -56,8 +56,7 @@
         <div class="row mt-5">
           <div class="col-md-10 offset-md-1">
             <div class="body-content text-center">
-              <p class="wow fadeInUp">WetBoxTech™ is a packaging solution that deliver superior moisture resistance for fresh foods. Customizable and efficient, it replaces traditional wax-coated boxes with sustainable, high-performance fiber technology. Choose durability and, choose WetBoxTech™. </p>
-      
+              <p class="wow fadeInUp">Fresh food companies, including those dealing with protein and produce, face growing pressure to meet retailer and consumer demands for recyclable packaging, while ensuring product protection and operational efficiency. As a packaging company, we address this issue and have come up with WetBoxTech™, providing customizable moisture-resistant packaging designed for wet and humid conditions. WetBoxTech™ offers a fiber-based, recyclable alternative to traditional wax-coated packaging, making it an eco-friendly solution without compromising on performance. </p>
             </div>
           </div>
         </div>

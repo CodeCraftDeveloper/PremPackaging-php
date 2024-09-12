@@ -58,8 +58,8 @@
                         <a class="dropdown-item" href="packpro-tapes.php">PackPro<sup>™</sup> Tapes</a>
                         <a class="dropdown-item" href="wetboxtech.php">WetBoxTech<sup>™</sup></a>
                         <a class="dropdown-item" href="flexpand.php">Flexpand<sup>™</sup></a>
-                        <!-- <a class="dropdown-item" href="rollabel.php">Rollabel<sup>™</sup> Label</a> -->
-                        <!-- <a class="dropdown-item" href="honeycomb-wrapper.php">Honeycomb Wrapper</a> -->
+                        <a class="dropdown-item" href="rollabel.php">Rollabel<sup>™</sup> Label</a>
+                        <a class="dropdown-item" href="honeycomb-wrapper.php">Honeycomb Wrapper</a>
                         <a class="dropdown-item" href="labels-with-multiups.php">Labels with Multiups</a>
                       </div>
                   </div>

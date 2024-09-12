@@ -49,14 +49,15 @@
         <div class="row">
           <div class="col-md-12">
             <div class="text-center mb-4">
-              <h3 class="wow fadeInUp">Heading goes here... </h3>
+              <h3 class="wow fadeInUp">Rollabel<sup>™</sup> Your Premium Labeling Solution</h3>
             </div>
           </div>
         </div>
         <div class="row mt-5">
           <div class="col-md-10 offset-md-1">
             <div class="body-content text-center">
-              <p class="wow fadeInUp">Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia doloribus enim velit explicabo minus ipsa officiis itaque quisquam non veritatis repudiandae ipsam, necessitatibus voluptate magni molestias soluta saepe, ullam provident aliquid culpa commodi quidem repellat quo. Cum vitae dolor veritatis magni excepturi. Velit quaerat neque quos quasi? Dolorum, eveniet? Aspernatur, inventore cum? Minus nihil repellendus autem similique debitis distinctio reiciendis sit tenetur iusto rem impedit qui corrupti, neque, quia quo error. Nemo porro dolorum quam similique ea ducimus, praesentium expedita harum possimus ratione doloremque quod animi, aliquid, accusantium rem voluptatum nisi at odio. Autem facere illum cupiditate repellat ratione sunt?</p>
+              <p class="wow fadeInUp">Prem Industries India Limited proudly presents Rollabel™, your go-to solution for premium labels. With a strong legacy of excellence, we provide a diverse range of high-quality labels tailored to suit your specific needs. From customized designs to standardized options, our focus on quality and innovation ensures your products shine in today’s competitive market.</p>
+              <p>Whether you require Direct Thermal Labels for on-demand printing or Chromo Labels for vibrant, attention-grabbing branding, Rollabel™ offers flexible and user-friendly label solutions for all your packaging requirements.</p>
             </div>
           </div>
         </div>
