@@ -23,6 +23,32 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
     />
+    <script>
+    var modal = document.getElementById("myModal");
+
+    // Get the <span> element that closes the modal
+    var span = document.getElementsByClassName("close");
+
+    // Get the modal content
+    var modalContent = document.querySelector(".modal-content");
+
+    // When the page is loaded, display the modal
+    window.onload = function() {
+      modal.style.display = "block";
+    }
+
+    // When the user clicks on <span> (x), close the modal
+    span.onclick = function() {
+      modal.style.display = "none";
+    }
+
+    // When the user clicks anywhere outside of the modal, close it
+    window.onclick = function(event) {
+      if (event.target == modal && event.target != modalContent) {
+        modal.style.display = "none";
+      }
+    }
+    </script>
     <style>
       iframe {
             width: 100%;
@@ -105,27 +131,29 @@
   <div>
   <div id="myModal" class="modal">
     <div class="modal-content text-center">
-    <span class="close text-dark"><i class="fa-solid fa-square-xmark"></i></span>
-          <img src="img/freeshipimg.jpg" alt="Image">
+    <span class="close text-dark">&nbsp;</span>
+          <img src="img/diwali.jpeg" alt="Image">
           <a href="https://www.store.prempackaging.com/" target="_blank"><button class="btn btn-primary mt-2"><i class="fa-solid fa-cart-shopping"></i> Visit our Store</button></a>
       </div>
     </div>
     <!-- header start -->
     <?php include 'header.php';?>
     <?php include 'StaticSocialButtons.php';?>
-   <!--  <marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();" style="
+    <marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();" style="
         position: absolute;
         top: 100px;
         z-index: 9999;
         max-width: 100%;
         right: 0;
-        background: rgb(24 44 90 / 46%);
+        background: #182C5A;
         color: #fff;
-        font-size: 14px;
+        font-size: 18px;
         padding: 1px;
     ">
-        Our website is under development. Sorry for the inconvenience!
-    </marquee> -->
+       <b>Celebrate the Festive Season with 10% off upto INR 1000 on all
+            Packaging Products! Use code DIWALI10. Hurry, Offer Ends Soon!
+            &nbsp;</b>
+    </marquee>
     <div id="site-banner" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active">
