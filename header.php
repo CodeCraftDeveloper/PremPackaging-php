@@ -123,6 +123,5 @@
       </div>
     </div>
     <?php include 'StaticSocialButtons.php';?>
-    <?php include 'StickyImage.php';?>
   </nav>
 </header>

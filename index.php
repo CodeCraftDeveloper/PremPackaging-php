@@ -293,7 +293,17 @@
       </div>
     </div>
   </section>
-
+  <section class="full-width-image">
+  <div class="container-fluid">
+    <div class="row text-center mt-2">
+      <div class="col-md-12">
+        <a href="https://visit.gulfoodmanufacturing.com/?utm_source=Exbmkt&utm_medium=Prem" target="_blank">
+        <img src="img/bannerimg.jpg" alt="Banner Image" class="img-fluid">
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
   <section class="body__content padding second border-bottom">
     <div class="container">
       <div class="row">
