@@ -133,7 +133,14 @@
     <div class="modal-content text-center">
     <span class="close text-dark">&nbsp;</span>
           <img src="img/diwaliex.jpg" alt="Image" height="800px" width="800px">
+          <div class="row">
+            <div class="col-md-6">
+          <a href="https://visit.gulfoodmanufacturing.com/?utm_source=Exbmkt&utm_medium=Prem" target="_blank"><button class="btn btn-primary mt-2"><i class="fa-solid fa-link"></i> Register Here</button></a>
+            </div>
+            <div class="col-md-6">
           <a href="https://www.store.prempackaging.com/" target="_blank"><button class="btn btn-primary mt-2"><i class="fa-solid fa-cart-shopping"></i> Visit our Store</button></a>
+            </div>
+          </div>
       </div>
     </div>
     <!-- header start -->
