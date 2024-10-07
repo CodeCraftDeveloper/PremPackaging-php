@@ -132,7 +132,7 @@
   <div id="myModal" class="modal">
     <div class="modal-content text-center">
     <span class="close text-dark">&nbsp;</span>
-          <img src="img/diwali.jpeg" alt="Image">
+          <img src="img/diwaliex.jpg" alt="Image" height="800px" width="800px">
           <a href="https://www.store.prempackaging.com/" target="_blank"><button class="btn btn-primary mt-2"><i class="fa-solid fa-cart-shopping"></i> Visit our Store</button></a>
       </div>
     </div>
