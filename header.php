@@ -13,9 +13,9 @@
         <!--========-->
           <li class="nav-item dropdown megamenu-li dmenu">
               <a class="nav-link dropdown-toggle" href="" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Packaging Solutions</a>
-              <div class="dropdown-menu megamenu sm-menu border-top" aria-labelledby="dropdown01">
+              <div class="dropdown-menu megamenu sm-menu border-top" aria-labelledby="dropdown01" style="z-index: 999">
                   <div class="row">
-                      <div class="col-sm-6 col-lg-6 border-right mb-4">
+                      <div class="col-sm-6 col-lg-6 border-right mb-4 mt-3">
                           <h6>What we Serve!</h6>
                           <a class="dropdown-item" href="E-commerce-packaging.php">E-Commerce Packaging </a>
                           <a class="dropdown-item" href="E-com-paper-bags.php">E-com Paper Bags </a>
@@ -26,7 +26,7 @@
                           <a class="dropdown-item" href="beauty-personal-care.php">Beauty & Personal Care<br/> Packaging</a>
                           <a class="dropdown-item" href="fmcg-packaging.php">FMCG Packaging</a>
                       </div>
-                      <div class="col-sm-6 col-lg-6 border-right mb-4">
+                      <div class="col-sm-6 col-lg-6 border-right mb-4 mt-3">
                         <h6><a href="corrugated-packaging.php">Corrugated Packaging </a></h6>
                         <a class="dropdown-item" href="corrugated-containers.php">Corrugated Containers</a>
                         <a class="dropdown-item" href="displays.php">Displays</a>
@@ -44,7 +44,7 @@
               <div class="dropdown-menu megamenu sm-menu border-top" aria-labelledby="dropdown01">
                   <div class="row">
                     <!-- Add one border-left class bellow for division -->
-                      <div class="col-sm-6 col-lg-6">
+                      <div class="col-sm-6 col-lg-6 mt-4">
                           <a class="dropdown-item" href="corrugated-boxes.php">Corrugated Boxes</a>
                           <a class="dropdown-item" href="offset-printed-cartons-folding-cartons.php">Offset Printed Cartons / <br>Folding Cartons</a>
                           <a class="dropdown-item" href="flexible-laminates-pouches.php">Flexible Laminates & Pouches</a>
@@ -54,7 +54,7 @@
                           <a class="dropdown-item" href="2-ply-corrugated-mailer-bags.php">2 Ply Corrugated Mailer Bags</a>
                           <!-- <a class="dropdown-item" href="packpro-tapes.php">PackPro<sup>™</sup> Tapes</a> -->
                       </div>
-                      <div class="col-sm-6 col-lg-6 border-right mb-4">
+                      <div class="col-sm-6 col-lg-6 border-right mb-4 mt-4">
                         <a class="dropdown-item" href="packpro-tapes.php">PackPro<sup>™</sup> Tapes</a>
                         <a class="dropdown-item" href="wetboxtech.php">WetBoxTech<sup>™</sup></a>
                         <a class="dropdown-item" href="flexpand.php">Flexpand<sup>™</sup></a>
@@ -123,5 +123,6 @@
       </div>
     </div>
     <?php include 'StaticSocialButtons.php';?>
+    <?php include 'StickyImage.php';?>
   </nav>
 </header>
