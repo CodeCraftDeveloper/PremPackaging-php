@@ -298,7 +298,7 @@
     <div class="row text-center mt-2">
       <div class="col-md-12">
         <a href="https://visit.gulfoodmanufacturing.com/?utm_source=Exbmkt&utm_medium=Prem" target="_blank">
-        <img src="img/bannerimg.jpg" alt="Banner Image" class="img-fluid">
+        <img src="img/bannerimg2.jpg" alt="Banner Image" class="img-fluid">
         </a>
       </div>
     </div>
