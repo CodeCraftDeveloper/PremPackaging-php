@@ -144,8 +144,6 @@
       </div>
     </div>
     <!-- header start -->
-    <?php include 'header.php';?>
-    <?php include 'StaticSocialButtons.php';?>
     <marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();" style="
         position: absolute;
         top: 100px;
@@ -161,6 +159,7 @@
             Packaging Products! Use code DIWALI10. Hurry, Offer Ends Soon!
             &nbsp;</b>
     </marquee>
+    <?php include 'header.php';?>
     <div id="site-banner" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active">

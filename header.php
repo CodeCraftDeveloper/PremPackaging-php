@@ -1,6 +1,5 @@
-
 <header>
-  <nav class="navbar navbar-expand-lg navbar-light sticky-top">
+  <nav class="navbar navbar-expand-lg navbar-light">
     <div class="container-fluid p-0">
       <a class="navbar-brand" href="https://prempackaging.com/">
         <img width="110" src="img/logo.png" alt="prem packaging" title="" />
@@ -122,6 +121,6 @@
         </ul>
       </div>
     </div>
-    <?php include 'StaticSocialButtons.php';?>
+<?php include 'StaticSocialButtons.php';?>
   </nav>
 </header>
