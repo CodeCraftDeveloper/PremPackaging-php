@@ -1,18 +1,18 @@
 <header>
-  <nav class="navbar navbar-expand-lg navbar-light">
+  <nav class="navbar navbar-expand-lg navbar-light sticky-top">
     <div class="container-fluid p-0">
-      <a class="navbar-brand" href="https://prempackaging.com/">
+      <a class="navbar-brand" href="https://prempackaging.com/" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mobile_nav" aria-controls="mobile_nav" aria-expanded="false" aria-label="Toggle navigation">
         <img width="110" src="img/logo.png" alt="prem packaging" title="" />
       </a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mobile_nav" aria-controls="mobile_nav" aria-expanded="false" aria-label="Toggle navigation">
-       <img src="img/menu.png" alt="menu" title="" />
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mobile_nav" aria-controls="mobile_nav" aria-expanded="false" aria-label="Toggle navigation">
+        <img src="img/menu.png" alt="menu" title="" />
       </button>
       <div class="collapse navbar-collapse" id="mobile_nav">
-      <ul class="navbar-nav ml-auto">
-        <!--========-->
+        <ul class="navbar-nav ml-auto">
+          <!--========-->
           <li class="nav-item dropdown megamenu-li dmenu">
-              <a class="nav-link dropdown-toggle" href="" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Packaging Solutions</a>
-              <div class="dropdown-menu megamenu sm-menu border-top" aria-labelledby="dropdown01" style="z-index: 999">
+            <a class="nav-link dropdown-toggle" href="" id="dropdown01" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Packaging Solutions</a>
+            <div class="dropdown-menu megamenu sm-menu border-top" aria-labelledby="dropdown01" style="z-index: 999">
                   <div class="row">
                       <div class="col-sm-6 col-lg-6 border-right mb-4 mt-3">
                           <h6>What we Serve!</h6>
@@ -121,6 +121,6 @@
         </ul>
       </div>
     </div>
-<?php include 'StaticSocialButtons.php';?>
   </nav>
+  <?php include 'StaticSocialButtons.php';?>
 </header>

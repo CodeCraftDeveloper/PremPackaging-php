@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Prem Industries India Limited is the best packaging company in India, we offer a wide range of corrugated boxes, pouches, rigid boxes, labels, tapes, etc.">
+    <meta name="description" content="Prem Industries India Limited is the best packaging company in India, we provide the best packaging solutions like corrugated boxes, pouches, rigid boxes, labels, and tapes.">
     <meta property="og:title" content="Prem Industries India Limited | Best Packaging Company in India">
     <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
 <!-- Google tag (gtag.js) -->
@@ -144,6 +144,7 @@
       </div>
     </div>
     <!-- header start -->
+  <?php include 'header.php';?>
     <marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();" style="
         position: absolute;
         top: 100px;
@@ -159,7 +160,6 @@
             Packaging Products! Use code DIWALI10. Hurry, Offer Ends Soon!
             &nbsp;</b>
     </marquee>
-    <?php include 'header.php';?>
     <div id="site-banner" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active">
