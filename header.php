@@ -10,10 +10,11 @@
       <div class="collapse navbar-collapse" id="mobile_nav">
         <ul class="navbar-nav ml-auto">
           <!--========-->
+
           <li class="nav-item dropdown megamenu-li dmenu">
-            <a class="nav-link dropdown-toggle" href="" id="dropdown01" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Packaging Solutions</a>
-            <div class="dropdown-menu megamenu sm-menu border-top" aria-labelledby="dropdown01" style="z-index: 999">
-                  <div class="row">
+              <a class="nav-link dropdown-toggle" href="" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Packaging Solutions</a>
+              <div class="dropdown-menu megamenu sm-menu border-top" aria-labelledby="dropdown01">
+              <div class="row">
                       <div class="col-sm-6 col-lg-6 border-right mb-4 mt-3">
                           <h6>What we Serve!</h6>
                           <a class="dropdown-item" href="E-commerce-packaging.php">E-Commerce Packaging </a>
@@ -34,7 +35,18 @@
                       </div>
                   </div>
               </div>
+              <!-- <div class="dropdown-menu megamenu sm-menu border-top" aria-labelledby="dropdown01">
+                  <a class="dropdown-item" href="corrugated-boxes.php">Corrugated Boxes</a>
+                  <a class="dropdown-item" href="offset-printed-cartons-folding-cartons.php">Offset Printed Cartons/ Folding Cartons</a>
+                  <a class="dropdown-item" href="flexible-laminates-pouches.php">Flexible Laminates & Pouches</a>
+                  <a class="dropdown-item" href="retort-packaging.php">Retort Packaging</a>
+                  <a class="dropdown-item" href="luxury-rigid-boxes.php">Luxury Rigid Boxes</a>
+                  <a class="dropdown-item" href="paper-mailer-bags.php">Paper Mailer Bags</a>
+                  <a class="dropdown-item" href="2-ply-corrugated-mailer-bags.php">2 Ply Corrugated Mailer Bags</a>
+                  <a class="dropdown-item" href="packpro-tapes.php">PackPro<sup>™</sup> Tapes</a>
+              </div> -->
           </li>
+
           <!--=========-->
 
           <!--========-->
