@@ -484,7 +484,7 @@
       <div class="col-lg-8 offset-lg-2">
         <div class="Sustainability_ConentP text-center">
             <h2 class="wow fadeInUp" style="font-size: 35px;">Manufacturing with Technology</h2>
-            <p class="wow fadeInUp paddingLR" style="font-size: 16px;">We solve the biggest packaging challenges of our customers with an innovative approach and leading technology. We have a team under R & D who deals with premium quality materials, packaging designs & technical aspects. Our team manages machinery and automation with a digital approach to ensure the best output.</p>
+            <p class="wow fadeInUp paddingLR" style="font-size: 16px;">We solve the biggest packaging challenges of our customers with an innovative approach and leading technology and the best packaging solutions. We have a team under R & D who deals with premium quality materials, packaging designs & technical aspects. Our team manages machinery and automation with a digital approach to ensure the best output.</p>
         </div>
       </div>
     </div>
@@ -501,7 +501,7 @@
         <div class="col-md-8 offset-md-2 text-center">
           <div class="position-relative" style="z-index: 1;">
             <h2 class="wow fadeInUp" style="font-size: 42px;">We are keeping it 'Green'</h2>
-            <p class="wow fadeInUp" style="font-size: 16px;">Our vision to be the best packaging solutions provider in the world, it drives everything we do. We’re innovating to help our customers reach their sustainability goals and win in the market. We’re setting science-based goals to reduce greenhouse gas emissions. Stewarding natural resources & using material that can be recycled, reused or decomposed. We are working towards 100% safety & becoming an employer of choice.  </p>
+            <p class="wow fadeInUp" style="font-size: 16px;">Our vision is to be the best packaging company in India and the world, driving everything we do. We’re innovating to help our customers reach their sustainability goals and win in the market. We’re setting science-based goals to reduce greenhouse gas emissions. Stewarding natural resources & using material that can be recycled, reused or decomposed. We are working towards 100% safety & becoming an employer of choice.  </p>
             <p class="wow fadeInUp" style="font-size: 16px;">Through these and many other efforts, we aim to help our business, our customers, our team members, our investors and our communities realize the promise of a sustainable future. </p>
             <p style="font-size: 16px;">We are crafting paper packaging and recycling the plastic. With our team recycled over 2000 tonnes of plastic in the last three years, averaging 50 tonnes per month.</p>
           </div>
