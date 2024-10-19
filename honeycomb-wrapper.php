@@ -31,7 +31,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-8">
-            <h1>Honeycomb Wrapper</h1>
+            <h1>PackPro<sup>™</sup> HoneyComb <br>Food Wrapping Paper</h1>
           </div>
           <div class="col-md-12">
             <nav aria-label="breadcrumb">
