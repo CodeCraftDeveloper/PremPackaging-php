@@ -57,7 +57,7 @@
         <div class="row mt-5">
           <div class="col-md-10 offset-md-1">
             <div class="body-content text-center">
-              <p class="wow fadeInUp">PackPro<sup>™</sup> HoneyComb Food Wrapping Paper is your solution to enjoying crispy, fresh food every time! Designed with advanced honeycomb technology, our food wrappers ensure your meals stay delicious and crunchy without the sogginess. Whether it's hot fries, fried snacks, or any crispy delight, it locks in the texture and taste you love. Eco-friendly and convenient, it’s perfect for takeaways, catering, and on-the-go meals. Keep your food crispy with PackPro<sup>™</sup> HoneyComb Food Wrapping Paper – because great taste deserves great packaging. Experience the difference and elevate your food experience today!</p>
+              <p class="wow fadeInUp">PackPro<sup>™</sup> HoneyComb Food Wrapping Paper is your solution to enjoying crispy, fresh food every time! Designed with advanced honeycomb technology, our food wrappers ensure your meals stay delicious and crunchy without the sogginess. Whether it's hot fries, fried snacks, or any crispy delight, it locks in the texture and taste you love. Eco-friendly and convenient, it’s perfect for takeaways, catering, and on-the-go meals. Keep your food crispy with our food wrapping paper – because great taste deserves great packaging. Experience the difference and elevate your food experience today!</p>
       
             </div>
           </div>
