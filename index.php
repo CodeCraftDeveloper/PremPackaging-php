@@ -256,8 +256,20 @@
             </div>
             <div class="product-wrap">
               <div class="Years-of-excellence-content">
+                <h3>2020</h3>
+                <p style="font-size: 14px;">New manufacturing facility launched in Dadri, UP. Spread over 785000 sq. ft with state of the art Sheet metal components setup with machines from industry leading innovators.</p>
+              </div>
+            </div>
+            <div class="product-wrap">
+              <div class="Years-of-excellence-content">
                 <h3>2022</h3>
-                <p style="font-size: 14px;">In April we became a Limited Company (tagline). Also, in June our paper coating division started. </p>
+                <p style="font-size: 14px;">In April we became a Limited Company (tagline). Also, Coating division started that involves the production of label stocks & specialty tapes to start with.</p>
+              </div>
+            </div>
+            <div class="product-wrap">
+              <div class="Years-of-excellence-content">
+                <h3>2024</h3>
+                <p style="font-size: 14px;">State-of-the-art setup is being developed for our Dadri unit in four phases, with Phase 1 already completed.</p>
               </div>
             </div>
             <!-- <div class="product-wrap">
