@@ -344,6 +344,7 @@
             </div>
             <div class="product-wrap">
               <div class="overflow-hidden">
+                <!-- RESIZE THIS  -->
                 <img src="img/flexpand-img.png" height="50" width="50" alt="Flexpad-Image"/>
               </div>
               <div class="arrivals-content-block">
@@ -352,6 +353,7 @@
             </div>
             <div class="product-wrap">
               <div class="overflow-hidden">
+                <!-- RESIZE THIS  -->
                 <img src="img/wetbox-img.png" alt="WetBoxTech™" />
               </div>
               <div class="arrivals-content-block">
@@ -376,6 +378,7 @@
             </div>
             <div class="product-wrap">
               <div class="overflow-hidden">
+                <!-- RESIZE THIS  -->
                 <img src="img/aluminium-tape-img.png" alt="Aluminium Tape" title="" />
               </div>
               <div class="arrivals-content-block">
