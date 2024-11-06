@@ -130,22 +130,21 @@
   <body>
   <div>
   <div id="myModal" class="modal">
-    <div class="modal-content text-center">
+    <div class="text-center">
     <span class="close text-dark">&nbsp;</span>
-          <img src="img/diwaliex.jpg" alt="Image" height="800px" width="800px">
+          <a href="https://visit.gulfoodmanufacturing.com/?utm_source=Exbmkt&utm_medium=Prem" target="_blank">
+            <img src="img/gulfood.jpg" alt="Image" class="img-fluid">
+          </a>
           <div class="row">
-            <div class="col-md-6">
+            <div class="col-md-12">
           <a href="https://visit.gulfoodmanufacturing.com/?utm_source=Exbmkt&utm_medium=Prem" target="_blank"><button class="btn btn-primary mt-2"><i class="fa-solid fa-link"></i> Register Here</button></a>
-            </div>
-            <div class="col-md-6">
-          <a href="https://www.store.prempackaging.com/" target="_blank"><button class="btn btn-primary mt-2"><i class="fa-solid fa-cart-shopping"></i> Visit our Store</button></a>
             </div>
           </div>
       </div>
     </div>
     <!-- header start -->
   <?php include 'header.php';?>
-    <marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();" style="
+    <!-- <marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();" style="
         position: absolute;
         top: 100px;
         z-index: 9999;
@@ -159,7 +158,7 @@
        <b>Celebrate the Festive Season with 10% off upto INR 1000 on all
             Packaging Products! Use code DIWALI10. Hurry, Offer Ends Soon!
             &nbsp;</b>
-    </marquee>
+    </marquee> -->
     <div id="site-banner" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active">
