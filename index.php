@@ -129,7 +129,7 @@
   </head>
   <body>
   <div>
-  <div id="myModal" class="modal">
+  <!-- <div id="myModal" class="modal">
     <div class="text-center">
     <span class="close text-dark">&nbsp;</span>
           <a href="https://visit.gulfoodmanufacturing.com/?utm_source=Exbmkt&utm_medium=Prem" target="_blank">
@@ -141,7 +141,7 @@
             </div>
           </div>
       </div>
-    </div>
+    </div> -->
     <!-- header start -->
   <?php include 'header.php';?>
     <!-- <marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();" style="
@@ -304,7 +304,7 @@
     </div>
   </section>
   <section class="full-width-image">
-  <div class="container-fluid">
+  <!-- <div class="container-fluid">
     <div class="row text-center mt-2">
       <div class="col-md-12">
         <a href="https://visit.gulfoodmanufacturing.com/?utm_source=Exbmkt&utm_medium=Prem" target="_blank">
@@ -312,7 +312,7 @@
         </a>
       </div>
     </div>
-  </div>
+  </div> -->
 </section>
   <section class="body__content padding second border-bottom">
     <div class="container">
