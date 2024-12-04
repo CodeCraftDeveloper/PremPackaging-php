@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Prem Industries India Limited offers cutting-edge electronic packaging solutions. Explore our innovative designs for secure and stylish electronic packaging.">
-    <meta property="og:title" content="Best Electronic Packaging Solutions | Prem Industries India Limited">
+    <meta property="og:title" content="Electronic Packaging Solutions | Prem Industries India Limited">
     <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
