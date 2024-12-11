@@ -60,7 +60,7 @@
         <div class="row mt-60">
           <div class="col-md-6 order2">
             <div class="body-content">
-              <p class="wow fadeInUp">It’s an online world. Brands realize the benefits of being available on portals. To be successful here they need to rethink their packaging. We have all the solutions ready. And these can be tailor-made to fit every need. We offer packages made with weight-saving materials and designs that utilize space better and offer greater durability. Together these make sure your product is delivered exactly the way you want. Following in the footsteps of constant innovation, we offer packaging solutions that offer:</p>
+              <p class="wow fadeInUp">It’s an online world. Brands realize the benefits of being available on portals. To be successful here they need to rethink their packaging. We have all the solutions ready. And these can be tailor-made to fit every need. We offer packages made with weight-saving materials and designs that utilize space better and offer greater durability. Together these make sure your product is delivered exactly the way you want. Following in the footsteps of constant innovation, we offer Ecommerce packaging solutions that offer:</p>
 
               <ul class="listing-content">
                 <li><i class="fa fa-arrow-right"></i> Reduced DIM weight</li>

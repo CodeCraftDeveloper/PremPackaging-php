@@ -49,7 +49,7 @@
       <div class="row">
         <div class="col-md-12">
           <div class="text-left mb-4">
-            <h3 class="wow fadeInUp">PACKAGING THAT PROTECTS THE DELICATE</h3>
+            <h3 class="wow fadeInUp">ELECTRONIC PACKAGING SOLUTIONS THAT PROTECTS THE DELICATE</h3>
             <a href="contact-us.php" class="contact-add">
               <i class="fa fa-envelope"></i>
               <span>Get more information</span>
@@ -60,7 +60,7 @@
       <div class="row mt-60">
         <div class="col-md-6 order2">
           <div class="body-content">
-            <p class="wow fadeInUp">In the world of electronics, brand loyalty is a significant way to increase sales. Brand loyalty is built on many factors, one being amazing packaging solutions. Nearly 50% of the consumers of electronic products already know what brand they will buy. Hence, the packing is the first look of your brand and it can’t be compromised. It also affects the frequency of repeat purchases from the same brand.</p>
+            <p class="wow fadeInUp">In the world of electronics, brand loyalty is a significant way to increase sales. Brand loyalty is built on many factors, one being amazing electronic packaging solutions. Nearly 50% of the consumers of electronic products already know what brand they will buy. Hence, the packing is the first look of your brand and it can’t be compromised. It also affects the frequency of repeat purchases from the same brand.</p>
 
             <p>Your carton-based branding is done at Prem Industries with a state-of-the-art digital design centre. There are folding carton plants installed. Your products' packaging is handled by our premium facilities that make customised corrugated packaging, rigid boxes, and tailor-made printed packaging that can do wonders for your brand image.</p>
 
