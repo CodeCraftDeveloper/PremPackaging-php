@@ -45,16 +45,16 @@
       </div>
     </div>
 
-    <section class="body__content padding page-body-content">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="mb-2">
+    <section class="body__content mt-4 page-body-content">
+      <div class="container pb-0 mb-0">
+        <div class="row  pb-0 mb-0">
+          <div class="col-md-12  pb-0 mb-0">
+            <div>
               <h3 class="wow fadeInUp">Corrugation Box Solutions by Prem Industries India Limited</h3>
             </div>
           </div>
         </div>
-        <div class="row mt-4">
+        <div class="row mt-2">
           <div class="col-md-10">
             <div class="body-content">
               <p class="wow fadeInUp mt-0 pt-0">What makes a corrugated packaging the best? We believe its high grade material technology, quality, research  and machinery. We are delivering packages of excellence  in the form of 3/5/7 Ply Corrugated Box, Fruit Trays, Bins, Corrugated Pallets, Pizza Boxes/ E Fluted Cartons, PDQ/Displays and more. The use of advanced machinery and well curated processes make our packaging stand out.</p>
@@ -135,18 +135,9 @@
           </div>
         </div>
       </div>
-    </div>
+</div>
 
-    <section class="ContactPrem pt-0 mt-4">
-      <div class="container">
-        <div class="ContactPrem-content">
-          <h3>Connect to know us better!</h3>
-          <p>Let’s discuss a blend of your products and our packaging.</p>
-          <a href="contact-us.php" class="more-btn mt-4"><i class="fa fa-clone" aria-hidden="true"></i> Contact Us</a>
-        </div>
-      </div>
-    </section>
-  
+  <?php include 'contactsection.php';?>
   <!-- header start -->
   <?php include 'footer.php';?>
 

@@ -44,21 +44,21 @@
       </div>
   </div>
 
-  <section class="body__content padding page-body-content">
+  <section class="body__content mt-4 page-body-content">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
           <div class="text-left mb-4">
             <h3 class="wow fadeInUp">FMCG Packaging Solutions by Prem Industries India Limited</h3>
-            <a href="contact-us.php" class="contact-add">
+            <!-- <a href="contact-us.php" class="contact-add">
               <i class="fa fa-envelope"></i>
               <span>Get more information</span>
-            </a>
+            </a> -->
           </div>
         </div>
       </div>
-      <div class="row mt-60">
-        <div class="col-md-6 order2">
+      <div class="row mt-3">
+        <div class="col-md-6 order2 mb-3">
           <div class="body-content">
             <p class="wow fadeInUp">Fast-Moving Consumer Goods (FMCG) products are essential, everyday items that include food, beverages, personal care products, tobacco, and other consumables with a high sales frequency. To ensure these goods reach consumers in pristine condition while meeting industry standards, superior packaging is critical. </p>
             <h4>Why Choose Us for FMCG Packaging?</h4>
@@ -66,9 +66,9 @@
             <h4>Our Printing Excellence for FMCG Packaging</h4>
             <p class="wow fadeInUp">Our advanced printing technologies and high-quality inks set us apart in the FMCG packaging industry. We offer printing inks and coatings approved by some of the leading FMCG tobacco companies. Our range of printing solutions includes:</p>
             <ul class="listing-content mt-0">
-              <li><i class="fa fa-arrow-right"></i> Water-based or solvent-based printing inks</li>
-              <li><i class="fa fa-arrow-right"></i> UV printing ink coatings</li>
-              <li><i class="fa fa-arrow-right"></i> Metallic inks</li>
+              <li style="font-size: 15px"><i class="fa fa-arrow-right"></i> Water-based or solvent-based printing inks</li>
+              <li style="font-size: 15px"><i class="fa fa-arrow-right"></i> UV printing ink coatings</li>
+              <li style="font-size: 15px"><i class="fa fa-arrow-right"></i> Metallic inks</li> 
             </ul>
             <p>Our packaging follows industry-specific packaging specifications for FMCG tobacco products in terms of toxicology and quality.</p>
             <h4>Partner with Prem Industries India Limited</h4>
@@ -83,22 +83,15 @@
       </div>
     </div>
 </section>
-  <div class="e-commerce-video">
+  <div class="e-commerce-video mb-5">
     <video loop="loop" autoplay="" playsinline="" muted="" class="packaging-video">
       <source src="img/hero/packaging.mp4" type="video/mp4">
     </video>
-    <h4 class="bold-title">We guard and enhance the image of your brand with the best packaging possible.</h4>
+    <h4 class="bold-title pb-5">We guard and enhance the image of your brand with the best packaging possible.</h4>
   </div>
 
-  <section class="ContactPrem">
-    <div class="container">
-      <div class="ContactPrem-content">
-        <h3>Connect to know us better!</h3>
-        <p>Let’s discuss a blend of your products and our packaging.</p>
-        <a href="contact-us.php" class="more-btn mt-4"><i class="fa fa-clone" aria-hidden="true"></i> Contact Us</a>
-      </div>
-    </div>
-  </section>
+  <?php include 'contactsection.php';?>
+
   
   <!-- header start -->
   <?php include 'footer.php';?>
