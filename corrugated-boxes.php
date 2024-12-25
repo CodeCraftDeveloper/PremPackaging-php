@@ -61,9 +61,9 @@
       
               <div class="body-content">
             <p class="wow fadeInUp">Corrugated boxes are essential packaging solutions used across industries for their durability, versatility, and eco-friendliness. These boxes are made with corrugated fiberboard, which provides excellent cushioning, strength, and protection for a wide range of products during transit and storage. At Prem Industries India Limited, we specialize in delivering the highest-quality Corrugated box solutions tailored to meet your unique packaging needs.</p>
-            <h4>We Box the Best, So It Unboxes the Best</h4>
+            <h4 style="font-weight: 600;">We Box the Best, So It Unboxes the Best</h4>
             <p class="wow fadeInUp">What makes corrugated packaging the best? We believe it’s a combination of high-grade material technology, meticulous quality control, innovative research, and state-of-the-art machinery. These elements come together to ensure that every box we produce delivers unparalleled performance and reliability. </p>
-            <h4>Our Offerings in Corrugated Box Solutions</h4>
+            <h4 style="font-weight: 600;">Our Offerings in Corrugated Box Solutions</h4>
             <p class="wow fadeInUp">We are proud to offer a diverse range of corrugated packaging products, including:</p>
             <ul class="listing-content mt-0">
               <li><i class="fa fa-arrow-right"></i>3/5/7 Ply Corrugated Boxes </li>
@@ -72,7 +72,7 @@
               <li><i class="fa fa-arrow-right"></i>Pizza Boxes and E-Fluted Cartons </li>
               <li><i class="fa fa-arrow-right"></i>PDQ/Displays </li>
             </ul>
-            <h4>Partner with Us for Excellence in Corrugated Packaging</h4>
+            <h4 style="font-weight: 600;">Partner with Us for Excellence in Corrugated Packaging</h4>
             <p class="wow fadeInUp">At Prem Industries India Limited, we are dedicated to delivering packaging solutions that protect, preserve, and promote your products. With decades of experience, a focus on innovation, and a passion for quality, we are your trusted partner for Corrugated box solutions that make a difference.</p>
           </div>
 
