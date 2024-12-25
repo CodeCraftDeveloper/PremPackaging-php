@@ -23,7 +23,7 @@
                           <a class="dropdown-item" href="luxury-packaging.php">Luxury Packaging</a>
                           <a class="dropdown-item" href="commercial-printing.php">Commercial Printing</a>
                           <a class="dropdown-item" href="electronics-packaging.php">Electronics Packaging</a>
-                          <a class="dropdown-item" href="beauty-personal-care.php">Beauty & Personal Care<br/> Packaging</a>
+                          <a class="dropdown-item" href="beauty-personal-care-packaging.php">Beauty & Personal Care<br/> Packaging</a>
                           <a class="dropdown-item" href="fmcg-packaging.php">FMCG Packaging</a>
                       </div>
                       <div class="col-sm-6 col-lg-6 border-right">
