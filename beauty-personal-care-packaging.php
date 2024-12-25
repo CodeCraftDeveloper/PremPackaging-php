@@ -29,13 +29,13 @@
       <div class="container">
         <div class="row">
           <div class="col-md-7">
-            <h1>Meet the Global Standards of Beauty & Personal Care</h1>
+            <h1>Meet the Standards of Beauty & Personal Care Packaging</h1>
           </div>
           <div class="col-md-12">
             <nav aria-label="breadcrumb">
               <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
-                <li class="breadcrumb-item active" aria-current="page">Beauty & Personal Care</li>
+                <li class="breadcrumb-item active" aria-current="page">Beauty & Personal Care Packaging</li>
               </ol>
             </nav>
           </div>
@@ -43,32 +43,30 @@
       </div>
   </div>
 
-  <section class="body__content padding page-body-content">
+  <section class="body__content mt-4 page-body-content">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <div class="text-left mb-4">
-            <h3 class="wow fadeInUp">IT’S ALL ABOUT LOOKING GREAT</h3>
-            <a href="contact-us.php" class="contact-add">
-              <i class="fa fa-envelope"></i>
-              <span>Get more information</span>
-            </a>
+          <div class="text-left">
+            <h3 class="wow fadeInUp">What is Beauty & Personal Care Packaging?</h3>
           </div>
         </div>
       </div>
-      <div class="row mt-60">
+      <div class="row mt-2">
         <div class="col-md-6 order2">
-          <div class="body-content">
-            <p class="wow fadeInUp">The importance of high-quality personal care, beauty and hygiene product packaging is a necessity. Self-care personal products must be sealed safely to keep the fragrance locked, ensuring easy dispensing and hassle-free packaging. At Prem Industries, we excel at offering flexible, tailor-made packaging according to your needs. There are various factors we consider as providers of elite beauty and personal care packaging solutions:</p>
-
-            <ul class="listing-content">
-              <li><i class="fa fa-arrow-right"></i> Minimal product wastage with a longer secondary shelf life.</li>
-              <li><i class="fa fa-arrow-right"></i> Solutions that have a lower environmental impact and produce less packaging waste</li>
-              <li><i class="fa fa-arrow-right"></i> Simple and secure connection systems that attach to the easy dispensing system.</li>
-              <li><i class="fa fa-arrow-right"></i> Secure seals</li>
+          <div class="body-content mb-4">
+            <p class="wow fadeInUp">Beauty & personal care packaging is essential for maintaining the integrity, appeal, and functionality of personal care products. From locking in fragrances to ensuring secure dispensing, high-quality packaging elevates the customer experience and protects your products. </p>
+            <h4>Why Choose us for Beauty & Personal Care Packaging?</h4>
+            <p class="wow fadeInUp mt-3">At Prem Industries, we understand that packaging is more than just a container; it's a reflection of your brand. That’s why our beauty & personal care packaging solutions are designed to combine aesthetics with functionality. We ensure:</p>
+            <ul style="font-size: 15px; color: black; font-weight: 500;">
+              <li class="mb-3"><i class="fa fa-arrow-right"></i> Minimized Product Wastage: Packaging that extends shelf life and keeps products fresh.</li>
+              <li class="mb-3"><i class="fa fa-arrow-right"></i> Sustainability: Environmentally friendly materials that reduce packaging waste.</li>
+              <li class="mb-3"><i class="fa fa-arrow-right"></i> Secure Seals: Solutions that prevent leaks and lock in fragrances effectively.</li>
+              <li class="mb-3"><i class="fa fa-arrow-right"></i> User-Friendly Designs: Easy dispensing systems that enhance convenience for consumers.</li>
             </ul>
+            <h4>Elevate Your Brand with Innovative Packaging</h4>
             
-            <p>Expand your market share by using our innovative and convenient packaging to offer your retail consumers a range of product options in a variety of packaging.</p>
+            <p>Choosing the right beauty & personal care packaging can significantly expand your market share and appeal to eco-conscious consumers. At Prem Industries, we offer a range of tailor-made solutions, including flexible laminates, paper mailer bags, and secure seals, to meet your unique requirements. Let us help you create packaging that not only protects your products but also aligns with your sustainability goals and enhances your brand's reputation.</p>
 
           </div>
         </div>
@@ -81,22 +79,15 @@
     </div>
   </section>
 
-  <div class="e-commerce-video">
+  <div class="e-commerce-video mb-5">
     <video loop="loop" autoplay="" playsinline="" muted="" class="packaging-video">
       <source src="img/hero/packaging.mp4" type="video/mp4">
     </video>
     <h4 class="bold-title">We guard and enhance the image of your brand with the best packaging possible.</h4>
   </div>
 
-  <section class="ContactPrem">
-    <div class="container">
-      <div class="ContactPrem-content">
-        <h3>Connect to know us better!</h3>
-        <p>Let’s discuss a blend of your products and our packaging.</p>
-        <a href="contact-us.php" class="more-btn mt-4"><i class="fa fa-clone" aria-hidden="true"></i> Contact Us</a>
-      </div>
-    </div>
-  </section>
+  <?php include 'contactsection.php';?>
+
   
   <!-- header start -->
   <?php include 'footer.php';?>
