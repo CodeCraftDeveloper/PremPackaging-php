@@ -45,38 +45,35 @@
       </div>
     </div>
 
-    <section class="body__content mt-4 page-body-content">
-      <div class="container pb-0 mb-0">
-        <div class="row  pb-0 mb-0">
-          <div class="col-md-12  pb-0 mb-0">
+    <section class="body__content mt-5 page-body-content">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
             <div>
-              <h3 class="wow fadeInUp">Corrugated Box Solutions by Prem Industries India Limited</h3>
+              <h3 class="wow fadeInUp" style="font-size: 35px">Corrugated Boxes - Keeping Good Inside</h3>
             </div>
           </div>
         </div>
-        <div class="row mt-2">
+        <div class="row">
           <div class="col-md-10">
             <div class="body-content">
-              <p class="wow fadeInUp mt-0 pt-0">What makes a corrugated packaging the best? We believe its high grade material technology, quality, research  and machinery. We are delivering packages of excellence  in the form of 3/5/7 Ply Corrugated Box, Fruit Trays, Bins, Corrugated Pallets, Pizza Boxes/ E Fluted Cartons, PDQ/Displays and more. The use of advanced machinery and well curated processes make our packaging stand out.</p>
-      
               <div class="body-content">
-            <p class="wow fadeInUp">Corrugated boxes are essential packaging solutions used across industries for their durability, versatility, and eco-friendliness. These boxes are made with corrugated fiberboard, which provides excellent cushioning, strength, and protection for a wide range of products during transit and storage. At Prem Industries India Limited, we specialize in delivering the highest-quality Corrugated box solutions tailored to meet your unique packaging needs.</p>
-            <h4 style="font-weight: 600;">We Box the Best, So It Unboxes the Best</h4>
-            <p class="wow fadeInUp">What makes corrugated packaging the best? We believe it’s a combination of high-grade material technology, meticulous quality control, innovative research, and state-of-the-art machinery. These elements come together to ensure that every box we produce delivers unparalleled performance and reliability. </p>
-            <h4 style="font-weight: 600;">Our Offerings in Corrugated Box Solutions</h4>
-            <p class="wow fadeInUp">We are proud to offer a diverse range of corrugated packaging products, including:</p>
-            <ul class="listing-content mt-0">
-              <li><i class="fa fa-arrow-right"></i>3/5/7 Ply Corrugated Boxes </li>
-              <li><i class="fa fa-arrow-right"></i>Fruit Trays </li>
-              <li><i class="fa fa-arrow-right"></i>Bins and Corrugated Pallets</li>
-              <li><i class="fa fa-arrow-right"></i>Pizza Boxes and E-Fluted Cartons </li>
-              <li><i class="fa fa-arrow-right"></i>PDQ/Displays </li>
-            </ul>
-            <h4 style="font-weight: 600;">Partner with Us for Excellence in Corrugated Packaging</h4>
-            <p class="wow fadeInUp">At Prem Industries India Limited, we are dedicated to delivering packaging solutions that protect, preserve, and promote your products. With decades of experience, a focus on innovation, and a passion for quality, we are your trusted partner for Corrugated box solutions that make a difference.</p>
-          </div>
-
+                <p class="wow fadeInUp">Corrugated boxes are essential packaging solutions used across industries for their durability, versatility, and eco-friendliness. These boxes are made with corrugated fiberboard, which provides excellent cushioning, strength, and protection for a wide range of products during transit and storage. At Prem Industries India Limited, we specialize in delivering the highest-quality Corrugated box solutions tailored to meet your unique packaging needs.</p>
+                <h4 style="font-weight: 600;">We Box the Best, So It Unboxes the Best</h4>
+                <p class="wow fadeInUp">What makes corrugated packaging the best? We believe it’s a combination of high-grade material technology, meticulous quality control, innovative research, and state-of-the-art machinery. These elements come together to ensure that every box we produce delivers unparalleled performance and reliability. </p>
+                <h4 style="font-weight: 600;">Our Offerings in Corrugated Box Solutions</h4>
+                <p class="wow fadeInUp">We are proud to offer a diverse range of corrugated packaging products, including:</p>
+              <ul class="mt-0 mb-3">
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> 3/5/7 Ply Corrugated Boxes </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Fruit Trays </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Bins and Corrugated Pallets</li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Pizza Boxes and E-Fluted Cartons </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> PDQ/Displays </li>
+              </ul>
+              <h4 style="font-weight: 600;">Partner with Us for Excellence in Corrugated Packaging</h4>
+              <p class="wow fadeInUp">At Prem Industries India Limited, we are dedicated to delivering packaging solutions that protect, preserve, and promote your products. With decades of experience, a focus on innovation, and a passion for quality, we are your trusted partner for Corrugated box solutions that make a difference.</p>
             </div>
+          </div>
           </div>
         </div>
       </div>

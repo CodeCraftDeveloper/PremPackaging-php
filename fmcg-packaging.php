@@ -44,12 +44,12 @@
       </div>
   </div>
 
-  <section class="body__content mt-4 page-body-content">
+  <section class="body__content mt-5 page-body-content">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
           <div class="text-left mb-4">
-            <h3 class="wow fadeInUp">FMCG Packaging Solutions by Prem Industries India Limited</h3>
+            <h3 class="wow fadeInUp">FMCG Packaging - As Unique as Your Product</h3>
             <!-- <a href="contact-us.php" class="contact-add">
               <i class="fa fa-envelope"></i>
               <span>Get more information</span>
@@ -66,13 +66,13 @@
             <h4 style="font-weight: 600;">Our Printing Excellence for FMCG Packaging</h4>
             <p class="wow fadeInUp">Our advanced printing technologies and high-quality inks set us apart in the FMCG packaging industry. We offer printing inks and coatings approved by some of the leading FMCG tobacco companies. Our range of printing solutions includes:</p>
             <ul class="mb-3">
-              <li style="font-size: 15px; color: black; font-weight: 500;" class="mb-3"><i class="fa fa-arrow-right"></i> Water-based or solvent-based printing inks</li>
-              <li style="font-size: 15px; color: black; font-weight: 500;" class="mb-3"><i class="fa fa-arrow-right"></i> UV printing ink coatings</li>
-              <li style="font-size: 15px; color: black; font-weight: 500;" class="mb-3"><i class="fa fa-arrow-right"></i> Metallic inks</li> 
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Water-based or solvent-based printing inks</li>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> UV printing ink coatings</li>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Metallic inks</li> 
             </ul>
             <p>Our packaging follows industry-specific packaging specifications for FMCG tobacco products in terms of toxicology and quality.</p>
             <h4 style="font-weight: 600;">Partner with Prem Industries India Limited</h4>
-            <p class="wow fadeInUp">For businesses in the FMCG sector, We are your trusted partner for superior FMCG packaging solutions. With cutting-edge technology, sustainable practices, and a focus on excellence, we help you elevate your brand and deliver exceptional value to your customers.</p>
+            <p class="wow fadeInUp">For businesses in the FMCG sector, we are your trusted partner for superior FMCG packaging solutions. With cutting-edge technology, sustainable practices, and a focus on excellence, we help you elevate your brand and deliver exceptional value to your customers.</p>
           </div>
         </div>
         <div class="col-md-6 order1">
