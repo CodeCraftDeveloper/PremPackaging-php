@@ -72,7 +72,7 @@
         </div>
         <div class="col-md-6 order1">
           <div class="design-image wow" data-wow-delay="0.5s">
-            <img class="image1" width="665" height="870" src="img/beauty-personal-care.jpg" alt="" title="" />
+            <img class="image1" width="665" height="870" src="img/beauty-personal-care.jpg" alt="Beauty & Personal Care Packaging" />
           </div>
         </div>
       </div>

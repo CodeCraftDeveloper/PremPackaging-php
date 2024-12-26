@@ -85,7 +85,7 @@
           <div class="col-md-4 p-1">
             <a class="gallery-col" href="img/Corrugated-Boxes/Corrugated1.jpg" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/Corrugated-Boxes/Corrugated1.jpg" alt="">
+                <img src="img/Corrugated-Boxes/Corrugated1.jpg" alt="3/5/7 Ply Corrugated Box">
                 <h4>3/5/7 Ply Corrugated Box</h4>
               </div>
             </a>
@@ -93,7 +93,7 @@
           <div class="col-md-4 p-1">
             <a class="gallery-col" href="img/Corrugated-Boxes/Corrugated2.jpg" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/Corrugated-Boxes/Corrugated2.jpg" alt="">
+                <img src="img/Corrugated-Boxes/Corrugated2.jpg" alt="Corrugated Bins">
                 <h4>Corrugated Bins</h4>
               </div>
             </a>
@@ -101,7 +101,7 @@
           <div class="col-md-4 p-1">
             <a class="gallery-col" href="img/Corrugated-Boxes/Corrugated3.jpg" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/Corrugated-Boxes/Corrugated3.jpg" alt="">
+                <img src="img/Corrugated-Boxes/Corrugated3.jpg" alt="Corrugated Pallets">
                 <h4>Corrugated Pallets</h4>
               </div>
             </a>
@@ -109,7 +109,7 @@
           <div class="col-md-4 p-1">
             <a class="gallery-col" href="img/Corrugated-Boxes/Corrugated4.jpg" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/Corrugated-Boxes/Corrugated4.jpg" alt="">
+                <img src="img/Corrugated-Boxes/Corrugated4.jpg" alt="Fruit Trays">
                 <h4> Fruit Trays</h4>
               </div>
             </a>
@@ -117,7 +117,7 @@
           <div class="col-md-4 p-1">
             <a class="gallery-col" href="img/Corrugated-Boxes/Corrugated5.jpg" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/Corrugated-Boxes/Corrugated5.jpg" alt="">
+                <img src="img/Corrugated-Boxes/Corrugated5.jpg" alt="PDQ/Displays">
                 <h4>PDQ/Displays</h4>
               </div>
             </a>
@@ -125,7 +125,7 @@
           <div class="col-md-4 p-1">
             <a class="gallery-col" href="img/Corrugated-Boxes/Corrugated6.jpg" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/Corrugated-Boxes/Corrugated6.jpg" alt="">
+                <img src="img/Corrugated-Boxes/Corrugated6.jpg" alt="Pizza Boxes/ E Fluted">
                 <h4> Pizza Boxes/ E Fluted </h4>
               </div>
             </a>

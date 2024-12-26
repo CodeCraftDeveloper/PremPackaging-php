@@ -58,7 +58,7 @@
           <div class="col-md-10">
             <div class="body-content">
               <div class="body-content">
-                <p class="wow fadeInUp">Labels with Multi-ups are innovative solutions designed to simplify and enhance bulk shipment processes. These labels come pre-cut and arranged in multiple formats on a single sheet, making application fast and efficient. Equipped with perforation, they enable smooth separation, reducing time and effort. Ideal for industries like e-commerce, shipping, and inventory management, labels with Multi-ups ensure operational accuracy and effectiveness.</p>
+                <p class="wow fadeInUp">Labels with Multi-ups and perforataion are innovative solutions designed to simplify and enhance bulk shipment processes. These labels come pre-cut and arranged in multiple formats on a single sheet, making application fast and efficient. Equipped with perforation, they enable smooth separation, reducing time and effort. Ideal for industries like e-commerce, shipping, and inventory management, labels with Multi-ups ensure operational accuracy and effectiveness.</p>
                 <h4 style="font-weight: 600;">Why Choose Us For Labels With Multi-ups?</h4>
                 <p class="wow fadeInUp">At Prem Industries India Limited, we bring you superior-quality labels with Multi-ups tailored to your needs. Our expertise ensures precision and durability in every product, with customizable options to meet your business demands. Key features of our labels with Multi-ups include:</p>
                   <ul class="mt-0 mb-3">
@@ -82,7 +82,7 @@
           <div class="col-md-6 p-1 shadow-lg">
             <a class="gallery-col" href="img/multiups1.jpg" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/multiups1.jpg" alt="">
+                <img src="img/multiups1.jpg" alt="Labels with Multi-ups and perforataion">
                 <h4>Labels with Multi-ups and perforataion</h4>
               </div>
             </a>
@@ -90,7 +90,7 @@
           <div class="col-md-6 p-1 shadow-lg">
             <a class="gallery-col" href="img/multiups2.jpg" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/multiups2.jpg" alt="">
+                <img src="img/multiups2.jpg" alt="Labels with Multi-ups and perforataion">
                 <h4>Labels with Multi-ups and perforataion</h4>
               </div>
             </a>

@@ -76,7 +76,7 @@
           </div>
         </div>
         <div class="col-md-6 order1">
-           <video loop="loop" autoplay="" playsinline="" muted="" class="packaging-video">
+           <video loop="loop" autoplay="" playsinline="" muted="" class="packaging-video" alt="FMCG Packaging">
       <source src="img/hero/packaging-toboco.mp4" type="video/mp4">
     </video>
         </div>
