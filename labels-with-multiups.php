@@ -45,93 +45,61 @@
       </div>
     </div>
 
-    <section class="body__content padding page-body-content">
+    <section class="body__content mt-5 page-body-content">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <div class="text-center mb-4">
-              <h3 class="wow fadeInUp">Efficient Solution for Bulk Shipments</h3>
+            <div>
+              <h3 class="wow fadeInUp" style="font-size: 35px">Labels with Multi-ups and perforataion</h3>
             </div>
           </div>
         </div>
-        <div class="row mt-5">
-          <div class="col-md-10 offset-md-1">
-            <div class="body-content text-center">
-              <p class="wow fadeInUp">Our newly launched <span><a href="https://www.store.prempackaging.com/label" target="_blank" style="color: black">labels</a></span>, featuring multi-ups and perforation, provide an efficient solution for bulk shipments. Pre-cut <span><a href="https://www.store.prempackaging.com/label" target="_blank" style="color: black">labels</a></span> can be printed in various formats on a single sheet, simplifying the labeling process. These are perfect for inventory management, shipping, and product identification, ensuring accuracy and efficiency in your e-commerce operations.</p>
-      
+        <div class="row">
+          <div class="col-md-10">
+            <div class="body-content">
+              <div class="body-content">
+                <p class="wow fadeInUp">Labels with Multi-ups are innovative solutions designed to simplify and enhance bulk shipment processes. These labels come pre-cut and arranged in multiple formats on a single sheet, making application fast and efficient. Equipped with perforation, they enable smooth separation, reducing time and effort. Ideal for industries like e-commerce, shipping, and inventory management, labels with Multi-ups ensure operational accuracy and effectiveness.</p>
+                <h4 style="font-weight: 600;">Why Choose Us For Labels With Multi-ups?</h4>
+                <p class="wow fadeInUp">At Prem Industries India Limited, we bring you superior-quality labels with Multi-ups tailored to your needs. Our expertise ensures precision and durability in every product, with customizable options to meet your business demands. Key features of our labels with Multi-ups include:</p>
+                  <ul class="mt-0 mb-3">
+                    <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Multiple formats on a single sheet </li>
+                    <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Perforation for easy separation. </li>
+                    <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Customizable options</li>
+                    <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Versatile usage</li>
+                  </ul>
+              <h4 style="font-weight: 600;">Efficient Solutions For Bulk Shipments</h4>
+              <p class="wow fadeInUp">Our labels with Multi-ups are designed to make bulk shipments more efficient. Trust us for labels with Multi-ups and experience unmatched quality and efficiency in your labeling solutions.</p>
             </div>
+          </div>
           </div>
         </div>
       </div>
     </section>
 
-    <!-- <div class="e-commerce-gallery BoxesGallery">
+    <div class="e-commerce-gallery BoxesGallery">
       <div class="container-fluid">
         <div class="row">
-          <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/Pouches/Pouch2.jpg" data-fancybox="images">
+          <div class="col-md-6 p-1 shadow-lg">
+            <a class="gallery-col" href="img/multiups1.jpg" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/Pouches/Pouch2.jpg" alt="">
-                <h4>Gusset Pouch</h4>
+                <img src="img/multiups1.jpg" alt="">
+                <h4>Labels with Multi-ups and perforataion</h4>
               </div>
             </a>
           </div>
-          <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/Pouches/Pouch5.jpg" data-fancybox="images">
+          <div class="col-md-6 p-1 shadow-lg">
+            <a class="gallery-col" href="img/multiups2.jpg" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/Pouches/Pouch5.jpg" alt="">
-                <h4>Shape Pouch</h4>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/Pouches/Pouch6.jpg" data-fancybox="images">
-              <div class="gallery-box">
-                <img src="img/Pouches/Pouch6.jpg" alt="">
-                <h4>Spout Pouch</h4>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/Pouches/Pouch7.jpg" data-fancybox="images">
-              <div class="gallery-box">
-                <img src="img/Pouches/Pouch7.jpg" alt="">
-                <h4>Standup Pouch</h4>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/Pouches/Pouch8.jpg" data-fancybox="images">
-              <div class="gallery-box">
-                <img src="img/Pouches/Pouch8.jpg" alt="">
-                <h4>Three Side Seal Pouch</h4>
-              </div>
-            </a>
-          </div>
-          <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/Pouches/Pouch9.jpg" data-fancybox="images">
-              <div class="gallery-box">
-                <img src="img/Pouches/Pouch9.jpg" alt="">
-                <h4>Zipper Pouch</h4>
+                <img src="img/multiups2.jpg" alt="">
+                <h4>Labels with Multi-ups and perforataion</h4>
               </div>
             </a>
           </div>
         </div>
       </div>
-    </div> -->
+</div>
 
-    <section class="ContactPrem pt-0 mt-5">
-      <div class="container">
-        <div class="ContactPrem-content">
-          <h3>Connect to know us better!</h3>
-          <p>Let’s discuss a blend of your products and our packaging.</p>
-          <div>
-            <a href="contact-us.php" class="more-btn mt-4"><i class="fa fa-clone" aria-hidden="true"></i> Contact Us</a>
-            <a href="https://www.store.prempackaging.com/label" class="more-btn mt-4" target="_blank"><i class="fa-solid fa-cart-shopping"></i> Shop Now</a>
-          </div>
-        </div>
-      </div>
-    </section>
+<?php include 'contactsection.php';?>
   
   <!-- header start -->
   <?php include 'footer.php';?>
