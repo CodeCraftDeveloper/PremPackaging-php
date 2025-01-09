@@ -85,17 +85,17 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-md-6 p-1">
-            <a class="gallery-col" href="img/retort-packaging/img1.png" data-fancybox="images">
+            <a class="gallery-col" href="img/retort-packaging/image1.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/retort-packaging/img1.png" alt="Retort Packaging">
+                <img src="img/retort-packaging/image1.png" alt="Retort Packaging">
                 <!-- <h4>Retort Packaging</h4> -->
               </div>
             </a>
           </div>
           <div class="col-md-6 p-1">
-            <a class="gallery-col" href="img/retort-packaging/img2.png" data-fancybox="images">
+            <a class="gallery-col" href="img/retort-packaging/image2.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/retort-packaging/img2.png" alt="Corrugated Bins">
+                <img src="img/retort-packaging/image2.png" alt="Corrugated Bins">
               </div>
             </a>
           </div>

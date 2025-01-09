@@ -100,7 +100,7 @@
           <div class="col-md-4">
             <div class="gallery-box">
             <a href="https://www.store.prempackaging.com/paper-bag" style="color: black;" target="_blank">
-              <img src="img/e-com-packaging/paper-bag.jpg" alt="Paper Bag">
+              <img src="img/e-com-packaging/paper.jpg" alt="Paper Bag">
               <h4>Corrugated Mailer Bags</h4>
               </a>
             </div>
