@@ -44,21 +44,38 @@
       </div>
     </div>
 
-    <section class="body__content padding page-body-content">
+    <section class="body__content mt-5 page-body-content">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <div class="text-center mb-4">
-              <h3 class="wow fadeInUp">Transforming Ready –to-eat  Food Packaging</h3>
+            <div>
+              <h3 class="wow fadeInUp" style="font-size: 35px">TRANSFORMING READY–TO-EAT FOOD PACKAGING</h3>
             </div>
           </div>
         </div>
-        <div class="row mt-5">
-          <div class="col-md-10 offset-md-1">
-            <div class="body-content text-center">
-              <p class="wow fadeInUp">Retort packaging is making life easier! Our pouches are heat-resistant laminated plastic, semi-rigid, flexible packages that are well-designed, resource-efficient & space-efficient. Best suitable for keeping products like soups, pasta, rice, sauces, and cook-in-a-bag meals sealed and sterilized in these pouches with a maximum temperature of 121°C. They are hence the preferred packaging for prepared, processed foods. These retort pouches are extremely cost-effective to ship because of the strong packaging, which keeps them safe throughout travel.</p>
-      
+        <div class="row">
+          <div class="col-md-10">
+            <div class="body-content">
+              <div class="body-content">
+                <p class="wow fadeInUp">Retort packaging is a cutting-edge solution revolutionizing the ready-to-eat food industry. It refers to heat-resistant, laminated packaging designed to seal and sterilize food items at high temperatures, typically up to 121°C. This process ensures the safety, freshness, and extended shelf life of products. At Prem Industries India Limited, we specialize in providing top-quality retort packaging solutions that cater to diverse needs in the food industry. Whether it’s soups, sauces, rice, pasta, or cook-in-a-bag meals, our retort pouches are the ideal choice for preserving the taste and nutritional value of your products.</p>
+                <h4 style="font-weight: 600;">Why Choose Our Retort Packaging?</h4>
+                <p class="wow fadeInUp">With decades of experience in the packaging industry, we offer retort pouches that are:</p>
+                <ul class="mt-0 mb-3">
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Heat-Resistant and Durable </li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Flexible and Space-Efficient </li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Resource-Efficient</li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Versatile </li>
+                </ul>
+                <h4 style="font-weight: 600;">How Can we Help in Retort Packaging?</h4>
+                <p class="wow fadeInUp">At Prem Industries India Limited, we are committed to transforming food packaging with innovative retort solutions. Our team ensures every pouch meets the highest standards of quality and performance, providing:</p>
+                <ul class="mt-0 mb-3">
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Customizable sizes and designs to suit specific product requirements. </li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> State-of-the-art manufacturing processes for enhanced durability. </li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Cost-effective packaging solutions that maintain food safety and freshness during transit.</li>
+                </ul>
+              <p class="wow fadeInUp">Contact us and explore our premium retort packaging to deliver unmatched quality and convenience to your customers.</p>
             </div>
+          </div>
           </div>
         </div>
       </div>
@@ -66,12 +83,19 @@
 
     <div class="e-commerce-gallery BoxesGallery">
       <div class="container-fluid">
-        <div class="row justify-content-center">
-          <div class="col-md-8 p-1">
-            <a class="gallery-col" href="img/RetortPackaging.png" data-fancybox="images">
+        <div class="row">
+          <div class="col-md-6 p-1">
+            <a class="gallery-col" href="img/retort-packaging/img1.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/RetortPackaging.png" alt="">
-                <h4></h4>
+                <img src="img/retort-packaging/img1.png" alt="Retort Packaging">
+                <!-- <h4>Retort Packaging</h4> -->
+              </div>
+            </a>
+          </div>
+          <div class="col-md-6 p-1">
+            <a class="gallery-col" href="img/retort-packaging/img2.png" data-fancybox="images">
+              <div class="gallery-box">
+                <img src="img/retort-packaging/img2.png" alt="Corrugated Bins">
               </div>
             </a>
           </div>
@@ -79,15 +103,7 @@
       </div>
     </div>
 
-    <section class="ContactPrem pt-0 mt-4">
-      <div class="container">
-        <div class="ContactPrem-content">
-          <h3>Connect to know us better!</h3>
-          <p>Let’s discuss a blend of your products and our packaging.</p>
-          <a href="contact-us.php" class="more-btn mt-4"><i class="fa fa-clone" aria-hidden="true"></i> Contact Us</a>
-        </div>
-      </div>
-    </section>
+  <?php include 'contactsection.php';?>
   
   <!-- header start -->
   <?php include 'footer.php';?>

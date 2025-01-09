@@ -79,7 +79,7 @@
     <div class="e-commerce-gallery BoxesGallery">
       <div class="container-fluid">
         <div class="row">
-          <div class="col-md-6 p-1 shadow-lg">
+          <div class="col-md-6 p-1">
             <a class="gallery-col" href="img/multiups1.jpg" data-fancybox="images">
               <div class="gallery-box">
                 <img src="img/multiups1.jpg" alt="Labels with Multi-ups and perforataion">
@@ -87,7 +87,7 @@
               </div>
             </a>
           </div>
-          <div class="col-md-6 p-1 shadow-lg">
+          <div class="col-md-6 p-1">
             <a class="gallery-col" href="img/multiups2.jpg" data-fancybox="images">
               <div class="gallery-box">
                 <img src="img/multiups2.jpg" alt="Labels with Multi-ups and perforataion">

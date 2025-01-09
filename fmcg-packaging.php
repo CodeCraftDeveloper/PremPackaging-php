@@ -76,13 +76,13 @@
           </div>
         </div>
         <div class="col-md-6 order1">
-           <video loop="loop" autoplay="" playsinline="" muted="" class="packaging-video" alt="FMCG Packaging">
-      <source src="img/hero/packaging-toboco.mp4" type="video/mp4">
-    </video>
+          <video loop="loop" autoplay="" playsinline="" muted="" class="packaging-video" alt="FMCG Packaging">
+            <source src="img/hero/packaging-toboco.mp4" type="video/mp4">
+          </video>
         </div>
       </div>
     </div>
-</section>
+  </section>
   <div class="e-commerce-video mb-5">
     <video loop="loop" autoplay="" playsinline="" muted="" class="packaging-video">
       <source src="img/hero/packaging.mp4" type="video/mp4">

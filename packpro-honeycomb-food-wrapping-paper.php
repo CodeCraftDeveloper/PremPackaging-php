@@ -27,7 +27,7 @@
     <?php include 'header.php';?>
 
 
-    <div class="page-hero pageheade" style="background: #eee url(../img/honeycomb-wrapper-banner-img.jpg); height: 350px; background-size: cover; background-position: center;">
+    <div class="page-hero pageheade" style="background: #eee url(../img/honeycomb-paper/page-banner.jpg); height: 350px; background-size: cover; background-position: center;">
       <div class="container">
         <div class="row">
           <div class="col-md-8">
@@ -45,35 +45,56 @@
       </div>
     </div>
 
-    <section class="body__content padding page-body-content">
+    <section class="body__content mt-5 page-body-content">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <div class="text-center mb-4">
-              <h3 class="wow fadeInUp">Enjoy Crispy Food with <br> PackPro<sup>™</sup> HoneyComb Food Wrapping Paper</h3>
+            <div>
+              <h3 class="wow fadeInUp" style="font-size: 35px">ENJOY CRISPY FOOD WITH PACKPRO™ HONEYCOMB FOOD WRAPPING PAPER</h3>
             </div>
           </div>
         </div>
-        <div class="row mt-5">
-          <div class="col-md-10 offset-md-1">
-            <div class="body-content text-center">
-              <p class="wow fadeInUp">PackPro<sup>™</sup> HoneyComb Food Wrapping Paper is your solution to enjoying crispy, fresh food every time! Designed with advanced honeycomb technology, our food wrappers ensure your meals stay delicious and crunchy without the sogginess. Whether it's hot fries, fried snacks, or any crispy delight, it locks in the texture and taste you love. Eco-friendly and convenient, it’s perfect for takeaways, catering, and on-the-go meals. Keep your food crispy with our food wrapping paper – because great taste deserves great packaging. Experience the difference and elevate your food experience today!</p>
-      
+        <div class="row">
+          <div class="col-md-10">
+            <div class="body-content">
+              <div class="body-content">
+                <p class="wow fadeInUp">PackPro™ HoneyComb Food Wrapping Paper is an innovative packaging solution crafted to keep your food fresh, crispy, and flavorful. Designed with advanced honeycomb technology, this eco-friendly paper prevents sogginess, ensuring that your fried snacks, hot fries, and other crispy delights maintain their original texture and taste. Whether you're serving takeaways, catering at events, or packing meals for on-the-go consumption, this food wrapping paper guarantees a superior food experience every time.</p>
+                <h4 style="font-weight: 600;">Why Choose us for food wrapping paper?</h4>
+                <p class="wow fadeInUp">At Prem Industries India Limited, we understand the importance of quality packaging. As pioneers in sustainable and efficient food packaging solutions, we offer premium-quality PackPro™ HoneyComb Food Wrapping Paper tailored to meet your needs. Our advanced production techniques and commitment to sustainability ensure that our wrapping paper is not just effective but also environmentally responsible. From small food businesses to large-scale catering services, we provide the best solutions to raise your food packaging standards.</p>
+                <h4 style="font-weight: 600;">Elevate Your Food Packaging Experience</h4>
+                <p class="wow fadeInUp">Invest in PackPro™ HoneyComb Food Wrapping Paper to deliver meals that stand out in taste and presentation. With its durability, eco-friendliness, and superior performance, this wrapping paper is ideal for enhancing customer satisfaction. Discover the perfect balance of innovation and sustainability with PackPro™ HoneyComb Food Wrapping Paper today!</p>
             </div>
+          </div>
           </div>
         </div>
       </div>
     </section>
 
-    <section class="ContactPrem pt-0 mt-4">
-      <div class="container">
-        <div class="ContactPrem-content">
-          <h3>Connect to know us better!</h3>
-          <p>Let’s discuss a blend of your products and our packaging.</p>
-          <a href="contact-us.php" class="more-btn mt-4"><i class="fa fa-clone" aria-hidden="true"></i> Contact Us</a>
+    <div class="e-commerce-gallery BoxesGallery">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-md-6 p-1">
+            <a class="gallery-col" href="img/honeycomb-paper/img1.jpg" data-fancybox="images">
+              <div class="gallery-box">
+                <img src="img/honeycomb-paper/img1.jpg" alt="PackPro™ HoneyComb Food Wrapping Paper">
+                <!-- <h4>Labels with Multi-ups and perforataion</h4> -->
+              </div>
+            </a>
+          </div>
+          <div class="col-md-6 p-1">
+            <a class="gallery-col" href="img/honeycomb-paper/img2.jpg" data-fancybox="images">
+              <div class="gallery-box">
+                <img src="img/honeycomb-paper/img2.jpg" alt="PackPro™ HoneyComb Food Wrapping Paper">
+                <!-- <h4>Labels with Multi-ups and perforataion</h4> -->
+              </div>
+            </a>
+          </div>
         </div>
       </div>
-    </section>
+</div>
+
+    <?php include 'contactsection.php';?>
+
   
   <!-- header start -->
   <?php include 'footer.php';?>
