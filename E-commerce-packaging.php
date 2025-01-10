@@ -84,7 +84,7 @@
           <div class="col-md-4">
             <div class="gallery-box">
             <a href="https://www.store.prempackaging.com/corrugated-boxes" style="color: black;" target="_blank">
-              <img src="img/ecom-g/Custom-Corrugated-Boxes.jpg" alt="Corrugated Box">
+              <img src="img/ecom-g/Custom-Corrugated-Box.png" alt="Corrugated Box">
               <h4>Custom Corrugated Boxes</h4>
               </a>
             </div>
@@ -100,7 +100,7 @@
           <div class="col-md-4">
             <div class="gallery-box">
             <a href="https://www.store.prempackaging.com/paper-bag" style="color: black;" target="_blank">
-              <img src="img/e-com-packaging/paper.jpg" alt="Paper Bag">
+              <img src="img/e-com-packaging/paper-bag.png" alt="Paper Bag">
               <h4>Corrugated Mailer Bags</h4>
               </a>
             </div>
