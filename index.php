@@ -163,7 +163,7 @@
       <div class="carousel-inner">
         <div class="carousel-item active">
           <video loop="loop" autoplay="" playsinline="" muted="" class="site-banner-video">
-            <source src="img/hero/prem-banner.mp4" type="video/mp4">
+            <source src="img/index/banner/prem-banner-new.mp4" type="video/mp4">
           </video>
           <div class="site-banner-content Top25">
             <div class="container">
@@ -327,7 +327,7 @@
           <div class="new-arrivals__slider owl-carousel owl-theme">
             <div class="product-wrap">
               <div class="overflow-hidden">
-                <img src="img/arrivals2.jpg" alt="Label Stock" title="" />
+                <img src="img/index/whats-new/new/arrivals2.jpg" alt="Label Stock" title="" />
               </div>
               <div class="arrivals-content-block">
                 <h3 class="text-center">Label Stock</h3>
@@ -335,7 +335,7 @@
             </div>
             <div class="product-wrap">
               <div class="overflow-hidden">
-                <img src="img/paper-tape-home.jpg" alt="Paper Tape" title="" />
+                <img src="img/index/whats-new/new/paper-tape-home.jpg" alt="Paper Tape" title="" />
               </div>
               <div class="arrivals-content-block">
                 <h3 class="text-center">Paper Tape</h3>
@@ -343,8 +343,7 @@
             </div>
             <div class="product-wrap">
               <div class="overflow-hidden">
-                <!-- RESIZE THIS  -->
-                <img src="img/flexpand-img.png" height="50" width="50" alt="Flexpad-Image"/>
+                <img src="img/index/whats-new/new/flexpand-img.jpg" height="50" width="50" alt="Flexpad-Image"/>
               </div>
               <div class="arrivals-content-block">
                 <h3 class="text-center">Flexpand™</h3>
@@ -353,7 +352,7 @@
             <div class="product-wrap">
               <div class="overflow-hidden">
                 <!-- RESIZE THIS  -->
-                <img src="img/wetbox-img.png" alt="WetBoxTech™" />
+                <img src="img/index/whats-new/new/wetbox-img.jpg" alt="WetBoxTech™" />
               </div>
               <div class="arrivals-content-block">
                 <h3 class="text-center">WetBoxTech™</h3>
@@ -361,7 +360,7 @@
             </div>
             <div class="product-wrap">
               <div class="overflow-hidden">
-                <img src="img/labels-with-multi-ups.png" alt="Labels with Multi-ups" title="" />
+                <img src="img/index/whats-new/new/labels-with-multi-ups.jpg" alt="Labels with Multi-ups" title="" />
               </div>
               <div class="arrivals-content-block">
                 <h3 class="text-center">Labels with Multi-ups</h3>
@@ -369,7 +368,7 @@
             </div>
             <div class="product-wrap">
               <div class="overflow-hidden">
-                <img src="img/apeo-free-tape-img.png" alt="APEO Free Tape" title="" />
+                <img src="img/index/whats-new/new/apeo-free-tape-img.jpg" alt="APEO Free Tape" title="" />
               </div>
               <div class="arrivals-content-block">
                 <h3 class="text-center">APEO Free Tape</h3>
@@ -378,7 +377,7 @@
             <div class="product-wrap">
               <div class="overflow-hidden">
                 <!-- RESIZE THIS  -->
-                <img src="img/aluminium-tape-img.png" alt="Aluminium Tape" title="" />
+                <img src="img/index/whats-new/new/aluminium-tape-img.jpg" alt="Aluminium Tape" title="" />
               </div>
               <div class="arrivals-content-block">
                 <h3 class="text-center">Aluminium Tape</h3>
@@ -386,7 +385,7 @@
             </div>
             <div class="product-wrap">
               <div class="overflow-hidden">
-                <img src="img/masking-tape-img.png" alt="Masking Tape" title="" />
+                <img src="img/index/whats-new/new/masking-tape-img.jpg" alt="Masking Tape" title="" />
               </div>
               <div class="arrivals-content-block">
                 <h3 class="text-center">Masking Tape</h3>
@@ -394,7 +393,7 @@
             </div>
             <div class="product-wrap">
               <div class="overflow-hidden">
-                <img src="img/glass-cloth-tape-img.png" alt="Glass Cloth Tape" title="" />
+                <img src="img/index/whats-new/new/glass-cloth-tape-img.jpg" alt="Glass Cloth Tape" title="" />
               </div>
               <div class="arrivals-content-block">
                 <h3 class="text-center">Glass Cloth Tape</h3>
@@ -402,7 +401,7 @@
             </div>
             <div class="product-wrap">
               <div class="overflow-hidden">
-                <img src="img/honeycomb-wrapper-img.png" alt="Honeycomb Wrapper" title="" />
+                <img src="img/index/whats-new/new/honeycomb-wrapper-img.jpg" alt="Honeycomb Wrapper" title="" />
               </div>
               <div class="arrivals-content-block">
                 <h3 class="text-center">Honeycomb Wrapper</h3>
@@ -437,7 +436,7 @@
         <div class="col-md-6 order1">
           <div class="design-image wow h-100" data-wow-delay="0.5s">
             <video loop="loop" autoplay="" playsinline="" muted="" class="SolutionVideos">
-              <source src="img/gradede1.mp4" type="video/mp4">
+              <source src="img/index/packaging-solutions/new/gradede1.mp4" type="video/mp4">
             </video>
           </div>
         </div>
@@ -446,7 +445,7 @@
         <div class="col-md-6 order1">
           <div class="design-image wow" data-wow-delay="0.9s">
             <video loop="loop" autoplay="" playsinline="" muted="" class="SolutionVideos">
-              <source src="img/innovation.mp4" type="video/mp4">
+              <source src="img/index/packaging-solutions/new/innovation.mp4" type="video/mp4">
             </video>
           </div>
         </div>
@@ -469,7 +468,7 @@
         <div class="col-md-6 order1">
           <div class="design-image wow h-100" data-wow-delay="0.5s">
             <video loop="loop" autoplay="" playsinline="" muted="" class="SolutionVideos">
-              <source src="img/luxury-packaging.mp4" type="video/mp4">
+              <source src="img/index/packaging-solutions/new/luxury-packaging.mp4" type="video/mp4">
             </video>
           </div>
         </div>
@@ -478,7 +477,7 @@
         <div class="col-md-6 order1">
           <div class="design-image wow" data-wow-delay="0.9s">
             <video loop="loop" autoplay="" playsinline="" muted="" class="SolutionVideos">
-              <source src="img/Flexible.mp4" type="video/mp4">
+              <source src="img/index/packaging-solutions/new/Flexible.mp4" type="video/mp4">
             </video>
           </div>
         </div>
@@ -505,7 +504,7 @@
   </div>
   <div class="e-commerce-video">
     <video loop="loop" autoplay="" playsinline="" muted="" class="packaging-video">
-      <source src="img/Machine_prem.mp4" type="video/mp4">
+      <source src="img/index/manufacturing/Machine_prem-new.mp4" type="video/mp4">
     </video>
   </div>
 
