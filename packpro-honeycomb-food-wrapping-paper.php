@@ -91,13 +91,10 @@
           </div>
         </div>
       </div>
-</div>
+    </div>
 
-    <?php include 'contactsection.php';?>
-
-  
-  <!-- header start -->
-  <?php include 'footer.php';?>
+    <?php include 'contactsection.php';?>  
+    <?php include 'footer.php';?>
 
   <script type="text/javascript">
     $(document).ready(function () {

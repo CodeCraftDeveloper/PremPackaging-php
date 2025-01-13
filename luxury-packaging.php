@@ -13,6 +13,7 @@
     <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
     <!-- Bootstrap core css -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/jquery.fancybox.min.css" />
     <!-- Custom styles for this site -->
     <link href="css/main.css" rel="stylesheet">
     <link href="css/media.css" rel="stylesheet">
@@ -75,12 +76,11 @@
         <div class="col-md-6 order1">
           <div class="design-image wow" data-wow-delay="0.5s">
             <img class="image1" width="665" height="870" src="img/luxury-packaging/luxury-1.jpg" alt="Luxury Box" title="Luxury Box" />
-            <img class="image1" width="665" height="870" src="img/luxury-packaging/luxury-2.jpg" alt="Luxury Box" title="Luxury Box" />
           </div>
         </div>
       </div>
     </div>
-</section>
+  </section>
 
   <div class="e-commerce-video mb-5">
     <video loop="loop" autoplay="" playsinline="" muted="" class="packaging-video">
@@ -94,3 +94,10 @@
   
   <!-- header start -->
   <?php include 'footer.php';?>
+
+  
+  <script type="text/javascript">
+    $(document).ready(function () {
+      $('.fancybox').fancybox();
+    });
+  </script>

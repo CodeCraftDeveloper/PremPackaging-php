@@ -13,6 +13,7 @@
     <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
     <!-- Bootstrap core css -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/jquery.fancybox.min.css" />
     <!-- Custom styles for this site -->
     <link href="css/main.css" rel="stylesheet">
     <link href="css/media.css" rel="stylesheet">
@@ -43,41 +44,57 @@
       </div>
   </div>
 
-  <section class="body__content mt-4 page-body-content">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="text-left">
-            <h3 class="wow fadeInUp">Beauty & Personal Care Packaging</h3>
+    <section class="body__content mt-5 page-body-content">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <div>
+              <h3 class="wow fadeInUp" style="font-size: 35px">Beauty & Personal Care Packaging</h3>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-10">
+            <div class="body-content">
+              <div class="body-content">
+                <p class="wow fadeInUp">Beauty & personal care packaging is essential for maintaining the integrity, appeal, and functionality of personal care products. From locking in fragrances to ensuring secure dispensing, high-quality packaging elevates the customer experience and protects your products.</p>
+                <h4 style="font-weight: 600;">Why Choose us for Beauty & Personal Care Packaging?</h4>
+                <p class="wow fadeInUp">At Prem Industries, we understand that packaging is more than just a container; it's a reflection of your brand. That’s why our beauty & personal care packaging solutions are designed to combine aesthetics with functionality. We ensure: </p>
+              <ul class="mt-0 mb-3">
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Minimized Product Wastage: Packaging that extends shelf life and keeps products fresh. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Sustainability: Environmentally friendly materials that reduce packaging waste. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Secure Seals: Solutions that prevent leaks and lock in fragrances effectively.</li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> User-Friendly Designs: Easy dispensing systems that enhance convenience for consumers. </li>
+              </ul>
+              <h4 style="font-weight: 600;">Elevate Your Brand with Innovative Packaging</h4>
+              <p class="wow fadeInUp">Choosing the right beauty & personal care packaging can significantly expand your market share and appeal to eco-conscious consumers. At Prem Industries, we offer a range of tailor-made solutions, including flexible laminates, paper mailer bags, and secure seals, to meet your unique requirements. Let us help you create packaging that not only protects your products but also aligns with your sustainability goals and enhances your brand's reputation.</p>
+            </div>
+          </div>
           </div>
         </div>
       </div>
-      <div class="row mt-2">
-        <div class="col-md-6 order2">
-          <div class="body-content mb-4">
-            <p class="wow fadeInUp">Beauty & personal care packaging is essential for maintaining the integrity, appeal, and functionality of personal care products. From locking in fragrances to ensuring secure dispensing, high-quality packaging elevates the customer experience and protects your products. </p>
-            <h4 style="font-weight: 600;">Why Choose us for Beauty & Personal Care Packaging?</h4>
-            <p class="wow fadeInUp mt-3">At Prem Industries, we understand that packaging is more than just a container; it's a reflection of your brand. That’s why our beauty & personal care packaging solutions are designed to combine aesthetics with functionality. We ensure:</p>
-            <ul style="font-size: 15px; color: black; font-weight: 500;">
-              <li class="mb-3"><i class="fa fa-arrow-right"></i> Minimized Product Wastage: Packaging that extends shelf life and keeps products fresh.</li>
-              <li class="mb-3"><i class="fa fa-arrow-right"></i> Sustainability: Environmentally friendly materials that reduce packaging waste.</li>
-              <li class="mb-3"><i class="fa fa-arrow-right"></i> Secure Seals: Solutions that prevent leaks and lock in fragrances effectively.</li>
-              <li class="mb-3"><i class="fa fa-arrow-right"></i> User-Friendly Designs: Easy dispensing systems that enhance convenience for consumers.</li>
-            </ul>
-            <h4 style="font-weight: 600;" class="mb-4 mt-4">Elevate Your Brand with Innovative Packaging</h4>
-            
-            <p>Choosing the right beauty & personal care packaging can significantly expand your market share and appeal to eco-conscious consumers. At Prem Industries, we offer a range of tailor-made solutions, including flexible laminates, paper mailer bags, and secure seals, to meet your unique requirements. Let us help you create packaging that not only protects your products but also aligns with your sustainability goals and enhances your brand's reputation.</p>
+    </section>
 
+    <div class="e-commerce-gallery BoxesGallery">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-md-6 p-1">
+            <a class="gallery-col" href="img/beauty-personal-care/image1.png" data-fancybox="images">
+              <div class="gallery-box">
+                <img src="img/beauty-personal-care/image1.png" alt="PackPro™ HoneyComb Food Wrapping Paper">
+              </div>
+            </a>
           </div>
-        </div>
-        <div class="col-md-6 order1">
-          <div class="design-image wow" data-wow-delay="0.5s">
-            <img class="image1" width="665" height="870" src="img/beauty-personal-care.jpg" alt="Beauty & Personal Care Packaging" />
+          <div class="col-md-6 p-1">
+            <a class="gallery-col" href="img/beauty-personal-care/image2.png" data-fancybox="images">
+              <div class="gallery-box">
+                <img src="img/beauty-personal-care/image2.png" alt="PackPro™ HoneyComb Food Wrapping Paper">
+              </div>
+            </a>
           </div>
         </div>
       </div>
     </div>
-  </section>
 
   <div class="e-commerce-video mb-5">
     <video loop="loop" autoplay="" playsinline="" muted="" class="packaging-video">
@@ -91,3 +108,9 @@
   
   <!-- header start -->
   <?php include 'footer.php';?>
+
+  <script type="text/javascript">
+    $(document).ready(function () {
+      $('.fancybox').fancybox();
+    });
+  </script>
