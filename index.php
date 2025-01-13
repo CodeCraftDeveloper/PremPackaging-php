@@ -519,7 +519,7 @@
             <p style="font-size: 16px;">We are crafting paper packaging and recycling the plastic. With our team recycled over 2000 tonnes of plastic in the last three years, averaging 50 tonnes per month.</p>
           </div>
           <div class="Sustainability_move">
-            <img src="img/SustainabilityMove.png" alt="vision" />
+            <img src="img/index/green/new/SustainabilityMove.jpg" alt="vision" />
           </div>
         </div>
       </div>
