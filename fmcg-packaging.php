@@ -85,7 +85,7 @@
   </section>
   <div class="e-commerce-video mb-5">
     <video loop="loop" autoplay="" playsinline="" muted="" class="packaging-video">
-      <source src="img/hero/packaging.mp4" type="video/mp4">
+      <source src="img/hero/packagingnew.mp4" type="video/mp4">
     </video>
     <h4 class="bold-title pb-5">We guard and enhance the image of your brand with the best packaging possible.</h4>
   </div>
