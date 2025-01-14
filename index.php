@@ -129,36 +129,7 @@
   </head>
   <body>
   <div>
-  <!-- <div id="myModal" class="modal">
-    <div class="text-center">
-    <span class="close text-dark">&nbsp;</span>
-          <a href="https://visit.gulfoodmanufacturing.com/?utm_source=Exbmkt&utm_medium=Prem" target="_blank">
-            <img src="img/gulfood.jpg" alt="Image" class="img-fluid">
-          </a>
-          <div class="row">
-            <div class="col-md-12">
-          <a href="https://visit.gulfoodmanufacturing.com/?utm_source=Exbmkt&utm_medium=Prem" target="_blank"><button class="btn btn-primary mt-2"><i class="fa-solid fa-link"></i> Register Here</button></a>
-            </div>
-          </div>
-      </div>
-    </div> -->
-    <!-- header start -->
   <?php include 'header.php';?>
-    <!-- <marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();" style="
-        position: absolute;
-        top: 100px;
-        z-index: 9999;
-        max-width: 100%;
-        right: 0;
-        background: #182C5A;
-        color: #fff;
-        font-size: 18px;
-        padding: 1px;
-    ">
-       <b>Celebrate the Festive Season with 10% off upto INR 1000 on all
-            Packaging Products! Use code DIWALI10. Hurry, Offer Ends Soon!
-            &nbsp;</b>
-    </marquee> -->
     <div id="site-banner" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner">
         <div class="carousel-item active">
@@ -186,28 +157,6 @@
   <section class="Prem_Experience">
     <div class="container">
       <div class="row justify-content-center">
-        <!-- <div class="col-lg-4 col-md-6">
-          <div class="image-box-wrapper">
-            <figure class="image-box-img">
-              <img width="64" height="64" src="img/settings-1.png" class="attachment-full size-full" alt="" loading="lazy">
-            </figure>
-            <div class="image-box-content">
-              <h3 class="image-box-title">We Are Sustainable</h3>
-              <p class="image-box-description">We use imported bailing machines that help us recycle even the tiniest of the paper leftover.</p>
-            </div>
-          </div>
-        </div>
-        <div class="col-lg-4 col-md-6">
-          <div class="image-box-wrapper">
-            <figure class="image-box-img">
-              <img width="64" height="64" src="img/bag-1.png" class="attachment-full size-full" alt="" loading="lazy">
-            </figure>
-            <div class="image-box-content">
-              <h3 class="image-box-title">Production Capacity</h3>
-              <p class="image-box-description">2000 paper bags are produced in our infrastructure every minute.</p>
-            </div>
-          </div>
-        </div> -->
         <div class="col-lg-8 col-md-12">
           <h3 class="image-box-title mb-4">Legacy that Continues…</h3>
           <div class="Years-of-excellence__slider owl-carousel owl-theme">
@@ -271,22 +220,10 @@
                 <p style="font-size: 14px;">State-of-the-art setup is being developed for our Dadri unit in four phases, with Phase 1 already completed.</p>
               </div>
             </div>
-            <!-- <div class="product-wrap">
-              <div class="Years-of-excellence-content">
-                <h3>2005</h3>
-                <p>Installation of offset printing machine/Offset printing setup installed</p>
-              </div>
-            </div> -->
-            <!-- <div class="product-wrap">
-              <div class="Years-of-excellence-content">
-                <h3>2005</h3>
-                <p>Installation of offset printing machine/Offset printing setup installed</p>
-              </div>
-            </div> -->
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
-          <div class="EXp_BG">
+          <div class="EXp_BG" style="background: url(./img/index/years/exp-new.jpg);">
             <div class="EXp_Content">
               <div class="ReadMore_btn">
                 <a href="#"><i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>

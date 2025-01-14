@@ -44,58 +44,57 @@
       </div>
   </div>
 
-  <section class="body__content padding page-body-content">
+  <section class="body__content page-body-content">
+    <div class="container">
+    <section class="body__content mt-5 page-body-content">
     <div class="container">
       <div class="row">
-        <div class="col-md-8">
+        <div class="col-md-12">
           <div class="text-left mb-4">
             <h3 class="wow fadeInUp">Our Standards Reflect It</h3>
-            <a href="contact-us.php" class="contact-add">
-              <i class="fa fa-envelope"></i>
-              <span>Get more information</span>
-            </a>
           </div>
         </div>
       </div>
-      <div class="row mt-60">
-        <div class="col-md-6 order2">
+      <div class="row mt-3">
+        <div class="col-md-6 order2 mb-3">
           <div class="body-content">
             <p class="wow fadeInUp">We have created an efficient ecosystem to stay compliant and deliver the packaging solutions consistently to achieve customer satisfaction. We have cutting-edge equipment that complies with international standards and an internal setup for everything needed to make a range of packaging.</p>
-
-            <p>Our firm has received a number of certifications that guarantee uniform standards, show transparency for regulators, and specify what quality means to us. </p>
-
-            <h3 class="mt-5">Testing</h3>
-            <p>We have labs and quality testing machines /equipments with experts operating them.  The corrugated packaging goes through a number of quality checks to assure the best unboxing experience that reaches you. We follow  a set process to test a packaging’s:</p>
-            <ul class="listing-content">
-              <li><i class="fa fa-arrow-right"></i> Bursting Strength </li>
-              <li><i class="fa fa-arrow-right"></i> Edge Crush </li>
-              <li><i class="fa fa-arrow-right"></i> Water Resistance</li>
-              <li><i class="fa fa-arrow-right"></i> Paper Grammage and Thickness</li>
-              <li><i class="fa fa-arrow-right"></i> Cobb Sizing </li>
-              <li><i class="fa fa-arrow-right"></i> Puncture Resistance</li>
-              <li><i class="fa fa-arrow-right"></i> Scuff Resistance </li>
-              <li><i class="fa fa-arrow-right"></i> Box Compression </li>
+            <p class="wow fadeInUp">Our firm has received a number of certifications that guarantee uniform standards, show transparency for regulators, and specify what quality means to us.</p>
+            <h4 style="font-weight: 600;">Testing</h4>
+            <p class="wow fadeInUp">We have labs and quality testing machines /equipments with experts operating them. The corrugated packaging goes through a number of quality checks to assure the best unboxing experience that reaches you. We follow a set process to test a packaging:
+            <ul class="mb-3">
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Bursting Strength</li>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Edge Crush</li>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Water Resistance</li> 
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Paper Grammage and Thickness</li> 
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Cobb Sizing</li> 
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Puncture Resistance</li> 
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Scuff Resistance</li> 
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Box Compression</li> 
             </ul>
           </div>
         </div>
         <div class="col-md-6 order1">
-          <div class="design-image wow h-100" data-wow-delay="0.5s">
-            <img src="img/research-development.jpg">
+            <div class="design-image wow" data-wow-delay="0.5s">
+              <img class="image1" width="665" height="870" src="img/quality-control/research.jpg" alt="E-Commerce Packaging" title="E-Commerce Packaging" />
+            </div>
           </div>
-        </div>
       </div>
-      <div class="row mt-60">
+    </div>
+  </section>
+
+      <div class="row mt-5">
         <div class="col-md-12">
           <div class="row">
             <div class="col-lg-8 offset-lg-2">
-              <div class="text-center">
-                <h3 class="wow fadeInUp">Certification</h3>
+              <div class="text-center mb-0 pb-0">
+                <h3 class="wow fadeInUp">Certifications</h3>
                 <p class="wow fadeInUp">We have received certifications from credible quality management authorities to prove our authentic presence in this industry.</p>
               </div>
             </div>
           </div>
 
-          <div class="certification mt-3">
+          <div class="certification">
             <div class="row">
               <div class="col-md-12">
                 <div class="Years-of-excellence__slider owl-carousel owl-theme">
@@ -145,22 +144,15 @@
     </div>
   </section>
 
-  <div class="e-commerce-video">
+  <div class="e-commerce-video mb-5">
     <video loop="loop" autoplay="" playsinline="" muted="" class="packaging-video">
       <source src="img/hero/packaging.mp4" type="video/mp4">
     </video>
     <h4 class="bold-title"></h4>
   </div>
 
-  <section class="ContactPrem">
-    <div class="container">
-      <div class="ContactPrem-content">
-        <h3>Connect to know us better!</h3>
-        <p>Let’s discuss a blend of your products and our packaging.</p>
-        <a href="contact-us.php" class="more-btn mt-4"><i class="fa fa-clone" aria-hidden="true"></i> Contact Us</a>
-      </div>
-    </div>
-  </section>
+  <?php include 'contactsection.php';?>
+
   
   <!-- header start -->
   <?php include 'footer.php';?>

@@ -22,7 +22,6 @@
     />
   </head>
   <body>
-    <!-- header start -->
     <?php include 'header.php';?>
 
     <div class="page-hero research-dev pageheade">
@@ -43,53 +42,39 @@
       </div>
   </div>
 
-  <section class="body__content padding page-body-content">
+  <section class="body__content mt-5 page-body-content">
     <div class="container">
       <div class="row">
-        <div class="col-md-8">
+        <div class="col-md-12">
           <div class="text-left mb-4">
             <h3 class="wow fadeInUp">It's a Work of Team, What You See & Experience!</h3>
-            <a href="contact-us.php" class="contact-add">
-              <i class="fa fa-envelope"></i>
-              <span>Get more information</span>
-            </a>
           </div>
         </div>
       </div>
-      <div class="row mt-60">
-        <div class="col-md-6 order2">
+      <div class="row mt-3 mb-5">
+        <div class="col-md-6 order2 mb-3">
           <div class="body-content">
             <p class="wow fadeInUp">We are proud to say that our Research and Development (R&D) team is well-equipped to create new packaging or discover new ways to improve the existing packaging line. Our in-house R&D team represents the fusion of various departments. When the experts from different verticals (corrugated, flexible, e-com, printing, rigid boxes etc.) come up with new ideas and innovative approaches, they create a synergy that helps adding value to the packaging solutions and evolve the range. </p>
-
-            <p>The installed automated machines for different purposes along with quality and testing setups makes a strong and impactful statement about our research and development processes as well as team involved. This department is responsible for the overall quality and assurance of excellence. They research and develop better so that we can deliver the best!</p>
-
+            <p class="wow fadeInUp">The installed automated machines for different purposes along with quality and testing setups makes a strong and impactful statement about our research and development processes as well as team involved. This department is responsible for the overall quality and assurance of excellence. They research and develop better so that we can deliver the best!
           </div>
         </div>
         <div class="col-md-6 order1">
-          <div class="design-image wow h-100" data-wow-delay="0.5s">
-            <img src="img/research-development1.jpg">
+            <div class="design-image wow" data-wow-delay="0.5s">
+              <img class="image1" width="665" height="870" src="img/research-development/research-development1.jpg" alt="E-Commerce Packaging" title="E-Commerce Packaging" />
+            </div>
           </div>
-        </div>
       </div>
     </div>
   </section>
 
-  <div class="e-commerce-video">
+  <div class="e-commerce-video mb-5">
     <video loop="loop" autoplay="" playsinline="" muted="" class="packaging-video">
       <source src="img/hero/packaging.mp4" type="video/mp4">
     </video>
     <h4 class="bold-title"></h4>
   </div>
 
-  <section class="ContactPrem">
-    <div class="container">
-      <div class="ContactPrem-content">
-        <h3>Connect to know us better!</h3>
-        <p>Let’s discuss a blend of your products and our packaging.</p>
-        <a href="contact-us.php" class="more-btn mt-4"><i class="fa fa-clone" aria-hidden="true"></i> Contact Us</a>
-      </div>
-    </div>
-  </section>
+  <?php include 'contactsection.php';?>
   
   <!-- header start -->
   <?php include 'footer.php';?>

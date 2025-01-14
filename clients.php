@@ -43,12 +43,12 @@
         </div>
     </div>
 </div>
-<section class="body__content padding page-body-content">
+<section class="body__content mt-5 page-body-content">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
           <div class="text-left text-center">
-            <h3 class="wow fadeInUp animated mb-0 pb-0">Our Clients </h3>
+            <h2 class="wow fadeInUp animated mb-0 pb-0">Our Clients </h2>
           </div>
         </div>
       </div>
@@ -322,15 +322,8 @@
     </div>
 </section>
 
-<section class="ContactPrem">
-    <div class="container">
-        <div class="ContactPrem-content">
-            <h3>Connect to know us better!</h3>
-            <p>Let’s discuss a blend of your products and our packaging.</p>
-            <a href="contact-us.php" class="more-btn mt-4"><i class="fa fa-clone" aria-hidden="true"></i> Contact Us</a>
-        </div>
-    </div>
-</section>
+<?php include 'contactsection.php';?>
+
 
 <!-- header start -->
 <?php include 'footer.php';?>

@@ -47,39 +47,38 @@
       </div>
   </div>
 
-  <section class="body__content padding page-body-content">
+  <section class="body__content page-body-content">
+    <div class="container">
+      <section class="body__content mt-5 page-body-content">
     <div class="container">
       <div class="row">
-        <div class="col-md-8">
+        <div class="col-md-12">
           <div class="text-left mb-4">
-            <h3 class="wow fadeInUp">Our anthem is ‘We’ll do it with innovative excellence’ </h3>
-            <a href="contact-us.php" class="contact-add">
-              <i class="fa fa-envelope"></i>
-              <span>Get more information</span>
-            </a>
+            <h3 class="wow fadeInUp">Our anthem is ‘We’ll do it with innovative excellence’</h3>
           </div>
         </div>
       </div>
-      <div class="row mt-60 align-items-center">
-        <div class="col-md-6 order2">
+      <div class="row mt-3">
+        <div class="col-md-6 order2 mb-3">
           <div class="body-content">
-            <p class="wow fadeInUp">We have solution to your toughest packaging problems! That is the rallying cry of our group of materials scientists, packaging designers, mechanical engineers, and digital technologists, who are all cooperating to advance the circular economy and drive packaging innovation.</p>
-
-            <p>We're implementing cutting-edge paper and packaging solutions to tackle our clients' most pressing problems under the direction of dedicated problem-solvers who use cutting-edge science and technology.</p>
+            <p class="wow fadeInUp">We have solution to your toughest packaging problems! That is the rallying cry of our group of materials scientists, packaging designers, mechanical engineers, and digital technologists, who are all cooperating to advance the circular economy and drive packaging innovation. </p>
+            <p class="wow fadeInUp">We're implementing cutting-edge paper and packaging solutions to tackle our clients' most pressing problems under the direction of dedicated problem-solvers who use cutting-edge science and technology.
           </div>
         </div>
         <div class="col-md-6 order1">
-          <div class="design-image wow h-100" data-wow-delay="0.5s">
+            <div class="design-image wow" data-wow-delay="0.5s">
             <video loop="loop" autoplay="" playsinline="" muted="" class="SolutionVideos">
-              <source src="img/gradede_1.mp4" type="video/mp4">
+              <source src="img/innovation/gradede_1.mp4" type="video/mp4">
             </video>
+            </div>
           </div>
-        </div>
       </div>
+    </div>
+  </section>
       <div class="row mt-60">
 
         <div class="col-md-8 offset-md-2 text-center">
-          <h2 class="wow fadeInUp" style="font-size:36px">Processes that make Innovation happen</h2>
+          <h2 class="wow fadeInUp" style="font-size:36px; color: #14254C;">Processes that make Innovation happen</h2>
         </div>
 
         <div class="col-lg-3 col-md-3">
@@ -124,7 +123,7 @@
 <div class="container">
   <div class="row">
     <div class="col-md-12">
-      <h1 class="text-center mb-5" style="font-size: 36px; color: #3A5BA2; font-weight: 700">OUR LATEST INNOVATIONS</h1>
+      <h1 class="text-center mb-5" style="font-size: 36px; color: #14254C; font-weight: 700">OUR LATEST INNOVATIONS</h1>
     </div>
   </div>
 </div>
@@ -132,65 +131,65 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/wetbox-img.png" data-fancybox="images">
+            <a class="gallery-col" href="img/index/whats-new/wetbox-img.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/wetbox-img.png" alt="">
+                <img src="img/index/whats-new/wetbox-img.png" alt="">
                 <h4>WetBoxTech™</h4>
               </div>
             </a>
           </div>
           <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/flexpand-img.png" data-fancybox="images">
+            <a class="gallery-col" href="img/index/whats-new/flexpand-img.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/flexpand-img.png" alt="">
+                <img src="img/index/whats-new/flexpand-img.png" alt="">
                 <h4>Flexpand™</h4>
               </div>
             </a>
           </div>
           <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/labels-with-multi-ups.png" data-fancybox="images">
+            <a class="gallery-col" href="img/index/whats-new/labels-with-multi-ups.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/labels-with-multi-ups.png" alt="">
+                <img src="img/index/whats-new/labels-with-multi-ups.png" alt="">
                 <h4>Labels with Multi-ups</h4>
               </div>
             </a>
           </div>
           <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/apeo-free-tape-img.png" data-fancybox="images">
+            <a class="gallery-col" href="img/index/whats-new/apeo-free-tape-img.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/apeo-free-tape-img.png" alt="">
+                <img src="img/index/whats-new/apeo-free-tape-img.png" alt="">
                 <h4>APEO Free Tape</h4>
               </div>
             </a>
           </div>
           <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/aluminium-tape-img.png" data-fancybox="images">
+            <a class="gallery-col" href="img/index/whats-new/aluminium-tape-img.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/aluminium-tape-img.png" alt="">
+                <img src="img/index/whats-new/aluminium-tape-img.png" alt="">
                 <h4>Aluminium Tape</h4>
               </div>
             </a>
           </div>
           <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/masking-tape-img.png" data-fancybox="images">
+            <a class="gallery-col" href="img/index/whats-new/masking-tape-img.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/masking-tape-img.png" alt="">
+                <img src="img/index/whats-new/masking-tape-img.png" alt="">
                 <h4>Masking Tape</h4>
               </div>
             </a>
           </div>
           <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/glass-cloth-tape-img.png" data-fancybox="images">
+            <a class="gallery-col" href="img/index/whats-new/glass-cloth-tape-img.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/glass-cloth-tape-img.png" alt="">
+                <img src="img/index/whats-new/glass-cloth-tape-img.png" alt="">
                 <h4>Glass Cloth Tape</h4>
               </div>
             </a>
           </div>
           <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/honeycomb-wrapper-img.png" data-fancybox="images">
+            <a class="gallery-col" href="img/index/whats-new/honeycomb-wrapper-img.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/honeycomb-wrapper-img.png" alt="">
+                <img src="img/index/whats-new/honeycomb-wrapper-img.png" alt="">
                 <h4>Honeycomb Wrapper</h4>
               </div>
             </a>
@@ -199,22 +198,13 @@
       </div>
     </div>
 
-  <div class="e-commerce-video">
+  <div class="e-commerce-video mb-5">
     <video loop="loop" autoplay="" playsinline="" muted="" class="packaging-video">
       <source src="img/hero/packaging.mp4" type="video/mp4">
     </video>
     <h4 class="bold-title"></h4>
   </div>
-
-  <section class="ContactPrem">
-    <div class="container">
-      <div class="ContactPrem-content">
-        <h3>Connect to know us better!</h3>
-        <p>Let’s discuss a blend of your products and our packaging.</p>
-        <a href="contact-us.php" class="more-btn mt-4"><i class="fa fa-clone" aria-hidden="true"></i> Contact Us</a>
-      </div>
-    </div>
-  </section>
   
+  <?php include 'contactsection.php';?>
   <!-- header start -->
   <?php include 'footer.php';?>
