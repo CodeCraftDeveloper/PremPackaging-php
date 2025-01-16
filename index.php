@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Prem Industries India Limited is one of the best packaging company in India. We provide the best packaging solutions like corrugated boxes, pouches, and labels.">
+    <meta name="description" content="Prem Industries India Limited is the best packaging company in India with the best packaging solutions like corrugated boxes, pouches, labels, tapes...">
     <meta property="og:title" content="Prem Industries India Limited | Best Packaging Company in India">
     <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
 <!-- Google tag (gtag.js) -->
@@ -230,7 +230,7 @@
               </div>
               <div class="Heading">
                 <h2>48</h2>
-                <p>Years of Excellence</p> c
+                <p>Years of Excellence</p>
               </div>
               <h3>A team of experts with common beliefs</h3>
               <p class="des">Innovating packaging solutions consciously for you and the planet.</p>
