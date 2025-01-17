@@ -171,9 +171,9 @@
             </a>
           </div>
           <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/innovation/masking-tape.png" data-fancybox="images">
+            <a class="gallery-col" href="img/innovation/masking-tape-img.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/innovation/masking-tape.png" alt="">
+                <img src="img/innovation/masking-tape-img.png" alt="">
                 <h4>Masking Tape</h4>
               </div>
             </a>
