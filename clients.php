@@ -311,6 +311,20 @@
                             <img src="img/clients/Reckitt.png" alt="Reckitt" height="105" width="205" title="" />
                         </div>
                     </div>
+                    <div class="row  justify-content-center align-items-center">
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/eastman.png" alt="Zepto" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/wingreen.png" alt="kakaji" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/testo.png" alt="Snapdeal" title="" />
+                        </div>
+                        <div class="col-md-3 col-6">
+                            <img src="img/clients/masterchow.png" alt="Reckitt" title="" />
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>

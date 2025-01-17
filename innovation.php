@@ -131,25 +131,25 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/index/whats-new/wetbox-img.png" data-fancybox="images">
+            <a class="gallery-col" href="img/innovation/wetbox-img.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/index/whats-new/wetbox-img.png" alt="">
+                <img src="img/innovation/wetbox-img.png" alt="">
                 <h4>WetBoxTech™</h4>
               </div>
             </a>
           </div>
           <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/index/whats-new/flexpand-img.png" data-fancybox="images">
+            <a class="gallery-col" href="img/innovation/flexpand-img.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/index/whats-new/flexpand-img.png" alt="">
+                <img src="img/innovation/flexpand-img.png" alt="">
                 <h4>Flexpand™</h4>
               </div>
             </a>
           </div>
           <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/index/whats-new/labels-with-multi-ups.png" data-fancybox="images">
+            <a class="gallery-col" href="img/innovation/labels-with-multi-ups.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/index/whats-new/labels-with-multi-ups.png" alt="">
+                <img src="img/innovation/labels-with-multi-ups.png" alt="">
                 <h4>Labels with Multi-ups</h4>
               </div>
             </a>
@@ -163,34 +163,42 @@
             </a>
           </div>
           <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/index/whats-new/aluminium-tape-img.png" data-fancybox="images">
+            <a class="gallery-col" href="img/innovation/aluminium-tape-img.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/index/whats-new/aluminium-tape-img.png" alt="">
+                <img src="img/innovation/aluminium-tape-img.png" alt="">
                 <h4>Aluminium Tape</h4>
               </div>
             </a>
           </div>
           <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/index/whats-new/masking-tape-img.png" data-fancybox="images">
+            <a class="gallery-col" href="img/innovation/masking-tape.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/index/whats-new/masking-tape-img.png" alt="">
+                <img src="img/innovation/masking-tape.png" alt="">
                 <h4>Masking Tape</h4>
               </div>
             </a>
           </div>
           <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/index/whats-new/glass-cloth-tape-img.png" data-fancybox="images">
+            <a class="gallery-col" href="img/innovation/glass-cloth-tape.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/index/whats-new/glass-cloth-tape-img.png" alt="">
+                <img src="img/innovation/glass-cloth-tape.png" alt="">
                 <h4>Glass Cloth Tape</h4>
               </div>
             </a>
           </div>
           <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/index/whats-new/honeycomb-wrapper-img.png" data-fancybox="images">
+            <a class="gallery-col" href="img/innovation/honeycomb-wrapper-img.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/index/whats-new/honeycomb-wrapper-img.png" alt="">
+                <img src="img/innovation/honeycomb-wrapper-img.png" alt="">
                 <h4>Honeycomb Wrapper</h4>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-4 p-1">
+            <a class="gallery-col" href="img/carry-handel-tape/image4.png" data-fancybox="images">
+              <div class="gallery-box">
+                <img src="img/carry-handel-tape/image4.png" alt="">
+                <h4>Carry Handel Tape</h4>
               </div>
             </a>
           </div>
