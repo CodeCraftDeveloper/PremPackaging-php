@@ -66,7 +66,7 @@
               <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Usage of fibre to decrease the total cost</li> 
               <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Improved Supply Chain Efficiency</li> 
             </ul>
-            <h4 style="font-weight: 600;">Trust us to help you get the best E-commerce packaging</h4>
+            <h4 style="font-weight: 600;">Trust us to Help you Get the Best E-commerce Packaging</h4>
             <p class="wow fadeInUp">With over four decades of experience in packaging innovations, we provide solutions that not only protect your products but also connect with your consumers. Our premium e-commerce packaging options are tailored to create a lasting impression, elevating your brand's identity while meeting your operational needs. Let us empower your online business with packaging that delivers on quality, sustainability, and efficiency.</p>
           </div>
         </div>

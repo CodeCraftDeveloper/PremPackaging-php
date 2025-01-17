@@ -1603,6 +1603,12 @@ footer ul li a:hover {
   background-size: cover;
   background-position: center;
 }
+.Carry-Handle-Tape-Banner {
+  background: #eee url(../img/carry-handel-tape/banner.jpg);
+  height: 350px;
+  background-size: cover;
+  background-position: center;
+}
 .offset-printed-cartons {
   background: #eee url(../img/Offset-Printed-Cartons.jpg);
   height: 350px;

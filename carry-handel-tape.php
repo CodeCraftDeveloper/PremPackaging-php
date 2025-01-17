@@ -27,7 +27,7 @@
     <?php include 'header.php';?>
 
 
-    <div class="page-hero pageheade Corrugated-Boxes">
+    <div class="page-hero pageheade" style="background: #eee url(../img/carry-handel-tape/banner.jpg); height: 350px; background-size: cover; background-position: center;">
       <div class="container">
         <div class="row">
           <div class="col-md-8">
