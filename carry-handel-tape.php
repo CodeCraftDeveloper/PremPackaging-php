@@ -61,11 +61,11 @@
                 <p class="wow fadeInUp">Carrying heavy or bulky items has never been easier, thanks to the Carry Handle Tape! Crafted from high-quality Polyethylene Terephthalate (PET) film, this innovative tape offers unparalleled strength and convenience. Whether you’re managing packages or groceries, this multi-purpose tape provides a reliable solution to simplify your load.</p>
                 <h4 style="font-weight: 600;">Superior Features for Unmatched Performance</h4>
               <ul class="mt-0 mb-3">
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> High-Strength PET Film: Known for its superior tensile strength and tear resistance, ensuring durability under heavy loads. </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Natural Rubber Adhesive: Designed to perform consistently across a wide range of temperatures, offering excellent moisture resistance. </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Versatile Application: Sticks seamlessly to various surfaces, including cardboard and strong plastic films.</li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Convenience in Carrying: Provides an easy-to-hold handle for items weighing up to 10 kg. </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Eco-Friendly Alternative: Helps reduce the dependency on plastic bags by turning items into easy-to-carry packages. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>High-Strength PET Film:</b> Known for its superior tensile strength and tear resistance, ensuring durability under heavy loads. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Natural Rubber Adhesive:</b> Designed to perform consistently across a wide range of temperatures, offering excellent moisture resistance. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Versatile Application:</b> Sticks seamlessly to various surfaces, including cardboard and strong plastic films.</li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Convenience in Carrying:</b> Provides an easy-to-hold handle for items weighing up to 10 kg. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Eco-Friendly Alternative:</b> Helps reduce the dependency on plastic bags by turning items into easy-to-carry packages. </li>
               </ul>
               <h4 style="font-weight: 600;">Ideal Applications</h4>
               <ul class="mt-0 mb-3">
