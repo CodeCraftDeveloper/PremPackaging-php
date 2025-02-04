@@ -41,12 +41,12 @@
           font-size: 10px;
         }
       }
-      @media (min-width: 20000px) {
+      @media (min-width: 30000px) {
         .page-hero {
           background-image: url('https://placehold.co/1500x350');
         }
       }
-      @media (min-width: 461px) and (max-width: 1599px) {
+      @media (min-width: 461px) and (max-width: 20000px) {
         .page-hero {
           background-image: url('./img/exhibition/banner-350.jpg');
         }
