@@ -48,7 +48,7 @@
       } */
       @media (min-width: 461px) and (max-width: 1599px) {
         .page-hero {
-          background-image: url('./img/exhibition/banner1.jpg');
+          background-image: url('./img/exhibition/banner-350.jpg');
         }
       }
     </style>
