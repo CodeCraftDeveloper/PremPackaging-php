@@ -87,6 +87,7 @@
 			<!--	  <a class="dropdown-item" href="team.php">Our Team</a> -->
 				  <a class="dropdown-item" href="clients.php">Our Clients</a>
 				  <a class="dropdown-item" href="careers.php">Careers</a>
+				  <a class="dropdown-item" href="awards.php">Awards</a>
 				  <a class="dropdown-item" href="quality-control.php">Quality Control</a>
 				  <a class="dropdown-item" href="research-development.php">Research & Development</a>
 				  <a class="dropdown-item" href="exhibitions.php">Exhibitions</a>
