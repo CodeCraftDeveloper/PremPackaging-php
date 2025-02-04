@@ -129,6 +129,19 @@
   </head>
   <body>
   <div>
+  <marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();" style="
+        position: absolute;
+        top: 100px;
+        z-index: 9999;
+        max-width: 100%;
+        right: 0;
+        background: #E92227;
+        color: #fff;
+        font-size: 18px;
+        padding: 1px;
+    ">
+       We are exhibiting in the 39th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>H5F-05-A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!
+    </marquee>
     <div id="myModal" class="modal">
     <div class="modal-content mt-4">
         <!-- <h3 class="text-center">Announcement</h3>     -->
