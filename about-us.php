@@ -63,7 +63,7 @@
         </div>
         <div class="col-md-6 order1">
             <div class="design-image wow" data-wow-delay="0.5s">
-            <img class="image1" width="665" height="870" src="img/about.jpg" alt="about prem industries" title="" />
+            <img class="image1" width="665" height="870" src="img/about/about.jpg" alt="about prem industries" title="" />
             </div>
           </div>
       </div>

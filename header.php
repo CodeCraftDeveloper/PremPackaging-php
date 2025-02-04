@@ -14,7 +14,7 @@
           <li class="nav-item dropdown megamenu-li dmenu">
               <a class="nav-link dropdown-toggle" href="" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Packaging Solutions</a>
               <div class="dropdown-menu megamenu sm-menu p-0 m-0" aria-labelledby="dropdown01" style="z-index: 999">
-                  <div class="row">
+                  <div class="row" style="margin-top: 30px;">
                       <div class="col-sm-6 col-lg-6 border-right">
                           <h6>What we Serve!</h6>
                           <a class="dropdown-item" href="E-commerce-packaging.php">E-Commerce Packaging </a>
@@ -42,7 +42,7 @@
           <li class="nav-item dropdown megamenu-li dmenu">
               <a class="nav-link dropdown-toggle" href="" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Products</a>
               <div class="dropdown-menu megamenu sm-menu border-top p-0 m-0" aria-labelledby="dropdown01">
-                  <div class="row">
+                  <div class="row" style="margin-top: 30px;">
                     <!-- Add one border-left class bellow for division -->
                       <div class="col-sm-6 col-lg-6">
                           <a class="dropdown-item" href="corrugated-boxes.php">Corrugated Boxes</a>
@@ -82,13 +82,14 @@
               <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
               Company Overview
               </a>
-              <div class="dropdown-menu sm-menu sm2Menu" aria-labelledby="navbarDropdown">
+              <div class="dropdown-menu sm-menu sm2Menu" style="margin-top: 30px;" aria-labelledby="navbarDropdown">
                   <a class="dropdown-item" href="about-us.php">About Us</a>
 			<!--	  <a class="dropdown-item" href="team.php">Our Team</a> -->
 				  <a class="dropdown-item" href="clients.php">Our Clients</a>
 				  <a class="dropdown-item" href="careers.php">Careers</a>
 				  <a class="dropdown-item" href="quality-control.php">Quality Control</a>
 				  <a class="dropdown-item" href="research-development.php">Research & Development</a>
+				  <a class="dropdown-item" href="exhibitions.php">Exhibitions</a>
 				  <a class="dropdown-item" href="./brochure/Prem Packaging.pdf" download="Prem Packaging.pdf" target="_blank" rel="noreferrer">Download Brochure</a>
                   
 				  
@@ -126,3 +127,16 @@
     <?php include 'StaticSocialButtons.php';?>
   </nav>
 </header>
+<marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();" style="
+        position: absolute;
+        top: 100px;
+        z-index: 9999;
+        max-width: 100%;
+        right: 0;
+        background: #E92227;
+        color: #fff;
+        font-size: 18px;
+        padding: 1px;
+    ">
+       We are exhibiting in the 39th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>H5F-05-A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!
+    </marquee>

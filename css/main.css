@@ -1603,6 +1603,12 @@ footer ul li a:hover {
   background-size: cover;
   background-position: center;
 }
+.exibit-banner {
+  background: #eee url(../img/exhibition/banner-01.jpg);
+  height: 350px;
+  background-size: cover;
+  background-position: center;
+}
 .Carry-Handle-Tape-Banner {
   background: #eee url(../img/carry-handel-tape/banner.jpg);
   height: 350px;
