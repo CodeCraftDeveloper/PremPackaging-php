@@ -88,8 +88,8 @@
               <div class="row">
                 <div class="col-md-4 p-1">
                   <a class="gallery-col" href="img/awards/1.png" data-fancybox="images">
-                    <div class="gallery-box">
-                        <h4>Symphony 2024</h4>
+                    <div class="gallery-box" class="fixed-bottom">
+                        <h4 style="align-items: flex-end;">Symphony 2024</h4>
                       <img src="img/awards/1.png" alt="Symphony Award 2024">
                     </div>
                   </a>
@@ -97,7 +97,7 @@
                 <div class="col-md-4 p-1">
                   <a class="gallery-col" href="img/awards/2.png" data-fancybox="images">
                     <div class="gallery-box">
-                        <h4>Haier 2022</h4>
+                        <h4 style="align-items: flex-end;">Haier 2022</h4>
                       <img src="img/awards/2.png" alt="Gulfood Manufacturing Dubai">
                     </div>
                   </a>
@@ -105,7 +105,7 @@
                 <div class="col-md-4 p-1">
                   <a class="gallery-col" href="img/awards/3.png" data-fancybox="images">
                     <div class="gallery-box">
-                      <h4>Veeta Day 2024</h4>
+                      <h4 style="align-items: flex-end;">Veeta Day 2024</h4>
                       <img src="img/awards/3.png" alt="Gulfood Manufacturing Dubai">
                     </div>
                   </a>
@@ -113,7 +113,7 @@
                 <div class="col-md-4 p-1">
                   <a class="gallery-col" href="img/awards/4.png" data-fancybox="images">
                     <div class="gallery-box">
-                        <h4>Grofers 2019</h4>
+                        <h4 style="align-items: flex-end;">Grofers 2019</h4>
                       <img src="img/awards/4.png" alt="Gulfood Manufacturing Dubai">
                     </div>
                   </a>
@@ -121,7 +121,7 @@
                 <div class="col-md-4 p-1">
                   <a class="gallery-col" href="img/awards/5.png" data-fancybox="images">
                     <div class="gallery-box">
-                        <h4>IAMA 2019</h4>
+                        <h4 style="align-items: flex-end;">IAMA 2019</h4>
                       <img src="img/awards/5.png" alt="AAHAR 2024">
                     </div>
                   </a>
@@ -129,7 +129,7 @@
                 <div class="col-md-4 p-1">
                   <a class="gallery-col" href="img/awards/6.png" data-fancybox="images">
                     <div class="gallery-box">
-                        <h4>Good Morning 2024</h4>
+                        <h4 style="align-items: flex-end;">Good Morning 2024</h4>
                       <img src="img/awards/6.png" alt="AAHAR 2024">
                     </div>
                   </a>

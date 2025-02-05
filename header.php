@@ -52,7 +52,7 @@
                           <a class="dropdown-item" href="luxury-rigid-boxes.php">Luxury Rigid Boxes</a>
                           <a class="dropdown-item" href="paper-mailer-bags.php">Paper Mailer Bags</a>
                           <a class="dropdown-item" href="2-ply-corrugated-mailer-bags.php">2 Ply Corrugated Mailer Bags</a>
-                          <a class="dropdown-item" href="carry-bag.php">PackPro<sup>™</sup> Carry Bag</a>
+                          <a class="dropdown-item" href="carry-bag.php">Carry Bag</a>
                           <!-- <a class="dropdown-item" href="packpro-tapes.php">PackPro<sup>™</sup> Tapes</a> -->
                       </div>
                       <div class="col-sm-6 col-lg-6 border-right">

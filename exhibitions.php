@@ -167,6 +167,13 @@
                   </a>
                 </div>
                 <div class="col-md-4 p-1">
+                  <a class="gallery-col" href="img/exhibition/gulf/5.jpg" data-fancybox="images">
+                    <div class="gallery-box">
+                      <img src="img/exhibition/gulf/5.jpg" alt="Gulfood Manufacturing Dubai">
+                    </div>
+                  </a>
+                </div>
+                <div class="col-md-4 p-1">
                   <a class="gallery-col" href="img/exhibition/aahar24/1.jpg" data-fancybox="images">
                     <div class="gallery-box">
                       <img src="img/exhibition/aahar24/1.jpg" alt="AAHAR 2024">
@@ -244,6 +251,13 @@
                     </div>
                   </a>
                 </div>
+                <div class="col-md-4 p-1">
+                  <a class="gallery-col" href="img/exhibition/gulf/5.jpg" data-fancybox="images">
+                    <div class="gallery-box">
+                      <img src="img/exhibition/gulf/5.jpg" alt="Gulfood Manufacturing Dubai">
+                    </div>
+                  </a>
+                </div> 
               </div>
             </div>
           </div>
