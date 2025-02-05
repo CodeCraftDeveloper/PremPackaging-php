@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Carry Handle Bags are designed to make carrying items effortless whether used for retail, grocery shopping, or corporate events. Contact us to place your order today.">
-    <meta property="og:title" content="Carry Handle Bags | Prem Industries India Limited">
+    <meta name="description" content="Carry Bags are designed to make carrying items effortless whether used for retail, grocery shopping, or corporate events. Contact us to place your order today.">
+    <meta property="og:title" content="Carry Bag | Prem Industries India Limited">
     <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
 
-    <title>Carry Handle Bags | Prem Industries India Limited</title>
+    <title>Carry Bag | Prem Industries India Limited</title>
     <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
     <!-- Bootstrap core css -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -31,13 +31,13 @@
       <div class="container">
         <div class="row">
           <div class="col-md-8">
-            <h1>Carry Handle Bag</h1>
+            <h1>Carry Bag</h1>
           </div>
           <div class="col-md-12">
             <nav aria-label="breadcrumb">
               <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="/"><i class="fa fa-home"></i> Home</a></li>
-                <li class="breadcrumb-item active" aria-current="page">Carry Handle Bag</li>
+                <li class="breadcrumb-item active" aria-current="page">Carry Bag</li>
               </ol>
             </nav>
           </div>
@@ -50,7 +50,7 @@
         <div class="row">
           <div class="col-md-12">
             <div>
-              <h3 class="wow fadeInUp" style="font-size: 35px">Carry Handle Bags – Convenient & Eco-Friendly Packaging</h3>
+              <h3 class="wow fadeInUp" style="font-size: 35px">Carry Bag – Convenient & Eco-Friendly Packaging</h3>
             </div>
           </div>
         </div>
@@ -58,8 +58,8 @@
           <div class="col-md-10">
             <div class="body-content">
               <div class="body-content">
-                <p class="wow fadeInUp">Carry handle bags are an excellent packaging solution that combines convenience, durability, and sustainability. These bags are designed to make carrying items effortless while offering a sleek and professional look. Whether used for retail, grocery shopping, or corporate events, our carry handle bags provide a premium experience with their sturdy design and eco-friendly material options.</p>
-                <h4 style="font-weight: 600;">Features of Our Carry Handle Bags</h4>
+                <p class="wow fadeInUp">Carry Bag are an excellent packaging solution that combines convenience, durability, and sustainability. These bags are designed to make carrying items effortless while offering a sleek and professional look. Whether used for retail, grocery shopping, or corporate events, our Carry Bag provide a premium experience with their sturdy design and eco-friendly material options.</p>
+                <h4 style="font-weight: 600;">Features of Our Carry Bag</h4>
               <ul class="mt-0 mb-3">
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Eco-Friendly & Sustainable:</b> Made from recyclable and biodegradable materials, reducing environmental impact.</li>
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Easy to Carry:</b> Ergonomically designed handles for a comfortable grip, ensuring effortless transportation.</li>
@@ -67,13 +67,22 @@
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Customizable Options:</b> Available in various sizes, colors, and designs to enhance your brand identity. </li>
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Versatile Usage:</b> Suitable for retail stores, supermarkets, events, promotional giveaways, and more. </li>
               </ul>
-              <h4 style="font-weight: 600;">Ideal Applications</h4>
+              <h4 style="font-weight: 600;">Types of Carry Bag</h4>
               <ul class="mt-0 mb-3">
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Enhancing the portability of heavy or large items. </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Replacing traditional plastic bags by simply attaching the handle to your item. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Shopping Bag with V Bottom with Twisted Handle:</b> Designed for a firm base and easy carrying, these bags come with a twisted handle, making them ideal for e-commerce and retail use. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Shopping Bag with W or Flat Bottom with Loop Handle:</b> Featuring a wider base, these bags provide excellent stability and are perfect for grocery and food delivery services. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Carry Paper Bag without W, V, and Flat Bottom:</b> A simple and efficient option for lightweight packaging, offering an eco-friendly and minimalistic design. </li>
               </ul>
-              <h4 style="font-weight: 600;">Ready to Make Carrying Easy?</h4>
-              <p class="wow fadeInUp">Our Carry Handle Tape is more than a tool—it’s a sustainable and practical solution for businesses and individuals. Whether in retail, logistics, or daily use, it provides unmatched convenience with minimal effort. Transform your packaging experience with Carry Handle Tape. Connect us today to know more.</p>
+              <h4 style="font-weight: 600;">Why Choose Our Carry Bag?</h4>
+              <p class="wow fadeInUp">At Prem Industries India Limited, we specialize in providing high-quality Carry Bag tailored to meet your packaging needs. Here’s why our bags stand out:</p>
+              <ul class="mt-0 mb-3">
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Sustainability Focus:</b> We prioritize eco-friendly materials that contribute to a greener planet. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Superior Quality:</b> Our bags are made from high-strength materials that ensure longevity and durability. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Innovative Designs:</b> We offer modern, aesthetically pleasing designs that enhance the customer experience. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Customization Available:</b> From branding to specific design requirements, we cater to all your customization needs.</li>
+              </ul>
+              <h4 style="font-weight: 600;">Order Your Carry Bag Today!</h4>
+              <p class="wow fadeInUp">Upgrade your packaging with our premium Carry Bag. Whether you need eco-friendly options, durable designs, or customized solutions, Prem Industries India Limited has you covered. Contact us today to place your order and take your packaging to the next level!</p>
             </div>
           </div>
           </div>
@@ -81,14 +90,13 @@
       </div>
     </section>
 
-    <div class="e-commerce-gallery BoxesGallery">
+    <!-- <div class="e-commerce-gallery BoxesGallery">
       <div class="container-fluid">
         <div class="row">
         <div class="col-md-6 p-1">
             <a class="gallery-col" href="img/carry-handel-tape/image4.png" data-fancybox="images">
               <div class="gallery-box">
                 <img src="img/carry-handel-tape/image4.png" alt="Corrugated Bins">
-                <!-- <h4>Corrugated Bins</h4> -->
               </div>
             </a>
           </div>
@@ -96,15 +104,14 @@
             <a class="gallery-col" href="img/carry-handel-tape/image2.png" data-fancybox="images">
               <div class="gallery-box">
                 <img src="img/carry-handel-tape/image2.png" alt="3/5/7 Ply Corrugated Box">
-                <!-- <h4>3/5/7 Ply Corrugated Box</h4> -->
               </div>
             </a>
           </div>
           
         </div>
       </div>
-    </div>
-
+    </div> -->
+  <div class="mt-4"></div>
   <?php include 'contactsection.php';?>
   <!-- header start -->
   <?php include 'footer.php';?>
