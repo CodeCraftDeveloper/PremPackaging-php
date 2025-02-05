@@ -35,10 +35,7 @@
       }
       @media (max-width: 460px) {
         .page-hero {
-          background-image: url('./img/exhibition/mobilebanner-2.jpg');
-        }
-        .banner-head{
-          font-size: 10px;
+          background-image: url('./img/awards/awards-banner.jpg');
         }
       }
       @media (min-width: 30000px) {
@@ -48,7 +45,7 @@
       }
       @media (min-width: 461px) and (max-width: 20000px) {
         .page-hero {
-          background-image: url('./img/exhibition/banner-350.jpg');
+          background-image: url('./img/awards/awards-banner.jpg');
         }
       }
     </style>
