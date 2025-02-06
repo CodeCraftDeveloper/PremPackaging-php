@@ -120,7 +120,7 @@
           <div class="col-md-3 p-1">
             <a class="gallery-col" href="img/carry-bag/4.jpg" data-fancybox="images">
               <div class="gallery-box">
-                  <h4 class="text-center" style="align-items: flex-end; font-size: 18px;">V-Bottom Carry Bags with handle</h4>
+                  <h4 class="text-center" style="align-items: flex-end; font-size: 18px;">V-Bottom Carry Bags with twisted handle</h4>
                 <img src="img/carry-bag/4.jpg" alt="V-Bottom Carry Bags with handle">
               </div>
             </a>
