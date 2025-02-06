@@ -125,6 +125,15 @@
       z-index:999;
     }
 
+  /* Add this CSS to set a fixed height for the testimonial slides */
+  .testimonial {
+    height: 200px; /* Set this to the maximum height of the slide with the most content */
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
     </style>
   </head>
   <body>
@@ -499,8 +508,39 @@
       </div>
     </div>
   </section>
-    
-
+  <div class="container mb-5">
+    <div class="row mt-5">
+        <div class="col-md-12">
+          <h1 class="text-center mt-3" style="font-size: 42px; color: #3A5BA2; font-weight: 700">Testimonials</h1>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-md-12">
+          <div class="new-arrivals__slider owl-carousel owl-theme">
+            <div class="product-wrap">
+              <p class="mt-5 text-center">We're satisfied with Prem Industries India Limited's pouches for our whey protein. The quality is good which keeps our products fresh and safe. Whenever we need something, they're there for us. The team is great and we're looking forward to working with them in the futures.</p>
+              <h4 class="text-center"> - Bright LifeCare Private Limited</h4>
+            </div>
+            <div class="product-wrap">
+              <p class="mt-5 text-center">We commend Prem Industries India Limited for their impeccable craftsmanship and timely delivery of superior rigid boxes. With their packaging solutions, our products now stand out on shelves, ensuring prolonged freshness and customer satisfaction . We appreciate their dedication to excellence and commitment to delivering exceptional packaging solutions. Highly recommended!</p>
+              <h4 class="text-center"> - NutField</h4>
+            </div>
+            <div class="product-wrap">
+              <p class="mt-5 text-center">I'm thrilled with the quality and durability of the pouches I purchased. They've been perfect for my nut packets, keeping them fresh and appealing to customers. The sleek design and sturdy material enhanced the overall presentation of my product. Highly recommend their pouches for any packaging needs.</p>
+              <h4 class="text-center">- Nuts & Co.</h4>
+            </div>
+            <div class="product-wrap">
+              <p class="mt-5 text-center">As a long-time partner of Prem Industries, Fruitri has consistently been impressed with their exceptional e-commerce packaging solutions. Their innovative designs and top-notch materials have significantly enhanced the durability and presentation of our products. The commitment to quality and timely delivery is unparalleled, making them an invaluable part of our supply chain. Highly Recommended!</p>
+              <h4 class="text-center">- Fruitri</h4>
+            </div>
+            <div class="product-wrap">
+              <p class="mt-5 text-center">Your commitment to delivering our recent Costco shipment was exemplary. The timely delivery and exceptional material quality exceeded our expectations. Your team's professionalism and attention to detail have greatly enhanced our trust in your services and contributed to our success. It’s a pleasure to partner with such a reliable team. Thank you for your unwavering dedication. We look forward to achieving even greater milestones together.</p>
+              <h4 class="text-center">- Bikanerwala Foods Private Limited</h4>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   <section class="Prem_Clients">
     <div class="container">
       <div class="row">
@@ -653,7 +693,7 @@
       nav: false,
       dots: true,
       autoplay: true,
-      autoplayTimeout: 2000,
+      autoplayTimeout: 3000,
       item: 6,
       responsive: {
         0: {
