@@ -99,8 +99,8 @@
           </div>
           <div class="col-md-4">
             <div class="gallery-box">
-            <a href="https://www.store.prempackaging.com/paper-bag" style="color: black;" target="_blank">
-              <img src="img/e-com-packaging/paper-bag.png" alt="Paper Bag">
+            <a href="https://prempackaging.com/2-ply-corrugated-mailer-bags" style="color: black;" target="_blank">
+              <img src="img/e-com-packaging/paper-bag.png" alt="Corrugated Mailer Bags">
               <h4 class="text-center">Corrugated Mailer Bags</h4>
               </a>
             </div>
@@ -165,7 +165,7 @@
             <div class="gallery-box">
             <a href="https://www.store.prempackaging.com/food-wrapping-paper" style="color: black;" target="_blank">
               <img src="img/e-com-packaging/6.jpg" alt="Food Wrapping Paper">
-              <h4 class="text-center">Food Wrapping Paper</h4>
+              <h4 class="text-center">PackPro<sup>™</sup> Food Wrapping Paper</h4>
               </a>
             </div>
           </div>
@@ -173,7 +173,7 @@
             <div class="gallery-box">
             <a href="https://prempackaging.com/flexpand" style="color: black;" target="_blank">
               <img src="img/e-com-packaging/7.jpg" alt="Flexpand">
-              <h4 class="text-center">FlexPand</h4>
+              <h4 class="text-center">FlexPand<sup>™</sup></h4>
               </a>
             </div>
           </div>
@@ -181,23 +181,23 @@
             <div class="gallery-box">
             <a href="https://prempackaging.com/carry-handle-tape" style="color: black;" target="_blank">
               <img src="img/e-com-packaging/8.jpg" alt="Carry Handle Tape">
-              <h4 class="text-center">Carry Handle Tape</h4>
+              <h4 class="text-center">PackPro<sup>™</sup> Carry Handle Tape</h4>
               </a>
             </div>
           </div>
           <div class="col-md-4">
             <div class="gallery-box">
-            <a href="https://www.store.prempackaging.com/paper-bag" style="color: black;" target="_blank">
+            <a href="https://prempackaging.com/carry-bag" style="color: black;" target="_blank">
               <img src="img/e-com-packaging/9-new.jpg" alt="Paper Bag without Handle">
-              <h4 class="text-center">Paper Bag without Handle</h4>
+              <h4 class="text-center">Carry Bag without Handle</h4>
               </a>
             </div>
           </div>
           <div class="col-md-4">
             <div class="gallery-box">
-            <a href="https://www.store.prempackaging.com/paper-bag" style="color: black;" target="_blank">
+            <a href="https://prempackaging.com/carry-bag" style="color: black;" target="_blank">
               <img src="img/e-com-packaging/10-new.jpg" alt="Paper Bag with Handle">
-              <h4 class="text-center">Paper Bag with Handle</h4>
+              <h4 class="text-center">Carry Bag with Handle</h4>
               </a>
             </div>
           </div>
