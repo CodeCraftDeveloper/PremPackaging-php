@@ -85,7 +85,7 @@
             <div class="gallery-box">
             <a href="https://www.store.prempackaging.com/corrugated-boxes" style="color: black;" target="_blank">
               <img src="img/ecom-g/Custom-Corrugated-Box.png" alt="Corrugated Box">
-              <h4>Custom Corrugated Boxes</h4>
+              <h4 class="text-center">Custom Corrugated Boxes</h4>
               </a>
             </div>
           </div>
@@ -93,7 +93,7 @@
             <div class="gallery-box">
               <a href="https://www.store.prempackaging.com/bopp-tape" style="color: black;" target="_blank">
               <img src="img/e-com-packaging/bopp.jpg" alt="BOPP Tape">
-              <h4><span>PackPro<sup>™</sup> BOPP Tapes</span></h4>
+              <h4 class="text-center"><span>PackPro<sup>™</sup> BOPP Tapes</span></h4>
               </a>
             </div>
           </div>
@@ -101,7 +101,7 @@
             <div class="gallery-box">
             <a href="https://www.store.prempackaging.com/paper-bag" style="color: black;" target="_blank">
               <img src="img/e-com-packaging/paper-bag.png" alt="Paper Bag">
-              <h4>Corrugated Mailer Bags</h4>
+              <h4 class="text-center">Corrugated Mailer Bags</h4>
               </a>
             </div>
           </div>
@@ -109,23 +109,95 @@
             <div class="gallery-box">
             <a href="https://www.store.prempackaging.com/paper-tape" style="color: black;" target="_blank">
               <img src="img/e-com-packaging/paper.png" alt="Paper Tape">
-              <h4><span>PackPro<sup>™</sup> Paper Tapes</span></h4>
+              <h4 class="text-center"><span>PackPro<sup>™</sup> Paper Tapes</span></h4>
               </a>
             </div>
           </div>
           <div class="col-md-4">
             <div class="gallery-box">
             <a href="https://www.store.prempackaging.com/label" style="color: black;" target="_blank">
-              <img src="img/e-com-packaging/label.png" alt="Label">
-              <h4><span>Rollabel<sup>™</sup> Labels</span></h4>
+              <img src="img/e-com-packaging/1.jpg" alt="Labels with Multiups & Perforation">
+              <h4 class="text-center">Labels with Multiups & Perforation</h4>
               </a>
             </div>
           </div>
           <div class="col-md-4">
             <div class="gallery-box">
             <a href="https://www.store.prempackaging.com/poly-bags" style="color: black;" target="_blank">
-              <img src="img/e-com-packaging/poly.jpg" alt="Poly Bag">
-              <h4>Bubble Wrap Security Bags</h4>
+              <img src="img/e-com-packaging/poly.jpg" alt="Bubble Wrap Security Bags">
+              <h4 class="text-center">Bubble Wrap Security Bags</h4>
+              </a>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="gallery-box">
+            <a href="https://www.store.prempackaging.com/poly-bags" style="color: black;" target="_blank">
+              <img src="img/e-com-packaging/2-new.jpg" alt="Plain Poly Bags">
+              <h4 class="text-center">Plain Poly Bags</h4>
+              </a>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="gallery-box">
+            <a href="https://www.store.prempackaging.com/label" style="color: black;" target="_blank">
+              <img src="img/e-com-packaging/3-new.jpg" alt="Rollabel Label">
+              <h4 class="text-center">Rollabel<sup>™</sup> Label</h4>
+              </a>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="gallery-box">
+            <a href="https://prempackaging.com/wetboxtech" style="color: black;" target="_blank">
+              <img src="img/e-com-packaging/4.jpg" alt="WetBoxTech">
+              <h4 class="text-center">WetBoxTech<sup>™</sup></h4>
+              </a>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="gallery-box">
+            <a href="https://www.store.prempackaging.com/paper-bag" style="color: black;" target="_blank">
+              <img src="img/e-com-packaging/5-new.jpg" alt="Paper Bag">
+              <h4 class="text-center">Paper Bag</h4>
+              </a>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="gallery-box">
+            <a href="https://www.store.prempackaging.com/food-wrapping-paper" style="color: black;" target="_blank">
+              <img src="img/e-com-packaging/6.jpg" alt="Food Wrapping Paper">
+              <h4 class="text-center">Food Wrapping Paper</h4>
+              </a>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="gallery-box">
+            <a href="https://prempackaging.com/flexpand" style="color: black;" target="_blank">
+              <img src="img/e-com-packaging/7.jpg" alt="Flexpand">
+              <h4 class="text-center">FlexPand</h4>
+              </a>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="gallery-box">
+            <a href="https://prempackaging.com/carry-handle-tape" style="color: black;" target="_blank">
+              <img src="img/e-com-packaging/8.jpg" alt="Carry Handle Tape">
+              <h4 class="text-center">Carry Handle Tape</h4>
+              </a>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="gallery-box">
+            <a href="https://www.store.prempackaging.com/paper-bag" style="color: black;" target="_blank">
+              <img src="img/e-com-packaging/9-new.jpg" alt="Paper Bag without Handle">
+              <h4 class="text-center">Paper Bag without Handle</h4>
+              </a>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="gallery-box">
+            <a href="https://www.store.prempackaging.com/paper-bag" style="color: black;" target="_blank">
+              <img src="img/e-com-packaging/10-new.jpg" alt="Paper Bag with Handle">
+              <h4 class="text-center">Paper Bag with Handle</h4>
               </a>
             </div>
           </div>
