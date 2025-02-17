@@ -46,7 +46,7 @@
                 <div class="body-content">
                   <div class="body-content">
                     <p class="wow fadeInUp">In today’s competitive market, packaging plays a crucial role in brand recognition, product safety, and customer satisfaction. Whether you are an e-commerce business, a manufacturer, or a retail brand, choosing the right bespoke packaging supplier is essential for your success. A reliable packaging partner ensures that your products are well-protected, visually appealing, and aligned with your sustainability goals.</p>
-                    <p class="wow fadeInUp">If you are searching for the <b>best packaging company in India</b>, this guide will help you make an informed decision. Prem Industries India Limited, a leader in the packaging industry since 1976, has been setting benchmarks in quality, innovation, and customer service. Here’s what you need to consider when selecting a bespoke packaging supplier.</p>
+                    <p class="wow fadeInUp">If you are searching for the <a href="https://prempackaging.com/" style="color: black;" target="_blank"><b>best packaging company in India</b></a>, this guide will help you make an informed decision. Prem Industries India Limited, a leader in the packaging industry since 1976, has been setting benchmarks in quality, innovation, and customer service. Here’s what you need to consider when selecting a bespoke packaging supplier.</p>
                     <h4 style="font-weight: 600;">1. Understand Your Packaging Needs</h4>
                     <p class="wow fadeInUp">Before selecting a supplier, it’s crucial to identify your specific packaging requirements. Ask yourself:</p>
                     <ul class="mt-0 mb-3">
@@ -95,7 +95,7 @@
                     </ul>
                     <p class="wow fadeInUp">We take pride in its punctual delivery system and dedicated customer support, making it a trusted choice for businesses worldwide.</p>
                     <p class="wow fadeInUp">Choosing the right bespoke packaging supplier is vital for the success of your business. From quality materials and customization options to sustainability and cost-effectiveness, every aspect should be carefully evaluated before deciding.</p>
-                    <p class="wow fadeInUp">If you are searching for a <b>packaging company near me</b>, look no further than Prem Industries India Limited. With decades of expertise, cutting-edge technology, and a commitment to innovation, we are the perfect partner for all your packaging needs.</p>
+                    <p class="wow fadeInUp">If you are searching for a <a href="https://prempackaging.com/" style="color: black;" target="_blank"><b>packaging company near me</b></a>, look no further than Prem Industries India Limited. With decades of expertise, cutting-edge technology, and a commitment to innovation, we are the perfect partner for all your packaging needs.</p>
                     <p class="wow fadeInUp">Get in touch with us today to explore high-quality, tailor-made packaging solutions for your business!</p>
                   </div>
               </div>

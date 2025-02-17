@@ -28,21 +28,49 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
     />
     <style>
-      .page-hero { height: 350px; background-size: cover; background-position:
-      center; } 
-      @media (max-width: 460px) { .page-hero { background-image: url('./img/blog/banners/how-to-choose-the-right-bespoke-packaging-supplier/banner.jpg');
-      } } 
-      @media (min-width: 30000px) { .page-hero { background-image: url('https://placehold.co/1500x350');
-      } } 
-      @media (min-width: 461px) and (max-width: 20000px) { .page-hero { background-image:
-      url('./img/blog/banners/how-to-choose-the-right-bespoke-packaging-supplier/banner.jpg'); } }
+      .page-hero { 
+        height: 350px; 
+        background-size: cover; 
+        background-position: center; 
+      } 
+      @media (max-width: 460px) { 
+        .page-hero { 
+          background-image: url('./img/blog/banners/how-to-choose-the-right-bespoke-packaging-supplier/banner.jpg'); 
+        } 
+      } 
+      @media (min-width: 30000px) { 
+        .page-hero { 
+          background-image: url('https://placehold.co/1500x350'); 
+        } 
+      } 
+      @media (min-width: 461px) and (max-width: 20000px) { 
+        .page-hero { 
+          background-image: url('./img/blog/banners/how-to-choose-the-right-bespoke-packaging-supplier/banner.jpg'); 
+        } 
+      }
       .card-deck {
         display: flex;
+        flex-wrap: wrap;
         justify-content: space-between;
       }
       .card {
-        width: 30%;
-        margin: 20px;
+        flex: 1 1 calc(33.333% - 20px);
+        margin: 10px;
+        display: flex;
+        flex-direction: column;
+        transition: transform 0.3s ease;
+      }
+      .card-body {
+        flex-grow: 1;
+      }
+      @media (max-width: 768px) {
+        .card {
+          flex: 1 1 100%;
+        }
+      }
+
+      .card:hover {
+        transform: scale(1.05);
       }
     </style>
   </head>
@@ -75,63 +103,45 @@
           </div>
         </div>
       </div>
+
       <section class="mt-5 mb-5 pb-3">
         <div class="container">
-          <div class="card-deck mt-3">
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+        <!-- Card 1 -->
+        <div class="col mt-4">
+            <div class="card h-100 d-flex flex-column shadow-sm">
             <a href="how-to-choose-the-right-bespoke-packaging-supplier.php" style="text-decoration: none; color: black;">
-                <div class="card shadow-sm">
-                <img class="card-img-top" src="img/blog/cards/how-to-choose-the-right-bespoke-packaging-supplier.jpg" alt="how-to-choose-the-right-bespoke-packaging-supplier">
-                <div class="card-body">
+                <img src="img/blog/cards/how-to-choose-the-right-bespoke-packaging-supplier.jpg" class="card-img-top" alt="Image 1">
+                <div class="card-body flex-grow-1">
                     <h5 class="card-title">
-                      <b>How to Choose the Right Bespoke Packaging Supplier</b>
+                      <b>
+                      How to Choose the Right Bespoke Packaging Supplier
+                      </b>
                     </h5>
-                    <p class="card-text">
-                      In today’s competitive market, packaging plays a crucial role in brand recognition, product safety, and customer satisfaction...
-                    </p>
+                    <p class="card-text">In today’s competitive market, packaging plays a crucial role in brand
+                    recognition, product safety, and customer satisfaction...</p>
                 </div>
-                <div class="card-footer">
-                    <small class="text-muted">
-                      14th February 2025
-                    </small>
-                  </div>
+                </a>
+                <div class="card-footer mt-auto">
+                    <small class="text-muted">14th February 2025</small>
                 </div>
-            </a>
-            <div class="card" style="border: 0px solid black;">
-              <!-- <img class="card-img-top" src="https://placehold.co/1200x600" alt="Card image cap">
-              <div class="card-body">
-                <h5 class="card-title">
-                  Card title
-                </h5>
-                <p class="card-text">
-                  This card has supporting text below as a natural lead-in to additional
-                  content.
-                </p>
-              </div>
-              <div class="card-footer">
-                <small class="text-muted">
-                  Last updated 3 mins ago
-                </small>
-              </div> -->
             </div>
-            <div class="card" style="border: 0px solid black;">
-              <!-- <img class="card-img-top" src="https://placehold.co/1200x600" alt="Card image cap">
-              <div class="card-body">
-                <h5 class="card-title">
-                  Card title
-                </h5>
-                <p class="card-text">
-                  This card has supporting text below as a natural lead-in to additional
-                  content.
-                </p>
-              </div>
-              <div class="card-footer">
-                <small class="text-muted">
-                  Last updated 3 mins ago
-                </small>
-              </div> -->
-            </div>
-          </div>
         </div>
+        <!-- Card 2 -->
+        <!-- <div class="col mt-4">
+            <div class="card h-100 d-flex flex-column shadow-sm">
+                <img src="img/blog/cards/how-to-choose-the-right-bespoke-packaging-supplier.jpg" class="card-img-top" alt="Image 2">
+                <div class="card-body flex-grow-1">
+                    <h5 class="card-title">Card 2</h5>
+                    <p class="card-text">This is a longer text to test height adjustments. This should align all cards properly.</p>
+                </div>
+                <div class="card-footer mt-auto">
+                    <small class="text-muted">14th February 2025</small>
+                </div>
+            </div>
+        </div> -->
+    </div>
+</div>
       </section>
       <?php include 'footer.php';?>
   </body>
