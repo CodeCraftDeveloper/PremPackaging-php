@@ -81,14 +81,14 @@
           <div class="col-md-6 p-1">
             <a class="gallery-col" href="img/beauty-personal-care/image1.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/beauty-personal-care/image1.png" alt="PackPro™ HoneyComb Food Wrapping Paper">
+                <img src="img/beauty-personal-care/image1.png" alt="Beauty and Personal Care">
               </div>
             </a>
           </div>
           <div class="col-md-6 p-1">
             <a class="gallery-col" href="img/beauty-personal-care/image2.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/beauty-personal-care/image2.png" alt="PackPro™ HoneyComb Food Wrapping Paper">
+                <img src="img/beauty-personal-care/image2.png" alt="Beauty and Personal Care">
               </div>
             </a>
           </div>

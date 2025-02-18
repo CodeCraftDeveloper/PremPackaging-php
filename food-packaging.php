@@ -81,8 +81,8 @@
         </div>
         <div class="col-md-6 order1">
           <div class="design-image wow" data-wow-delay="0.5s">
-            <img class="image1" width="665" height="870" src="img/food-pack.jpg" alt="" title="" />
-            <img class="image1 mt-4" width="665" height="870" src="img/food-pack1.jpg" alt="" title="" />
+            <img class="image1" width="665" height="870" src="img/food-pack.jpg" alt="Food Packaging" title="Food Packaging Services | Prem Industries India Limited" />
+            <img class="image1 mt-4" width="665" height="870" src="img/food-pack1.jpg" alt="Food Packaging" title="Food Packaging Services | Prem Industries India Limited" />
           </div>
         </div>
       </div>

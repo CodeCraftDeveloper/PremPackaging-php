@@ -75,7 +75,7 @@
         </div>
         <div class="col-md-6 order1">
           <div class="design-image wow" data-wow-delay="0.5s">
-            <img class="image1" width="665" height="870" src="img/luxury-packaging/luxury-1.jpg" alt="Luxury Box" title="Luxury Box" />
+            <img class="image1" width="665" height="870" src="img/luxury-packaging/luxury-1.jpg" alt="Luxury Packaging" title="Luxury Packaging | Prem Industries India Limited" />
           </div>
         </div>
       </div>

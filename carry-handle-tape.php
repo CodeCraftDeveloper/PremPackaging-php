@@ -87,7 +87,7 @@
         <div class="col-md-6 p-1">
             <a class="gallery-col" href="img/carry-handel-tape/image4.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/carry-handel-tape/image4.png" alt="Corrugated Bins">
+                <img src="img/carry-handel-tape/image4.png" alt="PackPro Carry Handle Tape">
                 <!-- <h4>Corrugated Bins</h4> -->
               </div>
             </a>
@@ -95,7 +95,7 @@
           <div class="col-md-6 p-1">
             <a class="gallery-col" href="img/carry-handel-tape/image2.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/carry-handel-tape/image2.png" alt="3/5/7 Ply Corrugated Box">
+                <img src="img/carry-handel-tape/image2.png" alt="PackPro Carry Handle Tape">
                 <!-- <h4>3/5/7 Ply Corrugated Box</h4> -->
               </div>
             </a>
