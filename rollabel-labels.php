@@ -9,7 +9,7 @@
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
 
-    <title>Rollabel™</title>
+    <title>Rollabel™ Labels</title>
     <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
     <!-- Bootstrap core css -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -30,13 +30,13 @@
       <div class="container">
         <div class="row">
           <div class="col-md-8">
-            <h1>Rollabel<sup>™</sup></h1>
+            <h1>Rollabel<sup>™</sup> Labels</h1>
           </div>
           <div class="col-md-12">
             <nav aria-label="breadcrumb">
               <ol class="breadcrumb">
                 <li class="breadcrumb-item"><a href="#"><i class="fa fa-home"></i> Home</a></li>
-                <li class="breadcrumb-item active" aria-current="page">Rollabel™</li>
+                <li class="breadcrumb-item active" aria-current="page">Rollabel™ Labels</li>
               </ol>
             </nav>
           </div>
@@ -49,22 +49,22 @@
         <div class="row">
           <div class="col-md-12">
             <div class="text-center mb-4">
-              <h3 class="wow fadeInUp">Rollabel<sup>™</sup> Your Premium Labeling Solution</h3>
+              <h3 class="wow fadeInUp">Rollabel<sup>™</sup>Labels Your Premium Labeling Solution</h3>
             </div>
           </div>
         </div>
         <div class="row mt-5">
           <div class="col-md-10 offset-md-1">
             <div class="body-content text-center">
-              <p class="wow fadeInUp">Prem Industries India Limited proudly presents <span><a href="https://www.store.prempackaging.com/label" target="_blank" style="color: black">Rollabel™</a></span>, your go-to solution for premium <span><a href="https://www.store.prempackaging.com/label" target="_blank" style="color: black">labels</a></span>. With a strong legacy of excellence, we provide a diverse range of high-quality <span><a href="https://www.store.prempackaging.com/label" target="_blank" style="color: black">labels</a></span> tailored to suit your specific needs. From customized designs to standardized options, our focus on quality and innovation ensures your products shine in today’s competitive market.</p>
-              <p>Whether you require <span><a href="https://www.store.prempackaging.com/direct-thermal-label" target="_blank" style="color: black">Direct Thermal Labels</a></span> for on-demand printing or <span><a href="https://www.store.prempackaging.com/chromo-label" target="_blank" style="color: black">Chromo Labels</a></span> for vibrant, attention-grabbing branding, <span><a href="https://www.store.prempackaging.com/label" target="_blank" style="color: black">Rollabel™</a></span> offers flexible and user-friendly <span><a href="https://www.store.prempackaging.com/label" target="_blank" style="color: black">label</a></span> solutions for all your packaging requirements.</p>
+              <p class="wow fadeInUp">Prem Industries India Limited proudly presents <span><a href="https://www.store.prempackaging.com/label" target="_blank" style="color: black">Rollabel™ Labels</a></span>, your go-to solution for premium <span><a href="https://www.store.prempackaging.com/label" target="_blank" style="color: black">labels</a></span>. With a strong legacy of excellence, we provide a diverse range of high-quality <span><a href="https://www.store.prempackaging.com/label" target="_blank" style="color: black">labels</a></span> tailored to suit your specific needs. From customized designs to standardized options, our focus on quality and innovation ensures your products shine in today’s competitive market.</p>
+              <p>Whether you require <span><a href="https://www.store.prempackaging.com/direct-thermal-label" target="_blank" style="color: black">Direct Thermal Labels</a></span> for on-demand printing or <span><a href="https://www.store.prempackaging.com/chromo-label" target="_blank" style="color: black">Chromo Labels</a></span> for vibrant, attention-grabbing branding, <span><a href="https://www.store.prempackaging.com/label" target="_blank" style="color: black">Rollabel™ Labels</a></span> offers flexible and user-friendly <span><a href="https://www.store.prempackaging.com/label" target="_blank" style="color: black">label</a></span> solutions for all your packaging requirements.</p>
             </div>
           </div>
         </div>
       </div>
     </section>
 
-    <section class="ContactPrem pt-0 mt-5">
+    <section class="ContactPrem pt-0 mt-2">
       <div class="container">
         <div class="ContactPrem-content">
           <h3>Connect to know us better!</h3>
