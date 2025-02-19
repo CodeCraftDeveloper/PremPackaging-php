@@ -69,9 +69,9 @@
               </ul>
               <h4 style="font-weight: 600;">Types of Carry Bags</h4>
               <ul class="mt-0 mb-3">
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Carry Bag with V Bottom with Twisted Handle:</b> Designed for a firm base and easy carrying, these bags come with a twisted handle, making them ideal for e-commerce and retail use. </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Carry Bag with W or Flat Bottom with Loop Handle:</b> Featuring a wider base, these bags provide excellent stability and are perfect for grocery and food delivery services. </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Carry Paper Bag without W, V, and Flat Bottom:</b> A simple and efficient option for lightweight packaging, offering an eco-friendly and minimalistic design. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Carry Bags with V Bottom with Twisted Handle:</b> Designed for a firm base and easy carrying, these bags come with a twisted handle, making them ideal for e-commerce and retail use. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Carry Bags with W or Flat Bottom with Loop Handle:</b> Featuring a wider base, these bags provide excellent stability and are perfect for grocery and food delivery services. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Carry Bags without W, V, and Flat Bottom:</b> A simple and efficient option for lightweight packaging, offering an eco-friendly and minimalistic design. </li>
               </ul>
               <h4 style="font-weight: 600;">Why Choose Our Carry Bags?</h4>
               <p class="wow fadeInUp">At Prem Industries India Limited, we specialize in providing high-quality Carry Bags tailored to meet your packaging needs. Here’s why our bags stand out:</p>
