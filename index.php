@@ -450,7 +450,7 @@
         <div class="col-md-6 order2">
           <div class="design-content">
             <h3 class="wow fadeInUp">Product is only as good as its packaging</h3>
-            <p class="wow fadeInUp">Packaging is a crucial component of a brand's concept, whether the customer is a prestige shopper or purchasing a gift. When it comes to packing, rigid boxes are frequently the last thing that people consider, but when it comes to luxury goods, rigid box packaging is actually a highly popular option. We use technology to craft it elegantly for you!</p>
+            <p class="wow fadeInUp">Packaging is a crucial component of a brand's concept, whether the customer is a prestige shopper or purchasing a gift. When it comes to packaging, rigid boxes are frequently the last thing that people consider, but when it comes to luxury goods, rigid box packaging is actually a highly popular option. We use technology to craft it elegantly for you!</p>
             <a href="luxury-packaging.php" class="more-btn mt-4"><i class="fa fa-clone" aria-hidden="true"></i> Read More</a>
           </div>
         </div>
