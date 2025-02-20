@@ -308,7 +308,7 @@
             </div>
             <div class="product-wrap">
               <div class="overflow-hidden">
-                <img src="img/index/whats-new/new/flexpand-img.jpg" height="50" width="50" alt="Flexpad-Image"/>
+                <img src="img/index/whats-new/new/flexpand-img.jpg" height="50" width="50" alt="Flexpad"/>
               </div>
               <div class="arrivals-content-block">
                 <h3 class="text-center">Flexpand™</h3>
@@ -317,7 +317,7 @@
             <div class="product-wrap">
               <div class="overflow-hidden">
                 <!-- RESIZE THIS  -->
-                <img src="img/index/whats-new/new/wetbox-img.jpg" alt="WetBoxTech™" />
+                <img src="img/index/whats-new/new/wetbox-img.jpg" alt="WetBoxTech" />
               </div>
               <div class="arrivals-content-block">
                 <h3 class="text-center">WetBoxTech™</h3>
@@ -372,6 +372,30 @@
                 <h3 class="text-center">Honeycomb Wrapper</h3>
               </div>
             </div>
+            <div class="product-wrap">
+              <div class="overflow-hidden">
+                <img src="img/index/whats-new/carry-bag.jpg" alt="Carry Bags" title="" />
+              </div>
+              <div class="arrivals-content-block">
+                <h3 class="text-center">Carry Bags</h3>
+              </div>
+            </div>
+            <div class="product-wrap">
+              <div class="overflow-hidden">
+                <img src="img/index/whats-new/carry-handle-tape.jpg" alt="PackPro Carry Handle Tape" title="" />
+              </div>
+              <div class="arrivals-content-block">
+                <h3 class="text-center">PackPro™ Carry Handle Tape</h3>
+              </div>
+            </div>
+            <div class="product-wrap">
+              <div class="overflow-hidden">
+                <img src="img/index/whats-new/food-wrapping-paper.jpg" alt="PackPro HoneyComb Food Wrapping Paper" title="" />
+              </div>
+              <div class="arrivals-content-block">
+                <h3 class="text-center">PackPro™ HoneyComb Food Wrapping Paper</h3>
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -392,7 +416,7 @@
           <div class="design-content">
             <h3 class="wow fadeInUp">Tailor-made Solutions</h3>
             <p class="wow fadeInUp">We are manufacturers of all kinds of packaging solutions, including <a href="https://www.store.prempackaging.com/corrugated-boxes" target="_blank" style="color: #555555">corrugated
-              boxes</a>, luxury boxes, flexible laminates, mono cartons, <a href="https://www.store.prempackaging.com/" target="_blank" style="color: #555555">e-com packaging</a> and outer cartons. Our mission as a small start up in 1976 was simple: To tailor a
+              boxes</a>, luxury boxes, flexible laminates, mono cartons, <a href="https://www.store.prempackaging.com/" target="_blank" style="color: #555555">e-com packaging</a>, outer cartons, carry bags, PackPro<sup>™</sup> Food Wrapping Paper, PackPro<sup>™</sup> Carry Handle Tape, WetBoxTech<sup>™</sup>, Flexpand<sup>™</sup>, Tapes, Labels etc. Our mission as a small start up in 1976 was simple: To tailor a
               company with the flexibility to fill orders of all sizes and to consistently provide our customers with a
             superior product.</p>
             <a href="corrugated-packaging.php" class="more-btn mt-4"><i class="fa fa-clone" aria-hidden="true"></i> Read More</a>
