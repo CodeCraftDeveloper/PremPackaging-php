@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Awards - Prem Packgaing">
-    <meta property="og:title" content="Prem Packaging">
+    <meta name="description" content="Discover how to choose the best bespoke packaging supplier. Get high-quality, sustainable packaging from us.">
+    <meta property="og:title" content="Tips to Choose the Right Bespoke Packaging Supplier | Prem Industries India Limited">
     <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script>
     <script>
@@ -13,7 +13,7 @@
       gtag('js', new Date());
       gtag('config', 'G-PSMKSG4F96');
     </script>
-    <title>How to Choose the Right Bespoke Packaging Supplier | Prem Industries India Limited</title>
+    <title>How to Choose the Right Bespoke Packaging Supplier</title>
     <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
     <link href="../css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="css/jquery.fancybox.min.css" />
@@ -23,24 +23,27 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
     />
+    <style>
+      h4{
+        color: #14254C;
+      }
+    </style>
   </head>
   <body>
     <?php include 'header.php';?>
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
-          <img src="img/blog/cards/new/banner-new.jpg" class="d-block w-100 mt-4 mb-2" alt="How to Choose the Right Bespoke Packaging Supplier">
+        <div class="col-md-12 mt-5 text-center">
+          <div>
+            <h3 class="wow fadeInUp" style="font-size: 35px; font-weight: 700; color: #14254C;">How to Choose the Right Bespoke Packaging Supplier</h3>
+          </div>
         </div>
         <div class="col-md-12">
-            <section class="body__content mt-5 page-body-content">
+          <img src="img/blog/banners/how-to-choose-the-right-bespoke-packaging-supplier.png" class="d-block w-100 mt-4 mb-2 shadow-lg" alt="How to Choose the Right Bespoke Packaging Supplier">
+        </div>
+        <div class="col-md-12" style="text-align: justify;">
+          <section class="body__content mt-3 page-body-content">
           <div class="container">
-            <div class="row">
-              <div class="col-md-12">
-                <div>
-                  <h3 class="wow fadeInUp" style="font-size: 35px">How to Choose the Right Bespoke Packaging Supplier</h3>
-                </div>
-              </div>
-            </div>
             <div class="row">
               <div class="col-md-12">
                 <div class="body-content">
