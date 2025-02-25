@@ -44,7 +44,7 @@
       </div>
     </div>
 
-    <section class="body__content padding page-body-content">
+    <section class="body__content mt-5 page-body-content">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
@@ -53,27 +53,17 @@
             </div>
           </div>
         </div>
-        <div class="row mt-5">
+        <div class="row mt-3 mb-4">
           <div class="col-md-10 offset-md-1">
             <div class="body-content text-center">
-              <p class="wow fadeInUp">Fresh food companies, including those dealing with protein and produce, face growing pressure to meet retailer and consumer demands for recyclable packaging, while ensuring product protection and operational efficiency. As a packaging company, we address this issue and have come up with WetBoxTech™, providing customizable moisture-resistant packaging designed for wet and humid conditions. WetBoxTech™ offers a fiber-based, recyclable alternative to traditional wax-coated packaging, making it an eco-friendly solution without compromising on performance. </p>
+              <p class="wow fadeInUp">Fresh food companies, including those dealing with protein and produce, face growing pressure to meet retailer and consumer demands for recyclable packaging, while ensuring product protection and operational efficiency. As a packaging company, we address this issue and have come up with WetBoxTech™, providing customizable moisture-resistant packaging designed for wet and humid conditions. WetBoxTech™ offers a fibre-based, recyclable alternative to traditional wax-coated packaging, making it an eco-friendly solution without compromising on performance. </p>
             </div>
           </div>
         </div>
       </div>
     </section>
 
-    
-
-    <section class="ContactPrem pt-0 mt-4">
-      <div class="container">
-        <div class="ContactPrem-content">
-          <h3>Connect to know us better!</h3>
-          <p>Let’s discuss a blend of your products and our packaging.</p>
-          <a href="contact-us.php" class="more-btn mt-4"><i class="fa fa-clone" aria-hidden="true"></i> Contact Us</a>
-        </div>
-      </div>
-    </section>
+  <?php include 'contactsection.php';?>
   
   <!-- header start -->
   <?php include 'footer.php';?>

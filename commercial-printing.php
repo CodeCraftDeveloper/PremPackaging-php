@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Elevate your brand with professional commercial printing services. Get high-quality prints tailored to your business needs. Contact us today!">
-    <meta property="og:title" content="Prem Packaging">
+    <meta property="og:title" content="Commercial Printing Services">
     <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
@@ -78,7 +78,7 @@
         </div>
         <div class="col-md-6 order1">
           <div class="design-image wow" data-wow-delay="0.5s">
-            <img class="image1" width="665" height="870" src="img/commercial-printing.jpg" alt="" title="" />
+            <img class="image1" width="665" height="870" src="img/commercial-printing.jpg" alt="Commercial Printing Services" />
           </div>
         </div>
       </div>

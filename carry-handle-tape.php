@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Discover high-strength PackPro™ Carry Handle Tape with PET film and natural rubber adhesive. Supports up to 10kg, reduces plastic bag use, and ensures easy portability.">
-    <meta property="og:title" content="Durable PackPro™ Carry Handle Tape for Easy Transport | Up to 10kg Support">
+    <meta property="og:title" content=" PackPro™ Carry Handle Tape for Easy Transport | Up to 10kg Support">
     <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>

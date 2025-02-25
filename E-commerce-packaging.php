@@ -4,12 +4,12 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Discover top-quality ecommerce packaging solutions designed to elevate your brand's shipping experience. Explore our range today! ">
-    <meta property="og:title" content="Prem Packaging">
+    <meta property="og:title" content="Ecommerce Packaging Solutions | Prem Industries India Limited">
     <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
 
-    <title>Ecommerce Packaging Solutions | Shop Now</title>
+    <title>Shop Ecommerce Packaging Solutions | Prem Industries India Limited</title>
     <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
     <!-- Bootstrap core css -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -72,7 +72,7 @@
         </div>
         <div class="col-md-6 order1">
             <div class="design-image wow" data-wow-delay="0.5s">
-              <img class="image1" width="665" height="870" src="img/e-com-packaging/desing-image.jpg" alt="E-Commerce Packaging" title="E-Commerce Packaging | Prem Industries India Limited" />
+              <img class="image1" width="665" height="870" src="img/e-com-packaging/desing-image.jpg" alt="E-Commerce Packaging Solutions" />
             </div>
           </div>
       </div>
@@ -108,7 +108,7 @@
           <div class="col-md-4">
             <div class="gallery-box">
             <a href="https://www.store.prempackaging.com/paper-tape" style="color: black;" target="_blank">
-              <img src="img/e-com-packaging/paper.png" alt="Packpro Paper Tape">
+              <img src="img/e-com-packaging/paper.png" alt="Packpro Paper Tapes">
               <h4 class="text-center"><span>PackPro<sup>™</sup> Paper Tapes</span></h4>
               </a>
             </div>
@@ -140,7 +140,7 @@
           <div class="col-md-4">
             <div class="gallery-box">
             <a href="https://www.store.prempackaging.com/label" style="color: black;" target="_blank">
-              <img src="img/e-com-packaging/3-new.jpg" alt="Rollabel Label">
+              <img src="img/e-com-packaging/3-new.jpg" alt="Rollabel Labels">
               <h4 class="text-center">Rollabel<sup>™</sup> Label</h4>
               </a>
             </div>
@@ -156,7 +156,7 @@
           <div class="col-md-4">
             <div class="gallery-box">
             <a href="https://www.store.prempackaging.com/paper-bag" style="color: black;" target="_blank">
-              <img src="img/e-com-packaging/5-new.jpg" alt="Paper Bag">
+              <img src="img/e-com-packaging/5-new.jpg" alt="Paper Bags">
               <h4 class="text-center">Paper Bag</h4>
               </a>
             </div>
@@ -180,7 +180,7 @@
           <div class="col-md-4">
             <div class="gallery-box">
             <a href="https://prempackaging.com/carry-handle-tape" style="color: black;" target="_blank">
-              <img src="img/e-com-packaging/8.jpg" alt="PackPro Carry Handle Tape">
+              <img src="img/e-com-packaging/8.jpg" alt="PackPro Carry Handle Tapes">
               <h4 class="text-center">PackPro<sup>™</sup> Carry Handle Tape</h4>
               </a>
             </div>
@@ -188,7 +188,7 @@
           <div class="col-md-4">
             <div class="gallery-box">
             <a href="https://prempackaging.com/carry-bag" style="color: black;" target="_blank">
-              <img src="img/e-com-packaging/9-new.jpg" alt="Carry Bag without Handle">
+              <img src="img/e-com-packaging/9-new.jpg" alt="Carry Bags without Handle">
               <h4 class="text-center">Carry Bag without Handle</h4>
               </a>
             </div>
@@ -196,7 +196,7 @@
           <div class="col-md-4">
             <div class="gallery-box">
             <a href="https://prempackaging.com/carry-bag" style="color: black;" target="_blank">
-              <img src="img/e-com-packaging/10-new.jpg" alt="Carry Bag with Handle">
+              <img src="img/e-com-packaging/10-new.jpg" alt="Carry Bags with Handle">
               <h4 class="text-center">Carry Bag with Handle</h4>
               </a>
             </div>
