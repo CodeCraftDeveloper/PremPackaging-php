@@ -251,20 +251,45 @@
           </div>
         </div>
         <div class="col-lg-4 col-md-6">
-          <div class="EXp_BG" style="background: url(./img/index/years/exp-new.jpg);">
-            <div class="EXp_Content">
-              <div class="ReadMore_btn">
-                <a href="#"><i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
-              </div>
-              <div class="Heading">
-                <h2>49</h2>
-                <p>Years of Excellence</p>
-              </div>
-              <h3>A team of experts with common beliefs</h3>
-              <p class="des">Innovating packaging solutions consciously for you and the planet.</p>
-            </div>
-          </div>
-        </div>
+  <div class="EXp_BG" style="background: url(./img/index/years/exp-new.jpg);">
+    <div class="EXp_Content">
+      <div class="ReadMore_btn">
+        <a href="#"><i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+      </div>
+      <div class="Heading">
+        <h2 id="year"></h2>
+        <p>Years of Excellence</p>
+      </div>
+      <h3>A team of experts with common beliefs</h3>
+      <p class="des">Innovating packaging solutions consciously for you and the planet.</p>
+    </div>
+  </div>
+</div>
+
+<script>
+  console.log('JavaScript code is running');
+
+  // Define the starting year
+  const startingYear = 1976;
+
+  // Get the current year
+  const currentYear = new Date().getFullYear();
+
+  // Calculate the years of excellence
+  const yearsOfExcellence = currentYear - startingYear;
+
+  console.log('Years of excellence:', yearsOfExcellence);
+
+  // Update the year in the HTML
+  const yearElement = document.getElementById('year');
+  console.log('Year element:', yearElement);
+
+  if (yearElement) {
+    yearElement.innerText = yearsOfExcellence;
+  } else {
+    console.error('Year element not found');
+  }
+</script>
       </div>
     </div>
   </section>
@@ -755,5 +780,4 @@
         modal.style.display = "none";
     }
   }
-    
-  </script>
+</script>
