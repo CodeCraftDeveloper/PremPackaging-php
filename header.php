@@ -62,7 +62,7 @@
                         <a class="dropdown-item" href="rollabel-labels.php">Rollabel<sup>™</sup> Labels</a>
                         <a class="dropdown-item" href="labels-with-multiups.php">Rollabel<sup>™</sup> Labels with Multiups</a>
                         <a class="dropdown-item" href="packpro-honeycomb-food-wrapping-paper.php">PackPro<sup>™</sup> HoneyComb <br>Food Wrapping Paper</a>
-                        <a class="dropdown-item" href="carry-handle-tape.php">PackPro<sup>™</sup> Carry Handle Tape</a>
+                        <a class="dropdown-item" href="packpro-carry-handle-tape.php">PackPro<sup>™</sup> Carry Handle Tape</a>
                       </div>
                   </div>
               </div>

@@ -179,7 +179,7 @@
           </div>
           <div class="col-md-4">
             <div class="gallery-box">
-            <a href="https://prempackaging.com/carry-handle-tape" style="color: black;" target="_blank">
+            <a href="https://prempackaging.com/packpro-carry-handle-tape" style="color: black;" target="_blank">
               <img src="img/e-com-packaging/8.jpg" alt="PackPro Carry Handle Tapes">
               <h4 class="text-center">PackPro<sup>™</sup> Carry Handle Tape</h4>
               </a>
