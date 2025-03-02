@@ -4,12 +4,12 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Stay ahead with cutting-edge packaging technology from Prem Industries India Limited. Elevate your packaging process with our latest innovations. Upgrade now for efficiency!">
-    <meta property="og:title" content="Packaging Technology Innovations | Prem Industries India Limited">
+    <meta property="og:title" content="Packaging Technology | Prem Industries India Limited">
     <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
 
-    <title>Packaging Technology Innovations</title>
+    <title>Packaging Technology</title>
     <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
     <!-- Bootstrap core css -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -65,7 +65,7 @@
         </div>
         <div class="col-md-6 order1">
           <div class="design-image wow" data-wow-delay="0.5s">
-            <img class="image1" width="665" height="870" src="img/packaging-technology-r.jpg" alt="" title="" />
+            <img class="image1" width="665" height="870" src="img/packaging-technology-r.jpg" alt="Packaging Technology" />
           </div>
         </div>
       </div>
@@ -155,7 +155,7 @@
           <div class="row">
             <div class="col-lg-8 offset-lg-2">
               <div class="text-center">
-                <h3 class="wow fadeInUp">Certification</h3>
+                <h3 class="wow fadeInUp">Certifications</h3>
                 <p class="wow fadeInUp mb-0 pb-0">We have received certifications from credible quality management authorities to prove our authentic presence in this industry.</p>
               </div>
             </div>
@@ -168,37 +168,37 @@
 
                   <div class="product-wrap">
                     <div class="awards-logo">
-                      <img src="img/certification/iso-cnvrt-01.svg" width="300" alt="" />
+                      <img src="img/certification/iso-cnvrt-01.svg" width="300" alt="GMP Quality" />
                     </div>
                   </div>
                   <div class="product-wrap">
                     <div class="awards-logo">
-                      <img src="img/certification/iso-cnvrt-02.svg" width="300" alt="" />
+                      <img src="img/certification/iso-cnvrt-02.svg" width="300" alt="ISO 14001:2015" />
                     </div>
                   </div>
                   <div class="product-wrap">
                     <div class="awards-logo">
-                      <img src="img/certification/iso-cnvrt-03.svg" width="300" alt="" />
+                      <img src="img/certification/iso-cnvrt-03.svg" width="300" alt="ISO 22000" />
                     </div>
                   </div>
                   <div class="product-wrap">
                     <div class="awards-logo">
-                      <img src="img/certification/iso-cnvrt-04.svg" width="300" alt="" />
+                      <img src="img/certification/iso-cnvrt-04.svg" width="300" alt="ISO 9001:2015" />
                     </div>
                   </div>
                   <div class="product-wrap">
                     <div class="awards-logo">
-                      <img src="img/certification/iso-cnvrt-05.svg" width="300" alt="" />
+                      <img src="img/certification/iso-cnvrt-05.svg" width="300" alt="Sedex" />
                     </div>
                   </div>
                   <div class="product-wrap">
                     <div class="awards-logo">
-                      <img src="img/certification/iso-cnvrt-06.svg" width="300" alt="" />
+                      <img src="img/certification/iso-cnvrt-06.svg" width="300" alt="FSC" />
                     </div>
                   </div>
                   <div class="product-wrap">
                     <div class="awards-logo">
-                      <img src="img/certification/iso-cnvrt-07.svg" width="300" alt="" />
+                      <img src="img/certification/iso-cnvrt-07.svg" width="300" alt="ISO 22000:2018" />
                     </div>
                   </div>
                 </div>

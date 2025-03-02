@@ -4,12 +4,12 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Discover our strong corrugated containers for secure product packaging. Choose reliability with Prem Industries India Limited. Contact us now!">
-    <meta property="og:title" content="Strong Corrugated Containers | Prem Industries India Limited">
+    <meta property="og:title" content="Corrugated Containers | Prem Industries India Limited">
     <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
 
-    <title>Strong Corrugated Containers</title>
+    <title>Corrugated Containers</title>
     <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
     <!-- Bootstrap core css -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -74,7 +74,7 @@
         </div>
         <div class="col-md-6 order1">
           <div class="design-image wow" data-wow-delay="0.5s">
-            <img class="image1" width="665" height="870" src="img/store.jpg" alt="" title="" />
+            <img class="image1" width="665" height="870" src="img/store.jpg" alt="Corrugated Containers" />
           </div>
         </div>
       </div>

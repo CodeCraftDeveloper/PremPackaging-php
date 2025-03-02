@@ -4,12 +4,12 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="If you want to buy E-com paper bags Online, get in touch with Prem Industries India Limited for eco-friendly, durable, and sustainable packaging solutions.">
-    <meta property="og:title" content="Buy E-com Paper Bags Online | Prem Industries India Limited">
+    <meta property="og:title" content="E-com Paper Bags Online | Prem Industries India Limited">
     <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
 
-    <title>Buy E-com Paper Bags Online | Prem Industries India Limited</title>
+    <title>E-com Paper Bags</title>
     <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
     <!-- Bootstrap core css -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -68,7 +68,7 @@
         </div>
         <div class="col-md-6 order1">
           <div class="design-image wow" data-wow-delay="0.5s">
-            <img class="image1" width="665" height="870" src="img/papper-bag.jpg" alt="Paper Bags"/>
+            <img class="image1" width="665" height="870" src="img/papper-bag.jpg" alt="Flipkart Paper Bags"/>
           </div>
         </div>
       </div>
