@@ -138,7 +138,7 @@
   </head>
   <body>
   <div>
-  <marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();" style="
+  <!-- <marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();" style="
         position: absolute;
         top: 100px;
         z-index: 9999;
@@ -150,13 +150,12 @@
         padding: 1px;
     ">
        We are exhibiting in the 39th edition of AAHAR. Visit us at Hall number 5, 1st floor, Stall number <strong>H5F-05-A</strong>, <strong>Pragati Maidan</strong>, New Delhi From <strong>10 AM</strong> to <strong>6 PM</strong>. See you there!
-    </marquee>
-    <div id="myModal" class="modal">
+    </marquee> -->
+    <!-- <div id="myModal" class="modal">
     <div class="modal-content mt-4">
-        <!-- <h3 class="text-center">Announcement</h3>     -->
         <img src="img/aahar/aahar-invite.jpeg" alt="Image">
       </div>
-    </div>
+    </div> -->
   <?php include 'header.php';?>
     <div id="site-banner" class="carousel slide" data-ride="carousel">
       <div class="carousel-inner">
