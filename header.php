@@ -1,6 +1,3 @@
-<head>
-  <link rel="canonical" href="https://prempackaging.com/" />
-</head>
 <header>
   <nav class="navbar navbar-expand-lg navbar-light sticky-top">
     <div class="container-fluid p-0">
