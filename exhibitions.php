@@ -98,11 +98,16 @@
                 </thead>
                 <tbody>
                   <tr>
-                    <td>AAHAR Food & Hospitality 2025</td>
+                    <!-- <td>AAHAR Food & Hospitality 2025</td>
                     <td>05</td>
                     <td>H5F-05-A</td>
                     <td>Pragati Maidan, New Delhi</td>
-                    <td>4th March 2025 - 8th March 2025</td>
+                    <td>4th March 2025 - 8th March 2025</td> -->
+                    <td class="text-danger"><b>No Upcoming Exhibitions</b></td>
+                    <td class="text-danger"><b>-</b></td>
+                    <td class="text-danger"><b>-</b></td>
+                    <td class="text-danger"><b>-</b></td>
+                    <td class="text-danger"><b>-</b></td>
                   </tr>
                 </tbody>
               </table>
@@ -131,6 +136,9 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" style="color: black; font-weight: 600;" id="option3-tab" data-toggle="tab" href="#option3" role="tab" aria-controls="option3" aria-selected="false">AAHAR 2024</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" style="color: black; font-weight: 600;" id="option4-tab" data-toggle="tab" href="#option4" role="tab" aria-controls="option4" aria-selected="false">AAHAR 2025</a>
         </li>
       </ul>
       <div class="tab-content" id="myTabContent">
@@ -212,6 +220,48 @@
                   <a class="gallery-col" href="img/exhibition/aahar24/6.jpg" data-fancybox="images">
                     <div class="gallery-box">
                       <img src="img/exhibition/aahar24/6.jpg" alt="AAHAR 2024">
+                    </div>
+                  </a>
+                </div>
+                <div class="col-md-4 p-1">
+                  <a class="gallery-col" href="img/exhibition/aahar25/01.jpg" data-fancybox="images">
+                    <div class="gallery-box">
+                      <img src="img/exhibition/aahar25/01.jpg" alt="AAHAR 2025">
+                    </div>
+                  </a>
+                </div>
+                <div class="col-md-4 p-1">
+                  <a class="gallery-col" href="img/exhibition/aahar25/02.jpg" data-fancybox="images">
+                    <div class="gallery-box">
+                      <img src="img/exhibition/aahar25/02.jpg" alt="AAHAR 2025">
+                    </div>
+                  </a>
+                </div>
+                <div class="col-md-4 p-1">
+                  <a class="gallery-col" href="img/exhibition/aahar25/03.jpg" data-fancybox="images">
+                    <div class="gallery-box">
+                      <img src="img/exhibition/aahar25/03.jpg" alt="AAHAR 2025">
+                    </div>
+                  </a>
+                </div>
+                <div class="col-md-4 p-1">
+                  <a class="gallery-col" href="img/exhibition/aahar25/04.jpg" data-fancybox="images">
+                    <div class="gallery-box">
+                      <img src="img/exhibition/aahar25/04.jpg" alt="AAHAR 2025">
+                    </div>
+                  </a>
+                </div>
+                <div class="col-md-4 p-1">
+                  <a class="gallery-col" href="img/exhibition/aahar25/05.jpg" data-fancybox="images">
+                    <div class="gallery-box">
+                      <img src="img/exhibition/aahar25/05.jpg" alt="AAHAR 2025">
+                    </div>
+                  </a>
+                </div>
+                <div class="col-md-4 p-1">
+                  <a class="gallery-col" href="img/exhibition/aahar25/06.jpg" data-fancybox="images">
+                    <div class="gallery-box">
+                      <img src="img/exhibition/aahar25/06.jpg" alt="AAHAR 2025">
                     </div>
                   </a>
                 </div>
@@ -305,6 +355,56 @@
                   <a class="gallery-col" href="img/exhibition/aahar24/6.jpg" data-fancybox="images">
                     <div class="gallery-box">
                       <img src="img/exhibition/aahar24/6.jpg" alt="AAHAR 2024">
+                    </div>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="tab-pane fade" id="option4" role="tabpanel" aria-labelledby="option4-tab">
+          <div class="e-commerce-gallery BoxesGallery mt-3">
+            <div class="container-fluid">
+              <div class="row">
+                <div class="col-md-4 p-1">
+                  <a class="gallery-col" href="img/exhibition/aahar25/01.jpg" data-fancybox="images">
+                    <div class="gallery-box">
+                      <img src="img/exhibition/aahar25/01.jpg" alt="AAHAR 2025">
+                    </div>
+                  </a>
+                </div>
+                <div class="col-md-4 p-1">
+                  <a class="gallery-col" href="img/exhibition/aahar25/02.jpg" data-fancybox="images">
+                    <div class="gallery-box">
+                      <img src="img/exhibition/aahar25/02.jpg" alt="AAHAR 2025">
+                    </div>
+                  </a>
+                </div>
+                <div class="col-md-4 p-1">
+                  <a class="gallery-col" href="img/exhibition/aahar25/03.jpg" data-fancybox="images">
+                    <div class="gallery-box">
+                      <img src="img/exhibition/aahar25/03.jpg" alt="AAHAR 2025">
+                    </div>
+                  </a>
+                </div>
+                <div class="col-md-4 p-1">
+                  <a class="gallery-col" href="img/exhibition/aahar25/04.jpg" data-fancybox="images">
+                    <div class="gallery-box">
+                      <img src="img/exhibition/aahar25/04.jpg" alt="AAHAR 2025">
+                    </div>
+                  </a>
+                </div>
+                <div class="col-md-4 p-1">
+                  <a class="gallery-col" href="img/exhibition/aahar25/05.jpg" data-fancybox="images">
+                    <div class="gallery-box">
+                      <img src="img/exhibition/aahar25/05.jpg" alt="AAHAR 2025">
+                    </div>
+                  </a>
+                </div>
+                <div class="col-md-4 p-1">
+                  <a class="gallery-col" href="img/exhibition/aahar25/06.jpg" data-fancybox="images">
+                    <div class="gallery-box">
+                      <img src="img/exhibition/aahar25/06.jpg" alt="AAHAR 2025">
                     </div>
                   </a>
                 </div>

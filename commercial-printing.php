@@ -49,7 +49,7 @@
       <div class="row">
         <div class="col-md-12">
           <div class="text-left mb-4">
-            <h3 class="wow fadeInUp">REAMS OF EXPERIENCE</h3>
+            <h3 class="wow fadeInUp">COMMERCIAL PRINTING SERVICES</h3>
             <a href="contact-us.php" class="contact-add">
               <i class="fa fa-envelope"></i>
               <span>Get more information</span>
