@@ -247,7 +247,7 @@
                 <div class="col-md-4 p-1">
                   <a class="gallery-col" href="img/exhibition/aahar25/04.jpg" data-fancybox="images">
                     <div class="gallery-box">
-                      <img src="img/exhibition/aahar25/04.jpg" alt="AAHAR 2025">
+                      <img src="img/exhibition/aahar25/04.jpg" alt="AAHAR 2025">  
                     </div>
                   </a>
                 </div>

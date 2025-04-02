@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Get in touch with Prem Industries India Limited for quality packaging solutions. Reach out for inquiries, quotes, or assistance. Contact us now for tailored packaging solutions!">
 <meta property="og:title" content="Contact Prem Industries India Limited for Packaging Solutions">
-<title>CONTACT US</title>
+<title>Contact Us</title>
 <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
 <!-- Bootstrap core css -->
 <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -18,51 +18,54 @@
     />
 
 <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script> <!-- Include Axios library -->
-
+<script src="https://unpkg.com/realm-web/dist/bundle.iife.js"></script> <!-- Include Realm Web SDK -->
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script> <!-- Include SweetAlert2 library -->
 
 <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            document.getElementById("contactForm").addEventListener("submit", function(event) {
-                event.preventDefault(); // Prevent the default form submission
-                // Get form data
-                const formData = new FormData(event.target);
-                const formDataObject = {};
-                formData.forEach((value, key) => {
-                    formDataObject[key] = value;
-                });
-                // Log form data to the console
-                console.log(formDataObject);
-                // Send data to the API
-                fetch("https://api-dev.assertit.io/premind/api/contact-form/create", {
-                    method: "POST",
-                    body: JSON.stringify(formDataObject),
-                    headers: {
-                        "Content-Type": "application/json"
-                    }
-                })
-                .then(response => response.json())
-                .then(data => {
-                    console.log("API Response:", data);
-					window.location.reload();
-                    // You can handle the API response here
-                })
-                .catch(error => {
-                    console.error("Error:", error);
-                    // Handle errors here
-                });
+    document.addEventListener("DOMContentLoaded", function() {
+        const app = new Realm.App({ id: "application-0-cmgjbbv" }); // Replace with your Realm App ID
+
+        document.getElementById("contactForm").addEventListener("submit", async function(event) {
+            event.preventDefault(); // Prevent the default form submission
+
+            // Get form data
+            const formData = new FormData(event.target);
+            const formDataObject = {};
+            formData.forEach((value, key) => {
+                formDataObject[key] = value;
             });
+
+            try {
+                // Authenticate anonymously
+                const user = await app.logIn(Realm.Credentials.anonymous());
+                console.log("Authentication successful:", user);
+
+                // Access the MongoDB service
+                const mongodb = app.currentUser.mongoClient("mongodb-atlas");
+                const collection = mongodb.db("prempackaging").collection("contactform");
+
+                // Insert the form data
+                const result = await collection.insertOne(formDataObject);
+                console.log("Data inserted successfully:", result);
+
+                Swal.fire({
+                    icon: 'success',
+                    title: 'Success',
+                    text: 'Form Submitted Successfully!',
+                }).then(() => {
+                    window.location.reload();
+                });
+            } catch (error) {
+                console.error("Error:", error);
+                Swal.fire({
+                    icon: 'error',
+                    title: 'Failed',
+                    text: 'Form Not Submitted',
+                });
+            }
         });
-		
-	
-
-		
-		
-    </script>
-
-
-
-
-
+    });
+</script>
 
 </head>
 <body>
@@ -78,21 +81,6 @@
                 <p class="mt-3">Have You any Questions! Ask Us!</p>
             </div>
             <div class="formBG ContacePageAddress mb-5 wow fadeIn">
-			
-			
-			<!--
-                <form method="POST" action="">
-                    <input class="form-control" required="" name="name" placeholder="Name" type="text">
-                    <input class="form-control" required="" name="email" placeholder="Email" type="email">
-                    <input class="form-control" required="" name="phone" placeholder="Phone" type="text">
-                    <textarea placeholder="Message" name="message" class="form-control"></textarea>
-                    <div class="text-center">
-                        <input value="SEND MESSAGE" class="SendMessageBTN" type="submit" name="submit">
-                    </div>
-                </form>
-				
-				-->
-				
 				
 				<form id="contactForm">
         <input class="form-control" required="" name="name" placeholder="Name*" type="text">
@@ -103,13 +91,6 @@
             <input value="SEND MESSAGE" class="SendMessageBTN" type="submit" name="submit" >
         </div>
     </form>
-				
-				
-				
-				
-				
-				
-				
 				
             </div>
         </div>
