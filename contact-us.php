@@ -27,6 +27,9 @@
         const phoneInput = document.querySelector('input[name="phone_no"]');
         phoneInput.addEventListener("input", function() {
             this.value = this.value.replace(/[^0-9]/g, '').slice(0, 10); // Allow only digits and limit to 10 characters
+            if (this.value.startsWith('0')) {
+                this.value = this.value.slice(1); // Remove leading zero
+            }
         });
 
         document.getElementById("timestamp").value = new Date().toISOString();
@@ -40,6 +43,14 @@
                     icon: 'error',
                     title: 'Invalid Phone Number',
                     text: 'The phone number should be of 10 digits',
+                });
+                return;
+            }
+            if (phoneValue.startsWith('0')) {
+                Swal.fire({
+                    icon: 'error',
+                    title: 'Invalid Phone Number',
+                    text: 'The phone number cannot start with 0',
                 });
                 return;
             }
