@@ -62,7 +62,7 @@
                         <a class="dropdown-item" href="labels-with-multiups.php">Rollabel<sup>™</sup> Labels with Multiups</a>
                         <a class="dropdown-item" href="packpro-honeycomb-food-wrapping-paper.php">PackPro<sup>™</sup> HoneyComb <br>Food Wrapping Paper</a>
                         <a class="dropdown-item" href="packpro-carry-handle-tape.php">PackPro<sup>™</sup> Carry Handle Tape</a>
-                        <a class="dropdown-item" href="https://prempackaging.com/peel-and-seal-bags">Peel and Seal Bags</a>
+                        <a class="dropdown-item" href="peel-and-seal-bags.php">Peel and Seal Bags</a>
                       </div>
                   </div>
               </div>
