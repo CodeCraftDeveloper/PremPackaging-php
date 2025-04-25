@@ -1,3 +1,10 @@
+<?php
+// Redirect to the URL without .php extension
+if (basename($_SERVER['REQUEST_URI'], ".php") . ".php" === basename(__FILE__)) {
+    header("Location: /peel-and-seal-bags", true, 301);
+    exit();
+}
+?>
 <!doctype html>
 <html lang="en">
   <head>
