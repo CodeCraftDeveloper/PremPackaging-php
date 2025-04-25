@@ -24,6 +24,7 @@
                           <a class="dropdown-item" href="electronics-packaging.php">Electronics Packaging</a>
                           <a class="dropdown-item" href="beauty-personal-care-packaging.php">Beauty & Personal Care<br/> Packaging</a>
                           <a class="dropdown-item" href="fmcg-packaging.php">FMCG Packaging</a>
+                      <a class="dropdown-item" href="healthcare-packaging.php">Healthcare Packaging</a>
                       </div>
                       <div class="col-sm-6 col-lg-6 border-right">
                         <h6><a href="corrugated-packaging.php">Corrugated Packaging </a></h6>
