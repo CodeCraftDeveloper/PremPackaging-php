@@ -1,6 +1,6 @@
 <?php
 // Redirect to the URL without .php extension
-if (basename($_SERVER['REQUEST_URI'], ".php") . ".php" === basename(__FILE__)) {
+if (basename($_SERVER['REQUEST_URI']) === basename(__FILE__)) {
     header("Location: /peel-and-seal-bags", true, 301);
     exit();
 }
@@ -120,3 +120,5 @@ if (basename($_SERVER['REQUEST_URI'], ".php") . ".php" === basename(__FILE__)) {
       $('.fancybox').fancybox();
     });
   </script>
+  </body>
+</html>
