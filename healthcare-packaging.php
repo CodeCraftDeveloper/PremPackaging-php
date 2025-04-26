@@ -80,8 +80,8 @@
           <div class="col-md-4 p-1">
             <a class="gallery-col" href="img/healthcare-packaging/1.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/healthcare-packaging/1.png" alt="Spout Pouches For Liquid Hand Wash">
-                <h4 class="text-center">Spout Pouches For<br>Liquid Hand Wash</h4>
+                <img src="img/healthcare-packaging/1.png" alt="Spout Pouches For Liquid HandWash" />
+                <h4 class="text-center">Spout Pouches For<br>Liquid HandWash</h4>
               </div>
             </a>
           </div>
@@ -109,22 +109,22 @@
               </div>
             </a>
           </div> -->
-          <div class="col-md-4 p-1">
+          <!-- <div class="col-md-4 p-1">
             <a class="gallery-col" href="img/healthcare-packaging/5.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/healthcare-packaging/5.png" alt="Offset Boxes">
+                <img src="img/healthcare-packaging/5.png" alt="Laminates For Liquid Alcohol Swaps">
+                <h4 class="text-center">Laminates For Liquid<br>Alcohol Swaps</h4>
+              </div>
+            </a>
+          </div> -->
+          <div class="col-md-4 p-1">
+            <a class="gallery-col" href="img/healthcare-packaging/6.png" data-fancybox="images">
+              <div class="gallery-box">
+                <img src="img/healthcare-packaging/6.png" alt="Offset Boxes">
                 <h4 class="text-center">Offset Boxes</h4>
               </div>
             </a>
           </div>
-          <!-- <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/healthcare-packaging/6.png" data-fancybox="images">
-              <div class="gallery-box">
-                <img src="img/healthcare-packaging/6.png" alt="Contraceptive Packaging">
-                <h4 class="text-center">Contraceptive<br>Packaging</h4>
-              </div>
-            </a>
-          </div> -->
           <!-- <div class="col-md-4 p-1">
             <a class="gallery-col" href="img/healthcare-packaging/7.png" data-fancybox="images">
               <div class="gallery-box">
@@ -136,8 +136,8 @@
           <div class="col-md-4 p-1">
             <a class="gallery-col" href="img/healthcare-packaging/8.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/healthcare-packaging/8.png" alt="Standee Zipper Pouches">
-                <h4 class="text-center">Standee Zipper<br>Pouches</h4>
+                <img src="img/healthcare-packaging/8.png" alt="Stand Up Zipper Pouches">
+                <h4 class="text-center">Stand Up Zipper<br>Pouches</h4>
               </div>
             </a>
           </div>
