@@ -64,18 +64,6 @@
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Custom printing for enhanced shelf appeal </li>
               </ul>
               <p class="wow fadeInUp">Our team works closely with clients to develop packaging that reflects both brand trust and consumer convenience.</p>
-              <h4 style="font-weight: 600;">Diverse Product Range to Serve Medical Needs</h4>
-              <p class="wow fadeInUp">We cater to leading healthcare and wellness brands with a wide array of packaging options including:</p>
-              <ul class="mt-0 mb-3">
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>MAK Swab Medical Wipes Packaging –</b> Sterile, secure, and sealed to perfection for maximum hygiene. </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Manforce Disposable Pouches –</b> Confidential, tamper-proof, and easy to carry for intimate care products. </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Contraceptive Packaging –</b> Designed for discretion, safety, and extended shelf-life.</li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>MuscleBlaze Supplement Pouches –</b> High-barrier laminates that preserve product quality and freshness. </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>N95 Mask Laminates & Kent Laminates –</b> Air-tight, dustproof packaging to keep protective gear intact and effective. </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Offset Boxes –</b> Durable and print-ready boxes ideal for kits, wellness hampers, and more. </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Stanfresh & Flipkart Handwash Spout Pouches –</b> Convenient, spill-proof designs with superior sealing for liquid hygiene products. </li>
-              </ul>
-              <p class="wow fadeInUp">We also offer a wide range of customized solutions for upcoming healthcare brands and startups.</p>
               <h4 style="font-weight: 600;">Tailored Solutions for Brands that Care</h4>
               <p class="wow fadeInUp">Whether you're a pharmaceutical company, a personal care startup, or an e-commerce healthcare brand, we create packaging that not only protects but also elevates your product. With end-to-end support from design to delivery, our packaging solutions offer unmatched quality, scalability, and speed to market.</p>
               <p class="wow fadeInUp">Ready to elevate your healthcare packaging? Contact us today for customized, safe, and reliable solutions tailored to your brand’s needs.</p>
@@ -97,59 +85,59 @@
               </div>
             </a>
           </div>
-          <div class="col-md-4 p-1">
+          <!-- <div class="col-md-4 p-1">
             <a class="gallery-col" href="img/healthcare-packaging/2.png" data-fancybox="images">
               <div class="gallery-box">
                 <img src="img/healthcare-packaging/2.png" alt="Offset Boxes">
                 <h4>Offset Boxes</h4>
               </div>
             </a>
-          </div>
-          <div class="col-md-4 p-1">
+          </div> -->
+          <!-- <div class="col-md-4 p-1">
             <a class="gallery-col" href="img/healthcare-packaging/3.png" data-fancybox="images">
               <div class="gallery-box">
                 <img src="img/healthcare-packaging/3.png" alt="N95 Mask Laminate ">
                 <h4>N95 Mask Laminate</h4>
               </div>
             </a>
-          </div>
-          <div class="col-md-4 p-1">
+          </div> -->
+          <!-- <div class="col-md-4 p-1">
             <a class="gallery-col" href="img/healthcare-packaging/4.png" data-fancybox="images">
               <div class="gallery-box">
                 <img src="img/healthcare-packaging/4.png" alt="Manforce Disposable Pouch">
                 <h4 class="text-center">Manforce Disposable<br>Pouch</h4>
               </div>
             </a>
-          </div>
+          </div> -->
           <div class="col-md-4 p-1">
             <a class="gallery-col" href="img/healthcare-packaging/5.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/healthcare-packaging/5.png" alt="MAK Swab Medical Wipes">
-                <h4 class="text-center">MAK Swab<br>Medical Wipes</h4>
+                <img src="img/healthcare-packaging/5.png" alt="Offset Boxes">
+                <h4 class="text-center">Offset Boxes</h4>
               </div>
             </a>
           </div>
-          <div class="col-md-4 p-1">
+          <!-- <div class="col-md-4 p-1">
             <a class="gallery-col" href="img/healthcare-packaging/6.png" data-fancybox="images">
               <div class="gallery-box">
                 <img src="img/healthcare-packaging/6.png" alt="Contraceptive Packaging">
                 <h4 class="text-center">Contraceptive<br>Packaging</h4>
               </div>
             </a>
-          </div>
-          <div class="col-md-4 p-1">
+          </div> -->
+          <!-- <div class="col-md-4 p-1">
             <a class="gallery-col" href="img/healthcare-packaging/7.png" data-fancybox="images">
               <div class="gallery-box">
                 <img src="img/healthcare-packaging/7.png" alt="Flipkart Handwash Spout Pouch">
                 <h4 class="text-center">Flipkart Handwash<br>Spout Pouch</h4>
               </div>
             </a>
-          </div>
+          </div> -->
           <div class="col-md-4 p-1">
             <a class="gallery-col" href="img/healthcare-packaging/8.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/healthcare-packaging/8.png" alt="Muscle Blaze Pouches">
-                <h4>Muscle Blaze Pouches</h4>
+                <img src="img/healthcare-packaging/8.png" alt="Protein Powder">
+                <h4>Protein Powder</h4>
               </div>
             </a>
           </div>
