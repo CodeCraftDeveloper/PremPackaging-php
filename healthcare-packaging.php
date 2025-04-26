@@ -80,8 +80,8 @@
           <div class="col-md-4 p-1">
             <a class="gallery-col" href="img/healthcare-packaging/1.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/healthcare-packaging/1.png" alt="Liquid Handwash">
-                <h4 class="text-center">Liquid Handwash</h4>
+                <img src="img/healthcare-packaging/1.png" alt="Spout Pouches For Liquid Hand Wash">
+                <h4 class="text-center">Spout Pouches For<br>Liquid Hand Wash</h4>
               </div>
             </a>
           </div>
@@ -136,8 +136,8 @@
           <div class="col-md-4 p-1">
             <a class="gallery-col" href="img/healthcare-packaging/8.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/healthcare-packaging/8.png" alt="Protein Powder">
-                <h4>Protein Powder</h4>
+                <img src="img/healthcare-packaging/8.png" alt="Standee Zipper Pouches">
+                <h4 class="text-center">Standee Zipper<br>Pouches</h4>
               </div>
             </a>
           </div>
