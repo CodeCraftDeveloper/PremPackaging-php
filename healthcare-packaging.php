@@ -80,8 +80,8 @@
           <div class="col-md-4 p-1">
             <a class="gallery-col" href="img/healthcare-packaging/1.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/healthcare-packaging/1.png" alt="Stanfresh Handwash Spout Pouch">
-                <h4 class="text-center">Stanfresh Handwash<br>Spout Pouch</h4>
+                <img src="img/healthcare-packaging/1.png" alt="Liquid Handwash">
+                <h4 class="text-center">Liquid Handwash</h4>
               </div>
             </a>
           </div>
