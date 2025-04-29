@@ -304,7 +304,7 @@
     </div>
   </div> -->
 </section>
-  <section class="body__content padding second border-bottom">
+  <section class="body__content padding second">
     <div class="container">
       <div class="row">
         <div class="col-md-4 mt-5">
@@ -421,6 +421,39 @@
                 <h3 class="text-center">Honeycomb Wrapper</h3>
               </div>
             </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="body__content padding second border-bottom">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-7 offset-md-1">
+          <div class="new-arrivals__slider owl-carousel owl-theme">
+          <div class="product-wrap">
+              <div class="overflow-hidden">
+                <img src="img/index/ex/1.jpg" alt="Pack Expo Las Vegas" />
+              </div>
+              <div class="arrivals-content-block">
+                <h3 class="text-center">PackExpo Las Vegas</h3>
+              </div>
+            </div>
+            <div class="product-wrap">
+              <div class="overflow-hidden">
+                <img src="img/index/ex/2.jpg" alt="Americas Food & Beverage Show" />
+              </div>
+              <div class="arrivals-content-block">
+                <h3 class="text-center">Americas Food & Beverage Show</h3>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4 mt-5">
+        <div class="text-center">
+            <h2 class="wow fadeInUp" style="font-size: 46px;">Upcoming <br />Exhibitions</h2>
+            <p class="wow fadeInUp mt-4">Stay tuned as we unveil our latest innovations, upcoming product launches, advanced technologies, and more at our upcoming exhibitions!</p>
           </div>
         </div>
       </div>

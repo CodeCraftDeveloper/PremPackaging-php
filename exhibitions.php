@@ -76,51 +76,31 @@
       </div>
     </div>
 
+
     <section class="body__content mt-5 page-body-content">
-      <div class="container">
         <div class="row mb-3">
-          <div class="col-md-12 text-center">
-            <h3 class="wow fadeInUp" style="font-size: 35px">UPCOMING EXHIBITIONS</h3>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-12">
-            <div class="table-responsive">
-              <table class="table table-striped table-bordered">
-                <thead>
-                  <tr>
-                    <th>Exhibition Name</th>
-                    <th>Hall Number</th>
-                    <th>Stall Number</th>
-                    <th>Venue</th>
-                    <th>Date</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <!-- <td>AAHAR Food & Hospitality 2025</td>
-                    <td>05</td>
-                    <td>H5F-05-A</td>
-                    <td>Pragati Maidan, New Delhi</td>
-                    <td>4th March 2025 - 8th March 2025</td> -->
-                    <td class="text-danger"><b>No Upcoming Exhibitions</b></td>
-                    <td class="text-danger"><b>-</b></td>
-                    <td class="text-danger"><b>-</b></td>
-                    <td class="text-danger"><b>-</b></td>
-                    <td class="text-danger"><b>-</b></td>
-                  </tr>
-                </tbody>
-              </table>
+            <div class="col-md-12 text-center">
+              <h3 class="wow fadeInUp" style="font-size: 25px">UPCOMING EXHIBITIONS</h3>
             </div>
           </div>
         </div>
-      </div>
+        <div class="container">
+          <div class="row mt-3">
+            <div class="col-md-12">
+              <img src="img/exhibition/1.jpg" alt="Americas Food & Beverage Show" class="img-fluid">
+            </div>
+            <div class="col-md-12 mt-4">
+              <img src="img/exhibition/2.jpg" alt="PackExpo Las Vegas" class="img-fluid">
+            </div>
+          </div>
+        </div>
+      </section>
     </section>
     
     <div class="container">
-      <div class="row mt-4">
+      <div class="row mt-5">
         <div class="col-md-12 text-center">
-          <h3 class="wow fadeInUp" style="font-size: 35px; text-transform: uppercase; font-weight: bold; color: #14254c">Glimpses from our past exhibitions</h3>
+          <h3 class="wow fadeInUp" style="font-size: 25px; text-transform: uppercase; font-weight: bold; color: #14254c">Glimpses from our past exhibitions</h3>
         </div>
       </div>
     </div>
