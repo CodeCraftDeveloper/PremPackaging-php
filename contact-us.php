@@ -55,15 +55,21 @@
         });
 
         try {
-          //   const user = await app.logIn(Realm.Credentials.anonymous());
-          //   const mongodb = app.currentUser.mongoClient("mongodb-atlas");
-          //   const collection = mongodb.db("prempackaging").collection("contactform");
-          //   const result = await collection.insertOne(formDataObject);
-          //   console.log("Inserted into MongoDB:", result);
-
-          // Send to Vercel API
+          // Send to Vercel API (existing)
           const apiResponse = await axios.post("https://prem-industries-forms.vercel.app/api/submit-form-main.js", formDataObject);
           console.log("Sent to Vercel API:", apiResponse.data);
+
+          // Map variables for the additional API
+          const emailApiData = {
+            name: formDataObject.name,
+            email: formDataObject.email,
+            phone: formDataObject.phone_no,
+            message: formDataObject.message || "", // Optional field
+          };
+
+          // Send to additional API
+          const emailApiResponse = await axios.post("https://prem-industries-forms.vercel.app/api/email.js", emailApiData);
+          console.log("Sent to Email API:", emailApiResponse.data);
 
           Swal.fire({
             icon: 'success',
