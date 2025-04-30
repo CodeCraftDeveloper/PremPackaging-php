@@ -423,10 +423,10 @@
             </div>
             <div class="product-wrap">
               <div class="overflow-hidden">
-                <img src="img/index/whats-new/new/m07.png" alt="M07" />
+                <img src="img/index/whats-new/new/m07.png" alt="M Folder Pouch" />
               </div>
               <div class="arrivals-content-block">
-                <h3 class="text-center">M07</h3>
+                <h3 class="text-center">M Folder Pouch</h3>
               </div>
             </div>
             <div class="product-wrap">
