@@ -374,7 +374,7 @@
             </div>
             <div class="product-wrap">
               <div class="overflow-hidden">
-                <img src="img/index/whats-new/new/labels-with-multi-ups.jpg" alt="Labels with Multi-ups" title="" />
+                <img src="img/index/whats-new/new/labels-with-multi-ups.jpg" alt="Labels with Multi-ups" />
               </div>
               <div class="arrivals-content-block">
                 <h3 class="text-center">Labels with Multi-ups</h3>
@@ -382,7 +382,7 @@
             </div>
             <div class="product-wrap">
               <div class="overflow-hidden">
-                <img src="img/index/whats-new/new/apeo-free-tape-img.jpg" alt="APEO Free Tape" title="" />
+                <img src="img/index/whats-new/new/apeo-free-tape-img.jpg" alt="APEO Free Tape" />
               </div>
               <div class="arrivals-content-block">
                 <h3 class="text-center">APEO Free Tape</h3>
@@ -391,7 +391,7 @@
             <div class="product-wrap">
               <div class="overflow-hidden">
                 <!-- RESIZE THIS  -->
-                <img src="img/index/whats-new/new/aluminium-tape-img.jpg" alt="Aluminium Tape" title="" />
+                <img src="img/index/whats-new/new/aluminium-tape-img.jpg" alt="Aluminium Tape" />
               </div>
               <div class="arrivals-content-block">
                 <h3 class="text-center">Aluminium Tape</h3>
@@ -399,7 +399,7 @@
             </div>
             <div class="product-wrap">
               <div class="overflow-hidden">
-                <img src="img/index/whats-new/new/masking-tape-img.jpg" alt="Masking Tape" title="" />
+                <img src="img/index/whats-new/new/masking-tape-img.jpg" alt="Masking Tape" />
               </div>
               <div class="arrivals-content-block">
                 <h3 class="text-center">Masking Tape</h3>
@@ -407,7 +407,7 @@
             </div>
             <div class="product-wrap">
               <div class="overflow-hidden">
-                <img src="img/index/whats-new/new/glass-cloth-tape-img.jpg" alt="Glass Cloth Tape" title="" />
+                <img src="img/index/whats-new/new/glass-cloth-tape-img.jpg" alt="Glass Cloth Tape" />
               </div>
               <div class="arrivals-content-block">
                 <h3 class="text-center">Glass Cloth Tape</h3>
@@ -415,10 +415,42 @@
             </div>
             <div class="product-wrap">
               <div class="overflow-hidden">
-                <img src="img/index/whats-new/new/honeycomb-wrapper-img.jpg" alt="Honeycomb Wrapper" title="" />
+                <img src="img/index/whats-new/new/honeycomb-wrapper-img.jpg" alt="Honeycomb Wrapper" />
               </div>
               <div class="arrivals-content-block">
                 <h3 class="text-center">Honeycomb Wrapper</h3>
+              </div>
+            </div>
+            <div class="product-wrap">
+              <div class="overflow-hidden">
+                <img src="img/index/whats-new/new/m07.png" alt="M07" />
+              </div>
+              <div class="arrivals-content-block">
+                <h3 class="text-center">M07</h3>
+              </div>
+            </div>
+            <div class="product-wrap">
+              <div class="overflow-hidden">
+                <img src="img/index/whats-new/new/padded-mailer-bag.png" alt="Padded Mailer Bag" />
+              </div>
+              <div class="arrivals-content-block">
+                <h3 class="text-center">Padded Mailer Bag</h3>
+              </div>
+            </div>
+            <div class="product-wrap">
+              <div class="overflow-hidden">
+                <img src="img/index/whats-new/new/peal-and-seal-bag.png" alt="Peal and Seal Bag" />
+              </div>
+              <div class="arrivals-content-block">
+                <h3 class="text-center">Peal and Seal Bag</h3>
+              </div>
+            </div>
+            <div class="product-wrap">
+              <div class="overflow-hidden">
+                <img src="img/index/whats-new/new/void-tape.png" alt="Void Tape" />
+              </div>
+              <div class="arrivals-content-block">
+                <h3 class="text-center">Void Tape</h3>
               </div>
             </div>
           </div>
