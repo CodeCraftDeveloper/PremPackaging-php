@@ -1,23 +1,43 @@
 <?php
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+  $errors = [];
   $name = $_POST['name'] ?? '';
   $email = $_POST['email'] ?? '';
   $mobile = $_POST['mobile'] ?? '';
   $position = $_POST['position'] ?? '';
 
+  // Validate name
+  if (empty($name)) {
+    $errors['name'] = 'Name is required.';
+  }
+
+  // Validate mobile number
+  if (!preg_match('/^[1-9][0-9]{9}$/', $mobile)) {
+    $errors['mobile'] = 'Enter a valid 10-digit mobile number without leading 0.';
+  }
+
+  // Validate email
+  if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+    $errors['email'] = 'Enter a valid email address.';
+  }
+
+  // Validate resume
   if (!empty($_FILES['filename']['tmp_name'])) {
     $fileTmpPath = $_FILES['filename']['tmp_name'];
     $fileSize = $_FILES['filename']['size'];
 
     if ($fileSize > 100 * 1024) {
-      echo "<script>alert('Resume exceeds 100 KB limit!');</script>";
-      exit;
+      $errors['filename'] = 'Resume exceeds 100 KB limit.';
+    } else {
+      $resumeContent = file_get_contents($fileTmpPath);
+      $resumeBase64 = base64_encode($resumeContent);
     }
-
-    $resumeContent = file_get_contents($fileTmpPath);
-    $resumeBase64 = base64_encode($resumeContent);
   } else {
-    echo "<script>alert('No resume uploaded!');</script>";
+    $errors['filename'] = 'No resume uploaded.';
+  }
+
+  if (!empty($errors)) {
+    echo json_encode(['errors' => $errors]);
     exit;
   }
 
@@ -45,10 +65,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   curl_close($ch);
 
   if ($httpStatus === 201) {
-    echo "<script>alert('Form submitted successfully!'); window.location.href = window.location.href;</script>";
+    echo json_encode(['success' => 'Form submitted successfully!']);
   } else {
-    echo "<script>alert('Failed to submit form. Please try again later.');</script>";
+    echo json_encode(['error' => 'Failed to submit form. Please try again later.']);
   }
+  exit;
 }
 ?>
 
@@ -66,6 +87,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <link href="css/main.css" rel="stylesheet">
 <link href="css/media.css" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 </head>
 <body>
 
@@ -106,42 +128,46 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
               <span class="close">&times;</span>
 
               <div class="form-group col-md-10 col-sm-10">
-                <h2 style="font-size:20px; text-align:center;">Apply for job</h2>
+                <h2 style="font-size:20px; color: #14254C;">Apply for job</h2>
               </div>
 
               <form id="careerForm" method="POST" enctype="multipart/form-data">
                 <div class="form-row clearfix">
                   <div class="form-group col-md-6 col-sm-12">
-                    <label>Name*</label>
-                    <input type="text" class="form-control" name="name" required />
+                    <label><b>Name</b><span class="text-danger">*</span></label>
+                    <input type="text" class="form-control" name="name" placeholder="Your Full Name" required />
+                    <span class="error-message"></span>
                   </div>
                   <div class="form-group col-md-6 col-sm-12">
-                    <label>Mobile No.*</label>
-                    <input type="tel" class="form-control" name="mobile" required />
-                  </div>
-                </div>
-
-                <div class="form-row clearfix">
-                  <div class="form-group col-md-6 col-sm-12">
-                    <label>Email*</label>
-                    <input type="email" class="form-control" name="email" required />
-                  </div>
-                  <div class="form-group col-md-6 col-sm-12">
-                    <label>Position*</label>
-                    <input type="text" class="form-control" name="position" required />
+                    <label><b>Mobile Number</b><span class="text-danger">*</span></label>
+                    <input type="tel" class="form-control" name="mobile" placeholder="Your 10 Digit Phone Number" required />
+                    <span class="error-message"></span>
                   </div>
                 </div>
 
                 <div class="form-row clearfix">
                   <div class="form-group col-md-6 col-sm-12">
-                    <label>Upload your Resume* (PDF under 100 KB)</label>
+                    <label><b>Email</b><span class="text-danger">*</span></label>
+                    <input type="email" class="form-control" name="email" placeholder="Your Email ID" required />
+                    <span class="error-message"></span>
+                  </div>
+                  <div class="form-group col-md-6 col-sm-12">
+                    <label><b>Designation</b><span class="text-danger">*</span></label>
+                    <input type="text" class="form-control" name="position" placeholder="Designation Applying For" required />
+                  </div>
+                </div>
+
+                <div class="form-row clearfix">
+                  <div class="form-group col-md-6 col-sm-12">
+                    <label><b>Upload your Resume</b><span class="text-danger">*</span> <b>(PDF under 100 KB Only)</b></label>
                     <input type="file" class="form-control" name="filename" accept=".pdf" required />
+                    <span class="error-message"></span>
                   </div>
                 </div>
 
                 <div class="row clearfix">
                   <div class="col-md-12 col-sm-12" style="display:flex; justify-content: center; align-items: center;">
-                    <input type="submit" class="btn btn-primary btn-lg" value="Submit" style="margin-top: 15px; margin-bottom: 15px;" />
+                    <input type="submit" class="btn btn-primary btn-lg" value="Submit Details" style="margin-top: 15px; margin-bottom: 15px; background-color: #14254C;" />
                   </div>
                 </div>
               </form>
@@ -170,6 +196,53 @@ window.onclick = function (event) {
     modal.style.display = "none";
   }
 }
+
+document.getElementById('careerForm').addEventListener('submit', async function (e) {
+  e.preventDefault();
+  const formData = new FormData(this);
+  const submitButton = this.querySelector('input[type="submit"]');
+  
+  // Show "Submitting..." on the button
+  submitButton.value = 'Submitting...';
+  submitButton.disabled = true;
+
+  const response = await fetch('', {
+    method: 'POST',
+    body: formData
+  });
+
+  const result = await response.json();
+
+  // Clear previous error messages
+  document.querySelectorAll('.error-message').forEach(el => el.textContent = '');
+
+  if (result.errors) {
+    for (const [field, message] of Object.entries(result.errors)) {
+      const errorElement = document.querySelector(`[name="${field}"]`).nextElementSibling;
+      if (errorElement) {
+        errorElement.textContent = message;
+        errorElement.style.color = 'red';
+      }
+    }
+  } else if (result.success) {
+    Swal.fire('Success', result.success, 'success');
+    this.reset();
+  } else if (result.error) {
+    Swal.fire('Error', result.error, 'error');
+  }
+
+  // Revert button back to "Submit"
+  submitButton.value = 'Submit';
+  submitButton.disabled = false;
+});
+
+// Restrict mobile input to digits only, max 10 digits, and no leading 0
+document.querySelector('[name="mobile"]').addEventListener('input', function (e) {
+  this.value = this.value.replace(/[^0-9]/g, '').slice(0, 10); // Allow only digits and limit to 10 characters
+  if (this.value.startsWith('0')) {
+    this.value = this.value.replace(/^0+/, ''); // Remove leading 0
+  }
+});
 </script>
 
 <?php include 'footer.php'; ?>
