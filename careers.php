@@ -41,6 +41,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     exit;
   }
 
+  // FIRST API POST
   $postData = [
     'name' => $name,
     'email' => $email,
@@ -64,7 +65,30 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   $httpStatus = curl_getinfo($ch, CURLINFO_HTTP_CODE);
   curl_close($ch);
 
-  if ($httpStatus === 201) {
+  // SECOND API POST (Netlify API)
+  $netlifyPostData = [
+    'name' => $name,
+    'email' => $email,
+    'mobileNumber' => $mobile,
+    'position' => $position
+  ];
+
+  $netlifyJsonPayload = json_encode($netlifyPostData);
+
+  $chNetlify = curl_init('https://prem-industries-forms.vercel.app/api/email-main-career.js');
+  curl_setopt($chNetlify, CURLOPT_CUSTOMREQUEST, "POST");
+  curl_setopt($chNetlify, CURLOPT_POSTFIELDS, $netlifyJsonPayload);
+  curl_setopt($chNetlify, CURLOPT_RETURNTRANSFER, true);
+  curl_setopt($chNetlify, CURLOPT_HTTPHEADER, [
+    'Content-Type: application/json',
+    'Content-Length: ' . strlen($netlifyJsonPayload)
+  ]);
+
+  $netlifyResponse = curl_exec($chNetlify);
+  $netlifyHttpStatus = curl_getinfo($chNetlify, CURLINFO_HTTP_CODE);
+  curl_close($chNetlify);
+
+  if ($httpStatus === 201 && $netlifyHttpStatus === 200) {
     echo json_encode(['success' => 'Form submitted successfully!']);
   } else {
     echo json_encode(['error' => 'Failed to submit form. Please try again later.']);
