@@ -41,10 +41,10 @@
           <!--========-->
           <li class="nav-item dropdown megamenu-li dmenu">
               <a class="nav-link dropdown-toggle" href="" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Products</a>
-              <div class="dropdown-menu megamenu sm-menu border-top p-0 m-0" aria-labelledby="dropdown01">
+              <div class="dropdown-menu megamenu sm-menu border-top p-0 m-0" aria-labelledby="dropdown01" style="width: 900px;">
                   <div class="row">
                     <!-- Add one border-left class bellow for division -->
-                      <div class="col-sm-6 col-lg-6">
+                      <div class="col-sm-4 col-lg-4">
                           <a class="dropdown-item" href="corrugated-boxes.php">Corrugated Boxes</a>
                           <a class="dropdown-item" href="offset-printed-cartons-folding-cartons.php">Offset Printed Cartons / <br>Folding Cartons</a>
                           <a class="dropdown-item" href="flexible-laminates-pouches.php">Flexible Laminates & Pouches</a>
@@ -53,9 +53,10 @@
                           <a class="dropdown-item" href="paper-mailer-bags.php">Paper Mailer Bags</a>
                           <a class="dropdown-item" href="2-ply-corrugated-mailer-bags.php">2 Ply Corrugated Mailer Bags</a>
                           <a class="dropdown-item" href="carry-bags.php">Carry Bags</a>
+                          <a class="dropdown-item" href="carry-bags.php">Returnable Poly Mailer</a>
                           <!-- <a class="dropdown-item" href="packpro-tapes.php">PackPro<sup>™</sup> Tapes</a> -->
                       </div>
-                      <div class="col-sm-6 col-lg-6 border-right">
+                      <div class="col-sm-4 col-lg-4">
                         <a class="dropdown-item" href="packpro-tapes.php">PackPro<sup>™</sup> Tapes</a>
                         <a class="dropdown-item" href="wetboxtech.php">WetBoxTech<sup>™</sup></a>
                         <a class="dropdown-item" href="flexpand.php">Flexpand<sup>™</sup></a>
@@ -64,6 +65,17 @@
                         <a class="dropdown-item" href="packpro-honeycomb-food-wrapping-paper.php">PackPro<sup>™</sup> HoneyComb <br>Food Wrapping Paper</a>
                         <a class="dropdown-item" href="packpro-carry-handle-tape.php">PackPro<sup>™</sup> Carry Handle Tape</a>
                         <a class="dropdown-item" href="peel-and-seal-bags.php">Peel and Seal Bags</a>
+                        <a class="dropdown-item" href="carry-bags.php">Security Bag</a>
+                      </div>
+                      <div class="col-sm-4 col-lg-4">
+                        <a class="dropdown-item" href="void-tape.php">Void Tape</a>
+                        <a class="dropdown-item" href="carry-bags.php">M Folder</a>
+                        <a class="dropdown-item" href="carry-bags.php">PackPro<sup>™</sup> HoneyComb <br>Wrapping</a>
+                        <a class="dropdown-item" href="carry-bags.php">Paper Bubble Bag</a>
+                        <a class="dropdown-item" href="carry-bags.php">Bubble Pouch</a>
+                        <a class="dropdown-item" href="carry-bags.php">Padded Mailer Bag</a>
+                        <a class="dropdown-item" href="carry-bags.php">HeatTechBox</a>
+                        <a class="dropdown-item" href="carry-bags.php">Variable Depth Box</a>
                       </div>
                   </div>
               </div>
@@ -93,8 +105,7 @@
 				  <a class="dropdown-item" href="quality-control.php">Quality Control</a>
 				  <a class="dropdown-item" href="research-development.php">Research & Development</a>
 				  <a class="dropdown-item" href="exhibitions.php">Exhibitions</a>
-				  <a class="dropdown-item" href="./brochure/Prem Packaging.pdf" download="Prem Packaging.pdf" target="_blank" rel="noreferrer">Download Brochure</a>
-                  
+				  <a class="dropdown-item" href="./brochure/Prem Packaging.pdf" download="Prem Packaging.pdf" target="_blank" rel="noreferrer">Download Brochure</a>                  
 				  
                   <!-- <a class="dropdown-item" href="mission-vision.php">Mission & Vision</a> -->
                   <!-- <a class="dropdown-item" href="team.php">Team</a> -->

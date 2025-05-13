@@ -138,6 +138,24 @@
             </div>
           </div>
 
+    <section class="body__content page-body-content">
+      <div class="container">
+        <div class="row mb-3">
+          <div class="col-md-12 text-center">
+            <h3 class="wow fadeInUp" style="font-size: 35px">EPR CERTIFICATE</h3>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-md-4 text-center mb-5">
+          <img src="certificate/EPR.png" alt="EPR Certificate" class="img-fluid" />
+        </div>
+      </div>
+    </div>
+
     <?php include 'contactsection.php';?>
     <!-- header start -->
     <?php include 'footer.php';?>
