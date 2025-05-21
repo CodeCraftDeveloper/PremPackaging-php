@@ -76,25 +76,25 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/peel-and-seal/new/1.png" data-fancybox="images">
+            <a class="gallery-col" href="img/peel-and-seal/new/01.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/peel-and-seal/new/1.png" alt="Peel and Seal Bags">
+                <img src="img/peel-and-seal/new/01.png" alt="Peel and Seal Bags">
                 <!-- <h4>3/5/7 Ply Corrugated Box</h4> -->
               </div>
             </a>
           </div>
           <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/peel-and-seal/new/2.png" data-fancybox="images">
+            <a class="gallery-col" href="img/peel-and-seal/new/02.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/peel-and-seal/new/2.png" alt="Peel and Seal Bags">
+                <img src="img/peel-and-seal/new/02.png" alt="Peel and Seal Bags">
                 <!-- <h4>Corrugated Bins</h4> -->
               </div>
             </a>
           </div>
           <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/peel-and-seal/new/3.png" data-fancybox="images">
+            <a class="gallery-col" href="img/peel-and-seal/new/03.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/peel-and-seal/new/3.png" alt="Peel and Seal Bags">
+                <img src="img/peel-and-seal/new/03.png" alt="Peel and Seal Bags">
                 <!-- <h4>Corrugated Pallets</h4> -->
               </div>
             </a>
