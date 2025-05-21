@@ -147,7 +147,7 @@
         <div class="col mt-4">
             <div class="card h-100 d-flex flex-column shadow-sm">
             <a href="why-healthcare-packaging-is-crucial-for-safety-and-hygiene.php" style="text-decoration: none; color: black;">
-                <img src="img/blog/cards/why-healthcare-packaging-is-crucial-for-safety-and-hygiene.jpg" class="card-img-top" alt="Why Healthcare Packaging Is Crucial For Safety And Hygiene">
+                <img src="img/blog/cards/why-healthcare-packaging-is-crucial-for-safety-and-hygienee.jpg" class="card-img-top" alt="Why Healthcare Packaging Is Crucial For Safety And Hygiene">
                 <div class="card-body flex-grow-1">
                       <b>
                       Why Healthcare Packaging is Crucial for Safety and Hygiene
