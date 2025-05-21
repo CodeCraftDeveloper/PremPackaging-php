@@ -132,32 +132,34 @@
             <a href="types-of-pouches-we-provide-at-prem-industries-india-limited.php" style="text-decoration: none; color: black;">
                 <img src="img/blog/cards/types-of-pouches-we-provide-at-prem-industries-india-limited.png" class="card-img-top" alt="Types of Pouches We Provide at Prem Industries India Limited">
                 <div class="card-body flex-grow-1">
-                    <!-- <h5 class="card-title"> -->
                       <b>
                       Types of Pouches We Provide at Prem Industries India Limited
                       </b>
-                    <!-- </h5> -->
                     <p class="card-text mt-2">Packaging plays a crucial role in preserving product quality, enhancing shelf appeal, and ensuring convenience for consumers <b class="text-danger">Read&nbsp;More...</b></p>
                 </div>
                 </a>
                 <div class="card-footer mt-auto">
                   <small class="text-muted">19th February 2025</small>
-                  <!-- <small class="text-primary"><a href="how-to-choose-the-right-bespoke-packaging-supplier.php" style="text-decoration: none; color: black;">Read More</a></small> -->
                 </div>
             </div>
         </div>
-        <!-- <div class="col mt-4">
+        <!-- Card 3 -->
+        <div class="col mt-4">
             <div class="card h-100 d-flex flex-column shadow-sm">
-                <img src="img/blog/cards/how-to-choose-the-right-bespoke-packaging-supplier.jpg" class="card-img-top" alt="Image 2">
+            <a href="why-healthcare-packaging-is-crucial-for-safety-and-hygiene.php" style="text-decoration: none; color: black;">
+                <img src="img/blog/cards/why-healthcare-packaging-is-crucial-for-safety-and-hygiene.jpg" class="card-img-top" alt="Why Healthcare Packaging Is Crucial For Safety And Hygiene">
                 <div class="card-body flex-grow-1">
-                    <h5 class="card-title">Card 2</h5>
-                    <p class="card-text">This is a longer text to test height adjustments. This should align all cards properly.</p>
+                      <b>
+                      Why Healthcare Packaging is Crucial for Safety and Hygiene
+                      </b>
+                    <p class="card-text mt-2">The importance of healthcare packaging goes beyond just presentation. It plays a critical role in maintaining product... <b class="text-danger">Read&nbsp;More...</b></p>
                 </div>
+                </a>
                 <div class="card-footer mt-auto">
-                    <small class="text-muted">14th February 2025</small>
+                  <small class="text-muted">21st May 2025</small>
                 </div>
             </div>
-        </div> -->
+        </div>
     </div>
 </div>
       </section>
