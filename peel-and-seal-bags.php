@@ -27,7 +27,7 @@
     <?php include 'header.php';?>
 
 
-    <div class="page-hero pageheade" style="background: #eee url(../img/peel-and-seal/banner.png); height: 350px; background-size: cover; background-position: center;">
+    <div class="page-hero pageheade" style="background: #eee url(../img/peel-and-seal/banner-new.png); height: 350px; background-size: cover; background-position: center;">
       <div class="container">
         <div class="row">
           <div class="col-md-8">
@@ -76,25 +76,25 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/peel-and-seal/1.png" data-fancybox="images">
+            <a class="gallery-col" href="img/peel-and-seal/new/1.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/peel-and-seal/1.png" alt="Peel and Seal Bags">
+                <img src="img/peel-and-seal/new/1.png" alt="Peel and Seal Bags">
                 <!-- <h4>3/5/7 Ply Corrugated Box</h4> -->
               </div>
             </a>
           </div>
           <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/peel-and-seal/2.png" data-fancybox="images">
+            <a class="gallery-col" href="img/peel-and-seal/new/2.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/peel-and-seal/2.png" alt="Peel and Seal Bags">
+                <img src="img/peel-and-seal/new/2.png" alt="Peel and Seal Bags">
                 <!-- <h4>Corrugated Bins</h4> -->
               </div>
             </a>
           </div>
           <div class="col-md-4 p-1">
-            <a class="gallery-col" href="img/peel-and-seal/3.png" data-fancybox="images">
+            <a class="gallery-col" href="img/peel-and-seal/new/3.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/peel-and-seal/3.png" alt="Peel and Seal Bags">
+                <img src="img/peel-and-seal/new/3.png" alt="Peel and Seal Bags">
                 <!-- <h4>Corrugated Pallets</h4> -->
               </div>
             </a>
