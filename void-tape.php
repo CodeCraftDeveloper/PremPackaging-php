@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Find durable and customizable corrugated box solutions at Prem Industries India Limited. Elevate your packaging with our premium corrugated box options.">
-    <meta property="og:title" content="Void Tape | Prem Industries India Limited">
+    <meta name="description" content="Secure your packages with tamper-evident void tape. Leaves a VOID mark when removed, offers strong adhesion, and is fully customizable for all packaging needs.">
+    <meta property="og:title" content="Tamper-Evident Void Tape | Prem Industries India Limited">
     <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
 
-    <title>Void Tape</title>
+    <title>Tamper-Evident Void Tape</title>
     <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
     <!-- Bootstrap core css -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -27,7 +27,7 @@
     <?php include 'header.php';?>
 
 
-    <div class="page-hero pageheade Corrugated-Boxes">
+    <div class="page-hero pageheade" style="background: #eee url(../img/void/banner.png); height: 350px; background-size: cover; background-position: center;">
       <div class="container">
         <div class="row">
           <div class="col-md-8">
@@ -50,7 +50,7 @@
         <div class="row">
           <div class="col-md-12">
             <div>
-              <h3 class="wow fadeInUp" style="font-size: 35px">Void Tape - Secure Every Package</h3>
+              <h3 class="wow fadeInUp" style="font-size: 35px">Tamper-Evident Void Tape – Secure Every Shipment</h3>
             </div>
           </div>
         </div>
@@ -58,16 +58,19 @@
           <div class="col-md-10">
             <div class="body-content">
               <div class="body-content">
-                <p class="wow fadeInUp">Void tape is a tamper-evident security tape used in packaging. When removed, it leaves a visible “VOID” message on the surface, indicating unauthorized access. It cannot be resealed, making it ideal for protecting high-value or sensitive items in industries like E-Commerce, electronics and pharmaceuticals.</p>
-                <h4 style="font-weight: 600; color: #14254C;">Why is Void Tape Used for Deliveries?</h4>
-                <p class="wow fadeInUp">Void tape is used for deliveries to ensure the security and integrity of packages during transit. When the tape is removed or tampered with, it leaves a clear “VOID” message on the surface, making any unauthorized access immediately visible. This helps protect high-value, confidential, or sensitive items by preventing theft, tampering, or replacement during shipping. It also builds trust with customers by assuring them that their products arrive safely and untouched.</p>
-                <h4 style="font-weight: 600; color: #14254C;">Key Features</h4>
+                <p class="wow fadeInUp">At Prem Industries India Limited, we prioritize security in packaging. Our Void Tape is a tamper-evident packaging solution designed to protect your shipments from unauthorized access during transit or storage. Ideal for industries such as e-commerce, electronics, pharmaceuticals, logistics, and more, this tape acts as a visible deterrent against tampering.</p>
+                <p class="wow fadeInUp">When the tape is removed or peeled, it leaves behind a clear and irreversible “VOID” message on the surface — indicating that the package has been tampered with. This immediate visual cue ensures product safety, builds customer trust, and protects against theft or fraud.</p>
+                <p class="wow fadeInUp">Crafted using high-quality materials and strong adhesive, our void tape adheres securely to most surfaces, making it difficult to remove without detection. It cannot be resealed once removed, ensuring complete transparency and authenticity in delivery.</p>
+                <h4 style="font-weight: 600; color: #14254C;">Key Features of Void Tape:</h4>
               <ul class="mt-0 mb-3">
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Leaves a "VOID" mark when Removed </li>
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Tamper-evident </li>
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Strong Adhesive </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Can be Customized as Per Requirement </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Customizable Options </li>
               </ul>
+                <p class="wow fadeInUp">Available in both standard and custom formats, our void tape can be branded or color-coded to meet your company’s packaging needs. Whether you need security for shipping cartons, confidential envelopes, or product boxes — void tape is the ideal solution to add a layer of protection.</p>
+                <p class="wow fadeInUp">At Prem Industries India Limited, we don’t just provide packaging — we provide peace of mind. Secure your packaging with our tamper-evident void tape and keep your shipments safe from start to finish.</p>
+                <p class="wow fadeInUp">Contact us to place an order or request a sample today.</p>
             </div>
           </div>
           </div>
@@ -79,17 +82,17 @@
       <div class="container-fluid">
         <div class="row">
           <div class="col-md-6 p-1">
-            <a class="gallery-col" href="img/Corrugated-Boxes/Corrugated1.jpg" data-fancybox="images">
+            <a class="gallery-col" href="img/void/001.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/Corrugated-Boxes/Corrugated1.jpg" alt="3/5/7 Ply Corrugated Box">
+                <img src="img/void/001.png" alt="Void Tape">
                 <!-- <h4>3/5/7 Ply Corrugated Box</h4> -->
               </div>
             </a>
           </div>
           <div class="col-md-6 p-1">
-            <a class="gallery-col" href="img/Corrugated-Boxes/Corrugated2.jpg" data-fancybox="images">
+            <a class="gallery-col" href="img/void/002.png" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/Corrugated-Boxes/Corrugated2.jpg" alt="Corrugated Bins">
+                <img src="img/void/002.png" alt="Void Tape">
                 <!-- <h4>Corrugated Bins</h4> -->
               </div>
             </a>
@@ -107,3 +110,5 @@
       $('.fancybox').fancybox();
     });
   </script>
+  </body>
+</html>

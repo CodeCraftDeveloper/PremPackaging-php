@@ -63,6 +63,7 @@
                         <a class="dropdown-item" href="packpro-honeycomb-food-wrapping-paper.php">PackPro<sup>™</sup> HoneyComb <br>Food Wrapping Paper</a>
                         <a class="dropdown-item" href="packpro-carry-handle-tape.php">PackPro<sup>™</sup> Carry Handle Tape</a>
                         <a class="dropdown-item" href="peel-and-seal-bags.php">Peel and Seal Bags</a>
+                        <a class="dropdown-item" href="void-tape.php">Void Tape</a>
                         <a class="dropdown-item" href="security-bag.php">Security Bag</a>
                       </div>
                   </div>
