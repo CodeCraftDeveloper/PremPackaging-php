@@ -53,10 +53,9 @@
                           <a class="dropdown-item" href="paper-mailer-bags.php">Paper Mailer Bags</a>
                           <a class="dropdown-item" href="2-ply-corrugated-mailer-bags.php">2 Ply Corrugated Mailer Bags</a>
                           <a class="dropdown-item" href="carry-bags.php">Carry Bags</a>
-                          <!-- <a class="dropdown-item" href="packpro-tapes.php">PackPro<sup>™</sup> Tapes</a> -->
+                          <a class="dropdown-item" href="packpro-tapes.php">PackPro<sup>™</sup> Tapes</a>
                       </div>
                       <div class="col-sm-6 col-lg-6 border-right">
-                        <a class="dropdown-item" href="packpro-tapes.php">PackPro<sup>™</sup> Tapes</a>
                         <a class="dropdown-item" href="wetboxtech.php">WetBoxTech<sup>™</sup></a>
                         <a class="dropdown-item" href="flexpand.php">Flexpand<sup>™</sup></a>
                         <a class="dropdown-item" href="rollabel-labels.php">Rollabel<sup>™</sup> Labels</a>
@@ -64,6 +63,7 @@
                         <a class="dropdown-item" href="packpro-honeycomb-food-wrapping-paper.php">PackPro<sup>™</sup> HoneyComb <br>Food Wrapping Paper</a>
                         <a class="dropdown-item" href="packpro-carry-handle-tape.php">PackPro<sup>™</sup> Carry Handle Tape</a>
                         <a class="dropdown-item" href="peel-and-seal-bags.php">Peel and Seal Bags</a>
+                        <a class="dropdown-item" href="security-bag.php">Security Bag</a>
                       </div>
                   </div>
               </div>
