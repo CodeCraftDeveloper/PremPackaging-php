@@ -64,7 +64,7 @@
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>High-Strength PET Film:</b> Known for its superior tensile strength and tear resistance, ensuring durability under heavy loads. </li>
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Natural Rubber Adhesive:</b> Designed to perform consistently across a wide range of temperatures, offering excellent moisture resistance. </li>
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Versatile Application:</b> Sticks seamlessly to various surfaces, including cardboard and strong plastic films.</li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Convenience in Carrying:</b> Provides an easy-to-hold handle for items weighing up to 10 kg. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Convenience in Carrying:</b> Provides an easy-to-hold handle for items weighing up to 15 kg. </li>
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Eco-Friendly Alternative:</b> Helps reduce the dependency on plastic bags by turning items into easy-to-carry packages. </li>
               </ul>
               <h4 style="font-weight: 600;">Ideal Applications</h4>
@@ -104,6 +104,22 @@
         </div>
       </div>
     </div>
+    
+      <!-- <div class="section">
+        <div class="container mb-5">
+          <h3 class="wow fadeInUp text-center mb-5" style="font-size: 35px; font-weight: bold; text-transform: uppercase; color: #14254C;">Product Video</h3>
+          <div class="row">
+            <div class="col-md-1"></div>
+              <div class="col-md-10">
+                <div class="video-wrapper" style="text-align:center;">
+                  <div class="embed-responsive embed-responsive-16by9">
+                  <iframe class="embed-responsive-item" src="videos/carry_handle_tape.mp4" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+                </div>
+              </div>
+            <div class="col-md-1"></div>
+          </div>
+        </div>
+      </div> -->
 
   <?php include 'contactsection.php';?>
   <!-- header start -->
