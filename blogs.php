@@ -160,6 +160,23 @@
                 </div>
             </div>
         </div>
+        <!-- Card 4 -->
+        <div class="col mt-4">
+            <div class="card h-100 d-flex flex-column shadow-sm">
+            <a href="lift-with-ease-how-packpro-carry-handle-tape-transforms-heavy-packaging.php" style="text-decoration: none; color: black;">
+                <img src="img/blog/cards/lift-with-ease-how-packpro-carry-handle-tape-transforms-heavy-packaging.jpg" class="card-img-top" alt="Lift with Ease: How PackPro™ Carry Handle Tape Transforms Heavy Packaging">
+                <div class="card-body flex-grow-1">
+                      <b>
+                        Lift with Ease: How PackPro™ Carry Handle Tape Transforms Heavy Packaging
+                      </b>
+                    <p class="card-text mt-2">In the world of modern packaging, convenience isn’t a luxury—it’s a necessity. As e-commerce, retail, and industrial... <b class="text-danger">Read&nbsp;More...</b></p>
+                </div>
+                </a>
+                <div class="card-footer mt-auto">
+                  <small class="text-muted">23rd May 2025</small>
+                </div>
+            </div>
+        </div>
     </div>
 </div>
       </section>
