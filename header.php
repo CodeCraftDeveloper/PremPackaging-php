@@ -41,10 +41,10 @@
           <!--========-->
           <li class="nav-item dropdown megamenu-li dmenu">
               <a class="nav-link dropdown-toggle" href="" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Products</a>
-              <div class="dropdown-menu megamenu sm-menu border-top p-0 m-0" aria-labelledby="dropdown01">
+              <div class="dropdown-menu megamenu sm-menu border-top p-0 m-0" aria-labelledby="dropdown01" style="width: 900px;">
                   <div class="row">
                     <!-- Add one border-left class bellow for division -->
-                      <div class="col-sm-6 col-lg-6">
+                      <div class="col-sm-4 col-lg-4">
                           <a class="dropdown-item" href="corrugated-boxes.php">Corrugated Boxes</a>
                           <a class="dropdown-item" href="offset-printed-cartons-folding-cartons.php">Offset Printed Cartons / <br>Folding Cartons</a>
                           <a class="dropdown-item" href="flexible-laminates-pouches.php">Flexible Laminates & Pouches</a>
@@ -53,9 +53,10 @@
                           <a class="dropdown-item" href="paper-mailer-bags.php">Paper Mailer Bags</a>
                           <a class="dropdown-item" href="2-ply-corrugated-mailer-bags.php">2 Ply Corrugated Mailer Bags</a>
                           <a class="dropdown-item" href="carry-bags.php">Carry Bags</a>
-                          <a class="dropdown-item" href="packpro-tapes.php">PackPro<sup>™</sup> Tapes</a>
+                        <a class="dropdown-item" href="packpro-tapes.php">PackPro<sup>™</sup> Tapes</a>
+                          <!-- <a class="dropdown-item" href="packpro-tapes.php">PackPro<sup>™</sup> Tapes</a> -->
                       </div>
-                      <div class="col-sm-6 col-lg-6 border-right">
+                      <div class="col-sm-4 col-lg-4">
                         <a class="dropdown-item" href="wetboxtech.php">WetBoxTech<sup>™</sup></a>
                         <a class="dropdown-item" href="flexpand.php">Flexpand<sup>™</sup></a>
                         <a class="dropdown-item" href="rollabel-labels.php">Rollabel<sup>™</sup> Labels</a>
@@ -65,6 +66,16 @@
                         <a class="dropdown-item" href="peel-and-seal-bags.php">Peel and Seal Bags</a>
                         <a class="dropdown-item" href="void-tape.php">Void Tape</a>
                         <a class="dropdown-item" href="security-bag.php">Security Bag</a>
+                      </div>
+                      <div class="col-sm-4 col-lg-4">
+                        <!-- <a class="dropdown-item" href="returnable-poly-mailer.php">Returnable Poly Mailer</a> -->
+                        <!-- <a class="dropdown-item" href="m-folder.php">M Folder</a> -->
+                        <!-- <a class="dropdown-item" href="packpro-honeycomb-wrapping.php">PackPro<sup>™</sup> HoneyComb <br>Wrapping</a> -->
+                        <!-- <a class="dropdown-item" href="paper-bubble-bag.php">Paper Bubble Bag</a> -->
+                        <!-- <a class="dropdown-item" href="bubble-pouch.php">Bubble Pouch</a> -->
+                        <a class="dropdown-item" href="heattechbox.php">HeatTechBox</a>
+                        <!-- <a class="dropdown-item" href="variable-depth-box.php">Variable Depth Box</a> -->
+                        <a class="dropdown-item" href="buy-back-box.php">Buy Back Box</a>
                       </div>
                   </div>
               </div>
@@ -94,8 +105,7 @@
 				  <a class="dropdown-item" href="quality-control.php">Quality Control</a>
 				  <a class="dropdown-item" href="research-development.php">Research & Development</a>
 				  <a class="dropdown-item" href="exhibitions.php">Exhibitions</a>
-				  <a class="dropdown-item" href="./brochure/Prem Packaging.pdf" download="Prem Packaging.pdf" target="_blank" rel="noreferrer">Download Brochure</a>
-                  
+				  <a class="dropdown-item" href="./brochure/Prem Packaging.pdf" download="Prem Packaging.pdf" target="_blank" rel="noreferrer">Download Brochure</a>                  
 				  
                   <!-- <a class="dropdown-item" href="mission-vision.php">Mission & Vision</a> -->
                   <!-- <a class="dropdown-item" href="team.php">Team</a> -->
@@ -107,10 +117,10 @@
 		 <li class="nav-item"><a class="nav-link" href="/blogs">blog</a></li> 
 
      
-     <li class="nav-item"><a class="nav-link" href="https://store.prempackaging.com/"><div style="display:flex ; flex-direction:row">
-      <div> Shop</div>
-      <!-- <div><i class="fa fa-shopping-cart"></i></div> -->
-     </div></a></li> 
+     <li class="nav-item"><a class="nav-link" href="https://store.prempackaging.com/"><div style="display:flex ; flex-direction:row;align-items:center;">
+  <div><i class="fa fa-shopping-cart fa-lg cart-shake" style="margin-right:6px;"></i></div>
+  <div>Shop</div>
+  </div></a></li> 
 		  
         </ul>
         <ul class="prem-right-menu">
@@ -131,3 +141,17 @@
     <?php include 'StaticSocialButtons.php';?>
   </nav>
 </header>
+<head>
+  <style>
+    @keyframes shake-cart {
+      0%, 80%, 100% { transform: translateX(0); }
+      10%, 30%, 50%, 70% { transform: translateX(-1px); }
+      20%, 40%, 60% { transform: translateX(1px); }
+      85%, 100% { transform: translateX(0); }
+    }
+    .cart-shake {
+      animation: shake-cart 2s infinite;
+      display: inline-block;
+    }
+  </style>
+</head>

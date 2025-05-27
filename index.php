@@ -466,7 +466,7 @@
           <div class="new-arrivals__slider owl-carousel owl-theme">
           <div class="product-wrap">
               <div class="overflow-hidden">
-                <img src="img/index/ex/1.jpg" alt="Pack Expo Las Vegas" />
+                <img src="img/index/ex/new/1.jpg" alt="Pack Expo Las Vegas" />
               </div>
               <div class="arrivals-content-block">
                 <h3 class="text-center">PackExpo Las Vegas</h3>
@@ -474,7 +474,7 @@
             </div>
             <div class="product-wrap">
               <div class="overflow-hidden">
-                <img src="img/index/ex/2.jpg" alt="Americas Food & Beverage Show" />
+                <img src="img/index/ex/new/2.jpg" alt="Americas Food & Beverage Show" />
               </div>
               <div class="arrivals-content-block">
                 <h3 class="text-center">Americas Food & Beverage Show</h3>
