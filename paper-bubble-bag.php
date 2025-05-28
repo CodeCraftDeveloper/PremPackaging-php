@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Paper Bubble Bag">
-    <meta property="og:title" content="Paper Bubble Bag | Prem Industries India Limited">
+    <meta name="description" content="Protect fragile items with eco-friendly paper bubble bags. Recyclable, lightweight, and cushioned with self-seal closure. Ideal for e-commerce and low-volume shipping.">
+    <meta property="og:title" content="Paper Bubble Bags for Safe & Eco-Friendly Shipping">
     <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
 
-    <title>Paper Bubble Bag</title>
+    <title>Paper Bubble Bags</title>
     <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
     <!-- Bootstrap core css -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -50,7 +50,7 @@
         <div class="row">
           <div class="col-md-12">
             <div>
-              <h3 class="wow fadeInUp" style="font-size: 35px">Security Page - Secure Every Package</h3>
+              <h3 class="wow fadeInUp" style="font-size: 35px">Paper Bubble Bag – Smart, Sustainable Protection for Fragile Shipments</h3>
             </div>
           </div>
         </div>
@@ -58,17 +58,17 @@
           <div class="col-md-10">
             <div class="body-content">
               <div class="body-content">
-                <p class="wow fadeInUp">Level 4 security bags offer the highest level of tamper-evident features, including detection of unauthorized opening using various methods like liquids, solvents and heat.</p>
-                <h4 style="font-weight: 600; color: #14254C;">Level 4 Security Bags: Advanced Tamper Detection</h4>
-                <p class="wow fadeInUp">These high-security bags are designed for industries where confidentiality and integrity are critical—such as banking, legal, forensic, and high-value retail. They provide visible evidence of tampering through chemical, thermal, or mechanical means, ensuring that any unauthorized access attempt is immediately noticeable. With strong adhesives, multiple layers, and built-in security indicators, Level 4 bags offer peace of mind during handling, storage, and transportation.</p>
-                <h4 style="font-weight: 600; color: #14254C;">Key Features</h4>
-              <ul class="mt-0 mb-3">
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Tamper-evident Seal </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Unique Serial Numbers </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Strong Multilayer Film </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Detection of Unauthorized Opening </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Customized Hidden Message </li>
-              </ul>
+                <p class="wow fadeInUp">Looking for a protective packaging solution that’s both eco-conscious and effective? Our Paper Bubble Bags offer the perfect balance between performance and sustainability. Ideal for shipping fragile items like cosmetics, electronics, pharmaceuticals, and glassware, these bags are engineered for businesses that value both product safety and environmental responsibility.</p>
+                <p class="wow fadeInUp">Each paper bubble bag features a self-adhesive strip for secure, hassle-free sealing—no tape or additional tools required. They’re lightweight, recyclable, and easy to use, making them perfect for small e-commerce businesses, low-volume shipping zones, or brands looking to scale sustainably.</p>
+                <p class="wow fadeInUp">Our bags come in a variety of sizes and are available in multi-purpose or limited-grade cushioning, including original or anti-static formulations. Whether you're shipping a delicate serum bottle or a fragile phone component, our bubble bags ensure it arrives safely.</p>
+                <h4 style="font-weight: 600; color: #14254C;">Features</h4>
+                <p class="wow fadeInUp">✅ Lightweight design with eco-friendly cushioning for cost-effective shipping.</p>
+                <p class="wow fadeInUp">✅ Durable bubble protection retains up to 90% of inflation, ensuring top performance.</p>
+                <p class="wow fadeInUp">✅ Available in loose fill cartons or bags on a roll for flexibility.</p>
+                <p class="wow fadeInUp">✅ Self-adhesive closures for quick, secure packing.</p>
+                <p class="wow fadeInUp">✅ Available in small, medium, and large bubble heights for custom protection.</p>
+                <p class="wow fadeInUp">✅ Fully recyclable – helping you lower your carbon footprint</p>
+                <p class="wow fadeInUp">Contact us today to explore options, request samples, or place your order.</p>
             </div>
           </div>
           </div>
@@ -76,25 +76,10 @@
       </div>
     </section>
 
-    <div class="e-commerce-gallery BoxesGallery">
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-md-6 p-1">
-            <a class="gallery-col" href="img/security-bag/1.png" data-fancybox="images">
-              <div class="gallery-box">
-                <img src="img/security-bag/1.png" alt="Security Bag">
-                <!-- <h4>3/5/7 Ply Corrugated Box</h4> -->
-              </div>
-            </a>
-          </div>
-          <div class="col-md-6 p-1">
-            <a class="gallery-col" href="img/security-bag/2.png" data-fancybox="images">
-              <div class="gallery-box">
-                <img src="img/security-bag/2.png" alt="Security Bag">
-                <!-- <h4>Corrugated Bins</h4> -->
-              </div>
-            </a>
-          </div>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-12 text-center">
+          <img src="img/paper-bubble-bag/1.png" class="img-fluid" alt="Paper Bubble Bag">
         </div>
       </div>
     </div>
