@@ -61,17 +61,17 @@
                 <h4 style="font-weight: 600;">Why Choose Our Retort Packaging?</h4>
                 <p class="wow fadeInUp">With decades of experience in the packaging industry, we offer retort pouches that are:</p>
                 <ul class="mt-0 mb-3">
-                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Heat-Resistant and Durable </li>
-                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Flexible and Space-Efficient </li>
-                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Resource-Efficient</li>
-                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Versatile </li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Heat-Resistant and Durable </li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Flexible and Space-Efficient </li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Resource-Efficient</li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Versatile </li>
                 </ul>
                 <h4 style="font-weight: 600;">How Can we Help in Retort Packaging?</h4>
                 <p class="wow fadeInUp">At Prem Industries India Limited, we are committed to transforming food packaging with innovative retort solutions. Our team ensures every pouch meets the highest standards of quality and performance, providing:</p>
                 <ul class="mt-0 mb-3">
-                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Customizable sizes and designs to suit specific product requirements. </li>
-                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> State-of-the-art manufacturing processes for enhanced durability. </li>
-                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Cost-effective packaging solutions that maintain food safety and freshness during transit.</li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Customizable sizes and designs to suit specific product requirements. </li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ State-of-the-art manufacturing processes for enhanced durability. </li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Cost-effective packaging solutions that maintain food safety and freshness during transit.</li>
                 </ul>
               <p class="wow fadeInUp">Contact us and explore our premium retort packaging to deliver unmatched quality and convenience to your customers.</p>
             </div>

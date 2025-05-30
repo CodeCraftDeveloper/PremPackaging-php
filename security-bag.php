@@ -63,11 +63,11 @@
                 <p class="wow fadeInUp">What sets our security bags apart is the advanced tamper-evident technology that instantly indicates any attempt at tampering. If the bag is opened or interfered with, a hidden message appears on the seal, making it impossible to reseal or go unnoticed.</p>
                 <h4 style="font-weight: 600; color: #14254C;">Key Features of Our Security Bags:</h4>
               <ul class="mt-0 mb-3">
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Tamper-Evident Seal:</b> Alerts instantly to any unauthorized access or opening attempt. </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Unique Serial Number:</b> Each bag is uniquely numbered for traceability and added security. </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Strong Multilayer Film:</b> Offers high resistance to tearing, moisture, and tampering. </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Detection of Unauthorized Opening:</b> Hidden indicators appear upon any breach of the seal. </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Customized Hidden Message:</b> Personalize the tamper message for enhanced brand control and traceability. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Tamper-Evident Seal:</b> Alerts instantly to any unauthorized access or opening attempt. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Unique Serial Number:</b> Each bag is uniquely numbered for traceability and added security. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Strong Multilayer Film:</b> Offers high resistance to tearing, moisture, and tampering. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Detection of Unauthorized Opening:</b> Hidden indicators appear upon any breach of the seal. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Customized Hidden Message:</b> Personalize the tamper message for enhanced brand control and traceability. </li>
               </ul>
                 <p class="wow fadeInUp">Available in various sizes and customizable formats, our security bags are suitable for cash handling, secure document transport, forensic evidence storage, and more. With easy-to-use features and advanced security mechanisms, they bring peace of mind to every shipment.</p>
                 <p class="wow fadeInUp">Choose us for security packaging that performs beyond expectations — because when it comes to protection, we leave nothing to chance.</p>

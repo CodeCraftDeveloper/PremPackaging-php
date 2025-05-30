@@ -63,10 +63,10 @@
                 <p class="wow fadeInUp">Crafted using high-quality materials and strong adhesive, our void tape adheres securely to most surfaces, making it difficult to remove without detection. It cannot be resealed once removed, ensuring complete transparency and authenticity in delivery.</p>
                 <h4 style="font-weight: 600; color: #14254C;">Key Features of Void Tape:</h4>
               <ul class="mt-0 mb-3">
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Leaves a "VOID" mark when Removed </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Tamper-evident </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Strong Adhesive </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Customizable Options </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Leaves a "VOID" mark when Removed </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Tamper-evident </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Strong Adhesive </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Customizable Options </li>
               </ul>
                 <p class="wow fadeInUp">Available in both standard and custom formats, our void tape can be branded or color-coded to meet your company’s packaging needs. Whether you need security for shipping cartons, confidential envelopes, or product boxes — void tape is the ideal solution to add a layer of protection.</p>
                 <p class="wow fadeInUp">At Prem Industries India Limited, we don’t just provide packaging — we provide peace of mind. Secure your packaging with our tamper-evident void tape and keep your shipments safe from start to finish.</p>

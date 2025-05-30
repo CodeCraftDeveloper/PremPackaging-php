@@ -64,11 +64,11 @@
                 <p class="wow fadeInUp">With a “one size fits all” design, the Buy Back Box eliminates the need to stock multiple variants, simplifying your packaging inventory and reducing operational costs. Its compact and lightweight build makes it cost-effective for bulk returns and ideal for courier logistics.</p>
                 <h4 style="font-weight: 600; color: #14254C;">Key Features of Buy Back Box:</h4>
                 <ul class="mt-0 mb-3">
-                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>LDPE Film Protection:</b> Prevents scratches, dust, and scuffs. </li>
-                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Durable 3-Ply Box:</b> Offers rigid structural integrity during transit. </li>
-                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Universal Fit:</b> Designed to accommodate most standard smartphone sizes. </li>
-                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Easy Return Process:</b> Simplifies logistics and enhances the customer return experience. </li>
-                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Safe & Secure Packaging:</b> Keeps phones as good as new upon delivery.</li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>LDPE Film Protection:</b> Prevents scratches, dust, and scuffs. </li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Durable 3-Ply Box:</b> Offers rigid structural integrity during transit. </li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Universal Fit:</b> Designed to accommodate most standard smartphone sizes. </li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Easy Return Process:</b> Simplifies logistics and enhances the customer return experience. </li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Safe & Secure Packaging:</b> Keeps phones as good as new upon delivery.</li>
                 </ul>
                 <p class="wow fadeInUp">From tech brands to e-commerce platforms and service centres, the Buy Back Box is the trusted choice for managing safe and efficient phone returns. Get in touch to explore bulk orders or customized branding options.</p>
               </div>

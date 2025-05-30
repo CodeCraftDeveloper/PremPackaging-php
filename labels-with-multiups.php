@@ -62,10 +62,10 @@
                 <h4 style="font-weight: 600;">Why Choose Us For Labels With Multi-ups?</h4>
                 <p class="wow fadeInUp">At Prem Industries India Limited, we bring you superior-quality labels with Multi-ups tailored to your needs. Our expertise ensures precision and durability in every product, with customizable options to meet your business demands. Key features of our labels with Multi-ups include:</p>
                   <ul class="mt-0 mb-3">
-                    <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Multiple formats on a single sheet </li>
-                    <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Perforation for easy separation. </li>
-                    <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Customizable options</li>
-                    <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Versatile usage</li>
+                    <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Multiple formats on a single sheet </li>
+                    <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Perforation for easy separation. </li>
+                    <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Customizable options</li>
+                    <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Versatile usage</li>
                   </ul>
               <h4 style="font-weight: 600;">Efficient Solutions For Bulk Shipments</h4>
               <p class="wow fadeInUp">Our labels with Multi-ups are designed to make bulk shipments more efficient. Trust us for labels with Multi-ups and experience unmatched quality and efficiency in your labeling solutions.</p>

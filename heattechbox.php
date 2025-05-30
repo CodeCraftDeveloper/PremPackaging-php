@@ -63,11 +63,11 @@
                 <p class="wow fadeInUp">Not only is it efficient, but it’s also lightweight, eco-friendly, and easy to handle. Businesses can now reduce packaging weight and costs while still maintaining product integrity. Our custom sizing options allow you to get the right fit for your specific delivery requirements, reducing waste and improving efficiency.</p>
                 <h4 style="font-weight: 600; color: #14254C;">Why Choose HeatTechBox?</h4>
                 <ul class="mt-0 mb-3">
-                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Custom Sizes:</b> Tailored to suit your product dimensions and volume. </li>
-                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Lightweight:</b> Cuts down transportation costs without compromising protection. </li>
-                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Easy-to-Use:</b> Simple, secure packaging process with no additional equipment required. </li>
-                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Eco-Friendly:</b> Made with sustainable materials to reduce environmental impact. </li>
-                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Superior Thermal Protection:</b> Keeps contents at optimal temperature for extended periods.</li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Custom Sizes:</b> Tailored to suit your product dimensions and volume. </li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Lightweight:</b> Cuts down transportation costs without compromising protection. </li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Easy-to-Use:</b> Simple, secure packaging process with no additional equipment required. </li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Eco-Friendly:</b> Made with sustainable materials to reduce environmental impact. </li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Superior Thermal Protection:</b> Keeps contents at optimal temperature for extended periods.</li>
                 </ul>
                 <p class="wow fadeInUp">Whether you're a grocery delivery service, seafood supplier, or specialty food brand, HeatTechBox offers the reliability you need to ship with confidence. Let your products arrive as fresh as they left — every time.</p>
                 <p class="wow fadeInUp">Contact us for bulk pricing, samples, or custom requirements.</p>

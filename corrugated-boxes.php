@@ -64,11 +64,11 @@
                 <h4 style="font-weight: 600;">Our Offerings in Corrugated Box Solutions</h4>
                 <p class="wow fadeInUp">We are proud to offer a diverse range of corrugated packaging products, including:</p>
               <ul class="mt-0 mb-3">
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> 3/5/7 Ply Corrugated Boxes </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Fruit Trays </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Bins and Corrugated Pallets</li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Pizza Boxes and E-Fluted Cartons </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> PDQ/Displays </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ 3/5/7 Ply Corrugated Boxes </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Fruit Trays </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Bins and Corrugated Pallets</li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Pizza Boxes and E-Fluted Cartons </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ PDQ/Displays </li>
               </ul>
               <h4 style="font-weight: 600;">Partner with Us for Excellence in Corrugated Packaging</h4>
               <p class="wow fadeInUp">At Prem Industries India Limited, we are dedicated to delivering packaging solutions that protect, preserve, and promote your products. With decades of experience, a focus on innovation, and a passion for quality, we are your trusted partner for Corrugated box solutions that make a difference.</p>
