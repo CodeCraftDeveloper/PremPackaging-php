@@ -62,12 +62,14 @@
                 <p class="wow fadeInUp">Each paper bubble bag features a self-adhesive strip for secure, hassle-free sealing—no tape or additional tools required. They’re lightweight, recyclable, and easy to use, making them perfect for small e-commerce businesses, low-volume shipping zones, or brands looking to scale sustainably.</p>
                 <p class="wow fadeInUp">Our bags come in a variety of sizes and are available in multi-purpose or limited-grade cushioning, including original or anti-static formulations. Whether you're shipping a delicate serum bottle or a fragile phone component, our bubble bags ensure it arrives safely.</p>
                 <h4 style="font-weight: 600; color: #14254C;">Features</h4>
-                <p class="wow fadeInUp">✅ Lightweight design with eco-friendly cushioning for cost-effective shipping.</p>
-                <p class="wow fadeInUp">✅ Durable bubble protection retains up to 90% of inflation, ensuring top performance.</p>
-                <p class="wow fadeInUp">✅ Available in loose fill cartons or bags on a roll for flexibility.</p>
-                <p class="wow fadeInUp">✅ Self-adhesive closures for quick, secure packing.</p>
-                <p class="wow fadeInUp">✅ Available in small, medium, and large bubble heights for custom protection.</p>
-                <p class="wow fadeInUp">✅ Fully recyclable – helping you lower your carbon footprint</p>
+                <ul class="mt-0 mb-3">
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Lightweight design with eco-friendly cushioning for cost-effective shipping. </li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Durable bubble protection retains up to 90% of inflation, ensuring top performance. </li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Available in loose fill cartons or bags on a roll for flexibility. </li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Self-adhesive closures for quick, secure packing. </li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Available in small, medium, and large bubble heights for custom protection. </li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Fully recyclable – helping you lower your carbon footprint </li>
+                </ul>
                 <p class="wow fadeInUp">Contact us today to explore options, request samples, or place your order.</p>
             </div>
           </div>
