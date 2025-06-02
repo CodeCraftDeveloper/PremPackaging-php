@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="M Folder">
-    <meta property="og:title" content="M Folder | Prem Industries India Limited">
+    <meta name="description" content="Simplify shipping with the M Folder Pouch—flexible, reusable, and cost-efficient packaging ideal for various product sizes in e-commerce and retail.">
+    <meta property="og:title" content="Versatile & Eco-Friendly M Folder Pouch for Smart Packaging">
     <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
@@ -50,7 +50,7 @@
         <div class="row">
           <div class="col-md-12">
             <div>
-              <h3 class="wow fadeInUp" style="font-size: 35px">Security Page - Secure Every Package</h3>
+              <h3 class="wow fadeInUp" style="font-size: 35px">M Folder Pouch – Smart, Flexible & Cost-Efficient Packaging</h3>
             </div>
           </div>
         </div>
@@ -58,17 +58,21 @@
           <div class="col-md-10">
             <div class="body-content">
               <div class="body-content">
-                <p class="wow fadeInUp">Level 4 security bags offer the highest level of tamper-evident features, including detection of unauthorized opening using various methods like liquids, solvents and heat.</p>
-                <h4 style="font-weight: 600; color: #14254C;">Level 4 Security Bags: Advanced Tamper Detection</h4>
-                <p class="wow fadeInUp">These high-security bags are designed for industries where confidentiality and integrity are critical—such as banking, legal, forensic, and high-value retail. They provide visible evidence of tampering through chemical, thermal, or mechanical means, ensuring that any unauthorized access attempt is immediately noticeable. With strong adhesives, multiple layers, and built-in security indicators, Level 4 bags offer peace of mind during handling, storage, and transportation.</p>
-                <h4 style="font-weight: 600; color: #14254C;">Key Features</h4>
+                <p class="wow fadeInUp">The M Folder Pouch is a versatile packaging solution designed to simplify and streamline your shipping process. Ideal for businesses that deal with products of varying sizes, this pouch is engineered to offer a flexible fit using a single dimension—saving time, space, and inventory costs.</p>
+                <p class="wow fadeInUp">Unlike traditional packaging options that require multiple sizes for different products, the M Folder Pouch adapts easily to various shapes and dimensions. Its foldable design allows it to expand or contract based on the product size, making it perfect for e-commerce, retail, and logistics operations.</p>
+                <p class="wow fadeInUp">One of the standout benefits of the M Folder Pouch is its ability to reduce packaging inventory. With a single pouch size accommodating multiple products, businesses can minimize storage requirements and avoid the hassle of maintaining different pouch sizes. This not only simplifies operations but also results in significant cost savings.</p>
+                <p class="wow fadeInUp">Designed for convenience, each pouch comes with a strong adhesive strip for secure sealing. This ensures your products remain safe and tamper-free during transit. Additionally, the pouch is reusable, making it a more sustainable and efficient option for businesses looking to reduce waste and promote eco-conscious practices.</p>
+                <p class="wow fadeInUp">Whether you’re shipping clothing, accessories, documents, or small electronics, the M Folder Pouch offers a reliable, space-saving, and professional packaging experience. Its sleek design not only protects your products but also leaves a lasting impression on your customers.</p>
+                <h4 style="font-weight: 600; color: #14254C;">Key Features:</h4>
               <ul class="mt-0 mb-3">
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Tamper-evident Seal </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Unique Serial Numbers </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Strong Multilayer Film </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Detection of Unauthorized Opening </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Customized Hidden Message </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Flexible fit for multiple product sizes </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Reduces the need for multiple packaging SKUs </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Saves storage and inventory costs </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Secure adhesive strip for easy sealing </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Reusable and eco-efficient </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Available in various size options </li>
               </ul>
+              <p class="wow fadeInUp">Choose the M Folder Pouch for a packaging solution that delivers functionality, efficiency, and adaptability. It's the perfect choice for businesses seeking smart packaging that keeps up with dynamic product needs.</p>
             </div>
           </div>
           </div>
@@ -76,25 +80,10 @@
       </div>
     </section>
 
-    <div class="e-commerce-gallery BoxesGallery">
-      <div class="container-fluid">
-        <div class="row">
-          <div class="col-md-6 p-1">
-            <a class="gallery-col" href="img/security-bag/1.png" data-fancybox="images">
-              <div class="gallery-box">
-                <img src="img/security-bag/1.png" alt="Security Bag">
-                <!-- <h4>3/5/7 Ply Corrugated Box</h4> -->
-              </div>
-            </a>
-          </div>
-          <div class="col-md-6 p-1">
-            <a class="gallery-col" href="img/security-bag/2.png" data-fancybox="images">
-              <div class="gallery-box">
-                <img src="img/security-bag/2.png" alt="Security Bag">
-                <!-- <h4>Corrugated Bins</h4> -->
-              </div>
-            </a>
-          </div>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-12 text-center">
+          <img src="img/m-folder/1.png" class="img-fluid" alt="M Folder">
         </div>
       </div>
     </div>
