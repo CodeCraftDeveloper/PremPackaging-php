@@ -72,7 +72,7 @@
                         <a class="dropdown-item" href="m-folder.php">M Folder</a>
                         <a class="dropdown-item" href="packpro-honeycomb-wrapper.php">PackPro<sup>™</sup> HoneyComb <br>Wrapper</a>
                         <a class="dropdown-item" href="paper-bubble-bag.php">Paper Bubble Bag</a>
-                        <!-- <a class="dropdown-item" href="bubble-pouch.php">Bubble Pouch</a> -->
+                        <a class="dropdown-item" href="bubble-pouch.php">Bubble Pouch</a>
                         <a class="dropdown-item" href="heattechbox.php">HeatTechBox</a>
                         <!-- <a class="dropdown-item" href="variable-depth-box.php">Variable Depth Box</a> -->
                         <a class="dropdown-item" href="buy-back-box.php">Buy Back Box</a>
