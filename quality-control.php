@@ -98,7 +98,11 @@
             <div class="row">
               <div class="col-md-12">
                 <div class="Years-of-excellence__slider owl-carousel owl-theme">
-
+                  <div class="product-wrap">
+                    <div class="awards-logo">
+                      <img src="img/certification/brc-logo.png" width="300" alt="" />
+                    </div>
+                  </div>
                   <div class="product-wrap">
                     <div class="awards-logo">
                       <img src="img/certification/iso-cnvrt-01.svg" width="300" alt="" />
