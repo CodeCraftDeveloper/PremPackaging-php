@@ -57,7 +57,7 @@
         <div class="col-md-6 order2 mb-3">
           <div class="body-content">
             <p class="wow fadeInUp">Prem Industries India Limited has the pleasure of helping more than 150+ clients/brands since 1977 by providing unbeatable packaging solutions. With over four glorious decades of manufacturing excellence behind us, we offer a comprehensive range of integrated packaging solutions. The secret to our innovation lies in our vast array of processing equipment and the latest technology to meet the unique needs of our customers. Prem Industries' core principles are giving significance to customer satisfaction, uncompromised packaging quality and adherence to scientific management to produce the best. </p>
-            <p class="wow fadeInUp">Currently, there are about 800+ employees in Prem Industries. We have three specialised manufacturing units covering 4, 75,000 square feet. These units incorporate the finest technologies from around the world. Our 6 warehousing locations for raw materials and finished goods cover 1, 00000 square feet in North India.
+            <p class="wow fadeInUp">Currently, there are about 800+ employees in Prem Industries. We have four specialised manufacturing units covering 4, 75,000 square feet. These units incorporate the finest technologies from around the world. Our 6 warehousing locations for raw materials and finished goods cover 1,00,000 square feet in North India.
             <p class="wow fadeInUp">Prem Industries has collaborated with many of the leading brands globally. This experience has given us the ability to build trust and constantly improve our abilities to deliver better with innovation and sustainability.</p>
           </div>
         </div>
@@ -72,7 +72,7 @@
 
   <div class="e-commerce-video">
     <video loop="loop" autoplay="" playsinline="" muted="" class="packaging-video">
-      <source src="img/prem-Unit1.mp4" type="video/mp4">
+      <source src="img/prem-Unit1-new.mp4" type="video/mp4">
     </video>
   </div>
 
@@ -138,7 +138,7 @@
             <div class="product-wrap">
               <div class="Years-of-excellence-content">
                 <h3>1977</h3>
-                <p style="font-size: 14px;">Installation of first foot operated corrugation machine and we landed our first client Dabur India in 1978 - A long relationship we still carry.</p>
+                <p style="font-size: 14px;">Installation of first foot operated corrugation machine and we landed our first client Dabur India in 1977 - A long relationship we still carry.</p>
               </div>
             </div>
             <div class="product-wrap">

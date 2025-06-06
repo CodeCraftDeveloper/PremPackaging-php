@@ -752,7 +752,7 @@ p.image-box-description {
 .Prem_Clients {
   background: url(../img/Clietns.png);
   background-size: cover;
-  padding: 130px 0 80px;
+  padding: 130px 0 0px;
 }
 
 .Average-Clients {

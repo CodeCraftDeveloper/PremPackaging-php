@@ -191,7 +191,7 @@
             <div class="product-wrap">
               <div class="Years-of-excellence-content">
                 <h3>1977</h3>
-                <p style="font-size: 14px;">Installation of first foot operated corrugation machine and we landed our first client Dabur India in 1978 - A long relationship we still carry.</p>
+                <p style="font-size: 14px;">Installation of first foot operated corrugation machine and we landed our first client Dabur India in 1977 - A long relationship we still carry.</p>
               </div>
             </div>
             <div class="product-wrap">
@@ -270,7 +270,7 @@
   console.log('JavaScript code is running');
 
   // Define the starting year
-  const startingYear = 1976;
+  const startingYear = 1977;
 
   // Get the current year
   const currentYear = new Date().getFullYear();
@@ -304,17 +304,30 @@
     </div>
   </div> -->
 </section>
+<section>
+  <div>
+    <video loop="loop" autoplay="" playsinline="" muted="" class="packaging-video">
+      <source src="img/hero/brc-video-banner.mp4" type="video/mp4">
+    </video>
+  </div>
+</section>
   <section class="body__content padding second">
     <div class="container">
       <div class="row">
-        <div class="col-md-4 mt-5">
-        <div class="text-center">
-            <h2 class="wow fadeInUp" style="font-size: 46px;">What's New at Prem?</h2>
-            <p class="wow fadeInUp mt-4">We keep our innovation game always on! See our latest arrivals, soon-to-be-launched products, technology, and more here.</p>
+        <!-- Outer Column -->
+        <div class="col-md-6" style="border-right: 1px solid grey;">
+          <div class="row">
+            <div class="col-md-12">
+              <div class="text-center">
+                <h2 class="wow fadeInUp" style="font-size: 46px;">What's New at Prem?</h2>
+                <p class="wow fadeInUp mt-4">We keep our innovation game always on! See our latest arrivals, soon-to-be-launched products, technology, and more here.</p>
+              </div>
+            </div>
           </div>
-        </div>
-        <div class="col-md-7 offset-md-1">
-          <div class="new-arrivals__slider owl-carousel owl-theme">
+
+          <div class="row">
+            <div class="col-md-12">
+              <div class="new-arrivals__slider owl-carousel owl-theme">
           <div class="product-wrap">
               <div class="overflow-hidden">
                 <img src="img/index/whats-new/carry-bag.jpg" alt="Carry Bags" title="" />
@@ -454,16 +467,21 @@
               </div>
             </div>
           </div>
+            </div>
+          </div>
         </div>
-      </div>
-    </div>
-  </section>
-
-  <section class="body__content padding second border-bottom">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-7 offset-md-1">
-          <div class="new-arrivals__slider owl-carousel owl-theme">
+        <div class="col-md-6">
+          <div class="row">
+            <div class="col-md-12">
+              <div class="text-center">
+                <h2 class="wow fadeInUp" style="font-size: 46px;">Upcoming Exhibitions</h2>
+                <p class="wow fadeInUp mt-4">Stay tuned as we unveil our latest innovations, upcoming product launches, advanced technologies, and more at our upcoming exhibitions!</p>
+              </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-12">
+                <div class="new-arrivals__slider owl-carousel owl-theme">
           <div class="product-wrap">
               <div class="overflow-hidden">
                 <img src="img/index/ex/new/1.jpg" alt="Pack Expo Las Vegas" />
@@ -481,13 +499,10 @@
               </div>
             </div>
           </div>
-        </div>
-        <div class="col-md-4 mt-5">
-        <div class="text-center">
-            <h2 class="wow fadeInUp" style="font-size: 46px;">Upcoming <br />Exhibitions</h2>
-            <p class="wow fadeInUp mt-4">Stay tuned as we unveil our latest innovations, upcoming product launches, advanced technologies, and more at our upcoming exhibitions!</p>
+            </div>
           </div>
         </div>
+      </div>
       </div>
     </div>
   </section>
@@ -604,28 +619,25 @@
       </div>
     </div>
   </section>
-  <section class="mt-5 mb-3">
+
+  <section>
     <div class="container mt-5">
       <div class="row">
-        <div class="col-md-12">
-        <h1 class="text-center" style="font-size: 42px; color: #3A5BA2; font-weight: 700">CORPORATE VIDEO</h1>
+        <div class="col-md-4 d-flex justify-content-center align-items-center">
+          <h1 class="text-center" style="font-size: 42px; color: #3A5BA2; font-weight: 700;">CORPORATE VIDEO</h1>
         </div>
-      </div>
-      <div class="row">
-        <!-- <div class="col-md-3"></div> -->
-         <div class="col-md-1"></div>
-        <div class="col-md-10 text-center mt-5">
-        <iframe src="https://www.youtube.com/embed/sgXaThtSFNY">
-          </iframe>
+        <div class="col-md-8">
+          <iframe width="100%" height="315" src="https://www.youtube.com/embed/sgXaThtSFNY" frameborder="0" allowfullscreen></iframe>
         </div>
-        <!-- <div class="col-md-1"></div> -->
       </div>
     </div>
   </section>
+
+
   <div class="container mb-5">
     <div class="row mt-5">
         <div class="col-md-12">
-          <h1 class="text-center mt-3" style="font-size: 42px; color: #3A5BA2; font-weight: 700">Testimonials</h1>
+          <h1 class="text-center mt-3 align-center" style="font-size: 42px; color: #3A5BA2; font-weight: 700">Testimonials</h1>
         </div>
       </div>
       <div class="row">
@@ -771,6 +783,57 @@
       </div>
     </div>
   </section>
+
+  <section>
+    <div class="container">
+      <div class="row mt-5">
+        <div class="col-md-12">
+          <div class="row">
+            <div class="col-lg-8 offset-lg-2">
+              <div class="text-center mb-0 pb-0">
+                <h3 class="wow fadeInUp" style="font-size: 42px; color: #3A5BA2; font-weight: 700">Certifications</h3>
+                <p class="wow fadeInUp">We have received certifications from credible quality management authorities to prove our authentic presence in this industry.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+  <div class="container">
+    <!-- First row of 5 logos -->
+    <div class="row justify-content-center">
+      <div class="col-md-2 text-center">
+        <img src="img/certification/home/1.jpg" class="mt-5" alt="Logo 1" height="100" width="100">
+      </div>
+      <div class="col-md-2 text-center">
+        <img src="img/certification/home/2.jpg" class="mt-5" alt="Logo 3" height="100" width="100">
+      </div>
+      <div class="col-md-2 text-center">
+        <img src="img/certification/home/8.jpg" class="mt-5" alt="Logo 4" height="100" width="100">
+      </div>
+      <div class="col-md-2 text-center">
+        <img src="img/certification/home/4.jpg" class="mt-5" alt="Logo 5" height="100" width="100">
+      </div>
+    </div>
+
+    <!-- Second row of 5 logos -->
+    <div class="row justify-content-center mb-5">
+      <div class="col-md-2 text-center">
+        <img src="img/certification/home/5.jpg" class="mt-5" alt="Logo 6" height="100" width="100">
+      </div>
+      <div class="col-md-2 text-center">
+        <img src="img/certification/home/6.jpg" class="mt-5" alt="Logo 9" height="100" width="100">
+      </div>
+      <div class="col-md-2 text-center">
+        <img src="img/certification/home/7.jpg" class="mt-5" alt="Logo 10" height="100" width="100">
+      </div>
+    </div>
+  </div>
+</section>
+
   
   <!-- header start -->
   <?php include 'footer.php';?>
