@@ -21,6 +21,14 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
     />
+    <style>
+      h4{
+        color: #14254C;
+      }
+      .bullet-point-new{
+        color: #14254C;
+      }
+    </style>
   </head>
   <body>
     <!-- header start -->
@@ -54,24 +62,24 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-10">
+          <div class="col-md-12" style="text-align: justify">
             <div class="body-content">
               <div class="body-content">
                 <p class="wow fadeInUp">Retort packaging is a cutting-edge solution revolutionizing the ready-to-eat food industry. It refers to heat-resistant, laminated packaging designed to seal and sterilize food items at high temperatures, typically up to 121°C. This process ensures the safety, freshness, and extended shelf life of products. At Prem Industries India Limited, we specialize in providing top-quality retort packaging solutions that cater to diverse needs in the food industry. Whether it’s soups, sauces, rice, pasta, or cook-in-a-bag meals, our retort pouches are the ideal choice for preserving the taste and nutritional value of your products.</p>
                 <h4 style="font-weight: 600;">Why Choose Our Retort Packaging?</h4>
                 <p class="wow fadeInUp">With decades of experience in the packaging industry, we offer retort pouches that are:</p>
                 <ul class="mt-0 mb-3">
-                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Heat-Resistant and Durable </li>
-                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Flexible and Space-Efficient </li>
-                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Resource-Efficient</li>
-                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Versatile </li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Heat-Resistant and Durable </li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Flexible and Space-Efficient </li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Resource-Efficient</li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Versatile </li>
                 </ul>
                 <h4 style="font-weight: 600;">How Can we Help in Retort Packaging?</h4>
                 <p class="wow fadeInUp">At Prem Industries India Limited, we are committed to transforming food packaging with innovative retort solutions. Our team ensures every pouch meets the highest standards of quality and performance, providing:</p>
                 <ul class="mt-0 mb-3">
-                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Customizable sizes and designs to suit specific product requirements. </li>
-                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ State-of-the-art manufacturing processes for enhanced durability. </li>
-                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Cost-effective packaging solutions that maintain food safety and freshness during transit.</li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Customizable sizes and designs to suit specific product requirements. </li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> State-of-the-art manufacturing processes for enhanced durability. </li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Cost-effective packaging solutions that maintain food safety and freshness during transit.</li>
                 </ul>
               <p class="wow fadeInUp">Contact us and explore our premium retort packaging to deliver unmatched quality and convenience to your customers.</p>
             </div>

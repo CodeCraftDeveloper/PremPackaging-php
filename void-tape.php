@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Secure your packages with tamper-evident void tape. Leaves a VOID mark when removed, offers strong adhesion, and is fully customizable for all packaging needs.">
-    <meta property="og:title" content="Tamper-Evident Void Tape | Prem Industries India Limited">
+    <meta property="og:title" content="Tamper-Evident Void Tape Manufacturer | Prem Industries India Limited">
     <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
@@ -21,6 +21,17 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
     />
+    <style>
+      h4{
+        color: #14254C;
+      }
+      .bullet-point-new{
+        color: #14254C;
+      }
+      b{
+        color: #14254C;
+      }
+    </style>
   </head>
   <body>
     <!-- header start -->
@@ -55,7 +66,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-10">
+          <div class="col-md-12" style="text-align: justify">
             <div class="body-content">
               <div class="body-content">
                 <p class="wow fadeInUp">At Prem Industries India Limited, we prioritize security in packaging. Our Void Tape is a tamper-evident packaging solution designed to protect your shipments from unauthorized access during transit or storage. Ideal for industries such as e-commerce, electronics, pharmaceuticals, logistics, and more, this tape acts as a visible deterrent against tampering.</p>
@@ -63,10 +74,10 @@
                 <p class="wow fadeInUp">Crafted using high-quality materials and strong adhesive, our void tape adheres securely to most surfaces, making it difficult to remove without detection. It cannot be resealed once removed, ensuring complete transparency and authenticity in delivery.</p>
                 <h4 style="font-weight: 600; color: #14254C;">Key Features of Void Tape:</h4>
               <ul class="mt-0 mb-3">
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Leaves a "VOID" mark when Removed </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Tamper-evident </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Strong Adhesive </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Customizable Options </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Leaves a "VOID" mark when Removed </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Tamper-evident </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Strong Adhesive </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Customizable Options </li>
               </ul>
                 <p class="wow fadeInUp">Available in both standard and custom formats, our void tape can be branded or color-coded to meet your company’s packaging needs. Whether you need security for shipping cartons, confidential envelopes, or product boxes — void tape is the ideal solution to add a layer of protection.</p>
                 <p class="wow fadeInUp">At Prem Industries India Limited, we don’t just provide packaging — we provide peace of mind. Secure your packaging with our tamper-evident void tape and keep your shipments safe from start to finish.</p>

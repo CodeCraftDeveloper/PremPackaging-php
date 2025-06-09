@@ -21,6 +21,14 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
     />
+    <style>
+      h4{
+        color: #14254C;
+      }
+      .bullet-point-new{
+        color: #14254C;
+      }
+    </style>
   </head>
   <body>
     <!-- header start -->
@@ -55,17 +63,17 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-10">
+          <div class="col-md-12" style="text-align: justify">
             <div class="body-content">
               <div class="body-content">
                 <p class="wow fadeInUp">Labels with Multi-ups and perforataion are innovative solutions designed to simplify and enhance bulk shipment processes. These labels come pre-cut and arranged in multiple formats on a single sheet, making application fast and efficient. Equipped with perforation, they enable smooth separation, reducing time and effort. Ideal for industries like e-commerce, shipping, and inventory management, labels with Multi-ups ensure operational accuracy and effectiveness.</p>
                 <h4 style="font-weight: 600;">Why Choose Us For Labels With Multi-ups?</h4>
                 <p class="wow fadeInUp">At Prem Industries India Limited, we bring you superior-quality labels with Multi-ups tailored to your needs. Our expertise ensures precision and durability in every product, with customizable options to meet your business demands. Key features of our labels with Multi-ups include:</p>
                   <ul class="mt-0 mb-3">
-                    <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Multiple formats on a single sheet </li>
-                    <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Perforation for easy separation. </li>
-                    <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Customizable options</li>
-                    <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Versatile usage</li>
+                    <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Multiple formats on a single sheet </li>
+                    <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Perforation for easy separation. </li>
+                    <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Customizable options</li>
+                    <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Versatile usage</li>
                   </ul>
               <h4 style="font-weight: 600;">Efficient Solutions For Bulk Shipments</h4>
               <p class="wow fadeInUp">Our labels with Multi-ups are designed to make bulk shipments more efficient. Trust us for labels with Multi-ups and experience unmatched quality and efficiency in your labeling solutions.</p>

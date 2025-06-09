@@ -9,7 +9,7 @@
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
 
-    <title>Variable Depth Box</title>
+    <title>Variable Depth Box Manufacturer</title>
     <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
     <!-- Bootstrap core css -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -21,6 +21,17 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
     />
+    <style>
+      h4{
+        color: #14254C;
+      }
+      .bullet-point-new{
+        color: #14254C;
+      }
+      b{
+        color: #14254C;
+      }
+    </style>
   </head>
   <body>
     <!-- header start -->
@@ -55,7 +66,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-10">
+          <div class="col-md-12" style="text-align: justify">
             <div class="body-content">
               <div class="body-content">
                 <p class="wow fadeInUp">Managing storage, shipping, and packaging costs can be challenging—especially when dealing with products of varying sizes. That’s where our Variable Depth Boxes come in. Designed to adapt to your needs, these boxes offer unmatched flexibility, helping you pack smarter, reduce waste, and save on costs.</p>
@@ -64,12 +75,12 @@
                 <p class="wow fadeInUp">Perfect for e-commerce businesses, retailers, and warehouse operations, variable depth boxes help you streamline packaging inventory. Instead of stocking multiple box sizes, one adjustable box can do the job of many—freeing up valuable storage space and improving workflow efficiency.</p>
                 <h4 style="font-weight: 600; color: #14254C;">Key Features:</h4>
               <ul class="mt-0 mb-3">
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Adjustable Height:</b> Cut and fold to match your product’s size </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Strong Corrugated Board:</b> Reinforced fluting for superior protection </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Cost-Saving:</b> Reduces need for multiple box sizes and void fill </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Flat Packed:</b> Easy to store and assemble </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Eco-Friendly:</b> Made from renewable, recyclable materials </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Versatile:</b> Ideal for shipping a wide range of product dimensions </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> <b>Adjustable Height:</b> Cut and fold to match your product’s size </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> <b>Strong Corrugated Board:</b> Reinforced fluting for superior protection </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> <b>Cost-Saving:</b> Reduces need for multiple box sizes and void fill </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> <b>Flat Packed:</b> Easy to store and assemble </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> <b>Eco-Friendly:</b> Made from renewable, recyclable materials </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> <b>Versatile:</b> Ideal for shipping a wide range of product dimensions </li>
               </ul>
               <p class="wow fadeInUp">Whether you're shipping cosmetics, electronics, or retail goods, our Variable Depth Boxes provide a smart, sustainable packaging solution that adjusts with your business.</p>
               <p class="wow fadeInUp">Contact us today to request a sample or bulk pricing.</p>

@@ -21,6 +21,17 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
     />
+    <style>
+      h4{
+        color: #14254C;
+      }
+      .bullet-point-new{
+        color: #14254C;
+      }
+      b{
+        color: #14254C;
+      }
+    </style>
   </head>
   <body>
     <!-- header start -->
@@ -55,20 +66,20 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-10">
+          <div class="col-md-12" style="text-align: justify">
             <div class="body-content">
               <div class="body-content">
-                <p class="wow fadeInUp">Looking for a protective packaging solution that’s both eco-conscious and effective? Our Paper Bubble Bags offer the perfect balance between performance and sustainability. Ideal for shipping fragile items like cosmetics, electronics, pharmaceuticals, and glassware, these bags are engineered for businesses that value both product safety and environmental responsibility.</p>
+                <p class="wow fadeInUp">Looking for a protective packaging solution that’s both eco-conscious and effective? Prem Industries India Limited is the largest Paper Bubble Bag manufacturer, We offers the perfect balance between performance and sustainability. Ideal for shipping fragile items like cosmetics, electronics, pharmaceuticals, and glassware, these bags are engineered for businesses that value both product safety and environmental responsibility.</p>
                 <p class="wow fadeInUp">Each paper bubble bag features a self-adhesive strip for secure, hassle-free sealing—no tape or additional tools required. They’re lightweight, recyclable, and easy to use, making them perfect for small e-commerce businesses, low-volume shipping zones, or brands looking to scale sustainably.</p>
                 <p class="wow fadeInUp">Our bags come in a variety of sizes and are available in multi-purpose or limited-grade cushioning, including original or anti-static formulations. Whether you're shipping a delicate serum bottle or a fragile phone component, our bubble bags ensure it arrives safely.</p>
                 <h4 style="font-weight: 600; color: #14254C;">Features</h4>
                 <ul class="mt-0 mb-3">
-                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Lightweight design with eco-friendly cushioning for cost-effective shipping. </li>
-                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Durable bubble protection retains up to 90% of inflation, ensuring top performance. </li>
-                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Available in loose fill cartons or bags on a roll for flexibility. </li>
-                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Self-adhesive closures for quick, secure packing. </li>
-                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Available in small, medium, and large bubble heights for custom protection. </li>
-                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Fully recyclable – helping you lower your carbon footprint </li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Lightweight design with eco-friendly cushioning for cost-effective shipping. </li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Durable bubble protection retains up to 90% of inflation, ensuring top performance. </li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Available in loose fill cartons or bags on a roll for flexibility. </li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Self-adhesive closures for quick, secure packing. </li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Available in small, medium, and large bubble heights for custom protection. </li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Fully recyclable – helping you lower your carbon footprint </li>
                 </ul>
                 <p class="wow fadeInUp">Contact us today to explore options, request samples, or place your order.</p>
             </div>

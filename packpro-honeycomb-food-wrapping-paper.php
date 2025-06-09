@@ -21,6 +21,14 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
     />
+    <style>
+      h4{
+        color: #14254C;
+      }
+      .bullet-point-new{
+        color: #14254C;
+      }
+    </style>
   </head>
   <body>
     <!-- header start -->
@@ -55,7 +63,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-10">
+          <div class="col-md-12" style="text-align: justify">
             <div class="body-content">
               <div class="body-content">
                 <p class="wow fadeInUp">PackPro™ HoneyComb Food Wrapping Paper is an innovative packaging solution crafted to keep your food fresh, crispy, and flavorable. Designed with advanced honeycomb technology, this eco-friendly paper prevents sogginess, ensuring that your fried snacks, hot fries, and other crispy delights maintain their original texture and taste. Whether you're serving takeaways, catering at events, or packing meals for on-the-go consumption, this food wrapping paper guarantees a superior food experience every time.</p>

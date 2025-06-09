@@ -9,7 +9,7 @@
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
 
-    <title>M Folder</title>
+    <title>M Folder Pouch Manufacturer</title>
     <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
     <!-- Bootstrap core css -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -21,6 +21,17 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
     />
+    <style>
+      h4{
+        color: #14254C;
+      }
+      .bullet-point-new{
+        color: #14254C;
+      }
+      b{
+        color: #14254C;
+      }
+    </style>
   </head>
   <body>
     <!-- header start -->
@@ -55,7 +66,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-10">
+          <div class="col-md-12" style="text-align: justify">
             <div class="body-content">
               <div class="body-content">
                 <p class="wow fadeInUp">The M Folder Pouch is a versatile packaging solution designed to simplify and streamline your shipping process. Ideal for businesses that deal with products of varying sizes, this pouch is engineered to offer a flexible fit using a single dimension—saving time, space, and inventory costs.</p>
@@ -65,12 +76,12 @@
                 <p class="wow fadeInUp">Whether you’re shipping clothing, accessories, documents, or small electronics, the M Folder Pouch offers a reliable, space-saving, and professional packaging experience. Its sleek design not only protects your products but also leaves a lasting impression on your customers.</p>
                 <h4 style="font-weight: 600; color: #14254C;">Key Features:</h4>
               <ul class="mt-0 mb-3">
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Flexible fit for multiple product sizes </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Reduces the need for multiple packaging SKUs </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Saves storage and inventory costs </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Secure adhesive strip for easy sealing </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Reusable and eco-efficient </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Available in various size options </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Flexible fit for multiple product sizes </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Reduces the need for multiple packaging SKUs </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Saves storage and inventory costs </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Secure adhesive strip for easy sealing </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Reusable and eco-efficient </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Available in various size options </li>
               </ul>
               <p class="wow fadeInUp">Choose the M Folder Pouch for a packaging solution that delivers functionality, efficiency, and adaptability. It's the perfect choice for businesses seeking smart packaging that keeps up with dynamic product needs.</p>
             </div>

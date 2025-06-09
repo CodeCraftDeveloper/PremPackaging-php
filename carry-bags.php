@@ -55,33 +55,33 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-10">
+          <div class="col-md-12" style="text-align: justify">
             <div class="body-content">
               <div class="body-content">
                 <p class="wow fadeInUp">Carry Bags are an excellent packaging solution that combines convenience, durability, and sustainability. These bags are designed to make carrying items effortless while offering a sleek and professional look. Whether used for retail, grocery shopping, or corporate events, our Carry Bags provide a premium experience with their sturdy design and eco-friendly material options.</p>
-                <h4 style="font-weight: 600;">Features of Our Carry Bags</h4>
+                <h4 style="font-weight: 600; color: #14254C;">Features of Our Carry Bags</h4>
               <ul class="mt-0 mb-3">
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Eco-Friendly & Sustainable:</b> Made from recyclable and biodegradable materials, reducing environmental impact.</li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Easy to Carry:</b> Ergonomically designed handles for a comfortable grip, ensuring effortless transportation.</li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Durable & Sturdy:</b> Crafted from high-quality materials that can withstand heavy loads without tearing.</li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Customizable Options:</b> Available in various sizes, colors, and designs to enhance your brand identity. </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Versatile Usage:</b> Suitable for retail stores, supermarkets, events, promotional giveaways, and more. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span style="color: #14254C;"><span style="color: #14254C;">⦿</span></span> <b style="color: #14254C;">Eco-Friendly & Sustainable:</b> Made from recyclable and biodegradable materials, reducing environmental impact.</li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span style="color: #14254C;">⦿</span> <b style="color: #14254C;">Easy to Carry:</b> Ergonomically designed handles for a comfortable grip, ensuring effortless transportation.</li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span style="color: #14254C;">⦿</span> <b style="color: #14254C;">Durable & Sturdy:</b> Crafted from high-quality materials that can withstand heavy loads without tearing.</li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span style="color: #14254C;">⦿</span> <b style="color: #14254C;">Customizable Options:</b> Available in various sizes, colors, and designs to enhance your brand identity. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span style="color: #14254C;">⦿</span> <b style="color: #14254C;">Versatile Usage:</b> Suitable for retail stores, supermarkets, events, promotional giveaways, and more. </li>
               </ul>
-              <h4 style="font-weight: 600;">Types of Carry Bags</h4>
+              <h4 style="font-weight: 600; color: #14254C;" >Types of Carry Bags</h4>
               <ul class="mt-0 mb-3">
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Carry Bags with V Bottom with Twisted Handle:</b> Designed for a firm base and easy carrying, these bags come with a twisted handle, making them ideal for e-commerce and retail use. </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Carry Bags with W or Flat Bottom with Loop Handle:</b> Featuring a wider base, these bags provide excellent stability and are perfect for grocery and food delivery services. </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Carry Bags without W, V, and Flat Bottom:</b> A simple and efficient option for lightweight packaging, offering an eco-friendly and minimalistic design. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span style="color: #14254C;">⦿</span> <b style="color: #14254C;">Carry Bags with V Bottom with Twisted Handle:</b> Designed for a firm base and easy carrying, these bags come with a twisted handle, making them ideal for e-commerce and retail use. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span style="color: #14254C;">⦿</span> <b style="color: #14254C;">Carry Bags with W or Flat Bottom with Loop Handle:</b> Featuring a wider base, these bags provide excellent stability and are perfect for grocery and food delivery services. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span style="color: #14254C;">⦿</span> <b style="color: #14254C;">Carry Bags without W, V, and Flat Bottom:</b> A simple and efficient option for lightweight packaging, offering an eco-friendly and minimalistic design. </li>
               </ul>
-              <h4 style="font-weight: 600;">Why Choose Our Carry Bags?</h4>
-              <p class="wow fadeInUp">At Prem Industries India Limited, we specialize in providing high-quality Carry Bags tailored to meet your packaging needs. Here’s why our bags stand out:</p>
+              <h4 style="font-weight: 600; color: #14254C;">Why Choose Our Carry Bags?</h4>
+              <p class="wow fadeInUp">We are known for being the best carry bags manufacturer. At Prem Industries India Limited, we specialize in providing high-quality Carry Bags tailored to meet your packaging needs. Here’s why our bags stand out:</p>
               <ul class="mt-0 mb-3">
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Sustainability Focus:</b> We prioritize eco-friendly materials that contribute to a greener planet. </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Superior Quality:</b> Our bags are made from high-strength materials that ensure longevity and durability. </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Innovative Designs:</b> We offer modern, aesthetically pleasing designs that enhance the customer experience. </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Customization Available:</b> From branding to specific design requirements, we cater to all your customization needs.</li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span style="color: #14254C;">⦿</span> <b style="color: #14254C;">Sustainability Focus:</b> We prioritize eco-friendly materials that contribute to a greener planet. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span style="color: #14254C;">⦿</span> <b style="color: #14254C;">Superior Quality:</b> Our bags are made from high-strength materials that ensure longevity and durability. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span style="color: #14254C;">⦿</span> <b style="color: #14254C;">Innovative Designs:</b> We offer modern, aesthetically pleasing designs that enhance the customer experience. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span style="color: #14254C;">⦿</span> <b style="color: #14254C;">Customization Available:</b> From branding to specific design requirements, we cater to all your customization needs.</li>
               </ul>
-              <h4 style="font-weight: 600;">Order Your Carry Bags Today!</h4>
+              <h4 style="font-weight: 600; color: #14254C;">Order Your Carry Bags Today!</h4>
               <p class="wow fadeInUp">Upgrade your packaging with our premium Carry Bags. Whether you need eco-friendly options, durable designs, or customized solutions, Prem Industries India Limited has you covered. Contact us today to place your order and take your packaging to the next level!</p>
             </div>
           </div>

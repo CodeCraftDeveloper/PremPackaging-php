@@ -21,6 +21,17 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
     />
+    <style>
+      h4{
+        color: #14254C;
+      }
+      .bullet-point-new{
+        color: #14254C;
+      }
+      b{
+        color: #14254C;
+      }
+    </style>
   </head>
   <body>
     <!-- header start -->
@@ -55,7 +66,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-10">
+          <div class="col-md-12" style="text-align: justify">
             <div class="body-content">
               <div class="body-content">
                 <p class="wow fadeInUp">Discover a smarter, sustainable way to pack with our PackPro™ Honeycomb wrapper—an alternative to traditional plastic packaging. Designed for the eco-conscious age, this innovative wrap offers the perfect balance of protection, performance, and presentation.</p>
@@ -65,12 +76,12 @@
                 <p class="wow fadeInUp">This wrap is more than just protective—it’s versatile and adaptable. Ideal for retailers, manufacturers, small businesses, and individuals alike, it wraps securely around products to reduce movement and prevent damage during transit. From fragile glassware to luxury items, it keeps everything safe and beautifully presented.</p>
                 <h4 style="font-weight: 600; color: #14254C;">Key Features:</h4>
               <ul class="mt-0 mb-3">
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Stretchable honeycomb design </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Lightweight and easy to use </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Excellent cushioning and shock absorption </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ 100% biodegradable and recyclable </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Aesthetic appeal for a premium unboxing experience </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Eco-conscious alternative to plastic bubble wrap </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Stretchable honeycomb design </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Lightweight and easy to use </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Excellent cushioning and shock absorption </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> 100% biodegradable and recyclable </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Aesthetic appeal for a premium unboxing experience </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Eco-conscious alternative to plastic bubble wrap </li>
               </ul>
                 <p class="wow fadeInUp">In essence, our Honeycomb wrapper goes beyond packaging—it’s a sustainable statement. By choosing this solution, you're not only safeguarding your products but also contributing to a greener planet.</p>
                 <p class="wow fadeInUp">Make the switch today and elevate your packaging with protection that’s as thoughtful as it is functional.</p>

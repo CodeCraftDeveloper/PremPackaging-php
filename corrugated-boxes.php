@@ -21,6 +21,14 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
     />
+    <style>
+      h4{
+        color: #14254C;
+      }
+      .bullet-point-new{
+        color: #14254C;
+      }
+    </style>
   </head>
   <body>
     <!-- header start -->
@@ -55,7 +63,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-10">
+          <div class="col-md-12" style="text-align: justify">
             <div class="body-content">
               <div class="body-content">
                 <p class="wow fadeInUp">Corrugated boxes are essential packaging solutions used across industries for their durability, versatility, and eco-friendliness. These boxes are made with corrugated fiberboard, which provides excellent cushioning, strength, and protection for a wide range of products during transit and storage. At Prem Industries India Limited, we specialize in delivering the highest-quality Corrugated box solutions tailored to meet your unique packaging needs.</p>
@@ -64,11 +72,11 @@
                 <h4 style="font-weight: 600;">Our Offerings in Corrugated Box Solutions</h4>
                 <p class="wow fadeInUp">We are proud to offer a diverse range of corrugated packaging products, including:</p>
               <ul class="mt-0 mb-3">
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ 3/5/7 Ply Corrugated Boxes </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Fruit Trays </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Bins and Corrugated Pallets</li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Pizza Boxes and E-Fluted Cartons </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ PDQ/Displays </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> 3/5/7 Ply Corrugated Boxes </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Fruit Trays </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Bins and Corrugated Pallets</li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Pizza Boxes and E-Fluted Cartons </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> PDQ/Displays </li>
               </ul>
               <h4 style="font-weight: 600;">Partner with Us for Excellence in Corrugated Packaging</h4>
               <p class="wow fadeInUp">At Prem Industries India Limited, we are dedicated to delivering packaging solutions that protect, preserve, and promote your products. With decades of experience, a focus on innovation, and a passion for quality, we are your trusted partner for Corrugated box solutions that make a difference.</p>

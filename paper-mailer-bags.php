@@ -21,6 +21,14 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
     />
+    <style>
+      h4{
+        color: #14254C;
+      }
+      .bullet-point-new{
+        color: #14254C;
+      }
+    </style>
   </head>
   <body>
     <!-- header start -->
@@ -48,13 +56,13 @@
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <div class="text-left mb-4">
+          <div class="text-left">
             <h3 class="wow fadeInUp">Paper Mailer Bag - Making life simpler</h3>
           </div>
         </div>
       </div>
-      <div class="row mt-3">
-        <div class="col-md-10 order2 mb-3">
+      <div class="row">
+        <div class="col-md-12 order2 mb-3" style="text-align: justify">
           <div class="body-content">
             <p class="wow fadeInUp">Paper mailer bags are a sustainable alternative to traditional plastic mailers, designed to offer secure and durable packaging solutions. Made from high-quality paper materials, they provide strength and flexibility, making them ideal for a variety of applications such as courier services, parcel deliveries, and document storage.  </p>
             <h4 style="font-weight: 600;">Why Choose our Paper Mailer Bags?</h4>

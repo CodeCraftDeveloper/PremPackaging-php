@@ -21,6 +21,17 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
     />
+    <style>
+      h4{
+        color: #14254C;
+      }
+      .bullet-point-new{
+        color: #14254C;
+      }
+      b{
+        color: #14254C;
+      }
+    </style>
   </head>
   <body>
     <!-- header start -->
@@ -55,28 +66,28 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-10">
+          <div class="col-md-12" style="text-align: justify">
             <div class="body-content">
               <div class="body-content">
-                <p class="wow fadeInUp">At Prem Packaging, we offer high-quality bubble pouches—a reliable, efficient, and space-saving packaging solution for shipping delicate or fragile items. Designed with a transparent plastic outer layer and padded with air-filled bubbles, these pouches provide superior cushioning and protection during transit, minimizing the risk of damage.</p>
+                <p class="wow fadeInUp">Being a trusted bubble pouches manufacturer, we offer high-quality bubble pouches—a reliable, efficient, and space-saving packaging solution for shipping delicate or fragile items. Designed with a transparent plastic outer layer and padded with air-filled bubbles, these pouches provide superior cushioning and protection during transit, minimizing the risk of damage.</p>
                 <h4 style="font-weight: 600; color: #14254C;">What is Bubble Pouch?</h4>
                 <p class="wow fadeInUp">Bubble pouch is a transparent, lightweight plastic bag designed to wrap and shield fragile products during shipping or storage. Made from LDPE (Low-Density Polyethylene), the outer layer offers moisture resistance and durability, while the inner bubble lining absorbs shocks and impacts. Despite being thin and compact, these pouches are highly robust and don’t occupy excess space during transportation—making them ideal for both e-commerce and industrial use.</p>
                 <h4 style="font-weight: 600; color: #14254C;">Key Features & Advantages:</h4>
               <ul class="mt-0 mb-3">
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Reduces Product Damage:</b> The bubble padding absorbs shock and protects against breakage or scratches. </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Enhances Customer Satisfaction:</b> Ensures safe, damage-free delivery, resulting in fewer returns and higher trust. </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Saves Time & Labour:</b> Quicker to pack than bubble wrap sheets, reducing packing time significantly. </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Eco-Friendly Shipping:</b> Their lightweight nature reduces shipping costs and overall carbon footprint. </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ <b>Easy to Open:</b> End consumers find them easier to unpack compared to conventional protective wraps. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> <b>Reduces Product Damage:</b> The bubble padding absorbs shock and protects against breakage or scratches. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> <b>Enhances Customer Satisfaction:</b> Ensures safe, damage-free delivery, resulting in fewer returns and higher trust. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> <b>Saves Time & Labour:</b> Quicker to pack than bubble wrap sheets, reducing packing time significantly. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> <b>Eco-Friendly Shipping:</b> Their lightweight nature reduces shipping costs and overall carbon footprint. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> <b>Easy to Open:</b> End consumers find them easier to unpack compared to conventional protective wraps. </li>
               </ul>
               <h4 style="font-weight: 600; color: #14254C;">Applications of Bubble Pouches:</h4>
               <p class="wow fadeInUp">Bubble Pouches are widely used across industries to package and protect:</p>
               <ul class="mt-0 mb-3">
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Electronics and gadgets </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Glassware, ceramics, and decorative items </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Jewellery and accessories </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Documents, letters, and photographs </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;">⦿ Homeware and office supplies </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Electronics and gadgets </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Glassware, ceramics, and decorative items </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Jewellery and accessories </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Documents, letters, and photographs </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Homeware and office supplies </li>
               </ul>
               <p class="wow fadeInUp">They are equally suitable for storing valuable items in drawers, cabinets, or storage bins—preventing scratches or dust accumulation. With multiple sizes and bubble thickness options, these pouches can be customized to suit your specific packaging needs.</p>
               <p class="wow fadeInUp">Whether you’re shipping products across the country or simply storing them safely in your warehouse, Bubble Pouches offer a cost-effective, reliable solution that guarantees protection without bulk.</p>

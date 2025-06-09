@@ -9,7 +9,7 @@
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
 
-    <title>Peel & Seal Bags</title>
+    <title>Peel & Seal Bags Manufacturer</title>
     <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
     <!-- Bootstrap core css -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -55,7 +55,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-10">
+          <div class="col-md-12" style="text-align: justify">
             <div class="body-content">
               <div class="body-content">
                 <p class="wow fadeInUp">At Prem Packaging, we introduce our innovative peel & seal bags – the perfect solution where flexibility of a pouch meets the strength of a box. Designed to redefine how packaging works, these bags are engineered to offer both convenience and durability, making them ideal for businesses that demand both aesthetics and performance.</p>

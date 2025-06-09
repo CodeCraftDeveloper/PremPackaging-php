@@ -55,7 +55,7 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-10">
+          <div class="col-md-12" style="text-align: justify">
             <div class="body-content">
               <div class="body-content">
                 <p class="wow fadeInUp">Simplify your return process with our innovative Returnable Poly Mailers—the perfect solution for modern e-commerce businesses. Designed with convenience and sustainability in mind, these mailers are more than just packaging—they’re a seamless part of your customer experience.</p>

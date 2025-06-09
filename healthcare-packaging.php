@@ -51,7 +51,7 @@
           </div>
         </div>
         <div class="row m-0 p-0">
-          <div class="col-md-10 m-0 p-0">
+          <div class="col-md-12 m-0 p-0" style="text-align: justify">
             <div class="body-content">
               <div class="body-content">
                 <p class="wow fadeInUp">At Prem Industries India Limited, we understand the importance of safety, hygiene, and compliance in the healthcare industry. Our specialized healthcare packaging solutions are designed to meet the high standards of protection and functionality required in medical and wellness sectors. From medical wipes to spout pouches, we ensure every product is packaged with utmost precision, reliability, and care.</p>
@@ -66,7 +66,7 @@
               <p class="wow fadeInUp">Our team works closely with clients to develop packaging that reflects both brand trust and consumer convenience.</p>
               <h4 style="font-weight: 600;">Tailored Solutions for Brands that Care</h4>
               <p class="wow fadeInUp">Whether you're a pharmaceutical company, a personal care startup, or an e-commerce healthcare brand, we create packaging that not only protects but also elevates your product. With end-to-end support from design to delivery, our packaging solutions offer unmatched quality, scalability, and speed to market.</p>
-              <p class="wow fadeInUp">Ready to elevate your healthcare packaging? Contact us today for customized, safe, and reliable solutions tailored to your brand’s needs.</p>
+              <p class="wow fadeInUp">Ready to elevate your healthcare packaging for pharmaceuticals? Contact us today for customized, safe, and reliable solutions tailored to your brand’s needs.</p>
             </div>
           </div>
           </div>

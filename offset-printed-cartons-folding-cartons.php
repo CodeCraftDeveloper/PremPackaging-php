@@ -48,14 +48,14 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <div class="text-center mb-4">
+            <div class="mb-4">
               <h3 class="wow fadeInUp">Think Impeccable Printing, Think Us!</h3>
             </div>
           </div>
         </div>
         <div class="row mt-5">
-          <div class="col-md-10 offset-md-1">
-            <div class="body-content text-center">
+          <div class="col-md-12" style="text-align: justify">
+            <div class="body-content">
               <p class="wow fadeInUp">We have the greatest workforce and equipment to create specialised folding cartons for a variety of product categories and marketplaces. We provide customised folding cartons with top-notch printing options.</p>
 
               <p>As a major manufacturer of folding cartons, multipacks, paperboard, and labels, we collaborate with a range of firms/companies and provide a broad range of capabilities. We create solutions for businesses that make food, serve food, make beverages, sell pharmaceuticals, healthcare and beauty items, general household products or make express mail envelopes.</p>
