@@ -84,7 +84,7 @@
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Replacing traditional plastic bags by simply attaching the handle to your item. </li>
               </ul>
               <h4 style="font-weight: 600;">Ready to Make Carrying Easy?</h4>
-              <p class="wow fadeInUp">Our PackPro<sup>™</sup> Carry Handle Tape is more than a tool—it’s a sustainable and practical solution for businesses and individuals. Whether in retail, logistics, or daily use, it provides unmatched convenience with minimal effort. Transform your packaging experience with PackPro<sup>™</sup> Carry Handle Tape. Connect us today to know more.</p>
+              <p class="wow fadeInUp">Our PackPro<sup>™</sup> Carry Handle Tape is more than a tool—it’s a sustainable and practical solution for businesses and individuals. We are the largest carry handle tape manufacturer in India. Whether in retail, logistics, or daily use, it provides unmatched convenience with minimal effort. Transform your packaging experience with PackPro<sup>™</sup> Carry Handle Tape. Connect us today to know more.</p>
             </div>
           </div>
           </div>

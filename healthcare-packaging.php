@@ -8,7 +8,7 @@
     <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
 
-    <title>Healthcare Packaging</title>
+    <title>Healthcare Packaging Manufacturer</title>
     <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="css/jquery.fancybox.min.css" />
@@ -46,7 +46,7 @@
         <div class="row">
           <div class="col-md-12">
             <div>
-              <h3 class="wow fadeInUp" style="font-size: 35px">Trusted Healthcare Packaging for a Healthier Tomorrow</h3>
+              <h3 class="wow fadeInUp" style="font-size: 35px">Trusted Healthcare Packaging Manufacturer for a Healthier Tomorrow</h3>
             </div>
           </div>
         </div>
