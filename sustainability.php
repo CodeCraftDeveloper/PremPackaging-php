@@ -13,6 +13,7 @@
     <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
     <!-- Bootstrap core css -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/jquery.fancybox.min.css" />
     <!-- Custom styles for this site -->
     <link href="css/main.css" rel="stylesheet">
     <link href="css/media.css" rel="stylesheet">
@@ -72,12 +73,99 @@
         </div>
         <div class="col-md-6 order1">
           <div class="design-image wow" data-wow-delay="0.5s">
-            <img class="image1" width="665" height="870" src="img/sustainability-img.jpg" alt="Sustainable Packaging" />
+            <img class="image1" width="665" height="870" src="img/sustainability/side-img.jpg" alt="Sustainable Packaging" />
           </div>
         </div>
       </div>
     </div>
   </section>
+
+  <div class="e-commerce-gallery BoxesGallery mt-3">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-md-3 p-1">
+            <a class="gallery-col" href="img/sustainability/cards/1.png" data-fancybox="images">
+              <div class="gallery-box" class="fixed-bottom">
+                  <h4 class="text-center" style="align-items: flex-end; font-size: 20px;">Paper Tape</h4>
+                <img src="img/sustainability/cards/1.png" alt="Paper Tape">
+              </div>
+            </a>
+          </div>
+          <div class="col-md-3 p-1">
+            <a class="gallery-col" href="img/sustainability/cards/2.png" data-fancybox="images">
+              <div class="gallery-box">
+                  <h4 class="text-center" style="align-items: flex-end; font-size: 20px;">Peal and Seal Pouch</h4>
+                <img src="img/sustainability/cards/2.png" alt="Peal and Seal Pouch">
+              </div>
+            </a>
+          </div>
+          <div class="col-md-3 p-1">
+            <a class="gallery-col" href="img/sustainability/cards/3.png" data-fancybox="images">
+              <div class="gallery-box">
+                <h4 class="text-center" style="align-items: flex-end; font-size: 20px;">Auto Paper Bag</h4>
+                <img src="img/sustainability/cards/3.png" alt="Auto Paper Bag">
+              </div>
+            </a>
+          </div>
+          <div class="col-md-3 p-1">
+            <a class="gallery-col" href="img/sustainability/cards/4.png" data-fancybox="images">
+              <div class="gallery-box">
+                  <h4 class="text-center" style="align-items: flex-end; font-size: 20px;">Food Wrapping Paper</h4>
+                <img src="img/sustainability/cards/4.png" alt="Food Wrapping Paper">
+              </div>
+            </a>
+          </div>
+          <div class="col-md-3 p-1">
+            <a class="gallery-col" href="img/sustainability/cards/5.png" data-fancybox="images">
+              <div class="gallery-box">
+                  <h4 class="text-center" style="align-items: flex-end; font-size: 20px;">Shopping Bag</h4>
+                <img src="img/sustainability/cards/5.png" alt="Shopping Bag">
+              </div>
+            </a>
+          </div>
+          <div class="col-md-3 p-1">
+            <a class="gallery-col" href="img/sustainability/cards/6.png" data-fancybox="images">
+              <div class="gallery-box">
+                  <h4 class="text-center" style="align-items: flex-end; font-size: 20px;">M Folder</h4>
+                <img src="img/sustainability/cards/6.png" alt="M Folder">
+              </div>
+            </a>
+          </div>
+          <div class="col-md-3 p-1">
+            <a class="gallery-col" href="img/sustainability/cards/7.png" data-fancybox="images">
+              <div class="gallery-box">
+                  <h4 class="text-center" style="align-items: flex-end; font-size: 20px;">Padded Mailer Bag with Customized Reinforcement</h4>
+                <img src="img/sustainability/cards/7.png" alt="Padded Mailer Bag with Customized Reinforcement">
+              </div>
+            </a>
+          </div>
+          <div class="col-md-3 p-1">
+            <a class="gallery-col" href="img/sustainability/cards/8.png" data-fancybox="images">
+              <div class="gallery-box">
+                  <h4 class="text-center" style="align-items: flex-end; font-size: 20px;">Paper Bubble</h4>
+                <img src="img/sustainability/cards/8.png" alt="Paper Bubble">
+              </div>
+            </a>
+          </div>
+          <div class="col-md-3 p-1">
+            <a class="gallery-col" href="img/sustainability/cards/9.png" data-fancybox="images">
+              <div class="gallery-box">
+                  <h4 class="text-center" style="align-items: flex-end; font-size: 20px;">Donut Box</h4>
+                <img src="img/sustainability/cards/9.png" alt="Donut Box">
+              </div>
+            </a>
+          </div>
+          <div class="col-md-3 p-1">
+            <a class="gallery-col" href="img/sustainability/cards/10.png" data-fancybox="images">
+              <div class="gallery-box">
+                  <h4 class="text-center" style="align-items: flex-end; font-size: 20px;">Pizza Box</h4>
+                <img src="img/sustainability/cards/10.png" alt="Pizza Box">
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
 
   <div class="e-commerce-video mb-5">
     <video loop="loop" autoplay="" playsinline="" muted="" class="packaging-video">
@@ -90,3 +178,10 @@
   
   <!-- header start -->
   <?php include 'footer.php';?>
+
+  
+  <script type="text/javascript">
+    $(document).ready(function () {
+      $('.fancybox').fancybox();
+    });
+  </script>
