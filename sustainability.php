@@ -107,14 +107,14 @@
               </div>
             </a>
           </div>
-          <div class="col-md-3 p-1">
+          <!-- <div class="col-md-3 p-1">
             <a class="gallery-col" href="img/sustainability/cards/4.png" data-fancybox="images">
               <div class="gallery-box">
                   <h4 class="text-center" style="align-items: flex-end; font-size: 20px;">Food Wrapping Paper</h4>
                 <img src="img/sustainability/cards/4.png" alt="Food Wrapping Paper">
               </div>
             </a>
-          </div>
+          </div> -->
           <div class="col-md-3 p-1">
             <a class="gallery-col" href="img/sustainability/cards/5.png" data-fancybox="images">
               <div class="gallery-box">
@@ -155,14 +155,14 @@
               </div>
             </a>
           </div>
-          <div class="col-md-3 p-1">
+          <!-- <div class="col-md-3 p-1">
             <a class="gallery-col" href="img/sustainability/cards/10.png" data-fancybox="images">
               <div class="gallery-box">
                   <h4 class="text-center" style="align-items: flex-end; font-size: 20px;">Pizza Box</h4>
                 <img src="img/sustainability/cards/10.png" alt="Pizza Box">
               </div>
             </a>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>

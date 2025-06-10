@@ -3,8 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Labels with Multi-ups and perforataion">
-    <meta property="og:title" content="Labels with Multi-ups and perforataion">
+    <meta name="description" content="Explore high-quality labels with multiups for efficient, cost-effective packaging. Trusted manufacturer for customized labeling solutions across industries.">
+    <meta property="og:title" content="Labels with Multiups Manufacturer | Prem Packaging ">
     <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
