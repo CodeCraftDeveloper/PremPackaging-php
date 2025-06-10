@@ -71,7 +71,7 @@
             <p>At Prem Industries, we are constantly striving to innovate plastic products. We ensure that we choose measures that are biodegradable, bio-compostable, and promote reuse and recycling choices.</p>
           </div>
         </div>
-        <div class="col-md-6 order1">
+        <div class="col-md-6 order1 mt-5 mb-2">
           <div class="design-image wow" data-wow-delay="0.5s">
             <img class="image1" width="665" height="870" src="img/sustainability/side-img.jpg" alt="Sustainable Packaging" />
           </div>
@@ -83,6 +83,9 @@
   <div class="e-commerce-gallery BoxesGallery mt-3">
       <div class="container-fluid">
         <div class="row">
+          <div class="col-md-12">
+            <h3 class="wow fadeInUp animated text-center mb-5 mt-2" style="color: #14254c; text-transform: uppercase; font-size: 34px; font-weight: bold;">Explore Our Sustainable Packaging Range</h3>
+          </div>
           <div class="col-md-3 p-1">
             <a class="gallery-col" href="img/sustainability/cards/1.png" data-fancybox="images">
               <div class="gallery-box" class="fixed-bottom">
@@ -95,7 +98,7 @@
             <a class="gallery-col" href="img/sustainability/cards/2.png" data-fancybox="images">
               <div class="gallery-box">
                   <h4 class="text-center" style="align-items: flex-end; font-size: 20px;">Peal and Seal Pouch</h4>
-                <img src="img/sustainability/cards/2.png" alt="Peal and Seal Pouch">
+                <img src="img/sustainability/cards/11.png" alt="Peal and Seal Pouch">
               </div>
             </a>
           </div>
