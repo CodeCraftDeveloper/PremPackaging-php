@@ -4,12 +4,12 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Explore our range of versatile flexible laminates pouches for optimal product protection. Elevate your packaging with our premium solutions. Order now.">
-    <meta property="og:title" content="Flexible Laminates & Pouches| Prem Industries India Limited">
+    <meta property="og:title" content="Flexible Laminates & Pouches | Prem Industries India Limited">
     <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
 
-    <title>Flexible Laminates & Pouches | Prem Industries India Limited</title>
+    <title>Flexible Laminates & Pouches Manufacturer</title>
     <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
     <!-- Bootstrap core css -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -57,7 +57,7 @@
         <div class="row mt-5">
           <div class="col-md-10 offset-md-1">
             <div class="body-content text-center">
-              <p class="wow fadeInUp">Flexible packaging means a reliable choice for your brand or goods. With custom flexible laminates and pouches, your company can go from average to spectacular. You can accomplish your objectives with the help of our assortment of cutting-edge flexible laminates and pouches. Our unique flexible laminates and pouches are produced just by us! They are composed of high-quality material, are thin, and allow you to choose the best option to seal and safeguard your items.</p>
+              <p class="wow fadeInUp">Flexible packaging means a reliable choice for your brand or goods. With custom flexible laminates and pouches, your company can go from average to spectacular. You can accomplish your objectives with the help of our assortment of cutting-edge flexible laminates and pouches. Our unique flexible laminates and pouches are produced just by us! They are composed of high-quality material, are thin, and allow you to choose the best option to seal and safeguard your items. We are the largest manufacturer of Flexible laminates pouches in India.</p>
       
             </div>
           </div>

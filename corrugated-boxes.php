@@ -3,13 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Find durable and customizable corrugated box solutions at Prem Industries India Limited. Elevate your packaging with our premium corrugated box options.">
-    <meta property="og:title" content="Corrugated Box Solutions | Prem Packaging">
+    <meta name="description" content="Find durable and customizable corrugated box manufacturer at Prem Industries India Limited. Elevate your packaging with our premium corrugated box options.">
+    <meta property="og:title" content="Corrugated Box Manufacturer | Prem Packaging">
     <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
 
-    <title>Corrugated Box Solutions | Prem Industries India Limited</title>
+    <title>Corrugated Box Manufacturer | Prem Industries India Limited</title>
     <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
     <!-- Bootstrap core css -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -39,7 +39,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-8">
-            <h1>Corrugated Box Solutions</h1>
+            <h1>Corrugated Boxes</h1>
           </div>
           <div class="col-md-12">
             <nav aria-label="breadcrumb">
@@ -66,7 +66,7 @@
           <div class="col-md-12" style="text-align: justify">
             <div class="body-content">
               <div class="body-content">
-                <p class="wow fadeInUp">Corrugated boxes are essential packaging solutions used across industries for their durability, versatility, and eco-friendliness. These boxes are made with corrugated fiberboard, which provides excellent cushioning, strength, and protection for a wide range of products during transit and storage. At Prem Industries India Limited, we specialize in delivering the highest-quality Corrugated box solutions tailored to meet your unique packaging needs.</p>
+                <p class="wow fadeInUp">Corrugated boxes are essential packaging solutions used across industries for their durability, versatility, and eco-friendliness. These boxes are made with corrugated fiberboard, which provides excellent cushioning, strength, and protection for a wide range of products during transit and storage. We are the largest Corrugated Boxes manufacturer in India, we specialize in delivering the highest-quality Corrugated box tailored to meet your unique packaging needs.</p>
                 <h4 style="font-weight: 600;">We Box the Best, So It Unboxes the Best</h4>
                 <p class="wow fadeInUp">What makes corrugated packaging the best? We believe it’s a combination of high-grade material technology, meticulous quality control, innovative research, and state-of-the-art machinery. These elements come together to ensure that every box we produce delivers unparalleled performance and reliability. </p>
                 <h4 style="font-weight: 600;">Our Offerings in Corrugated Box Solutions</h4>

@@ -21,17 +21,6 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
     />
-    <style>
-      h4{
-        color: #14254C;
-      }
-      .bullet-point-new{
-        color: #14254C;
-      }
-      b{
-        color: #14254C;
-      }
-    </style>
   </head>
   <body>
     <!-- header start -->
@@ -66,25 +55,25 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-md-12" style="text-align: justify">
+          <div class="col-md-10">
             <div class="body-content">
               <div class="body-content">
                 <p class="wow fadeInUp">Carrying heavy or bulky items has never been easier, thanks to the PackPro<sup>™</sup> Carry Handle Tape! Crafted from high-quality Polyethylene Terephthalate (PET) film, this innovative tape offers unparalleled strength and convenience. Whether you’re managing packages or groceries, this multi-purpose tape provides a reliable solution to simplify your load.</p>
                 <h4 style="font-weight: 600;">Superior Features for Unmatched Performance</h4>
               <ul class="mt-0 mb-3">
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> <b>High-Strength PET Film:</b> Known for its superior tensile strength and tear resistance, ensuring durability under heavy loads. </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> <b>Natural Rubber Adhesive:</b> Designed to perform consistently across a wide range of temperatures, offering excellent moisture resistance. </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> <b>Versatile Application:</b> Sticks seamlessly to various surfaces, including cardboard and strong plastic films.</li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> <b>Convenience in Carrying:</b> Provides an easy-to-hold handle for items weighing up to 15 kg. </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> <b>Eco-Friendly Alternative:</b> Helps reduce the dependency on plastic bags by turning items into easy-to-carry packages. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>High-Strength PET Film:</b> Known for its superior tensile strength and tear resistance, ensuring durability under heavy loads. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Natural Rubber Adhesive:</b> Designed to perform consistently across a wide range of temperatures, offering excellent moisture resistance. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Versatile Application:</b> Sticks seamlessly to various surfaces, including cardboard and strong plastic films.</li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Convenience in Carrying:</b> Provides an easy-to-hold handle for items weighing up to 15 kg. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> <b>Eco-Friendly Alternative:</b> Helps reduce the dependency on plastic bags by turning items into easy-to-carry packages. </li>
               </ul>
               <h4 style="font-weight: 600;">Ideal Applications</h4>
               <ul class="mt-0 mb-3">
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Enhancing the portability of heavy or large items. </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Replacing traditional plastic bags by simply attaching the handle to your item. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Enhancing the portability of heavy or large items. </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> Replacing traditional plastic bags by simply attaching the handle to your item. </li>
               </ul>
               <h4 style="font-weight: 600;">Ready to Make Carrying Easy?</h4>
-              <p class="wow fadeInUp">Our PackPro<sup>™</sup> Carry Handle Tape is more than a tool—it’s a sustainable and practical solution for businesses and individuals. We are the largest carry handle tape manufacturer in India. Whether in retail, logistics, or daily use, it provides unmatched convenience with minimal effort. Transform your packaging experience with PackPro<sup>™</sup> Carry Handle Tape. Connect us today to know more.</p>
+              <p class="wow fadeInUp">Our PackPro<sup>™</sup> Carry Handle Tape is more than a tool—it’s a sustainable and practical solution for businesses and individuals. Whether in retail, logistics, or daily use, it provides unmatched convenience with minimal effort. Transform your packaging experience with PackPro<sup>™</sup> Carry Handle Tape. Connect us today to know more.</p>
             </div>
           </div>
           </div>
