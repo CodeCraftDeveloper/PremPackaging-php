@@ -112,7 +112,7 @@
           <a class="nav-link active" style="color: black; font-weight: 600;" id="option1-tab" data-toggle="tab" href="#option1" role="tab" aria-controls="option1" aria-selected="true">All</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" style="color: black; font-weight: 600;" id="option2-tab" data-toggle="tab" href="#option2" role="tab" aria-controls="option2" aria-selected="false">Gulfood Manufacturing Dubai</a>
+          <a class="nav-link" style="color: black; font-weight: 600;" id="option2-tab" data-toggle="tab" href="#option2" role="tab" aria-controls="option2" aria-selected="false">Gulfood Manufacturing Dubai 2024</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" style="color: black; font-weight: 600;" id="option3-tab" data-toggle="tab" href="#option3" role="tab" aria-controls="option3" aria-selected="false">AAHAR 2024</a>

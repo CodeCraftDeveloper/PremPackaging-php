@@ -55,13 +55,13 @@
       </div>
       <div class="row mt-3">
         <div class="col-md-6 order2 mb-3">
-          <div class="body-content">
+          <div class="body-content" style="text-align: justify;">
             <p class="wow fadeInUp">Prem Industries India Limited has the pleasure of helping more than 150+ clients/brands since 1977 by providing unbeatable packaging solutions. With over four glorious decades of manufacturing excellence behind us, we offer a comprehensive range of integrated packaging solutions. The secret to our innovation lies in our vast array of processing equipment and the latest technology to meet the unique needs of our customers. Prem Industries' core principles are giving significance to customer satisfaction, uncompromised packaging quality and adherence to scientific management to produce the best. </p>
-            <p class="wow fadeInUp">Currently, there are about 800+ employees in Prem Industries. We have four specialised manufacturing units covering 4, 75,000 square feet. These units incorporate the finest technologies from around the world. Our 6 warehousing locations for raw materials and finished goods cover 1,00,000 square feet in North India.
+            <p class="wow fadeInUp">Currently, there are about 800+ employees in Prem Industries. We have four specialised manufacturing units covering 4,75,000 square feet. These units incorporate the finest technologies from around the world. Our 6 warehousing locations for raw materials and finished goods cover 1,00,000 square feet in North India.
             <p class="wow fadeInUp">Prem Industries has collaborated with many of the leading brands globally. This experience has given us the ability to build trust and constantly improve our abilities to deliver better with innovation and sustainability.</p>
           </div>
         </div>
-        <div class="col-md-6 order1">
+        <div class="col-md-6 order1 d-flex align-items-center justify-content-center">
             <div class="design-image wow" data-wow-delay="0.5s">
             <img class="image1" width="665" height="870" src="img/about/about.jpg" alt="about prem industries" title="" />
             </div>
@@ -70,9 +70,33 @@
     </div>
   </section>
 
+  <section>
+    <div class="container">
+      <h3 class="text-center mt-4" style="color: #14254c; text-transform: uppercase; font-size: 34px; font-weight: bold;">Our Divisions</h3>
+      <div class="row mb-5 mt-5">
+        <div class="col-md-6">
+          <img src="img/about/divisions/1.jpg" class="shadow-sm" alt="Flexible Laminates & Pouches">
+          <h5 class="text-center mt-2 mb-4" style="color: #14254c;">Flexible Laminates & Pouches Division</h5>
+        </div>
+        <div class="col-md-6">
+          <img src="img/about/divisions/2.jpg" class="shadow-sm" alt="Offset Printing">
+          <h5 class="text-center mt-2 mb-4" style="color: #14254c;">Offset Printing Division</h5>
+        </div>
+        <div class="col-md-6">
+          <img src="img/about/divisions/3.jpg" class="shadow-sm" alt="Corrugated & Rigid Box">
+          <h5 class="text-center mt-2 mb-4" style="color: #14254c;">Corrugated & Rigid Box Division</h5>
+        </div>
+        <div class="col-md-6">
+          <img src="img/about/divisions/4.jpg" class="shadow-sm" alt="Sheet Metal Component">
+          <h5 class="text-center mt-2 mb-4" style="color: #14254c;">Sheet Metal Component Division</h5>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <div class="e-commerce-video">
     <video loop="loop" autoplay="" playsinline="" muted="" class="packaging-video">
-      <source src="img/prem-Unit1-new.mp4" type="video/mp4">
+      <source src="img/prem-u1.mp4" type="video/mp4">
     </video>
   </div>
 
