@@ -21,16 +21,28 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
     />
+    <style>
+      h4{
+        color: #14254C;
+      }
+      .bullet-point-new{
+        color: #14254C;
+      }
+      b{
+        color: #14254C;
+      }
+    </style>
   </head>
   <body>
     <!-- header start -->
     <?php include 'header.php';?>
 
-    <div class="page-hero offset-printed-cartons pageheade">
+
+    <div class="page-hero offset-printed-cartons pageheade" >
       <div class="container">
         <div class="row">
           <div class="col-md-8">
-            <h1>Offset Printed Cartons/ Folding Cartons</h1>
+            <h1>Offset Printed Cartons/ <br> Folding Cartons</h1>
           </div>
           <div class="col-md-12">
             <nav aria-label="breadcrumb">
@@ -44,23 +56,35 @@
       </div>
     </div>
 
-    <section class="body__content padding page-body-content pb-5">
+    <section class="body__content mt-5 page-body-content">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <div class="mb-4">
-              <h3 class="wow fadeInUp">Think Impeccable Printing, Think Us!</h3>
+            <div>
+              <h3 class="wow fadeInUp" style="font-size: 35px">Offset Printed Cartons & Folding Cartons</h3>
             </div>
           </div>
         </div>
-        <div class="row mt-5">
+        <div class="row">
           <div class="col-md-12" style="text-align: justify">
             <div class="body-content">
-              <p class="wow fadeInUp">We have the greatest workforce and equipment to create specialised folding cartons for a variety of product categories and marketplaces. We provide customised folding cartons with top-notch printing options.</p>
-
-              <p>As a major manufacturer of folding cartons, multipacks, paperboard, and labels, we collaborate with a range of firms/companies and provide a broad range of capabilities. We create solutions for businesses that make food, serve food, make beverages, sell pharmaceuticals, healthcare and beauty items, general household products or make express mail envelopes.</p>
-      
-            </div>
+              <div class="body-content">
+                <p class="wow fadeInUp">At Prem Industries India Limited, we specialize in manufacturing high-quality offset printed cartons and folding cartons tailored to meet the unique packaging needs of various industries. With a blend of advanced equipment and a skilled workforce, we deliver precision-engineered cartons that combine durability, visual appeal, and functionality.</p>
+                <p class="wow fadeInUp">Our expertise lies in creating customised folding cartons that are both versatile and visually impactful. Whether it’s for food and beverages, pharmaceuticals, healthcare, personal care, household items, or express mail envelopes, our packaging solutions are designed to protect your product while enhancing its shelf presence.</p>
+                <p class="wow fadeInUp">As a leading manufacturer of folding cartons, multipacks, paperboard packaging, and labels, we cater to a diverse set of industries across multiple markets. From startup brands to established companies, we offer end-to-end solutions—from structural design and material selection to high-quality offset printing and finishing.</p>
+                <p class="wow fadeInUp">Our offset printed cartons are produced using state-of-the-art printing technology, ensuring sharp images, vibrant colours, and consistent quality across every batch. Whether you need window patching, embossing, foil stamping, or custom shapes, we have the capabilities to deliver packaging that not only meets functional requirements but also elevates your brand identity.</p>
+                <h4 style="font-weight: 600; color: #14254C;">Why Choose us for Offset Cartons?</h4>
+                <ul class="mt-0 mb-3">
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Custom sizes and designs tailored to your product.</li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Premium offset printing with crisp graphics and rich finishes.</li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Strong and lightweight construction for easy handling and stacking.</li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Suitable for a wide range of applications including retail, e-commerce, and pharma.</li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Scalable production for small or bulk orders.</li>
+                </ul>
+                <p class="wow fadeInUp">With Prem Industries India Limited, you don’t just get packaging—you get a partner committed to quality, innovation, and timely delivery. Our team works closely with you to understand your requirements and craft solutions that make your products stand out on the shelf and arrive safely in the hands of your customers.</p>
+                <p class="wow fadeInUp">Let your packaging speak for your brand—choose our folding and offset printed cartons today.</p>
+              </div>
+          </div>
           </div>
         </div>
       </div>
@@ -113,16 +137,7 @@
       </div>
     </div>
 
-    <section class="ContactPrem pt-0 mt-4">
-      <div class="container">
-        <div class="ContactPrem-content">
-          <h3>Connect to know us better!</h3>
-          <p>Let’s discuss a blend of your products and our packaging.</p>
-          <a href="contact-us.php" class="more-btn mt-4"><i class="fa fa-clone" aria-hidden="true"></i> Contact Us</a>
-        </div>
-      </div>
-    </section>
-  
+  <?php include 'contactsection.php';?>
   <!-- header start -->
   <?php include 'footer.php';?>
 
@@ -131,3 +146,5 @@
       $('.fancybox').fancybox();
     });
   </script>
+  </body>
+</html>

@@ -97,10 +97,10 @@
     </section>
 
     <!-- <section>
-      <div class="container mt-3">
+      <div class="container mt-4">
         <div class="row">
           <div class="col-md-12">
-            <h5 class="text-center">For More Information, <a href="pdf/sample-file.pdf" target="_blank">Click Here</a></h5>
+            <h5 class="text-center">Explore details <a href="exhibition-details.pdf" target="_blank" style="color: #E92227;"><u>here</u></a></h5>
           </div>
         </div>
       </div>
