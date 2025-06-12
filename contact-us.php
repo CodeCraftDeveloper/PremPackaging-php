@@ -124,6 +124,7 @@
 </section>
 
 <section class="body__content padding page-body-content pb-0" style="padding:10px">
+  <a href="https://maps.app.goo.gl/XS7CZr5anf5XZh537" target="_blank" style="text-decoration: none; color: black;">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-md-8">
@@ -134,6 +135,7 @@
       </div>
     </div>
   </div>
+  </a>
 </section>
 
 <section class="body__content padding page-body-content pb-0">
@@ -150,6 +152,7 @@
 </section>
 
 <section class="body__content padding page-body-content pb-0">
+  <a href="https://maps.app.goo.gl/f1CUYzMEoJXYbyxg6" target="_blank" style="text-decoration: none; color: black;">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-md-8">
@@ -160,9 +163,11 @@
       </div>
     </div>
   </div>
+  </a>
 </section>
 
 <section class="body__content padding page-body-content pb-0" style="margin-bottom:50px;">
+  <a href="https://maps.app.goo.gl/R8F172PmG9FjmBUE9" target="_blank" style="text-decoration: none; color: black;">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-md-8">
@@ -173,6 +178,7 @@
       </div>
     </div>
   </div>
+  </a>
 </section>
 
 <div class="map w-100">

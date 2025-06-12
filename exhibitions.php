@@ -87,14 +87,23 @@
         <div class="container">
           <div class="row mt-3">
             <div class="col-md-12">
-              <img src="img/exhibition/1.jpg" alt="Americas Food & Beverage Show" class="img-fluid">
+              <img src="img/exhibition/1-line.jpg" alt="Americas Food & Beverage Show" class="img-fluid">
             </div>
             <div class="col-md-12 mt-4">
-              <img src="img/exhibition/2.jpg" alt="PackExpo Las Vegas" class="img-fluid">
+              <img src="img/exhibition/3-line.jpg" alt="PackExpo Las Vegas" class="img-fluid">
             </div>
           </div>
         </div>
-      </section>
+    </section>
+
+    <section>
+      <div class="container mt-3">
+        <div class="row">
+          <div class="col-md-12">
+            <h5 class="text-center">For More Information, <a href="pdf/sample-file.pdf" target="_blank">Click Here</a></h5>
+          </div>
+        </div>
+      </div>
     </section>
     
     <div class="container">

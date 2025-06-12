@@ -484,18 +484,26 @@
                 <div class="new-arrivals__slider owl-carousel owl-theme">
           <div class="product-wrap">
               <div class="overflow-hidden">
-                <img src="img/index/ex/new/1.jpg" alt="Pack Expo Las Vegas" />
+                <a href="exhibitions.php" target="_blank">
+                  <img src="img/index/ex/new/3-new.jpg" alt="Pack Expo Las Vegas" />
+                </a>
               </div>
               <div class="arrivals-content-block">
-                <h3 class="text-center">PackExpo Las Vegas</h3>
+                <a href="exhibitions.php" target="_blank" style="text-decoration: none; color: black;">
+                  <h3 class="text-center">PackExpo Las Vegas</h3>
+                </a>
               </div>
             </div>
             <div class="product-wrap">
               <div class="overflow-hidden">
-                <img src="img/index/ex/new/2.jpg" alt="Americas Food & Beverage Show" />
+                <a href="exhibitions.php" target="_blank">
+                  <img src="img/index/ex/new/2.jpg" alt="Americas Food & Beverage Show" />
+                </a>
               </div>
               <div class="arrivals-content-block">
-                <h3 class="text-center">Americas Food & Beverage Show</h3>
+                <a href="exhibitions.php" target="_blank" style="text-decoration: none; color: black;">
+                  <h3 class="text-center">Americas Food & Beverage Show</h3>
+                </a>
               </div>
             </div>
           </div>
