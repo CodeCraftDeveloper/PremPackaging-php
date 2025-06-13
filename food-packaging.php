@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Prem Industries India Limited specializes in high-quality food packaging solutions. Trust us for safe, sustainable, and stylish food packaging designs.">
+    <meta name="description" content="Prem Industries India Limited specializes in high-quality food packaging manufacturer. Trust us for safe, sustainable, and stylish food packaging designs.">
     <meta property="og:title" content="Food Packaging Manufacturer | Prem Industries India Limited">
     <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
 <!-- Google tag (gtag.js) -->
