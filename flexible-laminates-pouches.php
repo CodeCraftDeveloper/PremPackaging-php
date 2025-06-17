@@ -201,7 +201,7 @@
           <div class="col-md-4 p-1">
             <a class="gallery-col" href="img/Pouches/Pouch1.jpg" data-fancybox="images">
               <div class="gallery-box">
-                <img src="img/Pouches/Pouch1.jpg" alt="Bubble Laminated Pouch">
+                <img src="img/Pouches/Pouch1.png" alt="Bubble Laminated Pouch">
                 <h4>Bubble Laminated Pouch</h4>
               </div>
             </a>
