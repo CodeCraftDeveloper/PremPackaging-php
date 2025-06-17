@@ -21,6 +21,17 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
     />
+    <style>
+      h4{
+        color: #14254C;
+      }
+      .bullet-point-new{
+        color: #14254C;
+      }
+      b{
+        color: #14254C;
+      }
+    </style>
   </head>
   <body>
     <!-- header start -->
@@ -44,21 +55,36 @@
       </div>
     </div>
 
-    <section class="body__content padding page-body-content">
+    <section class="body__content mt-5 page-body-content">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <div class="text-center mb-4">
-              <h3 class="wow fadeInUp">Keeping ‘Splendour’ Inside Out</h3>
+            <div>
+              <h3 class="wow fadeInUp" style="font-size: 35px">Luxury Rigid Boxes by Prem Industries India Limited</h3>
             </div>
           </div>
         </div>
-        <div class="row mt-5">
-          <div class="col-md-10 offset-md-1">
-            <div class="body-content text-center">
-              <p class="wow fadeInUp">We are engaged in manufacturing and supplying stiff firm Luxury Rigid Boxes for decades. Carrying huge volumes of industrial expertise is desired nowadays reflects in our boxes' eternal sheen and class attached to them. A vast selection of specialty papers makes sure that we can customize our premium boxes exactly to fit your tastes. Available in posh color combinations to cater to the niche market, we also customize the boxes with your logos & emboss them. We offer the best quality luxury rigid boxes at cost effective prices.</p>
-      
-            </div>
+        <div class="row">
+          <div class="col-md-12" style="text-align: justify">
+            <div class="body-content">
+              <div class="body-content">
+                <p class="wow fadeInUp">At Prem Industries India Limited, we redefine premium packaging with our custom-designed luxury rigid boxes—crafted to reflect prestige, durability, and brand value. As a trusted luxury rigid boxes manufacturer, we have been manufacturing and supplying high-end rigid boxes for decades, serving a niche clientele that values sophistication and quality.</p>
+                <p class="wow fadeInUp">Our rigid boxes are more than just containers—they are a statement of class and excellence. Made with stiff, firm board and wrapped in exquisite specialty papers, each box is designed to maintain its shape while offering a refined look and feel. From premium gifting to luxury retail and product launches, our boxes are ideal for brands looking to leave a lasting impression.</p>
+                <p class="wow fadeInUp">With a wide selection of textures, finishes, and custom colour combinations, we offer complete personalization, including logo printing, embossing, debossing, and foil stamping. Whether you need magnetic closures, drawer styles, book-type boxes, or any unique structure, we bring your vision to life with unmatched precision.</p>
+                <p class="wow fadeInUp">Our expertise lies in merging aesthetic brilliance with structural integrity. Every box is built to withstand handling while preserving the grandeur of the product it holds. We also offer eco-conscious options for brands seeking sustainability without compromising on luxury.</p>
+                <p class="wow fadeInUp">Ideal for packaging jewellery, watches, cosmetics, electronics, fashion accessories, confectionery, and corporate gifts, our luxury rigid boxes are crafted to reflect the identity of your brand inside and out.</p>
+                <h4 style="font-weight: 600; color: #14254C;">Why Choose us for luxury Rigid boxes?</h4>
+                <ul class="mt-0 mb-3">
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Leading luxury rigid boxes manufacturer in India.</li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Decades of experience in premium box production.</li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Vast selection of specialty papers and custom finishes.</li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> High-end personalization with embossing and branding options.</li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Elegant designs with strong structural integrity.</li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Cost-effective pricing for luxury-grade packaging.</li>
+                </ul>
+                <p class="wow fadeInUp">At Prem Industries India Limited, we believe packaging is not just a necessity but an experience. Choose our luxury rigid boxes to elevate your product and create a luxurious unboxing moment your customers will remember.</p>
+              </div>
+          </div>
           </div>
         </div>
       </div>
@@ -79,15 +105,7 @@
       </div>
     </div>
 
-    <section class="ContactPrem pt-0 mt-4">
-      <div class="container">
-        <div class="ContactPrem-content">
-          <h3>Connect to know us better!</h3>
-          <p>Let’s discuss a blend of your products and our packaging.</p>
-          <a href="contact-us.php" class="more-btn mt-4"><i class="fa fa-clone" aria-hidden="true"></i> Contact Us</a>
-        </div>
-      </div>
-    </section>
+  <?php include 'contactsection.php';?>
   
   <!-- header start -->
   <?php include 'footer.php';?>

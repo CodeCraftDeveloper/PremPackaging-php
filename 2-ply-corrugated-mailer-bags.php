@@ -21,12 +21,23 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
     />
+    <style>
+      h4{
+        color: #14254C;
+      }
+      .bullet-point-new{
+        color: #14254C;
+      }
+      b{
+        color: #14254C;
+      }
+    </style>
   </head>
   <body>
     <!-- header start -->
     <?php include 'header.php';?>
 
-    <div class="page-hero PlyCorrugated-Mailer-Bags pageheade">
+    <div class="page-hero PlyCorrugated-Mailer-Bags pageheade" >
       <div class="container">
         <div class="row">
           <div class="col-md-8">
@@ -44,24 +55,35 @@
       </div>
     </div>
 
-    <section class="body__content padding page-body-content">
+    <section class="body__content mt-5 page-body-content">
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <div class="text-center mb-4">
-              <h3 class="wow fadeInUp">Packaging with the Best Eco-friendly composition </h3>
+            <div>
+              <h3 class="wow fadeInUp" style="font-size: 35px">2 Ply Corrugated Mailer Bags</h3>
             </div>
           </div>
         </div>
-        <div class="row mt-5">
-          <div class="col-md-10 offset-md-1">
-            <div class="body-content text-center">
-
-              <p class="wow fadeInUp">Introducing 2 ply corrugated mailer bag for the first time in India with Bottom Gusset, Hot Melt Glue Strip Release, perforation, and much more. Delivering high-quality corrugated mailer bags that are innovative, 100% recyclable, and a great alternative to polythene mailing bags. </p>
-
-              <p>We are manufacturing it with advanced machinery and material technology. These bags are reusable mailers and are ideal for round-trip (two-way) fulfillment of samples, replacement parts, exchanges, returns, documents, etc. The corrugated mailer bag features a hot ply strip, perforated line & level 4 ink. </p>
-      
-            </div>
+        <div class="row">
+          <div class="col-md-12" style="text-align: justify">
+            <div class="body-content">
+              <div class="body-content">
+                <p class="wow fadeInUp">At Prem Industries India Limited, we are proud to introduce a breakthrough in sustainable packaging with our 2 ply corrugated mailer bags—a first of its kind in India. Engineered with innovation and eco-consciousness at its core, these mailer bags offer the perfect balance of durability, functionality, and environmental responsibility.</p>
+                <p class="wow fadeInUp">As a trusted 2 ply corrugated mailer bags manufacturer, we offer mailers equipped with advanced features such as a bottom gusset, hot melt glue strip with release liner, perforated tear line, and Level 4 ink. Designed to replace conventional polythene mailers, our corrugated bags are 100% recyclable, making them an ideal solution for brands committed to sustainable packaging.</p>
+                <p class="wow fadeInUp">Manufactured using advanced material technology and automated machinery, these mailer bags are not only lightweight and tough but also reusable, making them ideal for round-trip (two-way) shipments. Perfect for sending and receiving samples, returns, documents, exchanges, and replacement parts, they offer excellent protection while keeping packaging waste to a minimum.</p>
+                <p class="wow fadeInUp">The 2 ply construction adds strength and rigidity, helping safeguard contents during transit. The integrated perforated line ensures easy opening without compromising the security of the contents, while the hot melt adhesive strip allows for secure and tamper-evident sealing.</p>
+                <h4 style="font-weight: 600; color: #14254C;">Key Features:</h4>
+                <ul class="mt-0 mb-3">
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> First in India with bottom gusset design.</li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Made from 100% recyclable, eco-friendly materials.</li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Reusable for two-way logistics (returns, samples, replacements).</li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Hot melt glue strip for strong sealing.</li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Easy-tear perforation for customer convenience.</li>
+                  <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span> Printed with Level 4 ink for brand clarity and durability.</li>
+                </ul>
+                <p class="wow fadeInUp">At Prem Industries India Limited, we believe in packaging that performs responsibly. With our cutting-edge corrugated mailer bags, you can deliver safely, reduce plastic usage, and reflect your brand’s commitment to sustainability.</p>
+              </div>
+          </div>
           </div>
         </div>
       </div>
@@ -91,15 +113,7 @@
       </div>
     </div>
 
-    <section class="ContactPrem pt-0 mt-4">
-      <div class="container">
-        <div class="ContactPrem-content">
-          <h3>Connect to know us better!</h3>
-          <p>Let’s discuss a blend of your products and our packaging.</p>
-          <a href="contact-us.php" class="more-btn mt-4"><i class="fa fa-clone" aria-hidden="true"></i> Contact Us</a>
-        </div>
-      </div>
-    </section>
+  <?php include 'contactsection.php';?>
   
   <!-- header start -->
   <?php include 'footer.php';?>
