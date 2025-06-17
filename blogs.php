@@ -27,11 +27,14 @@
     <link href="css/media.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
     />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" />
     <style>
       .page-hero { 
         height: 350px; 
         background-size: cover; 
         background-position: center; 
+        border-bottom-right-radius: 80px; /* Added curve to right bottom */
+        overflow: hidden; /* Ensures content stays within curve */
       } 
       @media (max-width: 460px) { 
         .page-hero { 
@@ -76,17 +79,17 @@
   </head>
   <body>
     <?php include 'header.php';?>
-      <div class="page-hero pageheade exibit-banner">
+      <div class="page-hero pageheade exibit-banner shadow-sm" data-aos="fade-down">
         <div class="container">
           <div class="row">
             <div class="col-md-8">
-              <h1 class="banner-head">
+              <h1 class="banner-head" data-aos="fade-right" data-aos-delay="300">
                 Blogs
               </h1>
             </div>
             <div class="col-md-9">
               <nav aria-label="breadcrumb">
-                <ol class="breadcrumb">
+                <ol class="breadcrumb" data-aos="fade-right" data-aos-delay="500">
                   <li class="breadcrumb-item">
                     <a href="#">
                       <i class="fa fa-home">
@@ -108,7 +111,7 @@
         <div class="container">
     <div class="row row-cols-1 row-cols-md-3 g-4">
         <!-- Card 1 -->
-        <div class="col mt-4">
+        <div class="col mt-4" data-aos="fade-up" data-aos-delay="100">
             <div class="card h-100 d-flex flex-column shadow-sm">
             <a href="how-to-choose-the-right-bespoke-packaging-supplier.php" style="text-decoration: none; color: black;">
                 <img src="img/blog/cards/how-to-choose-the-right-bespoke-packaging-supplier.png" class="card-img-top" alt="How To Choose The Right Bespoke Packaging Supplier">
@@ -116,18 +119,20 @@
                     <b>
                       How to Choose the Right Bespoke Packaging Supplier
                     </b>
+                    <br>
+                    <small class="text-muted">Last Updated: <b>12th February 2025</b></small>
                     <p class="card-text mt-2">In today’s competitive market, packaging plays a crucial role in brand
                     recognition, product safety, and customer satisfaction <b class="text-danger">Read&nbsp;More...</b>
                     </p>
                 </div>
                 </a>
-                <div class="card-footer mt-auto">
+                <!-- <div class="card-footer mt-auto">
                   <small class="text-muted">12th February 2025</small>
-                </div>
+                </div> -->
             </div>
         </div>
         <!-- Card 2 -->
-        <div class="col mt-4">
+        <div class="col mt-4" data-aos="fade-up" data-aos-delay="200">
             <div class="card h-100 d-flex flex-column shadow-sm">
             <a href="types-of-pouches-we-provide-at-prem-industries-india-limited.php" style="text-decoration: none; color: black;">
                 <img src="img/blog/cards/types-of-pouches-we-provide-at-prem-industries-india-limited.png" class="card-img-top" alt="Types of Pouches We Provide at Prem Industries India Limited">
@@ -135,16 +140,18 @@
                       <b>
                       Types of Pouches We Provide at Prem Industries India Limited
                       </b>
+                      <br>
+                    <small class="text-muted">Last Updated: <b>19th February 2025</b></small>
                     <p class="card-text mt-2">Packaging plays a crucial role in preserving product quality, enhancing shelf appeal, and ensuring convenience for consumers <b class="text-danger">Read&nbsp;More...</b></p>
                 </div>
                 </a>
-                <div class="card-footer mt-auto">
+                <!-- <div class="card-footer mt-auto">
                   <small class="text-muted">19th February 2025</small>
-                </div>
+                </div> -->
             </div>
         </div>
         <!-- Card 3 -->
-        <div class="col mt-4">
+        <div class="col mt-4" data-aos="fade-up" data-aos-delay="300">
             <div class="card h-100 d-flex flex-column shadow-sm">
             <a href="why-healthcare-packaging-is-crucial-for-safety-and-hygiene.php" style="text-decoration: none; color: black;">
                 <img src="img/blog/cards/why-healthcare-packaging-is-crucial-for-safety-and-hygienee.jpg" class="card-img-top" alt="Why Healthcare Packaging Is Crucial For Safety And Hygiene">
@@ -152,34 +159,61 @@
                       <b>
                       Why Healthcare Packaging is Crucial for Safety and Hygiene
                       </b>
+                      <br>
+                      <small class="text-muted">Last Updated: <b>21st May 2025</b></small>
                     <p class="card-text mt-2">The importance of healthcare packaging goes beyond just presentation. It plays a critical role in maintaining product... <b class="text-danger">Read&nbsp;More...</b></p>
                 </div>
                 </a>
-                <div class="card-footer mt-auto">
+                <!-- <div class="card-footer mt-auto">
                   <small class="text-muted">21st May 2025</small>
-                </div>
+                </div> -->
             </div>
         </div>
         <!-- Card 4 -->
-        <div class="col mt-4">
-            <div class="card h-100 d-flex flex-column shadow-sm">
+        <div class="col mt-4" data-aos="fade-up" data-aos-delay="400">
+          <div class="card h-100 d-flex flex-column shadow-sm">
             <a href="lift-with-ease-how-packpro-carry-handle-tape-transforms-heavy-packaging.php" style="text-decoration: none; color: black;">
-                <img src="img/blog/cards/lift-with-ease-how-packpro-carry-handle-tape-transforms-heavy-packaging.jpg" class="card-img-top" alt="Lift with Ease: How PackPro™ Carry Handle Tape Transforms Heavy Packaging">
+              <img src="img/blog/cards/lift-with-ease-how-packpro-carry-handle-tape-transforms-heavy-packaging.jpg" class="card-img-top" alt="Lift with Ease: How PackPro™ Carry Handle Tape Transforms Heavy Packaging">
                 <div class="card-body flex-grow-1">
                       <b>
                         Lift with Ease: How PackPro™ Carry Handle Tape Transforms Heavy Packaging
                       </b>
+                      <br>
+                      <small class="text-muted">Last Updated: <b>23rd May 2025</b></small>
                     <p class="card-text mt-2">In the world of modern packaging, convenience isn’t a luxury—it’s a necessity. As e-commerce, retail, and industrial... <b class="text-danger">Read&nbsp;More...</b></p>
                 </div>
-                </a>
-                <div class="card-footer mt-auto">
+            </a>
+                <!-- <div class="card-footer mt-auto">
                   <small class="text-muted">23rd May 2025</small>
+                </div> -->
+          </div>
+        </div>
+        <!-- Card 5 -->
+         <div class="col mt-4" data-aos="fade-up" data-aos-delay="400">
+          <div class="card h-100 d-flex flex-column shadow-sm">
+            <a href="how-to-find-a-trustworthy-packaging-manufacturer-without-breaking-the-bank.php" style="text-decoration: none; color: black;">
+              <img src="img/blog/cards/how-to-find-a-trustworthy-packaging-manufacturer-without-breaking-the-bank.jpg" class="card-img-top" alt="Lift with Ease: How PackPro™ Carry Handle Tape Transforms Heavy Packaging">
+                <div class="card-body flex-grow-1">
+                      <b>
+                        How to find a Trustworthy Packaging Manufacturer Without Breaking the Bank
+                      </b>
+                      <br>
+                      <small class="text-muted">Last Updated: <b>17th June 2025</b></small>
+                    <p class="card-text mt-2">Choosing the right packaging manufacturer is a crucial decision for any brand. Whether you're in retail... <b class="text-danger">Read&nbsp;More...</b></p>
                 </div>
-            </div>
+            </a>
+                <!-- <div class="card-footer mt-auto">
+                  <small class="text-muted">23rd May 2025</small>
+                </div> -->
+          </div>
         </div>
     </div>
 </div>
       </section>
       <?php include 'footer.php';?>
+      <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+      <script>
+        AOS.init();
+      </script>
   </body>
 </html>

@@ -114,7 +114,7 @@
           <li class="nav-item"><a class="nav-link" href="innovation.php">Innovation</a></li>
           <li class="nav-item"><a class="nav-link" href="contact-us.php">Contact Us</a></li>
 		  
-		 <li class="nav-item"><a class="nav-link" href="/blogs">blog</a></li> 
+		 <li class="nav-item"><a class="nav-link" href="/blogs">blogs</a></li> 
 
      
      <li class="nav-item"><a class="nav-link" href="https://store.prempackaging.com/"><div style="display:flex ; flex-direction:row;align-items:center;">
