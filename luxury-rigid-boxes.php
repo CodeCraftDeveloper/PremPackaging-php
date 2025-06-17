@@ -60,7 +60,7 @@
         <div class="row">
           <div class="col-md-12">
             <div>
-              <h3 class="wow fadeInUp" style="font-size: 35px">Luxury Rigid Boxes by Prem Industries India Limited</h3>
+              <h3 class="wow fadeInUp" style="font-size: 35px">Luxury Rigid Boxes</h3>
             </div>
           </div>
         </div>
