@@ -57,7 +57,7 @@
                                                 href="https://prempackaging.com/carry-bags" style="color: black;"
                                                 target="_blank"><b>carry bag manufacturer</b></a> is
                                             crucial for both functionality and brand visibility.</p>
-                                        <p class="wow fadeInUp">At <b>Prem Industries India Limited</b>, we understand
+                                        <p class="wow fadeInUp">At Prem Industries India Limited, we understand
                                             that
                                             your packaging partner must deliver more than just bags—they must deliver
                                             trust, quality, and flexibility. Here’s a helpful guide on how to choose the
@@ -105,7 +105,7 @@
                                             industries. Positive reviews are a sign of consistent performance.</p>
                                         <p class="wow fadeInUp">Choosing the right carry bag manufacturer is a strategic
                                             decision. It's not just about price—it's about reliability, scalability, and
-                                            values. At <b>Prem Industries India Limited</b>, we blend customization,
+                                            values. At Prem Industries India Limited, we blend customization,
                                             sustainability, and manufacturing excellence to deliver packaging that
                                             carries more than just your product—it carries your promise.</p>
                                     </div>
