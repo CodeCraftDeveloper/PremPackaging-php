@@ -121,13 +121,28 @@
     </div>
   </section>
 
-  <!-- <div class="container-fluid">
-    <div class="row">
-      <div class="col-md-12 text-center">
-        <img src="img/buy-back-box/1.png" class="img-fluid" alt="Buy Back Box">
+  <div class="e-commerce-gallery BoxesGallery">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-6 p-1">
+          <a class="gallery-col" href="img/multiups1.jpg" data-fancybox="images">
+            <div class="gallery-box">
+              <img src="img/multiups1.jpg" alt="Direct Thermal Labels">
+              <h4>Direct Thermal Labels</h4>
+            </div>
+          </a>
+        </div>
+        <div class="col-md-6 p-1">
+          <a class="gallery-col" href="img/multiups2.jpg" data-fancybox="images">
+            <div class="gallery-box">
+              <img src="img/rolabel/01.png" alt="Chromo Labels">
+              <h4>Chromo Labels</h4>
+            </div>
+          </a>
+        </div>
       </div>
     </div>
-  </div> -->
+  </div>
   <div class="mt-4"></div>
 
   <?php include 'contactsection.php'; ?>

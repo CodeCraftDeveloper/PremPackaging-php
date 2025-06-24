@@ -146,13 +146,13 @@
     <div class="mb-3"></div>
   </section>
 
-  <!-- <div class="container-fluid">
+  <div class="container-fluid">
     <div class="row">
       <div class="col-md-12 text-center">
-        <img src="img/buy-back-box/1.png" class="img-fluid" alt="Buy Back Box">
+        <img src="img/packpro-tapes/01.png" class="img-fluid" alt="PackPro™ Tapes">
       </div>
     </div>
-  </div> -->
+  </div>
 
   <?php include 'contactsection.php'; ?>
 

@@ -119,13 +119,13 @@
     </div>
   </section>
 
-  <!-- <div class="container-fluid">
+  <div class="container-fluid">
     <div class="row">
       <div class="col-md-12 text-center">
-        <img src="img/buy-back-box/1.png" class="img-fluid" alt="Buy Back Box">
+        <img src="img/flexpand/01.png" class="img-fluid" alt="FlexPand™">
       </div>
     </div>
-  </div> -->
+  </div>
   <div class="mt-4"></div>
 
   <?php include 'contactsection.php'; ?>
