@@ -21,6 +21,19 @@
   <link href="css/main.css" rel="stylesheet">
   <link href="css/media.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+  <style>
+    h4 {
+      color: #14254C;
+    }
+
+    .bullet-point-new {
+      color: #14254C;
+    }
+
+    b {
+      color: #14254C;
+    }
+  </style>
 </head>
 
 <body>
