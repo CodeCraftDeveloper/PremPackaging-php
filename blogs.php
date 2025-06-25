@@ -119,6 +119,28 @@
       <div class="row">
         <div class="col-md-7 pb-5">
           <div class="row row-cols-1 row-cols-md-2 g-4">
+            <!-- Blog 7 -->
+            <div class="col mt-4 p-0 pr-1" data-aos="fade-up" data-aos-delay="100">
+              <div class="card h-100 d-flex flex-column shadow-sm">
+                <a href="unwrapping-freshness-benefits-of-packpro-honeycomb-food-wrapping-paper.php"
+                  style="text-decoration: none; color: black;">
+                  <img src="img/blog/cards/unwrapping-freshness-benefits-of-packpro-honeycomb-food-wrapping-paper.jpg"
+                    class="card-img-top" alt="Unwrapping Freshness: Benefits of PackPro™ Honeycomb Food Wrapping Paper">
+                  <div class="card-body flex-grow-1">
+                    <b style="font-size: 18px;">
+                      Unwrapping Freshness: Benefits of PackPro™ Honeycomb Food Wrapping Paper
+                    </b>
+                    <br>
+                    <small class="text-muted">Last Updated: <b>25th June 2025</b></small>
+                    <p class="card-text mt-2">In today’s fast-paced world, where food safety and eco-conscious packaging
+                      are in demand, choosing the right wrapping... <b class="text-danger">Read&nbsp;More...</b></p>
+                  </div>
+                </a>
+                <!-- <div class="card-footer mt-auto">
+                    <small class="text-muted">23rd May 2025</small>
+                  </div> -->
+              </div>
+            </div>
             <!-- Blog 6 -->
             <div class="col mt-4 p-0 pr-1" data-aos="fade-up" data-aos-delay="100">
               <div class="card h-100 d-flex flex-column shadow-sm">
@@ -265,7 +287,27 @@
             <h3 class="text-center pt-4" style="font-weight: bold; text-transform: uppercase; color: white;">Popular
               Blogs
             </h3>
-            <div class="row pt-3 pb-3">
+            <!-- Scrollable popular blogs container -->
+            <div class="row pt-3 pb-3" style="max-height: 650px; overflow-y: auto;">
+              <div class="col-md-12">
+                <a href="unwrapping-freshness-benefits-of-packpro-honeycomb-food-wrapping-paper.php"
+                  style="text-decoration: none; color: black;">
+                  <div class="card mb-3 shadow-sm" style="max-width: 540px;">
+                    <div class="row g-0">
+                      <div class="col-md-4 d-flex align-items-center justify-content-center">
+                        <img src="img/blog/popular/07.jpg" class="img-fluid rounded h-100 w-100 p-1"
+                          alt="Unwrapping Freshness: Benefits of PackPro™ Honeycomb Food Wrapping Paper">
+                      </div>
+                      <div class="col-md-8 d-flex align-items-center">
+                        <div class="card-body p-0 w-100">
+                          <h5 class="card-title m-0 p-2" style="font-size: 15px;">Unwrapping Freshness: Benefits of
+                            PackPro™ Honeycomb Food Wrapping Paper</h5>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </a>
+              </div>
 
               <div class="col-md-12">
                 <a href="how-to-choose-the-right-carry-bag-manufacturer-for-your-business.php"
