@@ -59,8 +59,9 @@
                                             retailers across India.</p>
                                         <p class="wow fadeInUp"><b><a
                                                     href="https://prempackaging.com/packpro-honeycomb-food-wrapping-paper"
-                                                    target="_blank" style="color: black;">PackPro™ Honeycomb
-                                                    paper</a></b> is not just another packaging
+                                                    target="_blank" style="color: black;">PackPro™ Honeycomb Food
+                                                    Wrapping Paper
+                                                </a></b> is not just another packaging
                                             material—it’s a game-changer designed with precision, hygiene, and purpose.
                                             Whether you're a street food vendor, a cloud kitchen operator, or a bakery
                                             owner, switching to honeycomb wrapping paper can help elevate your brand and

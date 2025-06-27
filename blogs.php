@@ -119,13 +119,36 @@
       <div class="row">
         <div class="col-md-7 pb-5">
           <div class="row row-cols-1 row-cols-md-2 g-4">
+            <!-- Blog 8 -->
+            <div class="col mt-4 p-0 pr-1" data-aos="fade-up" data-aos-delay="100">
+              <div class="card h-100 d-flex flex-column shadow-sm">
+                <a href="seal-the-deal-void-tape-prevents-product-tampering.php"
+                  style="text-decoration: none; color: black;">
+                  <img src="img/blog/cards/seal-the-deal-void-tape-prevents-product-tampering.jpg" class="card-img-top"
+                    alt="Seal the Deal: How Void Tape Prevents Product Tampering ">
+                  <div class="card-body flex-grow-1">
+                    <b style="font-size: 18px;">
+                      Seal the Deal: How Void Tape Prevents Product Tampering
+                    </b>
+                    <br>
+                    <small class="text-muted">Last Updated: <b>27th June 2025</b></small>
+                    <p class="card-text mt-2">In a world driven by e-commerce and logistics, product integrity has
+                      become more critical than ever. Customers expect not just fast deliveries... <b
+                        class="text-danger">Read&nbsp;More...</b></p>
+                  </div>
+                </a>
+                <!-- <div class="card-footer mt-auto">
+                    <small class="text-muted">23rd May 2025</small>
+                  </div> -->
+              </div>
+            </div>
             <!-- Blog 7 -->
             <div class="col mt-4 p-0 pr-1" data-aos="fade-up" data-aos-delay="100">
               <div class="card h-100 d-flex flex-column shadow-sm">
                 <a href="unwrapping-freshness-benefits-of-packpro-honeycomb-food-wrapping-paper.php"
                   style="text-decoration: none; color: black;">
                   <img src="img/blog/cards/unwrapping-freshness-benefits-of-packpro-honeycomb-food-wrapping-paper.jpg"
-                    class="card-img-top" alt="Unwrapping Freshness: Benefits of PackPro™ Honeycomb Food Wrapping Paper">
+                    class="card-img-top" alt="Seal the Deal: How Void Tape Prevents Product Tampering">
                   <div class="card-body flex-grow-1">
                     <b style="font-size: 18px;">
                       Unwrapping Freshness: Benefits of PackPro™ Honeycomb Food Wrapping Paper
@@ -290,6 +313,26 @@
             <!-- Scrollable popular blogs container -->
             <div class="row pt-3 pb-3" style="max-height: 650px; overflow-y: auto;">
               <div class="col-md-12">
+                <a href="seal-the-deal-void-tape-prevents-product-tampering.php"
+                  style="text-decoration: none; color: black;">
+                  <div class="card mb-3 shadow-sm" style="max-width: 540px;">
+                    <div class="row g-0">
+                      <div class="col-md-4 d-flex align-items-center justify-content-center">
+                        <img src="img/blog/popular/08.jpg" class="img-fluid rounded h-100 w-100 p-1"
+                          alt="Seal the Deal: How Void Tape Prevents Product Tampering ">
+                      </div>
+                      <div class="col-md-8 d-flex align-items-center">
+                        <div class="card-body p-0 w-100">
+                          <h5 class="card-title m-0 p-2" style="font-size: 15px;">Seal the Deal: How Void Tape Prevents
+                            Product Tampering </h5>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </a>
+              </div>
+
+              <div class="col-md-12">
                 <a href="unwrapping-freshness-benefits-of-packpro-honeycomb-food-wrapping-paper.php"
                   style="text-decoration: none; color: black;">
                   <div class="card mb-3 shadow-sm" style="max-width: 540px;">
@@ -349,7 +392,7 @@
                 </a>
               </div>
 
-              <div class="col-md-12" data-aos="fade-up">
+              <div class="col-md-12">
                 <a href="lift-with-ease-how-packpro-carry-handle-tape-transforms-heavy-packaging.php"
                   style="text-decoration: none; color: black;">
                   <div class="card mb-3 shadow-sm" style="max-width: 540px;">
@@ -369,7 +412,7 @@
                 </a>
               </div>
 
-              <div class="col-md-12" data-aos="fade-up">
+              <div class="col-md-12">
                 <a href="why-healthcare-packaging-is-crucial-for-safety-and-hygiene.php"
                   style="text-decoration: none; color: black;">
                   <div class="card mb-3 shadow-sm" style="max-width: 540px;">
@@ -389,7 +432,7 @@
                 </a>
               </div>
 
-              <div class="col-md-12" data-aos="fade-up">
+              <div class="col-md-12">
                 <a href="types-of-pouches-we-provide-at-prem-industries-india-limited.php"
                   style="text-decoration: none; color: black;">
                   <div class="card mb-3 shadow-sm" style="max-width: 540px;">
@@ -409,7 +452,7 @@
                 </a>
               </div>
 
-              <div class="col-md-12" data-aos="fade-up">
+              <div class="col-md-12">
                 <a href="how-to-choose-the-right-bespoke-packaging-supplier.php"
                   style="text-decoration: none; color: black;">
                   <div class="card shadow-sm" style="max-width: 540px;">
