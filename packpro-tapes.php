@@ -5,8 +5,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description"
-    content="Discover PackPro™ Tapes for superior packaging solutions. High-quality adhesive tapes for all your packaging needs. Elevate your packaging game with Prem Industries India Limited. Order now!">
-  <meta property="og:title" content="Get the best PackPro™ Tapes | Prem Industries India Limited">
+    content="Leading PackPro™ Tapes manufacturer offering high-adhesion, durable tapes for secure packaging. Choose us for innovative, reliable, and custom tape solutions.">
+  <meta property="og:title" content="PackPro™ Tapes Manufacturer | Prem Industries India Limited">
   <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script>

@@ -581,7 +581,7 @@
       <div class="row mt-60">
         <div class="col-md-6 order1">
           <div class="design-image wow" data-wow-delay="0.9s">
-            <video loop="loop" autoplay="" playsinline="" muted="" class="SolutionVideos">
+            <video loop="loop" autoplay="" playsinline="" muted="" class="SolutionVideos" style="height: 500px;">
               <source src="img/index/packaging-solutions/new/innovation.mp4" type="video/mp4">
             </video>
           </div>
@@ -589,7 +589,9 @@
         <div class="col-md-6 order2">
           <div class="design-content inovations">
             <h3 class="wow fadeInUp">Advancing E-com Packaging</h3>
-            <p class="wow fadeInUp">Packaging for e-commerce is more than protecting and preserving the product. A
+            <p class="wow fadeInUp">With decades of expertise, we’ve grown into a leading packaging company in Noida,
+              Ghaziabad, and across Delhi NCR, serving diverse industries with tailored solutions. Packaging for
+              e-commerce is more than protecting and preserving the product. A
               greater grasp of consumer lifestyle trends, consumer habits, and retail transformations that affect the
               consumer experience is the first step...</p>
             <a href="E-commerce-packaging.php" class="more-btn mt-4"><i class="fa fa-clone" aria-hidden="true"></i> Read
