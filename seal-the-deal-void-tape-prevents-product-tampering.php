@@ -56,8 +56,11 @@
                                             deliveries—but secure ones. For businesses, ensuring that a package reaches
                                             the customer in the same condition it left the warehouse is essential. This
                                             is where void tape comes into play.</p>
-                                        <p class="wow fadeInUp">At Prem Industries India Limited, a trusted void tape
-                                            manufacturer, we understand the importance of secure packaging. Our
+                                        <p class="wow fadeInUp">At Prem Industries India Limited, a trusted <a
+                                                href="https://prempackaging.com/void-tape" style="color: black;"
+                                                target="_blank"><b>void tape
+                                                    manufacturer</b></a>, we understand the importance of secure
+                                            packaging. Our
                                             tamper-evident void tapes are designed to protect your products during
                                             storage and transit, giving both businesses and consumers peace of mind.</p>
                                         <h4 style="font-weight: 600;">What is Void Tape?</h4>

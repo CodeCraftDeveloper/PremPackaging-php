@@ -56,7 +56,10 @@
                                             a product—it’s about securing it, showcasing your brand, and delivering a
                                             hassle-free experience. That’s where peel and seal bags shine.</p>
                                         <p class="wow fadeInUp">At Prem Industries India Limited, we bring innovation
-                                            and convenience together with our peel and seal bags—designed for businesses
+                                            and convenience together with our <a
+                                                href="https://prempackaging.com/peel-and-seal-bags"
+                                                style="color: black;" target="_blank"><b>peel and seal
+                                                    bags</b></a>—designed for businesses
                                             that value safety, speed, and sustainability.</p>
                                         <h4 style="font-weight: 600;">What are Peel and Seal Bags?</h4>
                                         <p class="wow fadeInUp">Peel and seal bags are self-adhesive pouches that
