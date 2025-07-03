@@ -119,6 +119,28 @@
       <div class="row">
         <div class="col-md-7 pb-5">
           <div class="row row-cols-1 row-cols-md-2 g-4">
+            <!-- Blog 9 -->
+            <div class="col mt-4 p-0 pr-1" data-aos="fade-up" data-aos-delay="100">
+              <div class="card h-100 d-flex flex-column shadow-sm">
+                <a href="seal-the-deal-why-peel-and-seal-bags-are-changing-packaging.php"
+                  style="text-decoration: none; color: black;">
+                  <img src="img/blog/cards/seal-the-deal-why-peel-and-seal-bags-are-changing-packaging.jpg"
+                    class="card-img-top" alt="Seal the Deal: Why Peel and Seal Bags Are Changing Packaging">
+                  <div class="card-body flex-grow-1">
+                    <b style="font-size: 18px;">
+                      Seal the Deal: Why Peel and Seal Bags Are Changing Packaging
+                    </b>
+                    <br>
+                    <small class="text-muted">Last Updated: <b>3rd July 2025</b></small>
+                    <p class="card-text mt-2">In today’s fast-moving world of e-commerce and retail, packaging plays a
+                      bigger role than ever before. It's not... <b class="text-danger">Read&nbsp;More...</b></p>
+                  </div>
+                </a>
+                <!-- <div class="card-footer mt-auto">
+                    <small class="text-muted">23rd May 2025</small>
+                  </div> -->
+              </div>
+            </div>
             <!-- Blog 8 -->
             <div class="col mt-4 p-0 pr-1" data-aos="fade-up" data-aos-delay="100">
               <div class="card h-100 d-flex flex-column shadow-sm">
@@ -312,6 +334,26 @@
             </h3>
             <!-- Scrollable popular blogs container -->
             <div class="row pt-3 pb-3" style="max-height: 650px; overflow-y: auto;">
+              <div class="col-md-12">
+                <a href="seal-the-deal-why-peel-and-seal-bags-are-changing-packaging.php"
+                  style="text-decoration: none; color: black;">
+                  <div class="card mb-3 shadow-sm" style="max-width: 540px;">
+                    <div class="row g-0">
+                      <div class="col-md-4 d-flex align-items-center justify-content-center">
+                        <img src="img/blog/popular/09.jpg" class="img-fluid rounded h-100 w-100 p-1"
+                          alt="Seal the Deal: Why Peel and Seal Bags Are Changing Packaging">
+                      </div>
+                      <div class="col-md-8 d-flex align-items-center">
+                        <div class="card-body p-0 w-100">
+                          <h5 class="card-title m-0 p-2" style="font-size: 15px;">Seal the Deal: Why Peel and Seal Bags
+                            Are Changing Packaging </h5>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </a>
+              </div>
+
               <div class="col-md-12">
                 <a href="seal-the-deal-void-tape-prevents-product-tampering.php"
                   style="text-decoration: none; color: black;">

@@ -42,7 +42,7 @@
             <div class="col-md-12">
                 <img src="img/blog/banners/seal-the-deal-void-tape-prevents-product-tampering.jpg"
                     class="d-block w-100 mt-4 mb-2 shadow-lg"
-                    alt="Unwrapping Freshness: Benefits of PackPro™ Honeycomb Food Wrapping Paper">
+                    alt="Seal the Deal: How Void Tape Prevents Product Tampering">
             </div>
             <div class="col-md-12" style="text-align: justify;">
                 <section class="body__content mt-3 page-body-content">

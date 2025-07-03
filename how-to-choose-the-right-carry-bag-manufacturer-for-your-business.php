@@ -41,7 +41,8 @@
             </div>
             <div class="col-md-12">
                 <img src="img/blog/banners/how-to-choose-the-right-carry-bag-manufacturer-for-your-business.jpg"
-                    class="d-block w-100 mt-4 mb-2 shadow-lg" alt="How to Choose the Right Bespoke Packaging Supplier">
+                    class="d-block w-100 mt-4 mb-2 shadow-lg"
+                    alt="How to Choose the Right Carry Bag Manufacturer for Your Business">
             </div>
             <div class="col-md-12" style="text-align: justify;">
                 <section class="body__content mt-3 page-body-content">

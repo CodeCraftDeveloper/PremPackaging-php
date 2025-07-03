@@ -20,6 +20,19 @@
   <link href="css/main.css" rel="stylesheet">
   <link href="css/media.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+  <style>
+    h4 {
+      color: #14254C;
+    }
+
+    .bullet-point-new {
+      color: #14254C;
+    }
+
+    b {
+      color: #14254C;
+    }
+  </style>
 </head>
 
 <body>
@@ -45,20 +58,20 @@
     </div>
   </div>
 
-  <section class="body__content padding page-body-content">
+  <section class="body__content mt-5 mb-5 page-body-content">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
-          <div class="text-left mb-4">
+          <div class="text-left">
             <h3 class="wow fadeInUp">FOOD PACKAGING</h3>
-            <a href="contact-us.php" class="contact-add">
+            <!-- <a href="contact-us.php" class="contact-add">
               <i class="fa fa-envelope"></i>
               <span>Get more information</span>
-            </a>
+            </a> -->
           </div>
         </div>
       </div>
-      <div class="row mt-60">
+      <div class="row text-justify">
         <div class="col-md-6 order2">
           <div class="body-content">
             <p class="wow fadeInUp">Aroma, hygiene, flavours, freshness and much more when it comes to food packaging,
@@ -70,13 +83,20 @@
             <p>Being the best food packaging company in India, we aim to provide you with perfect protection by offering
               packaging that takes care of the following criteria:</p>
 
-            <ul class="listing-content">
-              <li><i class="fa fa-arrow-right"></i> Safer Distribution</li>
-              <li><i class="fa fa-arrow-right"></i> Innovative</li>
-              <li><i class="fa fa-arrow-right"></i> Cost-Efficient</li>
-              <li><i class="fa fa-arrow-right"></i> Convenient</li>
-              <li><i class="fa fa-arrow-right"></i> Lightweight</li>
-              <li><i class="fa fa-arrow-right"></i> Customizable</li>
+            <ul class="mb-3">
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
+                Safer
+                Distribution</li>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
+                Innovative</li>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
+                Cost-Efficient</li>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
+                Convenient</li>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
+                Lightweight</li>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
+                Customizable</li>
             </ul>
 
             <p>Whether it is lamination, printing, extrusion, slitting, converting, or a combination of everything you
@@ -86,6 +106,9 @@
             <p>Our research and development are well reflected in our approach, which offers efficient and innovative
               ideas. We provide you with flexible and protective solutions. Our world-class production facilities help
               us maintain a decentralised structure.</p>
+
+            <p>Want to connect with a trusted food packaging manufacturer for safe, sustainable, and customized
+              packaging solutions, we are here to help.</p>
 
           </div>
         </div>

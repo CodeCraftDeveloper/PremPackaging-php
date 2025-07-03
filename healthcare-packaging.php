@@ -18,6 +18,19 @@
   <link href="css/main.css" rel="stylesheet">
   <link href="css/media.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+  <style>
+    h4 {
+      color: #14254C;
+    }
+
+    .bullet-point-new {
+      color: #14254C;
+    }
+
+    b {
+      color: #14254C;
+    }
+  </style>
 </head>
 
 <body>
@@ -65,13 +78,17 @@
               <p class="wow fadeInUp">With decades of experience, cutting-edge infrastructure, and a deep understanding
                 of packaging science, we provide:</p>
               <ul class="mt-0 mb-3">
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
+                    class="bullet-point-new">⦿</span>
                   FDA-compliant, food-grade materials </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
+                    class="bullet-point-new">⦿</span>
                   High-barrier films for extended product life </li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
+                    class="bullet-point-new">⦿</span>
                   Leak-proof & tamper-evident sealing</li>
-                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
+                    class="bullet-point-new">⦿</span>
                   Custom printing for enhanced shelf appeal </li>
               </ul>
               <p class="wow fadeInUp">Our team works closely with clients to develop packaging that reflects both brand
@@ -83,6 +100,9 @@
                 scalability, and speed to market.</p>
               <p class="wow fadeInUp">Ready to elevate your healthcare packaging for pharmaceuticals? Contact us today
                 for customized, safe, and reliable solutions tailored to your brand’s needs.</p>
+              <p>Ready to elevate your healthcare packaging for pharmaceuticals? Contact us today as we are a healthcare
+                packaging manufacturer who deals with customized, safe, and reliable solutions tailored to your brand’s
+                needs.</p>
             </div>
           </div>
         </div>
