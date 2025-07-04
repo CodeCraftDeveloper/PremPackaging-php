@@ -56,8 +56,8 @@
                                             the list. But what if one product could deliver all three and more? Enter
                                             the <b><a href="https://prempackaging.com/2-ply-corrugated-mailer-bags"
                                                     target="_blank" style="color: black;">2 ply corrugated
-                                                    mailer</a></b>
-                                            bag—a rising star in modern packaging that’s
+                                                    mailer bag</a></b>
+                                            — a rising star in modern packaging that’s
                                             both surprising and smart.</p>
                                         <p class="wow fadeInUp">At Prem Industries India Limited, we constantly innovate
                                             to create packaging that doesn’t just meet industry demands but exceeds
