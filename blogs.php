@@ -119,6 +119,30 @@
       <div class="row">
         <div class="col-md-7 pb-5">
           <div class="row row-cols-1 row-cols-md-2 g-4">
+            <!-- Blog 10 -->
+            <div class="col mt-4 p-0 pr-1" data-aos="fade-up" data-aos-delay="100">
+              <div class="card h-100 d-flex flex-column shadow-sm">
+                <a href="why-2-ply-corrugated-mailer-bags-might-be-your-smartest-packaging-move-yet.php"
+                  style="text-decoration: none; color: black;">
+                  <img
+                    src="img/blog/cards/why-2-ply-corrugated-mailer-bags-might-be-your-smartest-packaging-move-yet.jpg"
+                    class="card-img-top"
+                    alt="Why 2 Ply Corrugated Mailer Bags Might Be Your Smartest Packaging Move Yet">
+                  <div class="card-body flex-grow-1">
+                    <b style="font-size: 18px;">
+                      Why 2 Ply Corrugated Mailer Bags Might Be Your Smartest Packaging Move Yet
+                    </b>
+                    <br>
+                    <small class="text-muted">Last Updated: <b>4th July 2025</b></small>
+                    <p class="card-text mt-2">When it comes to choosing the right packaging solution for your business,
+                      strength, cost-efficiency, and sustainability... <b class="text-danger">Read&nbsp;More...</b></p>
+                  </div>
+                </a>
+                <!-- <div class="card-footer mt-auto">
+                    <small class="text-muted">23rd May 2025</small>
+                  </div> -->
+              </div>
+            </div>
             <!-- Blog 9 -->
             <div class="col mt-4 p-0 pr-1" data-aos="fade-up" data-aos-delay="100">
               <div class="card h-100 d-flex flex-column shadow-sm">
@@ -334,6 +358,26 @@
             </h3>
             <!-- Scrollable popular blogs container -->
             <div class="row pt-3 pb-3" style="max-height: 650px; overflow-y: auto;">
+              <div class="col-md-12">
+                <a href="why-2-ply-corrugated-mailer-bags-might-be-your-smartest-packaging-move-yet.php"
+                  style="text-decoration: none; color: black;">
+                  <div class="card mb-3 shadow-sm" style="max-width: 540px;">
+                    <div class="row g-0">
+                      <div class="col-md-4 d-flex align-items-center justify-content-center">
+                        <img src="img/blog/popular/10.jpg" class="img-fluid rounded h-100 w-100 p-1"
+                          alt="Why 2 Ply Corrugated Mailer Bags Might Be Your Smartest Packaging Move Yet">
+                      </div>
+                      <div class="col-md-8 d-flex align-items-center">
+                        <div class="card-body p-0 w-100">
+                          <h5 class="card-title m-0 p-2" style="font-size: 15px;">Why 2 Ply Corrugated Mailer Bags Might
+                            Be Your Smartest Packaging Move Yet </h5>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </a>
+              </div>
+
               <div class="col-md-12">
                 <a href="seal-the-deal-why-peel-and-seal-bags-are-changing-packaging.php"
                   style="text-decoration: none; color: black;">
