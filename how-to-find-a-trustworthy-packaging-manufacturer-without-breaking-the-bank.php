@@ -61,8 +61,10 @@
                     <p class="wow fadeInUp">Always begin by researching the manufacturer’s market presence. Look for
                       established names with a history of consistent quality and timely delivery. Check for reviews,
                       testimonials, and client associations. Companies like Prem Industries India Limited, known as the
-                      best packaging manufacturer in the region, often have long-standing relationships with top
-                      brands—speaking volumes about their reliability.</p>
+                      <a href="https://prempackaging.com" style="color: black;" target="_blank"><b>best
+                          packaging manufacturer</b></a> in the region, often have long-standing relationships with top
+                      brands—speaking volumes about their reliability.
+                    </p>
                     <h4 style="font-weight: 600;">2. Certifications & Compliance</h4>
                     <p class="wow fadeInUp">A dependable manufacturer must meet industry standards. Look for ISO
                       certifications, food-grade compliance, and globally recognized accreditations like BRCGS. These
@@ -75,7 +77,8 @@
                       aesthetics and functional requirements.</p>
                     <h4 style="font-weight: 600;">4. Affordability Without Compromise</h4>
                     <p class="wow fadeInUp">Cost is a major factor, but low cost shouldn’t mean low quality. Instead,
-                      look for affordable packaging services that offer long-term value—like durability, reusability,
+                      look for <a href="https://prempackaging.com" style="color: black;" target="_blank"><b>affordable
+                          packaging services</b></a> that offer long-term value—like durability, reusability,
                       and reduced return rates due to damage. Bulk pricing, smart logistics, and in-house manufacturing
                       facilities help companies like Prem Industries provide quality at competitive rates.</p>
                     <h4 style="font-weight: 600;">5. Sustainability Commitment</h4>
