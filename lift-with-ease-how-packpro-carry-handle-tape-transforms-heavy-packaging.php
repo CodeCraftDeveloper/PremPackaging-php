@@ -26,6 +26,14 @@
     h4 {
       color: #14254C;
     }
+
+    .bullet-point-new {
+      color: #14254C;
+    }
+
+    b {
+      color: #14254C;
+    }
   </style>
 </head>
 
@@ -89,7 +97,8 @@
                     <p class="wow fadeInUp">At Prem Industries, we supply carry handle tape under our trusted
                       <b>PackPro™</b> brand, known for quality and consistency. We’ve partnered with brands across FMCG,
                       electronics, and industrial supply chains to offer tape solutions that perform under
-                      pressure—literally.</p>
+                      pressure—literally.
+                    </p>
                     <p class="wow fadeInUp">Whether you're shipping water jugs, detergent packs, or boxed appliances,
                       our carry handle tape is tested and trusted to lift the load.</p>
                     <h4 style="font-weight: 600;" class="mb-3">Conclusion</h4>
