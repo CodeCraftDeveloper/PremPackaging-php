@@ -131,7 +131,7 @@
                       Why Retort Packaging is Gaining Popularity Across Industries
                     </b>
                     <br>
-                    <small class="text-muted">Last Updated: <b>8th July 2025</b></small>
+                    <small class="text-muted">Published On: <b>8th July 2025</b></small>
                     <p class="card-text mt-2">In today’s time, convenience and shelf life are two factors that drive
                       packaging innovation. One such innovation... <b class="text-danger">Read&nbsp;More...</b></p>
                   </div>
@@ -155,7 +155,7 @@
                       Why 2 Ply Corrugated Mailer Bags Might Be Your Smartest Packaging Move Yet
                     </b>
                     <br>
-                    <small class="text-muted">Last Updated: <b>4th July 2025</b></small>
+                    <small class="text-muted">Published On: <b>1st July 2025</b></small>
                     <p class="card-text mt-2">When it comes to choosing the right packaging solution for your business,
                       strength, cost-efficiency, and sustainability... <b class="text-danger">Read&nbsp;More...</b></p>
                   </div>
@@ -177,7 +177,7 @@
                       Seal the Deal: Why Peel and Seal Bags Are Changing Packaging
                     </b>
                     <br>
-                    <small class="text-muted">Last Updated: <b>3rd July 2025</b></small>
+                    <small class="text-muted">Published On: <b>27th June 2025</b></small>
                     <p class="card-text mt-2">In today’s fast-moving world of e-commerce and retail, packaging plays a
                       bigger role than ever before. It's not... <b class="text-danger">Read&nbsp;More...</b></p>
                   </div>
@@ -199,7 +199,7 @@
                       Seal the Deal: How Void Tape Prevents Product Tampering
                     </b>
                     <br>
-                    <small class="text-muted">Last Updated: <b>27th June 2025</b></small>
+                    <small class="text-muted">Published On: <b>16th June 2025</b></small>
                     <p class="card-text mt-2">In a world driven by e-commerce and logistics, product integrity has
                       become more critical than ever. Customers expect not just fast deliveries... <b
                         class="text-danger">Read&nbsp;More...</b></p>
@@ -222,7 +222,7 @@
                       Unwrapping Freshness: Benefits of PackPro™ Honeycomb Food Wrapping Paper
                     </b>
                     <br>
-                    <small class="text-muted">Last Updated: <b>25th June 2025</b></small>
+                    <small class="text-muted">Published On: <b>4th June 2025</b></small>
                     <p class="card-text mt-2">In today’s fast-paced world, where food safety and eco-conscious packaging
                       are in demand, choosing the right wrapping... <b class="text-danger">Read&nbsp;More...</b></p>
                   </div>
@@ -244,7 +244,7 @@
                       How to Choose the Right Carry Bag Manufacturer for Your Business
                     </b>
                     <br>
-                    <small class="text-muted">Last Updated: <b>19th June 2025</b></small>
+                    <small class="text-muted">Published On: <b>22nd May 2025</b></small>
                     <p class="card-text mt-2">When it comes to packaging, carry bags are more than just a
                       convenience—they’re an extension of your brand... <b class="text-danger">Read&nbsp;More...</b></p>
                   </div>
@@ -268,7 +268,7 @@
                       How to find a Trustworthy Packaging Manufacturer Without Breaking the Bank
                     </b>
                     <br>
-                    <small class="text-muted">Last Updated: <b>17th June 2025</b></small>
+                    <small class="text-muted">Published On: <b>13th May 2025</b></small>
                     <p class="card-text mt-2">Choosing the right packaging manufacturer is a crucial decision for any
                       brand. Whether you're in retail... <b class="text-danger">Read&nbsp;More...</b></p>
                   </div>
@@ -291,7 +291,7 @@
                       Lift with Ease: How PackPro™ Carry Handle Tape Transforms Heavy Packaging
                     </b>
                     <br>
-                    <small class="text-muted">Last Updated: <b>23rd May 2025</b></small>
+                    <small class="text-muted">Published On: <b>7th May 2025</b></small>
                     <p class="card-text mt-2">In the world of modern packaging, convenience isn’t a luxury—it’s a
                       necessity. As e-commerce, retail, and industrial... <b class="text-danger">Read&nbsp;More...</b>
                     </p>
@@ -314,7 +314,7 @@
                       Why Healthcare Packaging is Crucial for Safety and Hygiene
                     </b>
                     <br>
-                    <small class="text-muted">Last Updated: <b>21st May 2025</b></small>
+                    <small class="text-muted">Published On: <b>30th April 2025</b></small>
                     <p class="card-text mt-2">The importance of healthcare packaging goes beyond just presentation. It
                       plays a critical role in maintaining product... <b class="text-danger">Read&nbsp;More...</b></p>
                   </div>
@@ -336,7 +336,7 @@
                       Types of Pouches We Provide at Prem Industries India Limited
                     </b>
                     <br>
-                    <small class="text-muted">Last Updated: <b>19th February 2025</b></small>
+                    <small class="text-muted">Published On: <b>18th April 2025</b></small>
                     <p class="card-text mt-2">Packaging plays a crucial role in preserving product quality, enhancing
                       shelf appeal, and ensuring convenience for consumers <b class="text-danger">Read&nbsp;More...</b>
                     </p>
@@ -359,7 +359,7 @@
                       How to Choose the Right Bespoke Packaging Supplier
                     </b>
                     <br>
-                    <small class="text-muted">Last Updated: <b>12th February 2025</b></small>
+                    <small class="text-muted">Published On: <b>7th April 2025</b></small>
                     <p class="card-text mt-2">In today’s competitive market, packaging plays a crucial role in brand
                       recognition, product safety, and customer satisfaction... <b
                         class="text-danger">Read&nbsp;More...</b>

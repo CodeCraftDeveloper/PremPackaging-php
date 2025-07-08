@@ -26,6 +26,14 @@
         h4 {
             color: #14254C;
         }
+
+        .bullet-point-new {
+            color: #14254C;
+        }
+
+        b {
+            color: #14254C;
+        }
     </style>
 </head>
 
@@ -57,11 +65,11 @@
                                             introduce PackPro™ Honeycomb Food Wrapping Paper, an innovative,
                                             sustainable, and smart packaging choice trusted by food service brands and
                                             retailers across India.</p>
-                                        <p class="wow fadeInUp"><b><a
-                                                    href="https://prempackaging.com/packpro-honeycomb-food-wrapping-paper"
-                                                    target="_blank" style="color: black;">PackPro™ Honeycomb Food
-                                                    Wrapping Paper
-                                                </a></b> is not just another packaging
+                                        <p class="wow fadeInUp"><a
+                                                href="https://prempackaging.com/packpro-honeycomb-food-wrapping-paper"
+                                                target="_blank" style="color: black;"><b>PackPro™ Honeycomb Food
+                                                    Wrapping Paper</b>
+                                            </a> is not just another packaging
                                             material—it’s a game-changer designed with precision, hygiene, and purpose.
                                             Whether you're a street food vendor, a cloud kitchen operator, or a bakery
                                             owner, switching to honeycomb wrapping paper can help elevate your brand and

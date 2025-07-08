@@ -26,6 +26,14 @@
     h4 {
       color: #14254C;
     }
+
+    .bullet-point-new {
+      color: #14254C;
+    }
+
+    b {
+      color: #14254C;
+    }
   </style>
 </head>
 
@@ -60,8 +68,8 @@
                       healthcare products require packaging that maintains integrity throughout their lifecycle.
                       Packaging materials must be sterile, moisture-resistant, and strong enough to withstand
                       transportation and handling. Whether it's a swab pouch or a laminate for N95 masks, the right
-                      <b><a href="https://prempackaging.com/healthcare-packaging" target="_blank"
-                          style="color: black;">healthcare packaging</a></b> extends shelf-life and maintains efficacy.
+                      <a href="https://prempackaging.com/healthcare-packaging" target="_blank"
+                        style="color: black;"><b>healthcare packaging</b></a> extends shelf-life and maintains efficacy.
                     </p>
                     <p class="wow fadeInUp">At Prem Industries, we understand these requirements deeply. Our materials
                       are FDA-compliant, non-toxic, and designed to meet global hygiene standards. Brands like Muscle
@@ -74,10 +82,16 @@
                       aligned with your brand identity.</p>
                     <p class="wow fadeInUp mb-0 pb-0">We offer:</p>
                     <ul style="font-size: 15px; font-weight: 500; line-height: 26px;" class="mb-3">
-                      <li>• Tamper-evident laminates</li>
-                      <li>• Leak-proof spout pouches</li>
-                      <li>• Offset boxes for medical kits</li>
-                      <li>• Eco-friendly and recyclable materials</li>
+                      <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
+                          class="bullet-point-new">⦿</span> Tamper-evident laminates</li>
+                      <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
+                          class="bullet-point-new">⦿</span> Leak-proof spout pouches</li>
+                      <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
+                          class="bullet-point-new">⦿</span> Offset boxes for medical kits
+                      </li>
+                      <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
+                          class="bullet-point-new">⦿</span> Eco-friendly and recyclable
+                        materials</li>
                     </ul>
                     <p class="wow fadeInUp">Custom printing options also help build trust with the end-user by clearly
                       displaying information such as expiry dates, usage instructions, and safety certifications.</p>

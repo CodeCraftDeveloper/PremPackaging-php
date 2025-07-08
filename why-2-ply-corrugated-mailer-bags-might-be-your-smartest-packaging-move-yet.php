@@ -26,6 +26,14 @@
         h4 {
             color: #14254C;
         }
+
+        .bullet-point-new {
+            color: #14254C;
+        }
+
+        b {
+            color: #14254C;
+        }
     </style>
 </head>
 
@@ -54,9 +62,9 @@
                                         <p class="wow fadeInUp">When it comes to choosing the right packaging solution
                                             for your business, strength, cost-efficiency, and sustainability often top
                                             the list. But what if one product could deliver all three and more? Enter
-                                            the <b><a href="https://prempackaging.com/2-ply-corrugated-mailer-bags"
-                                                    target="_blank" style="color: black;">2 ply corrugated
-                                                    mailer bag</a></b>
+                                            the <a href="https://prempackaging.com/2-ply-corrugated-mailer-bags"
+                                                target="_blank" style="color: black;"><b>2 ply corrugated
+                                                    mailer bag</b></a>
                                             — a rising star in modern packaging that’s
                                             both surprising and smart.</p>
                                         <p class="wow fadeInUp">At Prem Industries India Limited, we constantly innovate

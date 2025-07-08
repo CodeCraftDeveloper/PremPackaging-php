@@ -62,8 +62,8 @@
                     <p class="wow fadeInUp">In the world of modern packaging, convenience isn’t a luxury—it’s a
                       necessity. As e-commerce, retail, and industrial sectors expand, the demand for packaging that’s
                       not only secure but also user-friendly has surged. One innovation making waves in this space is
-                      PackPro™ <b><a href="https://prempackaging.com/packpro-carry-handle-tape" target="_blank"
-                          style="color: black;">carry handle tape</a></b>—a simple yet powerful solution designed to
+                      PackPro™ <a href="https://prempackaging.com/packpro-carry-handle-tape" target="_blank"
+                        style="color: black;"><b>carry handle tape</b></a>—a simple yet powerful solution designed to
                       ease the burden of lifting heavy packages.</p>
                     <h4 style="font-weight: 600;" class="mb-3">What is Carry Handle Tape?</h4>
                     <p class="wow fadeInUp">Carry handle tape is a specially designed adhesive strip that can be
@@ -72,9 +72,9 @@
                       common challenges—think home appliances, water bottles, bulk food items, and large retail cartons.
                     </p>
                     <h4 style="font-weight: 600;" class="mb-3">Designed for Strength and Durability</h4>
-                    <p class="wow fadeInUp">At Prem Industries India Limited, we offer PackPro™ <b><a
-                          href="https://prempackaging.com/packpro-carry-handle-tape" target="_blank"
-                          style="color: black;">carry handle tape</a></b> that is engineered to hold up to 20 kgs or
+                    <p class="wow fadeInUp">At Prem Industries India Limited, we offer PackPro™ <a
+                        href="https://prempackaging.com/packpro-carry-handle-tape" target="_blank"
+                        style="color: black;"><b>carry handle tape</b></a> that is engineered to hold up to 20 kgs or
                       more. The tape is made from high-strength film with industrial-grade adhesive that bonds securely
                       with a wide range of packaging materials. Once applied, it forms a reliable grip that can handle
                       substantial weight without slipping, tearing, or detaching.</p>
@@ -84,18 +84,26 @@
                     <p class="wow fadeInUp mb-0 pb-0">The benefits of using carry handle tape extend beyond just
                       lifting:</p>
                     <ul style="font-size: 15px; font-weight: 500; line-height: 26px;" class="mb-3">
-                      <li><b>• Improved User Experience:</b> Customers can carry heavy items with ease, reducing strain
+                      <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><b><span
+                            class="bullet-point-new">⦿</span> Improved User
+                          Experience:</b> Customers can carry heavy items with ease, reducing strain
                         and discomfort.</li>
-                      <li><b>• Added Value to Packaging:</b> A small detail that makes a big impression—great for brand
+                      <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><b><span
+                            class="bullet-point-new">⦿</span> Added Value to
+                          Packaging:</b> A small detail that makes a big impression—great for brand
                         image.</li>
-                      <li><b>• Cost-Effective & Scalable:</b> Easy to apply using automated or manual dispensers, making
+                      <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><b><span
+                            class="bullet-point-new">⦿</span> Cost-Effective &
+                          Scalable:</b> Easy to apply using automated or manual dispensers, making
                         it ideal for both small businesses and large-scale operations.</li>
-                      <li><b>• Versatile Applications:</b> Works on cartons, shrink wraps, plastic bottles, paper bags,
+                      <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><b><span
+                            class="bullet-point-new">⦿</span> Versatile Applications:</b>
+                        Works on cartons, shrink wraps, plastic bottles, paper bags,
                         and more.</li>
                     </ul>
                     <h4 style="font-weight: 600;" class="mb-3">Trusted by Leading Brands</h4>
                     <p class="wow fadeInUp">At Prem Industries, we supply carry handle tape under our trusted
-                      <b>PackPro™</b> brand, known for quality and consistency. We’ve partnered with brands across FMCG,
+                      PackPro™ brand, known for quality and consistency. We’ve partnered with brands across FMCG,
                       electronics, and industrial supply chains to offer tape solutions that perform under
                       pressure—literally.
                     </p>

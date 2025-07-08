@@ -80,9 +80,9 @@
                                         <h4 style="font-weight: 600;" class="mb-3">Why the Surge in Demand?</h4>
                                         <h4 style="font-weight: 600;" class="mb-3">1. Shelf Stability Without
                                             Preservatives</h4>
-                                        <p class="wow fadeInUp">One of the main reasons <b><a
-                                                    href="https://prempackaging.com/retort-packaging" target="_blank"
-                                                    style="color: black;">retort packaging</a></b> is
+                                        <p class="wow fadeInUp">One of the main reasons <a
+                                                href="https://prempackaging.com/retort-packaging" target="_blank"
+                                                style="color: black;"><b>retort packaging</b></a> is
                                             preferred
                                             today is its ability to preserve food naturally. Through heat sterilization,
                                             it eliminates harmful microorganisms without needing artificial

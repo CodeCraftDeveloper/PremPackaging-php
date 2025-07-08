@@ -26,6 +26,14 @@
     h4 {
       color: #14254C;
     }
+
+    .bullet-point-new {
+      color: #14254C;
+    }
+
+    b {
+      color: #14254C;
+    }
   </style>
 </head>
 
