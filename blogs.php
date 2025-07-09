@@ -119,6 +119,29 @@
       <div class="row">
         <div class="col-md-7 pb-5">
           <div class="row row-cols-1 row-cols-md-2 g-4">
+            <!-- Blog 12 -->
+            <div class="col mt-4 p-0 pr-1" data-aos="fade-up" data-aos-delay="100">
+              <div class="card h-100 d-flex flex-column shadow-sm">
+                <a href="choosing-the-right-label-exploring-our-rollabel-label-solutions.php"
+                  style="text-decoration: none; color: black;">
+                  <img src="img/blog/cards/choosing-the-right-label-exploring-our-rollabel-label-solutions.jpg"
+                    class="card-img-top" alt="Choosing the Right Label: Exploring Our Rollabel™ Label Solutions">
+                  <div class="card-body flex-grow-1">
+                    <b style="font-size: 18px;">
+                      Choosing the Right Label: Exploring Our Rollabel™ Label Solutions
+                    </b>
+                    <br>
+                    <small class="text-muted">Published On: <b>8th July 2025</b></small>
+                    <p class="card-text mt-2">In the world of packaging and product identification, the importance of
+                      the right label is often underestimated. Labels ... <b class="text-danger">Read&nbsp;More...</b>
+                    </p>
+                  </div>
+                </a>
+                <!-- <div class="card-footer mt-auto">
+                    <small class="text-muted">23rd May 2025</small>
+                  </div> -->
+              </div>
+            </div>
             <!-- Blog 11 -->
             <div class="col mt-4 p-0 pr-1" data-aos="fade-up" data-aos-delay="100">
               <div class="card h-100 d-flex flex-column shadow-sm">
@@ -131,7 +154,7 @@
                       Why Retort Packaging is Gaining Popularity Across Industries
                     </b>
                     <br>
-                    <small class="text-muted">Published On: <b>8th July 2025</b></small>
+                    <small class="text-muted">Published On: <b>4th July 2025</b></small>
                     <p class="card-text mt-2">In today’s time, convenience and shelf life are two factors that drive
                       packaging innovation. One such innovation... <b class="text-danger">Read&nbsp;More...</b></p>
                   </div>
@@ -380,6 +403,26 @@
             </h3>
             <!-- Scrollable popular blogs container -->
             <div class="row pt-3 pb-3" style="max-height: 650px; overflow-y: auto;">
+              <div class="col-md-12">
+                <a href="choosing-the-right-label-exploring-our-rollabel-label-solutions.php"
+                  style="text-decoration: none; color: black;">
+                  <div class="card mb-3 shadow-sm" style="max-width: 540px;">
+                    <div class="row g-0">
+                      <div class="col-md-4 d-flex align-items-center justify-content-center">
+                        <img src="img/blog/popular/12.jpg" class="img-fluid rounded h-100 w-100 p-1"
+                          alt="Choosing the Right Label: Exploring Our Rollabel™ Label Solutions">
+                      </div>
+                      <div class="col-md-8 d-flex align-items-center">
+                        <div class="card-body p-0 w-100">
+                          <h5 class="card-title m-0 p-2" style="font-size: 15px;">Choosing the Right Label: Exploring
+                            Our Rollabel™ Label Solutions </h5>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </a>
+              </div>
+
               <div class="col-md-12">
                 <a href="why-retort-packaging-is-gaining-popularity-across-industries.php"
                   style="text-decoration: none; color: black;">
