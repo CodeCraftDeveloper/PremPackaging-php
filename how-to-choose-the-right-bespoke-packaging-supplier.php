@@ -67,7 +67,7 @@
                     <p class="wow fadeInUp">If you are searching for the <a href="https://prempackaging.com/"
                         style="color: black;" target="_blank"><b>best packaging company in India</b></a>, this guide
                       will help you make an informed decision. Prem Industries India Limited, a leader in the packaging
-                      industry since 1976, has been setting benchmarks in quality, innovation, and customer service.
+                      industry since 1977, has been setting benchmarks in quality, innovation, and customer service.
                       Here’s what you need to consider when selecting a bespoke packaging supplier.</p>
                     <h4 style="font-weight: 600;">1. Understand Your Packaging Needs</h4>
                     <p class="wow fadeInUp">Before selecting a supplier, it’s crucial to identify your specific
