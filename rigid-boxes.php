@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description"
-        content="Elevate your brand with Prem Industries India Limited's Rigid Boxes. Crafted for elite packaging solutions. Discover Rigid Boxes today.">
+        content="Elevate your brand with Prem Industries India Limited's Rigid Boxes. Crafted by a top rigid boxes manufacturer for elite packaging solutions. Discover Rigid Boxes today.">
     <meta property="og:title" content="Rigid Boxes Manufacturer | Prem Industries India Limited">
     <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
     <!-- Google tag (gtag.js) -->
