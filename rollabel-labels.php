@@ -74,7 +74,7 @@
             <div class="body-content">
               <p class="wow fadeInUp">At Prem Industries India Limited, we proudly present Rollabel™ Labels—your
                 dependable solution for premium labeling that delivers both performance and presentation. As a leading
-                Rollabel™ Labels manufacturer, we offer a versatile range of high-quality labels designed to meet the
+                Rollabel™ Label manufacturer, we offer a versatile range of high-quality labels designed to meet the
                 unique demands of diverse industries.</p>
               <p class="wow fadeInUp">Rollabel™ Labels are the perfect blend of innovation, durability, and branding.
                 With a focus on quality and consistency, our labels are used across food and beverage, pharmaceuticals,
@@ -109,7 +109,7 @@
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
                     class="bullet-point-new">⦿</span> Flexible custom options to suit your product and brand. </li>
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
-                    class="bullet-point-new">⦿</span> Manufactured by a reliable and experienced Rollabel™ Labels
+                    class="bullet-point-new">⦿</span> Manufactured by a reliable and experienced Rollabel™ Label
                   manufacturer. </li>
               </ul>
               <p class="wow fadeInUp">Let your labels do more than stick—let them speak. With Rollabel™ Labels from Prem

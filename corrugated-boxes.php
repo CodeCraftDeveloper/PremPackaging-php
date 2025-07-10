@@ -71,7 +71,7 @@
               <p class="wow fadeInUp">Corrugated boxes are essential packaging solutions used across industries for
                 their durability, versatility, and eco-friendliness. These boxes are made with corrugated fiberboard,
                 which provides excellent cushioning, strength, and protection for a wide range of products during
-                transit and storage. We are the largest Corrugated Boxes manufacturer in India, we specialize in
+                transit and storage. We are the largest Corrugated Box manufacturer in India, we specialize in
                 delivering the highest-quality Corrugated box tailored to meet your unique packaging needs.</p>
               <h4 style="font-weight: 600;">We Box the Best, So It Unboxes the Best</h4>
               <p class="wow fadeInUp">What makes corrugated packaging the best? We believe it’s a combination of

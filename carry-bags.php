@@ -5,14 +5,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description"
-    content="As a leading carry bags manufacturer, Prem Industries offers durable, stylish bags for retail, groceries & events. Contact us today for quality packaging solutions.">
-  <meta property="og:title" content="Carry Bags Manufacturer | Prem Industries India Limited">
+    content="As a leading carry bag manufacturer, Prem Industries offers durable, stylish bags for retail, groceries & events. Contact us today for quality packaging solutions.">
+  <meta property="og:title" content="Carry Bag Manufacturer | Prem Industries India Limited">
   <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script>
   <script>window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
 
-  <title>Carry Bags Manufacturer</title>
+  <title>Carry Bag Manufacturer</title>
   <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
   <!-- Bootstrap core css -->
   <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -60,7 +60,7 @@
         <div class="col-md-12" style="text-align: justify">
           <div class="body-content">
             <div class="body-content">
-              <p class="wow fadeInUp">Carry Bags are an excellent packaging solution that combines convenience,
+              <p class="wow fadeInUp">Carry bags are an excellent packaging solution that combines convenience,
                 durability, and sustainability. These bags are designed to make carrying items effortless while offering
                 a sleek and professional look. Whether used for retail, grocery shopping, or corporate events, our Carry
                 Bags provide a premium experience with their sturdy design and eco-friendly material options.</p>
@@ -103,7 +103,7 @@
                 </li>
               </ul>
               <h4 style="font-weight: 600; color: #14254C;">Why Choose Our Carry Bags?</h4>
-              <p class="wow fadeInUp">We are known for being the best carry bags manufacturer. At Prem Industries India
+              <p class="wow fadeInUp">We are known for being the best carry bag manufacturer. At Prem Industries India
                 Limited, we specialize in providing high-quality Carry Bags tailored to meet your packaging needs.
                 Here’s why our bags stand out:</p>
               <ul class="mt-0 mb-3">
@@ -126,7 +126,7 @@
               </ul>
               <h4 style="font-weight: 600; color: #14254C;">Order Your Carry Bags Today!</h4>
               <p class="wow fadeInUp">Upgrade your packaging with our premium Carry Bags. Whether you need eco-friendly
-                options, durable designs, or customized solutions, our expertise as a leading carry bags manufacturer
+                options, durable designs, or customized solutions, our expertise as a leading carry bag manufacturer
                 ensures you get the best. Contact us today to place your order and take your packaging to the next
                 level!</p>
             </div>

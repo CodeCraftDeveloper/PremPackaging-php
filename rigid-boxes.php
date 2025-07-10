@@ -5,14 +5,14 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description"
-        content="Elevate your brand with Prem Industries India Limited's Rigid Boxes. Crafted by a top rigid boxes manufacturer for elite packaging solutions. Discover Rigid Boxes today.">
-    <meta property="og:title" content="Rigid Boxes Manufacturer | Prem Industries India Limited">
+        content="Elevate your brand with Prem Industries India Limited's Rigid Boxes. Crafted by a top rigid box manufacturer for elite packaging solutions. Discover Rigid Boxes today.">
+    <meta property="og:title" content="Rigid Box Manufacturer | Prem Industries India Limited">
     <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script>
     <script>window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
 
-    <title>Rigid Boxes Manufacturer | Prem Industries India Limited</title>
+    <title>Rigid Box Manufacturer | Prem Industries India Limited</title>
     <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
     <!-- Bootstrap core css -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -75,7 +75,7 @@
                                 our
                                 custom-designed Rigid Boxes—crafted to reflect prestige, durability, and brand value. As
                                 a trusted Rigid
-                                Boxes manufacturer, we have been manufacturing and supplying high-end rigid boxes for
+                                Box manufacturer, we have been manufacturing and supplying high-end rigid boxes for
                                 decades, serving a
                                 niche clientele that values sophistication and quality.</p>
                             <p class="wow fadeInUp">Our rigid boxes are more than just containers—they are a statement
@@ -107,7 +107,7 @@
                             <h4 style="font-weight: 600; color: #14254C;">Why Choose us for Rigid Boxes?</h4>
                             <ul class="mt-0 mb-3">
                                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
-                                        class="bullet-point-new">⦿</span> Leading Rigid Boxes manufacturer in India.
+                                        class="bullet-point-new">⦿</span> Leading Rigid Box manufacturer in India.
                                 </li>
                                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
                                         class="bullet-point-new">⦿</span> Decades of experience in premium box
