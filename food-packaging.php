@@ -77,10 +77,11 @@
             <p class="wow fadeInUp">Aroma, hygiene, flavours, freshness and much more when it comes to food packaging,
               there is a lot to deliver. We understand these needs and have ‘mouth-watering’ solutions. Our experience
               in this sector has given us the ability to create the perfect packaging for you. From chips to drinks to
-              fresh produce our packaging will always make you say ‘I’m Lovin it!’ Prem Industries offers more than just
+              fresh produce our packaging will always make you say ‘I’m Lovin it!’ Prem Industries India Limited offers
+              more than just
               packaging; it offers an experience your customer can’t forget.</p>
 
-            <p>Being the best food packaging manufacturer and company in India, we aim to provide you with perfect
+            <p>Being the best food packaging manufacturer in India, we aim to provide you with perfect
               protection by offering
               packaging that takes care of the following criteria:</p>
 

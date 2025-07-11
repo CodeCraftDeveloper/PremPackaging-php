@@ -68,23 +68,23 @@
                   <a class="dropdown-item" href="rollabel-labels.php">Rollabel<sup>™</sup> Labels</a>
                   <a class="dropdown-item" href="labels-with-multiups.php">Rollabel<sup>™</sup> Labels with Multiups</a>
                   <a class="dropdown-item" href="packpro-honeycomb-food-wrapping-paper.php">PackPro<sup>™</sup>
-                    HoneyComb <br>Food Wrapping Paper</a>
+                    HoneyComb <br>Food Wrapping Papers</a>
                   <a class="dropdown-item" href="packpro-carry-handle-tape.php">PackPro<sup>™</sup> Carry Handle
-                    Tape</a>
+                    Tapes</a>
                   <a class="dropdown-item" href="peel-and-seal-bags.php">Peel and Seal Bags</a>
-                  <a class="dropdown-item" href="void-tape.php">Void Tape</a>
-                  <a class="dropdown-item" href="security-bag.php">Security Bag</a>
+                  <a class="dropdown-item" href="void-tape.php">Void Tapes</a>
+                  <a class="dropdown-item" href="security-bag.php">Security Bags</a>
                 </div>
                 <div class="col-sm-4 col-lg-4">
-                  <a class="dropdown-item" href="returnable-poly-mailer.php">Returnable Poly Mailer</a>
-                  <a class="dropdown-item" href="m-folder.php">M Folder</a>
+                  <a class="dropdown-item" href="returnable-poly-mailer.php">Returnable Poly Mailers</a>
+                  <a class="dropdown-item" href="m-folder.php">M Folders</a>
                   <a class="dropdown-item" href="packpro-honeycomb-wrapper.php">PackPro<sup>™</sup> HoneyComb
-                    <br>Wrapper</a>
-                  <a class="dropdown-item" href="paper-bubble-bag.php">Paper Bubble Bag</a>
-                  <a class="dropdown-item" href="bubble-pouch.php">Bubble Pouch</a>
+                    <br>Wrappers</a>
+                  <a class="dropdown-item" href="paper-bubble-bag.php">Paper Bubble Bags</a>
+                  <a class="dropdown-item" href="bubble-pouch.php">Bubble Pouches</a>
                   <a class="dropdown-item" href="heattechbox.php">HeatTechBox</a>
-                  <a class="dropdown-item" href="variable-depth-box.php">Variable Depth Box</a>
-                  <a class="dropdown-item" href="buy-back-box.php">Buy Back Box</a>
+                  <a class="dropdown-item" href="variable-depth-box.php">Variable Depth Boxes</a>
+                  <a class="dropdown-item" href="buy-back-box.php">Buy Back Boxes</a>
                 </div>
               </div>
             </div>

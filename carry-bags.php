@@ -127,8 +127,7 @@
               <h4 style="font-weight: 600; color: #14254C;">Order Your Carry Bags Today!</h4>
               <p class="wow fadeInUp">Upgrade your packaging with our premium Carry Bags. Whether you need eco-friendly
                 options, durable designs, or customized solutions, our expertise as a leading carry bag manufacturer
-                ensures you get the best. Contact us today to place your order and take your packaging to the next
-                level!</p>
+                ensures you get the best. Contact us today.</p>
             </div>
           </div>
         </div>
