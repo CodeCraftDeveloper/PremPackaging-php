@@ -121,7 +121,7 @@
         <div class="col-md-6 p-1">
           <a class="gallery-col" href="img/security-bag/1.png" data-fancybox="images">
             <div class="gallery-box">
-              <img src="img/security-bag/1.png" alt="Security Bag">
+              <img src="img/security-bag/1.png" alt="Prem Industries India Limited">
               <!-- <h4>3/5/7 Ply Corrugated Box</h4> -->
             </div>
           </a>
