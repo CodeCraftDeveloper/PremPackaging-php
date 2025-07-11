@@ -5,14 +5,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description"
-    content="Discover customizable peel & seal bags from Prem Packaging – strong like boxes, foldable like pouches, with barcode & secure seal. Ideal for modern packaging needs.">
-  <meta property="og:title" content="Premium Peel & Seal Bags for Secure Packaging | Prem Packaging ">
+    content="Discover customizable peel & seal bags from Prem Industries India Limited – strong like boxes, foldable like pouches, with barcode & secure seal. Ideal for modern packaging needs.">
+  <meta property="og:title" content="Premium Peel & Seal Bags for Secure Packaging | Prem Industries India Limited">
   <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script>
   <script>window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
 
-  <title>Peel & Seal Bags Manufacturer</title>
+  <title>Peel & Seal Bags Manufacturer | Prem Industries India Limited</title>
   <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
   <!-- Bootstrap core css -->
   <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -90,6 +90,9 @@
                 customizable. You can add your brand logo, designs, and a unique barcode, making them not only
                 functional but also an effective branding tool. Whether you prefer plain white or vibrant printed
                 finishes, our customization options ensure your packaging reflects your business identity.</p>
+              <p class="wow fadeInUp">Additional features include a Side Gusset and Bottom Gusset for added storage
+                capacity and flexibility, and a self-adhesive strip that provides effortless sealing without additional
+                equipment.</p>
               <p class="wow fadeInUp">These bags are a popular choice across e-commerce, retail, courier, and logistics
                 industries, offering a lightweight yet sturdy solution that helps reduce shipping costs without
                 sacrificing performance.</p>
@@ -101,6 +104,10 @@
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
                     class="bullet-point-new">⦿</span> Strong peel-and-seal adhesive for tamper-proof closure.</li>
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
+                    class="bullet-point-new">⦿</span> Side Gusset and Bottom Gusset for expanded volume.</li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
+                    class="bullet-point-new">⦿</span> Self-Adhesive Strip for quick, tool-free sealing.</li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
                     class="bullet-point-new">⦿</span> Customizable design with logo, colours, and barcode options.</li>
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
                     class="bullet-point-new">⦿</span> Lightweight, durable, and easy to handle.</li>
@@ -110,7 +117,7 @@
               <p class="wow fadeInUp">As a leading peel and seal bag manufacturer, we prioritize quality, customization,
                 and customer satisfaction. Our bags are produced with precision and care, ensuring they meet the highest
                 standards of packaging efficiency and security.</p>
-              <p class="wow fadeInUp">Choose Prem Industries India Limited—your reliable peel and seal bag
+              <p class="wow fadeInUp">Choose Prem Industries India Limited — your reliable peel and seal bag
                 manufacturer—for packaging solutions that protect, promote, and perform.</p>
             </div>
           </div>

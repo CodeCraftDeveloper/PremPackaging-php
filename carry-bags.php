@@ -5,14 +5,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description"
-    content="As a leading carry bag manufacturer, Prem Industries offers durable, stylish bags for retail, groceries & events. Contact us today for quality packaging solutions.">
+    content="As a leading carry bag manufacturer, Prem Industries India Limited offers durable, stylish bags for retail, groceries & events. Contact us today for quality packaging solutions.">
   <meta property="og:title" content="Carry Bag Manufacturer | Prem Industries India Limited">
   <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script>
   <script>window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
 
-  <title>Carry Bag Manufacturer</title>
+  <title>Carry Bag Manufacturer | Prem Industries India Limited</title>
   <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
   <!-- Bootstrap core css -->
   <link href="css/bootstrap.min.css" rel="stylesheet">

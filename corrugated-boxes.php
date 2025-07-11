@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description"
     content="Find durable and customizable corrugated box manufacturer at Prem Industries India Limited. Elevate your packaging with our premium corrugated box options.">
-  <meta property="og:title" content="Corrugated Box Manufacturer | Prem Packaging">
+  <meta property="og:title" content="Corrugated Box Manufacturer | Prem Industries India Limited">
   <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script>

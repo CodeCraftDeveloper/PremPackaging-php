@@ -12,7 +12,7 @@
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script>
   <script>window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
 
-  <title>Bubble Pouch Manufacturer</title>
+  <title>Bubble Pouch Manufacturer | Prem Industries India Limited</title>
   <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
   <!-- Bootstrap core css -->
   <link href="css/bootstrap.min.css" rel="stylesheet">

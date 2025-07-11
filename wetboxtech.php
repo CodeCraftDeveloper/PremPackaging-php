@@ -5,14 +5,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description"
-    content="Discover WetBox Tech™: Innovative, recyclable packaging solutions for wet and humid environments, ensuring sustainability and durability.">
-  <meta property="og:title" content="WetBox Tech™ - Recyclable Packaging for Wet & Humid Environments">
+    content="Discover WetBoxTech™: Innovative, recyclable packaging solutions for wet and humid environments, ensuring sustainability and durability.">
+  <meta property="og:title" content="WetBoxTech™ - Recyclable Packaging for Wet & Humid Environments">
   <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script>
   <script>window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
 
-  <title>WetBoxTech™</title>
+  <title>WetBoxTech | Prem Industries India Limited</title>
   <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
   <!-- Bootstrap core css -->
   <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -108,7 +108,7 @@
                 WetBoxTech™ ensures your packaging holds up under pressure—literally. It’s not just a box; it’s a smart,
                 sustainable packaging solution that keeps your operations efficient and your customers satisfied.
               </p>
-              <p class="wow fadeInUp">Choose Prem Industries India Limited—a trusted WetBoxTech™ manufacturer—and lead
+              <p class="wow fadeInUp">Choose Prem Industries India Limited — a trusted WetBoxTech™ manufacturer—and lead
                 the way in moisture-resistant, eco-friendly packaging. Protect your products. Preserve the planet.</p>
             </div>
           </div>
