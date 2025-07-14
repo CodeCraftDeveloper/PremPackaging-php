@@ -126,6 +126,30 @@
       <div class="row">
         <div class="col-md-7 pb-5">
           <div class="row row-cols-1 row-cols-md-2 g-4">
+            <!-- Blog 14 -->
+            <div class="col mt-4 p-0 pr-1" data-aos="fade-up" data-aos-delay="100">
+              <div class="card h-100 d-flex flex-column shadow-sm">
+                <a href="why-choosing-the-right-food-packaging-manufacturer-matters.php"
+                  style="text-decoration: none; color: black;">
+                  <img src="img/blog/cards/why-choosing-the-right-food-packaging-manufacturer-matters.jpg"
+                    class="card-img-top" alt="Why Choosing the Right Food Packaging Manufacturer Matters">
+                  <div class="card-body flex-grow-1">
+                    <b style="font-size: 18px;">
+                      Why Choosing the Right Food Packaging Manufacturer Matters
+                    </b>
+                    <br>
+                    <small class="text-muted">Published On: <b>14th July 2025</b></small>
+                    <p class="card-text mt-2">When it comes to food, packaging does more than just wrap a product—it
+                      preserves freshness, ensures safety, and communicates... <b
+                        class="text-danger">Read&nbsp;More...</b>
+                    </p>
+                  </div>
+                </a>
+                <!-- <div class="card-footer mt-auto">
+                    <small class="text-muted">23rd May 2025</small>
+                  </div> -->
+              </div>
+            </div>
             <!-- Blog 13 -->
             <div class="col mt-4 p-0 pr-1" data-aos="fade-up" data-aos-delay="100">
               <div class="card h-100 d-flex flex-column shadow-sm">
