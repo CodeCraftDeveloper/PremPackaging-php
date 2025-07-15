@@ -5,14 +5,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description"
-    content="Discover our range of FMCG packaging solutions designed to meet your needs. Prem Industries India Limited offers high-quality packaging for your products.">
+    content="Discover our range of FMCG packaging solutions designed to meet your needs. Prem Industries India Limited is a trusted FMCG packaging manufacturer offering high-quality packaging for your products.">
   <meta property="og:title" content="FMCG Packaging Manufacturer | Prem Industries India Limited">
   <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script>
   <script>window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
 
-  <title>FMCG Packaging Manufacturer</title>
+  <title>FMCG Packaging Manufacturer | Prem Industries India Limited</title>
   <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
   <!-- Bootstrap core css -->
   <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -20,6 +20,19 @@
   <link href="css/main.css" rel="stylesheet">
   <link href="css/media.css" rel="stylesheet">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+  <style>
+    h4 {
+      color: #14254C;
+    }
+
+    .bullet-point-new {
+      color: #14254C;
+    }
+
+    b {
+      color: #14254C;
+    }
+  </style>
 </head>
 
 <body>
@@ -59,15 +72,16 @@
         </div>
       </div>
       <div class="row mt-3">
-        <div class="col-md-6 order2 mb-3">
+        <div class="col-md-6 order2 mb-3" style="text-align: justify">
           <div class="body-content">
             <p class="wow fadeInUp">Fast-Moving Consumer Goods (FMCG) products are essential, everyday items that
               include food, beverages, personal care products, and other consumables with a high sales frequency. To
               ensure these goods reach consumers in pristine condition while meeting industry standards, superior
               packaging is critical. </p>
             <h4 style="font-weight: 600;">Why Choose Us for FMCG Packaging?</h4>
-            <p class="wow fadeInUp">At Prem Industries India Limited, we are committed to delivering premium,
-              innovative, and durable packaging solutions that protect FMCG products while enhancing their shelf appeal.
+            <p class="wow fadeInUp">At Prem Industries India Limited, a leading FMCG packaging manufacturer, we are
+              committed to delivering premium, innovative, and durable packaging solutions that protect FMCG products
+              while enhancing their shelf appeal.
               Our expertise lies in offering packaging that ensures product safety, maintains freshness, and aligns with
               global quality standards. Whether you are in the food, beverage, or personal care, we provide customized
               solutions that suit your specific needs. </p>
@@ -76,22 +90,23 @@
               packaging industry. We offer printing inks and coatings approved by some of the leading FMCG companies.
               Our range of printing solutions includes:</p>
             <ul class="mb-3">
-              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
                 Water-based or solvent-based printing inks</li>
-              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i> UV
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
+                UV
                 printing ink coatings</li>
-              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
                 Metallic inks</li>
             </ul>
             <p>Our packaging follows industry-specific packaging specifications for FMCG products in terms of toxicology
               and quality.</p>
             <h4 style="font-weight: 600;">Partner with Prem Industries India Limited</h4>
-            <p class="wow fadeInUp">For businesses in the FMCG sector, we are your trusted partner for superior FMCG
-              packaging manufacturer. With cutting-edge technology, sustainable practices, and a focus on excellence, we
+            <p class="wow fadeInUp">For businesses in the FMCG sector, we are your trusted FMCG packaging manufacturer.
+              With cutting-edge technology, sustainable practices, and a focus on excellence, we
               help you elevate your brand and deliver exceptional value to your customers.</p>
           </div>
         </div>
-        <div class="col-md-6 order1">
+        <div class="col-md-6 order1 mt-5">
           <video loop="loop" autoplay="" playsinline="" muted="" class="packaging-video" alt="FMCG Packaging">
             <source src="img/hero/packaging-toboco.mp4" type="video/mp4">
           </video>
