@@ -159,7 +159,7 @@
   <!-- PDF Modal Viewer -->
   <div id="pdfModal">
     <div style="position:absolute; top:10px; right:20px; z-index:10000;">
-      <button onclick="closePDF()" style="padding:6px 12px; font-size:16px;">Close</button>
+      <button onclick="closePDF()" style="padding:6px 12px; font-size:16px;">✘ Close</button>
     </div>
     <div id="pdfViewerWrapper">
       <div id="pdf-pages"></div>
@@ -180,8 +180,18 @@
       document.body.style.overflow = 'hidden'; // Disable background scroll
       container.innerHTML = ''; // Clear previous
 
+      // Show loading message
+      const loadingDiv = document.createElement('div');
+      loadingDiv.id = 'pdf-loading-message';
+      loadingDiv.style.textAlign = 'center';
+      loadingDiv.style.fontSize = '22px';
+      loadingDiv.style.margin = '40px 0';
+      loadingDiv.textContent = 'Loading EPR Certificate...';
+      container.appendChild(loadingDiv);
+
       pdfjsLib.getDocument(url).promise.then(function (pdf) {
         const totalPages = pdf.numPages;
+        let firstPageRendered = false;
 
         for (let pageNum = 1; pageNum <= totalPages; pageNum++) {
           pdf.getPage(pageNum).then(function (page) {
@@ -191,11 +201,23 @@
             canvas.width = viewport.width;
             container.appendChild(canvas);
 
+            // Prevent right-click context menu on canvas
+            canvas.addEventListener('contextmenu', function (e) {
+              e.preventDefault();
+            });
+
             const renderContext = {
               canvasContext: canvas.getContext('2d'),
               viewport: viewport
             };
-            page.render(renderContext);
+            page.render(renderContext).promise.then(function () {
+              // Remove loading message after first page is rendered
+              if (!firstPageRendered) {
+                firstPageRendered = true;
+                const loadingMsg = document.getElementById('pdf-loading-message');
+                if (loadingMsg) loadingMsg.remove();
+              }
+            });
           });
         }
       });
