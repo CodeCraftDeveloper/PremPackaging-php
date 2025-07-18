@@ -18,7 +18,7 @@
               <div class="row">
                 <div class="col-sm-6 col-lg-6 border-right">
                   <h6>What we Serve!</h6>
-                  <a class="dropdown-item" href="E-commerce-packaging.php">E-Commerce Packaging </a>
+                  <a class="dropdown-item" href="E-commerce-packaging.php">Ecommerce Packaging </a>
                   <a class="dropdown-item" href="E-com-paper-bags.php">E-com Paper Bags </a>
                   <a class="dropdown-item" href="food-packaging.php">Food Packaging</a>
                   <a class="dropdown-item" href="luxury-packaging.php">Luxury Packaging</a>

@@ -75,12 +75,12 @@
               in protecting goods during transit, optimizing supply chain efficiency, and enhancing customer experience.
             </p>
             <h4 style="font-weight: 600;">Ecommerce Packaging Solutions That Click</h4>
-            <p class="wow fadeInUp">At Prem Industries India Limited, a trusted Ecommerce Packaging Manufacturer, we
-              offer custom-made Ecommerce packaging solutions that are sustainable, durable, and cost-effective. We
+            <p class="wow fadeInUp">At Prem Industries India Limited, a trusted ecommerce packaging manufacturer, we
+              offer custom-made ecommerce packaging solutions that are sustainable, durable, and cost-effective. We
               specialize in creating packaging that ensures your products are delivered in perfect condition while
               minimizing environmental impact. Our expertise lies in balancing functionality with aesthetics, making
               your brand stand out in the competitive online market.
-              <br><br>Key Features of Our Ecommerce Packaging:
+              <br><br>Key Features of Our ecommerce Packaging:
             </p>
             <ul class="mb-3">
               <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
@@ -96,7 +96,7 @@
             </ul>
             <h4 style="font-weight: 600;">Trust us to Help you Get the Best Ecommerce Packaging</h4>
             <p class="wow fadeInUp">With over four decades of experience in packaging innovations, as a leading
-              Ecommerce Packaging Manufacturer, we provide solutions that not only protect your products but also
+              ecommerce packaging manufacturer, we provide solutions that not only protect your products but also
               connect with your consumers. Our premium e-commerce packaging
               options are tailored to create a lasting impression, elevating your brand's identity while meeting your
               operational needs. Let us empower your online business with packaging that delivers on quality,
