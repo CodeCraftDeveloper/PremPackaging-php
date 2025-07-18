@@ -5,8 +5,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description"
-    content="Leading PackPro™ Tapes manufacturer offering high-adhesion, durable tapes for secure packaging. Choose us for innovative, reliable, and custom tape solutions.">
-  <meta property="og:title" content="PackPro™ Tapes Manufacturer | Prem Industries India Limited">
+    content="Leading PackPro™ tapes manufacturer offering high-adhesion, durable tapes for secure packaging. Choose us for innovative, reliable, and custom tape solutions.">
+  <meta property="og:title" content="PackPro™ tapes Manufacturer | Prem Industries India Limited">
   <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script>
@@ -71,60 +71,60 @@
         <div class="col-md-12" style="text-align: justify">
           <div class="body-content">
             <div class="body-content">
-              <p class="wow fadeInUp">At Prem Industries India Limited, we bring you PackPro™ Tapes—a smart and secure
+              <p class="wow fadeInUp">At Prem Industries India Limited, we bring you PackPro™ tapes—a smart and secure
                 way to seal, protect, and brand your packages. As a trusted PackPro™ Tape manufacturer, we offer a wide
                 range of high-quality tapes designed to meet the diverse needs of modern packaging and logistics.</p>
-              <p class="wow fadeInUp">Whether you’re shipping locally or globally, our PackPro™ Tapes are engineered to
+              <p class="wow fadeInUp">Whether you’re shipping locally or globally, our PackPro™ tapes are engineered to
                 withstand all weather conditions and transit environments. These tapes not only secure your cartons and
                 packages effectively but also provide an excellent opportunity to enhance your brand visibility with
                 customized logo printing and designs.</p>
               <h4 style="font-weight: 600; color: #14254C;">Our product range includes:</h4>
               <ul class="mt-0 mb-3">
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
-                    class="bullet-point-new">⦿</span> BOPP Tapes
+                    class="bullet-point-new">⦿</span> BOPP tapes
                 </li>
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
-                    class="bullet-point-new">⦿</span> Paper Tapes </li>
+                    class="bullet-point-new">⦿</span> Paper tapes </li>
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
-                    class="bullet-point-new">⦿</span> Specialty Tapes </li>
+                    class="bullet-point-new">⦿</span> Specialty tapes </li>
               </ul>
 
-              <h4 style="font-weight: 600; color: #14254C;">Our specialty tape category features:</h4>
+              <h4 style="font-weight: 600; color: #14254C;">Our specialty tapes category features:</h4>
               <ul class="mt-0 mb-3">
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
-                    class="bullet-point-new">⦿</span> Glass Cloth Tape
+                    class="bullet-point-new">⦿</span> Glass Cloth tapes
                 </li>
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
-                    class="bullet-point-new">⦿</span> Masking Tape </li>
+                    class="bullet-point-new">⦿</span> Masking tapes </li>
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
-                    class="bullet-point-new">⦿</span> APEO-Free Tape </li>
+                    class="bullet-point-new">⦿</span> APEO-Free tapes </li>
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
-                    class="bullet-point-new">⦿</span> No-Mark Polyester Tape </li>
+                    class="bullet-point-new">⦿</span> No-Mark Polyester tapes </li>
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
-                    class="bullet-point-new">⦿</span> Cross-Filament Tape </li>
+                    class="bullet-point-new">⦿</span> Cross-Filament tapes </li>
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
-                    class="bullet-point-new">⦿</span> Aluminium Foil Tape </li>
+                    class="bullet-point-new">⦿</span> Aluminium Foil tapes </li>
               </ul>
-              <p class="wow fadeInUp">Every tape is crafted with strong adhesives and durable materials to ensure
+              <p class="wow fadeInUp">Every tapes are crafted with strong adhesives and durable materials to ensure
                 tamper-proof sealing, easy application, and clean removal when needed. Whether you’re in retail,
-                e-commerce, warehousing, or manufacturing, PackPro™ Tapes deliver reliable performance and a polished
+                e-commerce, warehousing, or manufacturing, PackPro™ tapes deliver reliable performance and a polished
                 finish to your packaging.</p>
-              <p class="wow fadeInUp">One of the standout features of PackPro™ Tapes is the ability to customize them
+              <p class="wow fadeInUp">One of the standout features of PackPro™ tapes is the ability to customize them
                 with your business logo, colour scheme, or promotional message—giving your packaging a unique,
                 professional, and branded appearance.</p>
 
-              <h4 style="font-weight: 600; color: #14254C;">Why Choose PackPro™ Tapes?</h4>
+              <h4 style="font-weight: 600; color: #14254C;">Why Choose PackPro™ tapes?</h4>
               <ul class="mt-0 mb-3">
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
                     class="bullet-point-new">⦿</span>
-                  Premium tape quality for strong, secure sealing
+                  Premium tapes quality for strong, secure sealing
                 </li>
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
                     class="bullet-point-new">⦿</span>
                   Works in all climates and storage conditions </li>
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
                     class="bullet-point-new">⦿</span>
-                  Wide variety of tape types for different applications </li>
+                  Wide variety of tapes types for different applications </li>
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
                     class="bullet-point-new">⦿</span>
                   Fully customizable with brand logos and prints </li>
@@ -136,7 +136,8 @@
                   Manufactured with eco-conscious and durable materials </li>
               </ul>
               <p class="wow fadeInUp">Seal with confidence. Ship with identity. Choose Prem Industries India Limited, a
-                leading PackPro™ Tape manufacturer, for packaging solutions that secure your product and strengthen your
+                leading PackPro™ tapes manufacturer, for packaging solutions that secure your product and strengthen
+                your
                 brand.</p>
             </div>
           </div>
