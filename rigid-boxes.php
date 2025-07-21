@@ -5,14 +5,14 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description"
-        content="Elevate your brand with Prem Industries India Limited's Rigid Boxes. Crafted by a top rigid box manufacturer for elite packaging solutions. Discover Rigid Boxes today.">
-    <meta property="og:title" content="Rigid Box Manufacturer | Prem Industries India Limited">
+        content="Elevate your brand with premium rigid boxes from Prem Industries India Limited — a leading rigid box manufacturer delivering elite, high-quality packaging solutions. Explore the difference today.">
+    <meta property="og:title" content="Where Luxury Meets Durability – Trusted Rigid Box Manufacturer">
     <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script>
     <script>window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
 
-    <title>Rigid Box Manufacturer | Prem Industries India Limited</title>
+    <title>Where Luxury Meets Durability – Trusted Rigid Box Manufacturer</title>
     <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
     <!-- Bootstrap core css -->
     <link href="css/bootstrap.min.css" rel="stylesheet">

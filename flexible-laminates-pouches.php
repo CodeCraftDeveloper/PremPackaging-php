@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description"
-    content="Explore our range of versatile flexible laminates pouches for optimal product protection. Elevate your packaging with our premium solutions. Order now.">
+    content="Explore our range of versatile flexible laminates and pouches from a trusted flexible laminate and pouches manufacturer for optimal product protection. Elevate your packaging with our premium solutions. Order now.">
   <meta property="og:title" content="Flexible Laminates & Pouches | Prem Industries India Limited">
   <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
   <!-- Google tag (gtag.js) -->
