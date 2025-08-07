@@ -85,6 +85,7 @@
                   <a class="dropdown-item" href="heattechbox.php">HeatTechBox</a>
                   <a class="dropdown-item" href="variable-depth-box.php">Variable Depth Boxes</a>
                   <a class="dropdown-item" href="buy-back-box.php">Buy Back Boxes</a>
+                  <a class="dropdown-item" href="child-resistant-pouch.php">Child Resistant Pouch</a>
                 </div>
               </div>
             </div>
