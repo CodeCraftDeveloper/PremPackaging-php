@@ -74,8 +74,7 @@
                 <div class="col-md-12" style="text-align: justify">
                     <div class="body-content">
                         <div class="body-content">
-                            <h4 style="font-weight: 600; color: #14254C;">Child-Resistant Pouch – Smart Packaging for
-                                Safer Homes</h4>
+
                             <p class="wow fadeInUp">When safety becomes a priority, packaging must do more than just
                                 hold a product—it must protect. At Prem Industries India Limited, we offer
                                 child-resistant pouches designed to prevent accidental access by children while
