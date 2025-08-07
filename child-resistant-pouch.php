@@ -124,7 +124,7 @@
                                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
                                         class="bullet-point-new">⦿</span> Dietary supplements and gummies</li>
                             </ul>
-                            <h4 style="font-weight: 600; color: #14254C;">Why Prem Industries India Limited?</h4>
+                            <h4 style="font-weight: 600; color: #14254C;">Why Choose Us For Child Resistant Pouch?</h4>
                             <p class="wow fadeInUp">As a leading packaging company in India, Prem Industries India
                                 Limited is known for combining innovation, safety, and quality. We manufacture
                                 high-performance child-resistant pouches that are rigorously tested and certified for

@@ -126,6 +126,30 @@
       <div class="row">
         <div class="col-md-7 pb-5">
           <div class="row row-cols-1 row-cols-md-2 g-4">
+            <!-- Blog 15 -->
+            <div class="col mt-4 p-0 pr-1" data-aos="fade-up" data-aos-delay="100">
+              <div class="card h-100 d-flex flex-column shadow-sm">
+                <a href="why-child-resistant-pouches-are-a-must-for-modern-packaging.php"
+                  style="text-decoration: none; color: black;">
+                  <img src="img/blog/cards/why-child-resistant-pouches-are-a-must-for-modern-packaging.png"
+                    class="card-img-top" alt="Why Child-Resistant Pouches Are a Must for Modern Packaging">
+                  <div class="card-body flex-grow-1">
+                    <b style="font-size: 18px;">
+                      Why Child-Resistant Pouches Are a Must for Modern Packaging
+                    </b>
+                    <br>
+                    <small class="text-muted">Published On: <b>7th August 2025</b></small>
+                    <p class="card-text mt-2">When it comes to child safety, every precaution matters. In today’s world,
+                      where households often store products like medicines,... <b
+                        class="text-danger">Read&nbsp;More...</b>
+                    </p>
+                  </div>
+                </a>
+                <!-- <div class="card-footer mt-auto">
+                    <small class="text-muted">23rd May 2025</small>
+                  </div> -->
+              </div>
+            </div>
             <!-- Blog 14 -->
             <div class="col mt-4 p-0 pr-1" data-aos="fade-up" data-aos-delay="100">
               <div class="card h-100 d-flex flex-column shadow-sm">
@@ -519,6 +543,26 @@
               </div> -->
 
             <div class="col-md-12">
+              <a href="why-child-resistant-pouches-are-a-must-for-modern-packaging.php"
+                style="text-decoration: none; color: black;">
+                <div class="card mb-3 shadow-sm" style="max-width: 540px;">
+                  <div class="row g-0">
+                    <div class="col-md-4 d-flex align-items-center justify-content-center">
+                      <img src="img/blog/popular/15.png" class="img-fluid rounded h-100 w-100 p-1"
+                        alt="Why Child-Resistant Pouches Are a Must for Modern Packaging">
+                    </div>
+                    <div class="col-md-8 d-flex align-items-center">
+                      <div class="card-body p-0 w-100">
+                        <h5 class="card-title m-0 p-2" style="font-size: 15px;">Why Child-Resistant Pouches Are a Must
+                          for Modern Packaging</h5>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <div class="col-md-12">
               <a href="seal-the-deal-why-peel-and-seal-bags-are-changing-packaging.php"
                 style="text-decoration: none; color: black;">
                 <div class="card mb-3 shadow-sm" style="max-width: 540px;">
@@ -658,7 +702,7 @@
                 </a>
               </div> -->
 
-            <div class="col-md-12">
+            <!-- <div class="col-md-12">
               <a href="types-of-pouches-we-provide-at-prem-industries-india-limited.php"
                 style="text-decoration: none; color: black;">
                 <div class="card mb-3 shadow-sm" style="max-width: 540px;">
@@ -676,7 +720,7 @@
                   </div>
                 </div>
               </a>
-            </div>
+            </div> -->
 
             <!-- <div class="col-md-12">
                 <a href="how-to-choose-the-right-bespoke-packaging-supplier.php"
