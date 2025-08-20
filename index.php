@@ -508,7 +508,7 @@
                   <div class="product-wrap">
                     <div class="overflow-hidden">
                       <a href="exhibitions.php" target="_blank">
-                        <img src="img/index/ex/new/3-new.jpg" alt="Pack Expo Las Vegas" />
+                        <img src="img/index/ex/new/4-packexpo.jpg" alt="Pack Expo Las Vegas" />
                       </a>
                     </div>
                     <div class="arrivals-content-block">
@@ -520,7 +520,7 @@
                   <div class="product-wrap">
                     <div class="overflow-hidden">
                       <a href="exhibitions.php" target="_blank">
-                        <img src="img/index/ex/new/2.jpg" alt="Americas Food & Beverage Show" />
+                        <img src="img/index/ex/new/4-america.jpg" alt="Americas Food & Beverage Show" />
                       </a>
                     </div>
                     <div class="arrivals-content-block">
