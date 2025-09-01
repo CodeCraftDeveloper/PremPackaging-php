@@ -1,3 +1,15 @@
+<!-- Marquee Announcement -->
+<div style="background:#E92227; color:white; font-weight:600; font-size:16px; padding:6px 0; overflow:hidden;">
+  <div class="custom-marquee">
+    <div class="custom-marquee-content">
+      Celebrate the festive season with 10% Off on all packaging solutions! Use code <b>PREFESTIVE10</b> at checkout –
+      eco-friendly, sustainable & stylish packaging. Hurry, offer ends soon!
+      <span class="marquee-gap"></span>
+      Celebrate the festive season with 10% Off on all packaging solutions! Use code <b>PREFESTIVE10</b> at checkout –
+      eco-friendly, sustainable & stylish packaging. Hurry, offer ends soon!
+    </div>
+  </div>
+</div>
 <header>
   <nav class="navbar navbar-expand-lg navbar-light sticky-top">
     <div class="container-fluid p-0">
@@ -190,6 +202,41 @@
     .cart-shake {
       animation: shake-cart 2s infinite;
       display: inline-block;
+    }
+
+    .custom-marquee {
+      width: 100%;
+      overflow: hidden;
+      position: relative;
+      height: 28px;
+      line-height: 28px;
+    }
+
+    .custom-marquee-content {
+      display: inline-block;
+      white-space: nowrap;
+      padding-left: 0;
+      animation: marquee-scroll 22s linear infinite;
+    }
+
+    .custom-marquee-content b {
+      color: #fff;
+      font-weight: bold;
+    }
+
+    .marquee-gap {
+      display: inline-block;
+      width: 80px;
+    }
+
+    @keyframes marquee-scroll {
+      0% {
+        transform: translateX(0%);
+      }
+
+      100% {
+        transform: translateX(-50%);
+      }
     }
   </style>
 </head>
