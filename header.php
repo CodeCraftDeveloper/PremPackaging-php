@@ -100,7 +100,7 @@
                   <a class="dropdown-item" href="variable-depth-box.php">Variable Depth Boxes</a>
                   <a class="dropdown-item" href="buy-back-box.php">Buy Back Boxes</a>
                   <a class="dropdown-item" href="child-resistant-pouch.php">Child Resistant Pouch</a>
-                  <a class="dropdown-item" href="paper-cup-and-plates.php">Paper Cup and Plates</a>
+                  <a class="dropdown-item" href="paper-cups-and-plates.php">Paper Cups and Plates</a>
                 </div>
               </div>
             </div>

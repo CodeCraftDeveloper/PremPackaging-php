@@ -33,13 +33,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-8">
-                    <h1>Paper Cup and Plates</h1>
+                    <h1>Paper Cups and Plates</h1>
                 </div>
                 <div class="col-md-12">
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><a href="/"><i class="fa fa-home"></i> Home</a></li>
-                            <li class="breadcrumb-item active" aria-current="page">Paper Cup and Plates</li>
+                            <li class="breadcrumb-item active" aria-current="page">Paper Cups and Plates</li>
                         </ol>
                     </nav>
                 </div>
@@ -61,12 +61,12 @@
                 <div class="col-md-12" style="text-align: justify">
                     <div class="body-content">
                         <div class="body-content">
-                            <p class="wow fadeInUp">At Prem Packaging, we believe in delivering packaging solutions that
-                                combine convenience, safety, and sustainability. Our range of paper cups, plates, food
-                                bowls, lunch boxes, popcorn tubs, and ice cream tubs is designed to meet the diverse
-                                needs of restaurants, cafés, catering services, and quick-service outlets. Made from
-                                high-quality food-grade paper, our products ensure hygiene while being eco-friendly and
-                                100% recyclable.</p>
+                            <p class="wow fadeInUp">At Prem Packaging, a trusted paper cups and plates manufacturer, we
+                                believe in delivering packaging solutions that combine convenience, safety, and
+                                sustainability. Our range of paper cups, plates, food bowls, lunch boxes, popcorn tubs,
+                                and ice cream tubs is designed to meet the diverse needs of restaurants, cafés, catering
+                                services, and quick-service outlets. Made from high-quality food-grade paper, our
+                                products ensure hygiene while being eco-friendly and 100% recyclable.</p>
                             <h4 style="font-weight: 600; color: #14254C;">Paper Cups with Lids</h4>
                             <p class="wow fadeInUp">Our paper cups are the ideal choice for serving hot and cold
                                 beverages. Available in multiple sizes, they are designed with leak-proof construction
@@ -122,10 +122,9 @@
                                     snacks, we have packaging for every requirement.
                                 </li>
                             </ul>
-                            <p class="wow fadeInUp">We are known for being the best carry bag manufacturer. At Prem
-                                At Prem Packaging, we go beyond just providing packaging – we deliver solutions that
-                                preserve food quality, enhance customer experience, and contribute to a sustainable
-                                future.</p>
+                            <p class="wow fadeInUp">As a paper cups and plates manufacturer, Prem Packaging goes beyond
+                                packaging – we deliver solutions that preserve food quality, elevate customer
+                                experience, and promote a sustainable future.</p>
                         </div>
                     </div>
                 </div>
