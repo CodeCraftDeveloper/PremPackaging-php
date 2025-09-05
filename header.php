@@ -74,10 +74,10 @@
                   <a class="dropdown-item" href="2-ply-corrugated-mailer-bags.php">2 Ply Corrugated Mailer Bags</a>
                   <a class="dropdown-item" href="carry-bags.php">Carry Bags</a>
                   <a class="dropdown-item" href="packpro-tapes.php">PackPro<sup>™</sup> Tapes</a>
+                  <a class="dropdown-item" href="wetboxtech.php">WetBoxTech<sup>™</sup></a>
                   <!-- <a class="dropdown-item" href="packpro-tapes.php">PackPro<sup>™</sup> Tapes</a> -->
                 </div>
                 <div class="col-sm-4 col-lg-4">
-                  <a class="dropdown-item" href="wetboxtech.php">WetBoxTech<sup>™</sup></a>
                   <a class="dropdown-item" href="flexpand.php">Flexpand<sup>™</sup></a>
                   <a class="dropdown-item" href="rollabel-labels.php">Rollabel<sup>™</sup> Labels</a>
                   <a class="dropdown-item" href="labels-with-multiups.php">Rollabel<sup>™</sup> Labels with Multiups</a>
@@ -88,10 +88,10 @@
                   <a class="dropdown-item" href="peel-and-seal-bags.php">Peel and Seal Bags</a>
                   <a class="dropdown-item" href="void-tape.php">Void Tapes</a>
                   <a class="dropdown-item" href="security-bag.php">Security Bags</a>
-                </div>
-                <div class="col-sm-4 col-lg-4">
                   <a class="dropdown-item" href="returnable-poly-mailer.php">Returnable Poly Mailers</a>
                   <a class="dropdown-item" href="m-folder.php">M Folders</a>
+                </div>
+                <div class="col-sm-4 col-lg-4">
                   <a class="dropdown-item" href="packpro-honeycomb-wrapper.php">PackPro<sup>™</sup> HoneyComb
                     <br>Wrappers</a>
                   <a class="dropdown-item" href="paper-bubble-bag.php">Paper Bubble Bags</a>
@@ -100,6 +100,7 @@
                   <a class="dropdown-item" href="variable-depth-box.php">Variable Depth Boxes</a>
                   <a class="dropdown-item" href="buy-back-box.php">Buy Back Boxes</a>
                   <a class="dropdown-item" href="child-resistant-pouch.php">Child Resistant Pouch</a>
+                  <a class="dropdown-item" href="paper-cup-and-plates.php">Paper Cup and Plates</a>
                 </div>
               </div>
             </div>
