@@ -135,7 +135,23 @@
     <div class="e-commerce-gallery BoxesGallery mt-3">
         <div class="container-fluid">
             <div class="row">
-                <div class="col-md-4 p-1">
+                <div class="col-md-6 p-1">
+                    <a class="gallery-col" href="img/paper-cup-and-plates/7.jpg" data-fancybox="images">
+                        <div class="gallery-box" class="fixed-bottom">
+                            <h4 class="text-center" style="align-items: flex-end; font-size: 20px;"></h4>
+                            <img src="img/paper-cup-and-plates/7.jpg" alt="Paper Cups">
+                        </div>
+                    </a>
+                </div>
+                <div class="col-md-6 p-1">
+                    <a class="gallery-col" href="img/paper-cup-and-plates/8.jpg" data-fancybox="images">
+                        <div class="gallery-box" class="fixed-bottom">
+                            <h4 class="text-center" style="align-items: flex-end; font-size: 20px;"></h4>
+                            <img src="img/paper-cup-and-plates/8.jpg" alt="Paper Plates">
+                        </div>
+                    </a>
+                </div>
+                <!-- <div class="col-md-4 p-1">
                     <a class="gallery-col" href="img/paper-cup-and-plates/1.jpg" data-fancybox="images">
                         <div class="gallery-box" class="fixed-bottom">
                             <h4 class="text-center" style="align-items: flex-end; font-size: 20px;"></h4>
@@ -143,14 +159,6 @@
                         </div>
                     </a>
                 </div>
-                <!-- <div class="col-md-3 p-1">
-          <a class="gallery-col" href="img/carry-bag/new/2.jpg" data-fancybox="images">
-            <div class="gallery-box">
-              <h4 class="text-center" style="align-items: flex-end; font-size: 20px;">Luxury Carry Bags</h4>
-              <img src="img/carry-bag/new/2.jpg" alt="Luxury Carry Bags">
-            </div>
-          </a>
-        </div> -->
                 <div class="col-md-4 p-1">
                     <a class="gallery-col" href="img/paper-cup-and-plates/2.jpg" data-fancybox="images">
                         <div class="gallery-box">
@@ -194,15 +202,7 @@
                             <img src="img/paper-cup-and-plates/6.jpg" alt="Paper Popcorn Tub">
                         </div>
                     </a>
-                </div>
-                <!-- <div class="col-md-3 p-1">
-          <a class="gallery-col" href="img/carry-bag/new/8.jpg" data-fancybox="images">
-            <div class="gallery-box">
-              <h4 class="text-center" style="align-items: flex-end; font-size: 20px;">D-cut Carry Bags</h4>
-              <img src="img/carry-bag/new/8.jpg" alt="D-cut Carry Bags">
-            </div>
-          </a>
-        </div> -->
+                </div> -->
             </div>
         </div>
     </div>
