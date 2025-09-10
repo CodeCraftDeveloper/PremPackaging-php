@@ -138,7 +138,7 @@
   <div class="e-commerce-gallery BoxesGallery mt-3">
     <div class="container-fluid">
       <div class="row">
-        <div class="col-md-4 p-1">
+        <div class="col-md-3 p-1">
           <a class="gallery-col" href="img/carry-bag/new/1.jpg" data-fancybox="images">
             <div class="gallery-box" class="fixed-bottom">
               <h4 class="text-center" style="align-items: flex-end; font-size: 20px;">square bottom Carry Bags</h4>
@@ -154,7 +154,7 @@
             </div>
           </a>
         </div> -->
-        <div class="col-md-4 p-1">
+        <div class="col-md-3 p-1">
           <a class="gallery-col" href="img/carry-bag/new/3.jpg" data-fancybox="images">
             <div class="gallery-box">
               <h4 class="text-center" style="align-items: flex-end; font-size: 20px;">V-Bottom Carry Bags without handle
@@ -163,7 +163,7 @@
             </div>
           </a>
         </div>
-        <div class="col-md-4 p-1">
+        <div class="col-md-3 p-1">
           <a class="gallery-col" href="img/carry-bag/new/4.jpg" data-fancybox="images">
             <div class="gallery-box">
               <h4 class="text-center" style="align-items: flex-end; font-size: 20px;">V-Bottom Carry Bags with twisted
@@ -172,7 +172,7 @@
             </div>
           </a>
         </div>
-        <div class="col-md-4 p-1">
+        <div class="col-md-3 p-1">
           <a class="gallery-col" href="img/carry-bag/new/5.jpg" data-fancybox="images">
             <div class="gallery-box">
               <h4 class="text-center" style="align-items: flex-end; font-size: 20px;">V-Bottom Carry Bags with handle
@@ -196,6 +196,15 @@
               <h4 class="text-center" style="align-items: flex-end; font-size: 20px;">W-Bottom Carry Bags without handle
               </h4>
               <img src="img/carry-bag/new/7.jpg" alt="W-Bottom Carry Bags without handle">
+            </div>
+          </a>
+        </div>
+        <div class="col-md-4 p-1">
+          <a class="gallery-col" href="img/carry-bag/new/9.jpg" data-fancybox="images">
+            <div class="gallery-box">
+              <h4 class="text-center" style="align-items: flex-end; font-size: 20px;">Carry Bag with <br> Flat Handle
+              </h4>
+              <img src="img/carry-bag/new/9.jpg" alt="Carry Bag with Flat Handle">
             </div>
           </a>
         </div>
