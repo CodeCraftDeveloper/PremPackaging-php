@@ -29,6 +29,26 @@
     .bullet-point-new {
       color: #14254C;
     }
+
+    /* @media (max-width: 460px) {
+      .page-hero {
+        background-image: url('./img/mobile-banner/1.jpg');
+      }
+
+      .banner-head {
+        font-size: 10px;
+      }
+    } */
+
+    /* @media (max-width: 500px) {
+      .page-hero {
+        background-image: url('./img/mobile-banner/1.jpg');
+      }
+
+      .banner-head {
+        font-size: 10px;
+      }
+    } */
   </style>
 </head>
 
@@ -37,7 +57,7 @@
   <?php include 'header.php'; ?>
 
 
-  <div class="page-hero pageheade Corrugated-Boxes">
+  <!-- <div class="page-hero pageheade Corrugated-Boxes">
     <div class="container">
       <div class="row">
         <div class="col-md-8">
@@ -53,7 +73,9 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
+
+  <img src="img/common-banners/corrugated-boxes-2.jpg" alt="Corugated Boxes" class="img-fluid w-100">
 
   <section class="body__content mt-5 page-body-content">
     <div class="container">

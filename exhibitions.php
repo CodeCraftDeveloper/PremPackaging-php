@@ -42,6 +42,26 @@
       }
     }
 
+    /* @media (max-width: 460px) {
+      .page-hero {
+        background-image: url('./img/mobile-banner/1.jpg');
+      }
+
+      .banner-head {
+        font-size: 10px;
+      }
+    } */
+
+    /* @media (max-width: 460px) {
+      .page-hero {
+        background-image: url('./img/mobile-banner/2.jpg');
+      }
+
+      .banner-head {
+        font-size: 10px;
+      }
+    } */
+
     @media (min-width: 30000px) {
       .page-hero {
         background-image: url('https://placehold.co/1500x350');
