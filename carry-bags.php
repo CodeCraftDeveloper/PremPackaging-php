@@ -28,7 +28,7 @@
   <?php include 'header.php'; ?>
 
 
-  <div class="page-hero pageheade"
+  <!-- <div class="page-hero pageheade"
     style="background: #eee url(../img/carry-bag/carry-handle-bag-banner.jpg); height: 350px; background-size: cover; background-position: center;">
     <div class="container">
       <div class="row">
@@ -45,7 +45,10 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
+
+  <img src="img/common-banners/carry-bags.jpg" alt="Carry Bags" class="img-fluid w-100 shadow-sm">
+
 
   <section class="body__content mt-5 page-body-content">
     <div class="container">

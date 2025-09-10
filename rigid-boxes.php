@@ -40,7 +40,7 @@
     <!-- header start -->
     <?php include 'header.php'; ?>
 
-    <div class="page-hero Luxury-Rigid-Boxes pageheade">
+    <!-- <div class="page-hero Luxury-Rigid-Boxes pageheade">
         <div class="container">
             <div class="row">
                 <div class="col-md-8">
@@ -56,7 +56,10 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
+
+    <img src="img/common-banners/rigid-boxes.jpg" alt="Rigid Boxes" class="img-fluid w-100 shadow-sm">
+
 
     <section class="body__content mt-5 page-body-content">
         <div class="container">

@@ -75,7 +75,7 @@
     </div>
   </div> -->
 
-  <img src="img/common-banners/corrugated-boxes-2.jpg" alt="Corugated Boxes" class="img-fluid w-100">
+  <img src="img/common-banners/corrugated-boxes-2.jpg" alt="Corugated Boxes" class="img-fluid w-100 shadow-sm">
 
   <section class="body__content mt-5 page-body-content">
     <div class="container">

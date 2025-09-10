@@ -40,7 +40,7 @@
   <!-- header start -->
   <?php include 'header.php'; ?>
 
-  <div class="page-hero PlyCorrugated-Mailer-Bags pageheade">
+  <!-- <div class="page-hero PlyCorrugated-Mailer-Bags pageheade">
     <div class="container">
       <div class="row">
         <div class="col-md-8">
@@ -56,7 +56,11 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
+
+  <img src="img/common-banners/2-ply-corrugated-mailer-bags.jpg" alt="2 Ply Corrugated Mailer bags"
+    class="img-fluid w-100 shadow-sm">
+
 
   <section class="body__content mt-5 page-body-content">
     <div class="container">

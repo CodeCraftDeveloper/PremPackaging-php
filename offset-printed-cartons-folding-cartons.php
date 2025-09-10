@@ -41,7 +41,7 @@
   <?php include 'header.php'; ?>
 
 
-  <div class="page-hero offset-printed-cartons pageheade">
+  <!-- <div class="page-hero offset-printed-cartons pageheade">
     <div class="container">
       <div class="row">
         <div class="col-md-8">
@@ -57,7 +57,10 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
+
+  <img src="img/common-banners/offset-printed-cartons.jpg" alt="Offset Printed Cartons & Folding Cartons"
+    class="img-fluid w-100 shadow-sm">
 
   <section class="body__content mt-5 page-body-content">
     <div class="container">
