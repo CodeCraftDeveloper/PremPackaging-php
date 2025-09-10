@@ -28,7 +28,7 @@
   <?php include 'header.php'; ?>
 
 
-  <div class="page-hero pageheade"
+  <!-- <div class="page-hero pageheade"
     style="background: #eee url(../img/carry-handel-tape/banner.jpg); height: 350px; background-size: cover; background-position: center;">
     <div class="container">
       <div class="row">
@@ -45,7 +45,10 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
+
+  <img src="img/common-banners/carry-tape.jpg" alt="PackPro Carry Handle Tape" class="img-fluid w-100 shadow-sm">
+
 
   <section class="body__content mt-5 page-body-content">
     <div class="container">
@@ -68,18 +71,23 @@
               <ul class="mt-0 mb-3">
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i>
                   <b>High-Strength PET Film:</b> Known for its superior tensile strength and tear resistance, ensuring
-                  durability under heavy loads. </li>
+                  durability under heavy loads.
+                </li>
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i>
                   <b>Natural Rubber Adhesive:</b> Designed to perform consistently across a wide range of temperatures,
-                  offering excellent moisture resistance. </li>
+                  offering excellent moisture resistance.
+                </li>
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i>
                   <b>Versatile Application:</b> Sticks seamlessly to various surfaces, including cardboard and strong
-                  plastic films.</li>
+                  plastic films.
+                </li>
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i>
-                  <b>Convenience in Carrying:</b> Provides an easy-to-hold handle for items weighing up to 15 kg. </li>
+                  <b>Convenience in Carrying:</b> Provides an easy-to-hold handle for items weighing up to 15 kg.
+                </li>
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i>
                   <b>Eco-Friendly Alternative:</b> Helps reduce the dependency on plastic bags by turning items into
-                  easy-to-carry packages. </li>
+                  easy-to-carry packages.
+                </li>
               </ul>
               <h4 style="font-weight: 600;">Ideal Applications</h4>
               <ul class="mt-0 mb-3">

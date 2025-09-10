@@ -41,7 +41,7 @@
   <?php include 'header.php'; ?>
 
 
-  <div class="page-hero pageheade"
+  <!-- <div class="page-hero pageheade"
     style="background: #eee url(../img/flexpand-banner-img.jpg); height: 350px; background-size: cover; background-position: center;">
     <div class="container">
       <div class="row">
@@ -58,7 +58,10 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
+
+  <img src="img/common-banners/flexpand.jpg" alt="FlexPand" class="img-fluid w-100 shadow-sm">
+
 
   <section class="body__content mt-5 page-body-content">
     <div class="container">
