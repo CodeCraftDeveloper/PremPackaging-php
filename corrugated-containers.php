@@ -59,7 +59,7 @@
     </div>
   </div> -->
 
-  <img src="img/common-banners/corrugated-packaging.jpg" alt="Corrugated Packaging" class="img-fluid w-100 shadow-sm">
+  <img src="img/common-banners/corrugated-containers.jpg" alt="Corrugated Containers" class="img-fluid w-100 shadow-sm">
 
   <section class="body__content pt-5 page-body-content">
     <div class="container">
