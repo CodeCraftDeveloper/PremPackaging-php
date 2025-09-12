@@ -40,7 +40,7 @@
   <?php include 'header.php'; ?>
 
 
-  <div class="page-hero pageheade food-pack-b">
+  <!-- <div class="page-hero pageheade food-pack-b">
     <div class="container">
       <div class="row">
         <div class="col-md-6">
@@ -56,7 +56,9 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
+
+  <img src="img/common-banners/food-packaging.jpg" alt="Food Packaging" class="img-fluid w-100 shadow-sm">
 
   <section class="body__content mt-5 mb-5 page-body-content">
     <div class="container">
