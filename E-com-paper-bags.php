@@ -66,7 +66,8 @@
           <div class="body-content">
             <p class="wow fadeInUp">When it comes to e-com, we are your one-stop shop! E-commerce is being lead by paper
               bags and we are focused to offer innovative solutions for the same. With 44 years of experience in the
-              paper industry, Prem provides the right choice of paper packaging. We were the first company to make paper
+              paper industry, Prem Industries India Limited provides the right choice of paper packaging. We were the
+              first company to make paper
               bags commercially viable. We are manufacturing a feasible range of paperboard mailers, envelop and paper
               bags. Less waste, right-sized packaging and sustainable growth is all we are trying to achieve with this
               category of packaging.</p>

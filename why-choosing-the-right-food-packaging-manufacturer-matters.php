@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description"
-        content="Discover why choosing the right food packaging manufacturer is key to safety, sustainability, and brand trust. Explore expert packaging solutions at Prem Industries India.">
+        content="Discover why choosing the right food packaging manufacturer is key to safety, sustainability, and brand trust. Explore expert packaging solutions at Prem Industries India Limited.">
     <meta property="og:title" content="Trusted Food Packaging Manufacturer | Prem Industries India Limited">
     <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script>
@@ -96,7 +96,8 @@
                                         </h4>
                                         <p class="wow fadeInUp">Your packaging is your silent salesman. Attractive,
                                             well-printed packaging influences buying decisions and boosts brand recall.
-                                            At Prem Industries, we combine design with durability—delivering packaging
+                                            At Prem Industries India Limited, we combine design with
+                                            durability—delivering packaging
                                             that not only protects your food but also promotes your brand with
                                             high-quality printing and finishing options.</p>
                                         <h4 style="font-weight: 600;" class="mb-3">5. Supply Chain Efficiency

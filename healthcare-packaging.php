@@ -76,7 +76,7 @@
                 to meet the high standards of protection and functionality required in medical and wellness sectors.
                 From medical wipes to spout pouches, we ensure every product is packaged with utmost precision,
                 reliability, and care.</p>
-              <h4 style="font-weight: 600;">Why Choose Prem for Healthcare Packaging?</h4>
+              <h4 style="font-weight: 600;">Why Choose Prem Industries India Limited for Healthcare Packaging?</h4>
               <p class="wow fadeInUp">With decades of experience, cutting-edge infrastructure, and a deep understanding
                 of packaging science, we provide:</p>
               <ul class="mt-0 mb-3">

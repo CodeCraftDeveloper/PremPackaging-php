@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description"
-        content="Discover eco-friendly paper cups, plates, bowls, lunch boxes, popcorn tubs, and ice cream tubs at Prem Packaging. Durable, food-safe, and customizable with lids and branding options.">
+        content="Discover eco-friendly paper cups, plates, bowls, lunch boxes, popcorn tubs, and ice cream tubs at Prem Industries India Limited. Durable, food-safe, and customizable with lids and branding options.">
     <meta property="og:title" content="Paper Cups & Plates | Prem Industries India Limited">
     <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
     <!-- Google tag (gtag.js) -->
@@ -65,7 +65,8 @@
                 <div class="col-md-12" style="text-align: justify">
                     <div class="body-content">
                         <div class="body-content">
-                            <p class="wow fadeInUp">At Prem Packaging, a trusted paper cups and plates manufacturer, we
+                            <p class="wow fadeInUp">At Prem Industries India Limited, a trusted paper cups and plates
+                                manufacturer, we
                                 believe in delivering packaging solutions that combine convenience, safety, and
                                 sustainability. Our range of paper cups, plates, food bowls, lunch boxes, popcorn tubs,
                                 and ice cream tubs is designed to meet the diverse needs of restaurants, cafés, catering
@@ -126,7 +127,8 @@
                                     snacks, we have packaging for every requirement.
                                 </li>
                             </ul>
-                            <p class="wow fadeInUp">As a paper cups and plates manufacturer, Prem Packaging goes beyond
+                            <p class="wow fadeInUp">As a paper cups and plates manufacturer, Prem Industries India
+                                Limited goes beyond
                                 packaging – we deliver solutions that preserve food quality, elevate customer
                                 experience, and promote a sustainable future.</p>
                         </div>

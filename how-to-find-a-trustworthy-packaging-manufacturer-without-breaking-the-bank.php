@@ -88,7 +88,8 @@
                       look for <a href="https://prempackaging.com" style="color: black;" target="_blank"><b>affordable
                           packaging services</b></a> that offer long-term value—like durability, reusability,
                       and reduced return rates due to damage. Bulk pricing, smart logistics, and in-house manufacturing
-                      facilities help companies like Prem Industries provide quality at competitive rates.</p>
+                      facilities help companies like Prem Industries India Limited provide quality at competitive rates.
+                    </p>
                     <h4 style="font-weight: 600;">5. Sustainability Commitment</h4>
                     <p class="wow fadeInUp">Modern businesses are moving toward greener solutions. Your packaging
                       partner should offer sustainable alternatives like paper mailer bags, eco-friendly tapes, or

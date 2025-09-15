@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description"
     content="Explore various pouches like spout, flat bottom, retort, and more by us—your trusted food packaging partner in India.">
-  <meta property="og:title" content="Types of Pouches by Prem Packaging | Prem Industries India Limited">
+  <meta property="og:title" content="Types of Pouches by Prem Industries India Limited">
   <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script>
   <script>

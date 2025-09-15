@@ -92,7 +92,8 @@
                                             film coatings are also a must.</p>
                                         <h4 style="font-weight: 600;">4. Certifications and Compliance</h4>
                                         <p class="wow fadeInUp">Look for a manufacturer who complies with international
-                                            safety and sustainability standards. At Prem Industries, our carry bags are
+                                            safety and sustainability standards. At Prem Industries India Limited, our
+                                            carry bags are
                                             designed and produced under stringent quality checks—some of our solutions
                                             even adhere to <b>BRCGS</b> and <b>FSSAI</b> standards.</p>
                                         <h4 style="font-weight: 600;">5. Sustainability Practices</h4>

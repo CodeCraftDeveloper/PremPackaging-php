@@ -63,12 +63,14 @@
       <div class="row mt-60">
         <div class="col-md-6 order2">
           <div class="body-content">
-            <p class="wow fadeInUp">We at PREM recognise the critical need to reimagine the retail experience in order
+            <p class="wow fadeInUp">We at Prem Industries India Limited recognise the critical need to reimagine the
+              retail experience in order
               to better serve the changing shopper's expectations.</p>
             <p>The rise of e-commerce, fuelled by social and technological factors, has put tremendous pressure on
               retailers to provide innovative solutions for growth and success in this hyper-competitive environment.
               The ability to attract, engage, execute, and measure is critical and will only grow in importance.</p>
-            <p>PREM offers a variety of options for this omni-channel marketplace. When you work with us, you can expect
+            <p>Prem Industries India Limited offers a variety of options for this omni-channel marketplace. When you
+              work with us, you can expect
               effective, impactful solutions for promotional or permanent displays, retail signage, packaging, or smart
               retail solutions.</p>
           </div>

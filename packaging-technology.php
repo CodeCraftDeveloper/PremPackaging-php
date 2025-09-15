@@ -63,7 +63,8 @@
       <div class="row mt-60">
         <div class="col-md-6 order2">
           <div class="body-content">
-            <p class="wow fadeInUp">Marketing innovation is the need of the hour and Prem Packaging offers more than
+            <p class="wow fadeInUp">Marketing innovation is the need of the hour and Prem Industries India Limited
+              offers more than
               just packaging. As an innovative packaging company, we strive to give quality to our clients in all our
               endeavours. We have installed a state-of-the-art infrastructure unit with only premium amenities and the
               latest technology. Our rich industry experience assists us in understanding the importance of packaging.
@@ -120,7 +121,8 @@
               <div class="tab-pane fade p-4" id="two" role="tabpanel" aria-labelledby="two-tab">
                 <div class="row align-items-center">
                   <div class="col-md-8 offset-md-2 text-center">
-                    <p class="card-text">At Prem Industries, we incorporate advanced automated printing equipment to
+                    <p class="card-text">At Prem Industries India Limited, we incorporate advanced automated printing
+                      equipment to
                       ensure product quality as well as the interest of the customers.</p>
                   </div>
                   <div class="col-md-4">
@@ -146,7 +148,8 @@
               <div class="tab-pane fade p-4" id="four" role="tabpanel" aria-labelledby="four-tab">
                 <div class="row align-items-center">
                   <div class="col-md-8 offset-md-2 text-center">
-                    <p class="card-text">Prem Industries organises product quality analysis meetings. To meet customer
+                    <p class="card-text">Prem Industries India Limited organises product quality analysis meetings. To
+                      meet customer
                       expectations, we must inspect the product quality with professional testing instruments.</p>
                     <p class="card-text">We offer expertise in packaging design at low costs and the latest technology
                       like QR coding, holography-based anti-counterfeiting packaging and brand protection solutions. Our

@@ -78,7 +78,8 @@
                 appeal, and functionality of personal care products. From locking in fragrances to ensuring secure
                 dispensing, high-quality packaging elevates the customer experience and protects your products.</p>
               <h4 style="font-weight: 600;">Why Choose us for Beauty & Personal Care Packaging?</h4>
-              <p class="wow fadeInUp">At Prem Industries, a trusted beauty personal care manufacturer, we understand
+              <p class="wow fadeInUp">At Prem Industries India Limited, a trusted beauty personal care manufacturer, we
+                understand
                 that packaging is more than just a container, it's a reflection of your brand. That’s why our beauty &
                 personal care packaging solutions are designed
                 to combine aesthetics with functionality. We ensure: </p>
@@ -99,7 +100,8 @@
               <h4 style="font-weight: 600;">Elevate Your Brand with Innovative Packaging</h4>
               <p class="wow fadeInUp">Choosing the right beauty & personal care packaging can significantly expand your
                 market share and appeal to eco-conscious consumers. As a leading beauty personal care manufacturer, Prem
-                Industries offers a range of tailor-made solutions, including flexible laminates, paper mailer bags, and
+                Industries India Limited offers a range of tailor-made solutions, including flexible laminates, paper
+                mailer bags, and
                 secure seals, to meet your unique requirements. Let us help you create packaging that not only
                 protects your products but also aligns with
                 your sustainability goals and enhances your brand's reputation.</p>

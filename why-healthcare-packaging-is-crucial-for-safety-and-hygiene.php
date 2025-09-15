@@ -71,14 +71,16 @@
                       <a href="https://prempackaging.com/healthcare-packaging" target="_blank"
                         style="color: black;"><b>healthcare packaging</b></a> extends shelf-life and maintains efficacy.
                     </p>
-                    <p class="wow fadeInUp">At Prem Industries, we understand these requirements deeply. Our materials
+                    <p class="wow fadeInUp">At Prem Industries India Limited, we understand these requirements deeply.
+                      Our materials
                       are FDA-compliant, non-toxic, and designed to meet global hygiene standards. Brands like Muscle
                       Blaze, Man Force, and Kent trust us for their healthcare and hygiene product packaging because we
                       deliver precision and performance at every level.</p>
                     <h4 style="font-weight: 600;" class="mb-3">Sustainable & Custom Solutions</h4>
                     <p class="wow fadeInUp">As the healthcare industry becomes more consumer-focused, packaging must
                       also meet branding needs without compromising functionality. This is where custom solutions come
-                      into play. At Prem Industries, we provide packaging that is not just protective but also visually
+                      into play. At Prem Industries India Limited, we provide packaging that is not just protective but
+                      also visually
                       aligned with your brand identity.</p>
                     <p class="wow fadeInUp mb-0 pb-0">We offer:</p>
                     <ul style="font-size: 15px; font-weight: 500; line-height: 26px;" class="mb-3">
@@ -95,7 +97,8 @@
                     </ul>
                     <p class="wow fadeInUp">Custom printing options also help build trust with the end-user by clearly
                       displaying information such as expiry dates, usage instructions, and safety certifications.</p>
-                    <h4 style="font-weight: 600;" class="mb-3">Prem Industries: Your Partner in Healthcare Packaging
+                    <h4 style="font-weight: 600;" class="mb-3">Prem Industries India Limited: Your Partner in Healthcare
+                      Packaging
                     </h4>
                     <p class="wow fadeInUp">With over four decades of experience in the packaging industry, we at Prem
                       Industries India Limited specialize in delivering top-tier <b><a

@@ -65,7 +65,8 @@
           <div class="body-content">
             <p class="wow fadeInUp">As we work towards creating the best customer experience, we also ensure that
               alternatives to sustainable packaging solutions are offered. We are a tailored company with mindful
-              efforts toward decreasing our carbon footprint. At Prem Industries, we constantly innovate towards
+              efforts toward decreasing our carbon footprint. At Prem Industries India Limited, we constantly innovate
+              towards
               sustainability, building a host of eco-friendly products made from recycled materials. We advocate
               responsible functioning, which ensures that the footsteps of sustainable development are followed
               thoughtfully.</p>
@@ -82,7 +83,8 @@
               <li><i class="fa fa-arrow-right"></i> Making our packing as light as possible is another strategy that
                 helps to reduce transportation-related energy and fossil fuel consumption, as well as pollution.</li>
             </ul>
-            <p>At Prem Industries, we are constantly striving to innovate plastic products. We ensure that we choose
+            <p>At Prem Industries India Limited, we are constantly striving to innovate plastic products. We ensure that
+              we choose
               measures that are biodegradable, bio-compostable, and promote reuse and recycling choices.</p>
           </div>
         </div>

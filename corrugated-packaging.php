@@ -64,7 +64,8 @@
       <div class="row mt-60">
         <div class="col-md-6 order2">
           <div class="body-content">
-            <p class="wow fadeInUp">Prem Industries corrugated packaging is made with perfection passing through an
+            <p class="wow fadeInUp">Prem Industries India Limited corrugated packaging is made with perfection passing
+              through an
               evolutionary process. We are a leading industry that produces the best-corrugated packing with an
               excellent set of machines designed to bring together one study corrugated box with various sheets of paper
               forming sturdy think walls. As we modify the corrugated boxes a lot of processing takes place to transform

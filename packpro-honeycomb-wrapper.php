@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description"
-    content="Choose Prem Industries, a leading honeycomb wrapper manufacturer, for sustainable, paper-based packaging. Eco-friendly, aesthetic, and protective—ideal for all your packaging needs.">
+    content="Choose Prem Industries India Limited, a leading honeycomb wrapper manufacturer, for sustainable, paper-based packaging. Eco-friendly, aesthetic, and protective—ideal for all your packaging needs.">
   <meta property="og:title" content="Eco-Friendly Honeycomb Wrapper for Packaging">
   <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
   <!-- Google tag (gtag.js) -->

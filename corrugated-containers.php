@@ -77,7 +77,8 @@
       <div class="row" style="text-align: justify">
         <div class="col-md-6 order2">
           <div class="body-content">
-            <p class="wow fadeInUp">The corrugated packaging at PREM is a leading vertically integrated manufacturing
+            <p class="wow fadeInUp">The corrugated packaging at Prem Industries India Limited is a leading vertically
+              integrated manufacturing
               division in North India, offering a wide range of converting capabilities as well as high-quality
               corrugated materials and machines designed to protect, promote, deliver, and display your products.</p>
             <p>Whether you require a one-of-a-kind shape, a specially reinforced structure, a shelf-ready solution, a

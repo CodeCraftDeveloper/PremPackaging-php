@@ -16,7 +16,7 @@
   <nav class="navbar navbar-expand-lg navbar-light sticky-top">
     <div class="container-fluid p-0">
       <a class="navbar-brand" href="https://prempackaging.com/">
-        <img width="110" src="img/logo.png" alt="prem packaging" title="" />
+        <img width="110" src="img/logo.png" alt="prem Industries India Limited" title="" />
       </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#mobile_nav"
         aria-controls="mobile_nav" aria-expanded="false" aria-label="Toggle navigation">

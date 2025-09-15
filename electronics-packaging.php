@@ -82,12 +82,13 @@
               first look of your brand and it can’t be compromised. It also affects the frequency of repeat purchases
               from the same brand.</p>
 
-            <p>Your carton-based branding is done at Prem Industries with a state-of-the-art digital design centre.
+            <p>Your carton-based branding is done at Prem Industries India Limited with a state-of-the-art digital
+              design centre.
               There are folding carton plants installed. Your products' packaging is handled by our premium facilities
               that make customised corrugated packaging, rigid boxes, and tailor-made printed packaging that can do
               wonders for your brand image.</p>
 
-            <p>At Prem Industries, we offer the following electronic packaging solutions:</p>
+            <p>At Prem Industries India Limited, we offer the following electronic packaging solutions:</p>
 
             <ul>
               <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>

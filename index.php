@@ -13,7 +13,7 @@
   <script>window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
 
 
-  <title>Prem Industries India Limited : Best Packaging Company in India</title>
+  <title>Prem Industries India Limited | Best Packaging Company in India</title>
   <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
   <!-- Bootstrap core css -->
   <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -214,7 +214,8 @@
               <div class="product-wrap">
                 <div class="Years-of-excellence-content">
                   <h3>2006</h3>
-                  <p style="font-size: 14px;">Prem began its Automated Corrugation Line that shaped the growth
+                  <p style="font-size: 14px;">Prem Industries India Limited began its Automated Corrugation Line that
+                    shaped the growth
                     trajectory of the company</p>
                 </div>
               </div>
@@ -242,7 +243,8 @@
               <div class="product-wrap">
                 <div class="Years-of-excellence-content">
                   <h3>2019</h3>
-                  <p style="font-size: 14px;">Prem started producing tailor-made flexible packaging solutions with
+                  <p style="font-size: 14px;">Prem Industries India Limited started producing tailor-made flexible
+                    packaging solutions with
                     innovative approach and advanced machinery</p>
                 </div>
               </div>
@@ -733,7 +735,8 @@
             <h4 class="text-center">- Nuts & Co.</h4>
           </div>
           <div class="product-wrap">
-            <p class="mt-5 text-center">As a long-time partner of Prem Industries, Fruitri has consistently been
+            <p class="mt-5 text-center">As a long-time partner of Prem Industries India Limited, Fruitri has
+              consistently been
               impressed with their exceptional e-commerce packaging solutions. Their innovative designs and top-notch
               materials have significantly enhanced the durability and presentation of our products. The commitment to
               quality and timely delivery is unparalleled, making them an invaluable part of our supply chain. Highly

@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description"
     content="Discover how PackPro™ carry handle tape simplifies lifting heavy packages. Strong, reliable & easy to use—ideal for modern packaging needs by Prem Industries India Limited.">
-  <meta property="og:title" content="PackPro™ Carry Handle Tape for Heavy Lifting | Prem Packaging">
+  <meta property="og:title" content="PackPro™ Carry Handle Tape for Heavy Lifting | Prem Industries India Limited">
   <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script>
   <script>
@@ -102,7 +102,8 @@
                         and more.</li>
                     </ul>
                     <h4 style="font-weight: 600;" class="mb-3">Trusted by Leading Brands</h4>
-                    <p class="wow fadeInUp">At Prem Industries, we supply carry handle tape under our trusted
+                    <p class="wow fadeInUp">At Prem Industries India Limited, we supply carry handle tape under our
+                      trusted
                       PackPro™ brand, known for quality and consistency. We’ve partnered with brands across FMCG,
                       electronics, and industrial supply chains to offer tape solutions that perform under
                       pressure—literally.
