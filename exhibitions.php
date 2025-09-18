@@ -158,6 +158,10 @@
         <a class="nav-link" style="color: black; font-weight: 600;" id="option4-tab" data-toggle="tab" href="#option4"
           role="tab" aria-controls="option4" aria-selected="false">AAHAR 2025</a>
       </li>
+      <!-- <li class="nav-item">
+        <a class="nav-link" style="color: black; font-weight: 600;" id="option5-tab" data-toggle="tab" href="#option5"
+          role="tab" aria-controls="option5" aria-selected="false">Americas Food & Beverage Show 2025</a>
+      </li> -->
     </ul>
     <div class="tab-content" id="myTabContent">
       <div class="tab-pane fade show active" id="option1" role="tabpanel" aria-labelledby="option1-tab">
@@ -283,6 +287,62 @@
                   </div>
                 </a>
               </div>
+              <!-- <div class="col-md-4 p-1">
+                <a class="gallery-col" href="img/exhibition/america25/1.jpg" data-fancybox="images">
+                  <div class="gallery-box">
+                    <img src="img/exhibition/america25/1.jpg" alt="Americas Food & Beverage Show 2025">
+                  </div>
+                </a>
+              </div>
+              <div class="col-md-4 p-1">
+                <a class="gallery-col" href="img/exhibition/america25/2.jpg" data-fancybox="images">
+                  <div class="gallery-box">
+                    <img src="img/exhibition/america25/2.jpg" alt="Americas Food & Beverage Show 2025">
+                  </div>
+                </a>
+              </div>
+              <div class="col-md-4 p-1">
+                <a class="gallery-col" href="img/exhibition/america25/3.jpg" data-fancybox="images">
+                  <div class="gallery-box">
+                    <img src="img/exhibition/america25/3.jpg" alt="Americas Food & Beverage Show 2025">
+                  </div>
+                </a>
+              </div>
+              <div class="col-md-4 p-1">
+                <a class="gallery-col" href="img/exhibition/america25/4.jpg" data-fancybox="images">
+                  <div class="gallery-box">
+                    <img src="img/exhibition/america25/4.jpg" alt="Americas Food & Beverage Show 2025">
+                  </div>
+                </a>
+              </div>
+              <div class="col-md-4 p-1">
+                <a class="gallery-col" href="img/exhibition/america25/5.jpg" data-fancybox="images">
+                  <div class="gallery-box">
+                    <img src="img/exhibition/america25/5.jpg" alt="Americas Food & Beverage Show 2025">
+                  </div>
+                </a>
+              </div>
+              <div class="col-md-4 p-1">
+                <a class="gallery-col" href="img/exhibition/america25/6.jpg" data-fancybox="images">
+                  <div class="gallery-box">
+                    <img src="img/exhibition/america25/6.jpg" alt="Americas Food & Beverage Show 2025">
+                  </div>
+                </a>
+              </div>
+              <div class="col-md-4 p-1">
+                <a class="gallery-col" href="img/exhibition/america25/7.jpg" data-fancybox="images">
+                  <div class="gallery-box">
+                    <img src="img/exhibition/america25/7.jpg" alt="Americas Food & Beverage Show 2025">
+                  </div>
+                </a>
+              </div>
+              <div class="col-md-4 p-1">
+                <a class="gallery-col" href="img/exhibition/america25/8.jpg" data-fancybox="images">
+                  <div class="gallery-box">
+                    <img src="img/exhibition/america25/8.jpg" alt="Americas Food & Beverage Show 2025">
+                  </div>
+                </a>
+              </div> -->
             </div>
           </div>
         </div>
@@ -423,6 +483,70 @@
                 <a class="gallery-col" href="img/exhibition/aahar25/06.jpg" data-fancybox="images">
                   <div class="gallery-box">
                     <img src="img/exhibition/aahar25/06.jpg" alt="AAHAR 2025">
+                  </div>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="tab-pane fade" id="option5" role="tabpanel" aria-labelledby="option5-tab">
+        <div class="e-commerce-gallery BoxesGallery mt-3">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col-md-4 p-1">
+                <a class="gallery-col" href="img/exhibition/america25/1.jpg" data-fancybox="images">
+                  <div class="gallery-box">
+                    <img src="img/exhibition/america25/1.jpg" alt="Americas Food & Beverage Show 2025">
+                  </div>
+                </a>
+              </div>
+              <div class="col-md-4 p-1">
+                <a class="gallery-col" href="img/exhibition/america25/2.jpg" data-fancybox="images">
+                  <div class="gallery-box">
+                    <img src="img/exhibition/america25/2.jpg" alt="Americas Food & Beverage Show 2025">
+                  </div>
+                </a>
+              </div>
+              <div class="col-md-4 p-1">
+                <a class="gallery-col" href="img/exhibition/america25/3.jpg" data-fancybox="images">
+                  <div class="gallery-box">
+                    <img src="img/exhibition/america25/3.jpg" alt="Americas Food & Beverage Show 2025">
+                  </div>
+                </a>
+              </div>
+              <div class="col-md-4 p-1">
+                <a class="gallery-col" href="img/exhibition/america25/4.jpg" data-fancybox="images">
+                  <div class="gallery-box">
+                    <img src="img/exhibition/america25/4.jpg" alt="Americas Food & Beverage Show 2025">
+                  </div>
+                </a>
+              </div>
+              <div class="col-md-4 p-1">
+                <a class="gallery-col" href="img/exhibition/america25/5.jpg" data-fancybox="images">
+                  <div class="gallery-box">
+                    <img src="img/exhibition/america25/5.jpg" alt="Americas Food & Beverage Show 2025">
+                  </div>
+                </a>
+              </div>
+              <div class="col-md-4 p-1">
+                <a class="gallery-col" href="img/exhibition/america25/6.jpg" data-fancybox="images">
+                  <div class="gallery-box">
+                    <img src="img/exhibition/america25/6.jpg" alt="Americas Food & Beverage Show 2025">
+                  </div>
+                </a>
+              </div>
+              <div class="col-md-4 p-1">
+                <a class="gallery-col" href="img/exhibition/america25/7.jpg" data-fancybox="images">
+                  <div class="gallery-box">
+                    <img src="img/exhibition/america25/7.jpg" alt="Americas Food & Beverage Show 2025">
+                  </div>
+                </a>
+              </div>
+              <div class="col-md-4 p-1">
+                <a class="gallery-col" href="img/exhibition/america25/8.jpg" data-fancybox="images">
+                  <div class="gallery-box">
+                    <img src="img/exhibition/america25/8.jpg" alt="Americas Food & Beverage Show 2025">
                   </div>
                 </a>
               </div>

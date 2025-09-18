@@ -807,8 +807,11 @@
                       <div class="col-md-4 col-4">
                         <img src="img/clients/29.png" alt="DS Group" title="" />
                       </div>
-                      <div class="col-md-4 col-4">
+                      <!-- <div class="col-md-4 col-4">
                         <img src="img/clients/9.png" alt="LG" title="" />
+                      </div> -->
+                      <div class="col-md-4 col-4">
+                        <img src="img/clients/wingreen.png" alt="Wingreen" title="" />
                       </div>
                     </div>
                     <div class="row justify-content-center align-items-center">
