@@ -403,6 +403,48 @@
                   </div>
                 </a>
               </div>
+              <div class="col-md-4 p-1">
+                <a class="gallery-col" href="img/exhibition/packexpo25/11.jpg" data-fancybox="images">
+                  <div class="gallery-box">
+                    <img src="img/exhibition/packexpo25/11.jpg" alt="PackExpo Las Vegas 2025">
+                  </div>
+                </a>
+              </div>
+              <div class="col-md-4 p-1">
+                <a class="gallery-col" href="img/exhibition/packexpo25/12.jpg" data-fancybox="images">
+                  <div class="gallery-box">
+                    <img src="img/exhibition/packexpo25/12.jpg" alt="PackExpo Las Vegas 2025">
+                  </div>
+                </a>
+              </div>
+              <div class="col-md-4 p-1">
+                <a class="gallery-col" href="img/exhibition/packexpo25/13.jpg" data-fancybox="images">
+                  <div class="gallery-box">
+                    <img src="img/exhibition/packexpo25/13.jpg" alt="PackExpo Las Vegas 2025">
+                  </div>
+                </a>
+              </div>
+              <div class="col-md-4 p-1">
+                <a class="gallery-col" href="img/exhibition/packexpo25/14.jpg" data-fancybox="images">
+                  <div class="gallery-box">
+                    <img src="img/exhibition/packexpo25/14.jpg" alt="PackExpo Las Vegas 2025">
+                  </div>
+                </a>
+              </div>
+              <div class="col-md-4 p-1">
+                <a class="gallery-col" href="img/exhibition/packexpo25/15.jpg" data-fancybox="images">
+                  <div class="gallery-box">
+                    <img src="img/exhibition/packexpo25/15.jpg" alt="PackExpo Las Vegas 2025">
+                  </div>
+                </a>
+              </div>
+              <div class="col-md-4 p-1">
+                <a class="gallery-col" href="img/exhibition/packexpo25/16.jpg" data-fancybox="images">
+                  <div class="gallery-box">
+                    <img src="img/exhibition/packexpo25/16.jpg" alt="PackExpo Las Vegas 2025">
+                  </div>
+                </a>
+              </div>
             </div>
           </div>
         </div>
@@ -671,6 +713,48 @@
                 <a class="gallery-col" href="img/exhibition/packexpo25/10.jpg" data-fancybox="images">
                   <div class="gallery-box">
                     <img src="img/exhibition/packexpo25/10.jpg" alt="PackExpo Las Vegas 2025">
+                  </div>
+                </a>
+              </div>
+              <div class="col-md-4 p-1">
+                <a class="gallery-col" href="img/exhibition/packexpo25/11.jpg" data-fancybox="images">
+                  <div class="gallery-box">
+                    <img src="img/exhibition/packexpo25/11.jpg" alt="PackExpo Las Vegas 2025">
+                  </div>
+                </a>
+              </div>
+              <div class="col-md-4 p-1">
+                <a class="gallery-col" href="img/exhibition/packexpo25/12.jpg" data-fancybox="images">
+                  <div class="gallery-box">
+                    <img src="img/exhibition/packexpo25/12.jpg" alt="PackExpo Las Vegas 2025">
+                  </div>
+                </a>
+              </div>
+              <div class="col-md-4 p-1">
+                <a class="gallery-col" href="img/exhibition/packexpo25/13.jpg" data-fancybox="images">
+                  <div class="gallery-box">
+                    <img src="img/exhibition/packexpo25/13.jpg" alt="PackExpo Las Vegas 2025">
+                  </div>
+                </a>
+              </div>
+              <div class="col-md-4 p-1">
+                <a class="gallery-col" href="img/exhibition/packexpo25/14.jpg" data-fancybox="images">
+                  <div class="gallery-box">
+                    <img src="img/exhibition/packexpo25/14.jpg" alt="PackExpo Las Vegas 2025">
+                  </div>
+                </a>
+              </div>
+              <div class="col-md-4 p-1">
+                <a class="gallery-col" href="img/exhibition/packexpo25/15.jpg" data-fancybox="images">
+                  <div class="gallery-box">
+                    <img src="img/exhibition/packexpo25/15.jpg" alt="PackExpo Las Vegas 2025">
+                  </div>
+                </a>
+              </div>
+              <div class="col-md-4 p-1">
+                <a class="gallery-col" href="img/exhibition/packexpo25/16.jpg" data-fancybox="images">
+                  <div class="gallery-box">
+                    <img src="img/exhibition/packexpo25/16.jpg" alt="PackExpo Las Vegas 2025">
                   </div>
                 </a>
               </div>
