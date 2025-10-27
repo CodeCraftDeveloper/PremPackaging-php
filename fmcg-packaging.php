@@ -110,7 +110,7 @@
         </div>
         <div class="col-md-6 order1 mt-5">
           <video loop="loop" autoplay="" playsinline="" muted="" class="packaging-video" alt="FMCG Packaging">
-            <source src="img/hero/packaging-toboco.mp4" type="video/mp4">
+            <source src="img/hero/packaging-toboco-new.webm" type="video/mp4">
           </video>
         </div>
       </div>
