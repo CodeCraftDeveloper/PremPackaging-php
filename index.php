@@ -137,7 +137,7 @@
               <div class="site-banner-content-col">
                 <h1 class="wow fadeInUp">It's all in the Packaging.</h1>
                 <p class="wow fadeInUp">Your brand deserves the best <a href="https://store.prempackaging.com/" target="_blank" style="text-decoration: none; color: white">packaging products</a> that we offer at our world-class infrastructure.</p>
-                <a href="innovation.php" class="more-btn"><i class="fa fa-clone" aria-hidden="true"></i>ABOUT OUR INNOVATIVE PACKAGING</a>
+                <a href="innovation.php" class="more-btn"><i class="fa fa-clone" aria-hidden="true"></i>ABOUT OUR INNOVATIVE PACKAGING.</a>
               </div>
             </div>
           </div>
