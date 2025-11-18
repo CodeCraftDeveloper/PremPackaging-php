@@ -1,10 +1,12 @@
-RewriteEngine on
+Options +FollowSymLinks -MultiViews
+RewriteEngine On
+RewriteBase /
 
-RewriteCond %{THE_REQUEST} /([^.]+)\.php [NC]
-RewriteRule ^ /%1 [NC,L,R]
+# 1. Redirect direct .php access to extensionless URL
+RewriteCond %{THE_REQUEST} \s/+(.+?)\.php[\s?] [NC]
+RewriteRule ^ %1 [R=301,L]
 
+# 2. Internally rewrite extensionless URL to .php if file exists
+RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}.php -f
-RewriteRule ^ %{REQUEST_URI}.php [NC,L]
-
-RewriteCond %{REQUEST_URI} ^/index$ [NC]
-RewriteRule ^(.*)$ / [R=301,L]
+RewriteRule ^(.*)$ $1.php [L]

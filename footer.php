@@ -19,7 +19,7 @@
 </style>
 </head>
 <body>
-  <footer class="footer">
+  <footer class="footer pb-5">
     <div class="container">
       <div class="row">
         <div class="col-md-12">
@@ -72,8 +72,8 @@
             <li><a href="electronics-packaging.php" style="font-size: 16px">Electronics Packaging</a></li>
             <li><a href="beauty-personal-care.php" style="font-size: 16px">Beauty & Personal Care</a></li>
             <li><a href="fmcg-packaging.php" style="font-size: 16px">FMCG Packaging</a></li>
+            <li><a href="healthcare-packaging.php" style="font-size: 16px">Healthcare Packaging</a></li>
           </ul>
-          <a href="packaging-technology.php"><h5  style="font-size: 18px">Packaging Technology</h5></a>
           <ul>
             <li><a href="#"></a></li>
           </ul>
@@ -85,6 +85,7 @@
             <li><a href="displays.php" style="font-size: 16px">Displays</a></li>          
           </ul>
           <a href="sustainability.php"><h5 style="font-size: 18px">Sustainability</h5></a>
+          <a href="packaging-technology.php"><h5 style="font-size: 18px" class="m-0">Packaging Technology</h5></a>
           <ul>
             <li><a href="#">&nbsp;</a></li>
           </ul>

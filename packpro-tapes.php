@@ -1,90 +1,172 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-<meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Discover PackPro™ Tapes for superior packaging solutions. High-quality adhesive tapes for all your packaging needs. Elevate your packaging game with Prem Industries India Limited. Order now!">
-    <meta property="og:title" content="Get the best PackPro™ Tapes | Prem Industries India Limited">
-    <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
 
-    <title>Get the best PackPro™ Tapes</title>
-    <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
-    <!-- Bootstrap core css -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="css/jquery.fancybox.min.css" />
-    <!-- Custom styles for this site -->
-    <link href="css/main.css" rel="stylesheet">
-    <link href="css/media.css" rel="stylesheet">
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
-    />
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description"
+    content="Leading PackPro™ tapes manufacturer offering high-adhesion, durable tapes for secure packaging. Choose us for innovative, reliable, and custom tape solutions.">
+  <meta property="og:title" content="PackPro™ tapes Manufacturer | Prem Industries India Limited">
+  <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script>
+  <script>window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
+
+  <title>PackPro™ Tapes Manufacturer | Prem Industries India Limited</title>
+  <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
+  <!-- Bootstrap core css -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/jquery.fancybox.min.css" />
+  <!-- Custom styles for this site -->
+  <link href="css/main.css" rel="stylesheet">
+  <link href="css/media.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+  <style>
+    h4 {
+      color: #14254C;
+    }
+
+    .bullet-point-new {
+      color: #14254C;
+    }
+
+    b {
+      color: #14254C;
+    }
+  </style>
 </head>
+
 <body>
-    <?php include 'header.php';?>
-    <div class="page-hero pageheade" style="background: #eee url(./img/packpro-bg.jpg); height: 330px; background-size: cover; background-position: center;">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-8">
-            <h1>PackPro<sup>™</sup> Tapes</h1>
-          </div>
-          <div class="col-md-12">
-            <nav aria-label="breadcrumb">
-              <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="/"><i class="fa fa-home"></i> Home</a></li>
-                <li class="breadcrumb-item active" aria-current="page">PackPro™ Tapes</li>
-              </ol>
-            </nav>
-          </div> 
+  <?php include 'header.php'; ?>
+  <!-- <div class="page-hero pageheade"
+    style="background: #eee url(./img/packpro-bg.jpg); height: 330px; background-size: cover; background-position: center;">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8">
+          <h1>PackPro™ Tapes</h1>
+        </div>
+        <div class="col-md-12">
+          <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+              <li class="breadcrumb-item"><a href="#"><i class="fa fa-home"></i> Home</a></li>
+              <li class="breadcrumb-item active" aria-current="page">PackPro™ Tapes</li>
+            </ol>
+          </nav>
         </div>
       </div>
     </div>
-    <section class="body__content pt-5 page-body-content">
-      <div class="container">
-        <div class="row d-flex justify-content-center">
-          <h3 class=" text-center" style="text-transform: none;">Secure your packing with our PackPro<sup>TM</sup> Tapes</h3>
-          <p class="mt-5">Making it easier for you to brand your packages in an easy way, we offer PackPro™ Tapes. Our tapes can be customized to display your brand logo and design. We offer BOPP tapes, Paper tapes, and speciality tapes. Suitable for all weather types, our shipping tapes keep all your products absolutely secured avoiding any rip-offs in transit.
-          You can easily order our PackPro™ tapes online from our store. Our packaging tapes include BOPP tapes, paper tapes, and speciality tapes. Our speciality tapes include glass cloth tape, masking tape, APEO-free tape, no marks polyester tape, masking tape, cross-filament tape, aluminium foil tape.  Moreover, we offer customized packaging tapes with your selected prints, making it possible for you to brand your packages as per your business requirement.
+  </div> -->
+
+  <img src="img/common-banners/packpro-tapes.jpg" alt="PackPro™ Tapes" class="img-fluid w-100 shadow-sm">
+
+
+  <section class="body__content mt-5 page-body-content">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <div>
+            <h3 class="wow fadeInUp" style="font-size: 35px">PackPro™ Tapes: Secure. Customizable. Made for Your Brand
+            </h3>
+          </div>
         </div>
       </div>
-    </section>
+      <div class="row">
+        <div class="col-md-12" style="text-align: justify">
+          <div class="body-content">
+            <div class="body-content">
+              <p class="wow fadeInUp">At Prem Industries India Limited, we bring you PackPro™ tapes—a smart and secure
+                way to seal, protect, and brand your packages. As a trusted PackPro™ Tape manufacturer, we offer a wide
+                range of high-quality tapes designed to meet the diverse needs of modern packaging and logistics.</p>
+              <p class="wow fadeInUp">Whether you’re shipping locally or globally, our PackPro™ tapes are engineered to
+                withstand all weather conditions and transit environments. These tapes not only secure your cartons and
+                packages effectively but also provide an excellent opportunity to enhance your brand visibility with
+                customized logo printing and designs.</p>
+              <h4 style="font-weight: 600; color: #14254C;">Our product range includes:</h4>
+              <ul class="mt-0 mb-3">
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
+                    class="bullet-point-new">⦿</span> BOPP tapes
+                </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
+                    class="bullet-point-new">⦿</span> Paper tapes </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
+                    class="bullet-point-new">⦿</span> Specialty tapes </li>
+              </ul>
 
-    <!-- <section class="body__content padding page-body-content">
-      <div class="container">
-      <div class="row d-flex justify-content-center">
-          
-          <div class="card mb-3" style=" border:none;">
-            <div class="row p-0 m-0">
-              <div class="col-md-12">
-                <div class="card-body justify-content-center">
-                  <h3 class="card-title text-center">Tape Brochure</h3>
-                  <a class="packpro-brochure-a text-center d-flex justify-content-center" href="./brochure/Tape Brochure.pdf" download="Tape Brochure.pdf" target="_blank" rel="noreferrer">
-                    <button class="btn btn-outline-danger pack-pro-download-btn">Download</button>
-                  </a>
-                </div>
-              </div>
+              <h4 style="font-weight: 600; color: #14254C;">Our specialty tapes category features:</h4>
+              <ul class="mt-0 mb-3">
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
+                    class="bullet-point-new">⦿</span> Glass Cloth tapes
+                </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
+                    class="bullet-point-new">⦿</span> Masking tapes </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
+                    class="bullet-point-new">⦿</span> APEO-Free tapes </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
+                    class="bullet-point-new">⦿</span> No-Mark Polyester tapes </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
+                    class="bullet-point-new">⦿</span> Cross-Filament tapes </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
+                    class="bullet-point-new">⦿</span> Aluminium Foil tapes </li>
+              </ul>
+              <p class="wow fadeInUp">Every tapes are crafted with strong adhesives and durable materials to ensure
+                tamper-proof sealing, easy application, and clean removal when needed. Whether you’re in retail,
+                e-commerce, warehousing, or manufacturing, PackPro™ tapes deliver reliable performance and a polished
+                finish to your packaging.</p>
+              <p class="wow fadeInUp">One of the standout features of PackPro™ tapes is the ability to customize them
+                with your business logo, colour scheme, or promotional message—giving your packaging a unique,
+                professional, and branded appearance.</p>
+
+              <h4 style="font-weight: 600; color: #14254C;">Why Choose PackPro™ tapes?</h4>
+              <ul class="mt-0 mb-3">
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
+                    class="bullet-point-new">⦿</span>
+                  Premium tapes quality for strong, secure sealing
+                </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
+                    class="bullet-point-new">⦿</span>
+                  Works in all climates and storage conditions </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
+                    class="bullet-point-new">⦿</span>
+                  Wide variety of tapes types for different applications </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
+                    class="bullet-point-new">⦿</span>
+                  Fully customizable with brand logos and prints </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
+                    class="bullet-point-new">⦿</span>
+                  Fast and easy online ordering from our store </li>
+                <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
+                    class="bullet-point-new">⦿</span>
+                  Manufactured with eco-conscious and durable materials </li>
+              </ul>
+              <p class="wow fadeInUp">Seal with confidence. Ship with identity. Choose Prem Industries India Limited, a
+                leading PackPro™ tapes manufacturer, for packaging solutions that secure your product and strengthen
+                your
+                brand.</p>
             </div>
           </div>
-
         </div>
       </div>
-    </section> -->
+    </div>
+    <div class="mb-3"></div>
+  </section>
 
-    <section class="ContactPrem pt-0 mt-5">
-      <div class="container">
-        <div class="ContactPrem-content">
-          <h3>Connect to know us better!</h3>
-          <p>Let’s discuss a blend of your products and our packaging.</p>
-          <div>
-            <a href="contact-us.php" class="more-btn mt-4"><i class="fa fa-clone" aria-hidden="true"></i> Contact Us</a>
-            <a href="https://www.store.prempackaging.com/tape" class="more-btn mt-4" target="_blank"><i class="fa-solid fa-cart-shopping"></i> Shop Now</a>
-          </div>
-        </div>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-md-12 text-center">
+        <img src="img/packpro-tapes/01.png" class="img-fluid" alt="PackPro™ Tapes">
       </div>
-    </section>
+    </div>
+  </div>
 
-    <?php include 'footer.php';?>
+  <?php include 'contactsection.php'; ?>
+
+  <?php include 'footer.php'; ?>
+
+  <script type="text/javascript">
+    $(document).ready(function () {
+      $('.fancybox').fancybox();
+    });
+  </script>
 </body>
+
 </html>
