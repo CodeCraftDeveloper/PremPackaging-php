@@ -178,7 +178,7 @@
                     target="_blank" style="text-decoration: none; color: white">packaging products</a> that we offer at
                   our world-class infrastructure.</p>
                 <a href="innovation.php" class="more-btn"><i class="fa fa-clone" aria-hidden="true"></i>ABOUT OUR
-                  INNOVATIVE PACKAGING</a>
+                  INNOVATIVE PACKAGING.</a>
               </div>
             </div>
           </div>
