@@ -2,14 +2,21 @@
 <div style="background:#E92227; color:white; font-weight:600; font-size:16px; padding:6px 0; overflow:hidden;">
   <div class="custom-marquee">
     <div class="custom-marquee-content">
-      Celebrate this festive season with <b>10% OFF</b> on all packaging solutions! Use code <b>PREFESTIVE10</b> at
-      checkout.
-      Hurry—offer valid for a limited time!
-      <span class="marquee-gap"></span>
-      Celebrate this festive season with <b>10% OFF</b> on all packaging solutions! Use code <b>PREFESTIVE10</b> at
-      checkout.
-      Hurry—offer valid for a limited time!
-    </div>
+  <span>
+    ❄️ <strong>Winter Sale is Here!</strong> Enjoy <strong>10% OFF</strong> on all packaging solutions when you shop through our Website or Mobile App.
+    Use code <strong>WINTERSALE10</strong> at checkout.
+    Hurry—offer valid for a limited time!
+  </span>
+
+  <span class="marquee-gap"></span>
+
+  <span>
+    <strong>Winter Sale is Here!</strong> Enjoy <strong>10% OFF</strong> on all packaging solutions when you shop through our Website or Mobile App.
+    Use code <strong>WINTERSALE10</strong> at checkout.
+    Hurry—offer valid for a limited time!
+  </span>
+</div>
+
   </div>
 </div>
 <header>

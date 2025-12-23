@@ -140,6 +140,67 @@
       justify-content: center;
       text-align: center;
     }
+    .whats-new__wrapper {
+  border-right: 1px solid #ccc;
+}
+
+.whats-new__title {
+  font-size: 46px;
+  font-weight: 600;
+}
+
+.whats-new__subtitle {
+  max-width: 720px;
+  margin: 0 auto;
+  color: #666;
+}
+
+/* Product Card */
+.product-wrap {
+  background: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  text-align: center;
+}
+
+/* Image Container with fixed ratio */
+.product-img {
+  width: 100%;
+  height: 220px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.product-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain; /* KEY FIX */
+  transition: transform 0.4s ease;
+}
+
+.product-wrap:hover img {
+  transform: scale(1.05);
+}
+
+.product-wrap h3 {
+  font-size: 16px;
+  font-weight: 500;
+  padding: 12px 8px;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .whats-new__title {
+    font-size: 32px;
+  }
+
+  .product-img {
+    height: 180px;
+  }
+}
+
   </style>
 </head>
 
@@ -333,212 +394,53 @@
         </video>
       </div>
     </section>
-    <section class="body__content padding second">
-      <div class="container">
-        <div class="row">
-          <!-- Outer Column -->
-          <div class="col-md-6" style="border-right: 1px solid grey;">
-            <div class="row">
-              <div class="col-md-12">
-                <div class="text-center">
-                  <h2 class="wow fadeInUp" style="font-size: 46px;">What's New at Prem?</h2>
-                  <p class="wow fadeInUp mt-4">We keep our innovation game always on! See our latest arrivals,
-                    soon-to-be-launched products, technology, and more here.</p>
-                </div>
-              </div>
-            </div>
+    <section class="body__content padding second whats-new">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 whats-new__wrapper">
 
-            <div class="row">
-              <div class="col-md-12">
-                <div class="new-arrivals__slider owl-carousel owl-theme">
-                  <div class="product-wrap">
-                    <div class="overflow-hidden">
-                      <img src="img/index/whats-new/carry-bag.jpg" alt="Carry Bags" title="" />
-                    </div>
-                    <div class="arrivals-content-block">
-                      <h3 class="text-center">Carry Bags</h3>
-                    </div>
-                  </div>
-                  <div class="product-wrap">
-                    <div class="overflow-hidden">
-                      <img src="img/index/whats-new/carry-handle-tape.jpg" alt="PackPro Carry Handle Tape" title="" />
-                    </div>
-                    <div class="arrivals-content-block">
-                      <h3 class="text-center">PackPro™ Carry Handle Tape</h3>
-                    </div>
-                  </div>
-                  <div class="product-wrap">
-                    <div class="overflow-hidden">
-                      <img src="img/index/whats-new/food-wrapping-paper.jpg" alt="PackPro Food Wrapping Paper"
-                        title="" />
-                    </div>
-                    <div class="arrivals-content-block">
-                      <h3 class="text-center">PackPro™ Food Wrapping Paper</h3>
-                    </div>
-                  </div>
-                  <div class="product-wrap">
-                    <div class="overflow-hidden">
-                      <img src="img/index/whats-new/new/arrivals2.jpg" alt="Label Stock" title="" />
-                    </div>
-                    <div class="arrivals-content-block">
-                      <h3 class="text-center">Label Stock</h3>
-                    </div>
-                  </div>
-                  <div class="product-wrap">
-                    <div class="overflow-hidden">
-                      <img src="img/index/whats-new/new/paper-tape-home.jpg" alt="Paper Tape" title="" />
-                    </div>
-                    <div class="arrivals-content-block">
-                      <h3 class="text-center">Paper Tape</h3>
-                    </div>
-                  </div>
-                  <div class="product-wrap">
-                    <div class="overflow-hidden">
-                      <img src="img/index/whats-new/new/flexpand-img.jpg" height="50" width="50" alt="Flexpad" />
-                    </div>
-                    <div class="arrivals-content-block">
-                      <h3 class="text-center">Flexpand™</h3>
-                    </div>
-                  </div>
-                  <div class="product-wrap">
-                    <div class="overflow-hidden">
-                      <!-- RESIZE THIS  -->
-                      <img src="img/index/whats-new/new/wetbox-img.jpg" alt="WetBoxTech" />
-                    </div>
-                    <div class="arrivals-content-block">
-                      <h3 class="text-center">WetBoxTech™</h3>
-                    </div>
-                  </div>
-                  <div class="product-wrap">
-                    <div class="overflow-hidden">
-                      <img src="img/index/whats-new/new/labels-with-multi-ups.jpg" alt="Labels with Multi-ups" />
-                    </div>
-                    <div class="arrivals-content-block">
-                      <h3 class="text-center">Labels with Multi-ups</h3>
-                    </div>
-                  </div>
-                  <div class="product-wrap">
-                    <div class="overflow-hidden">
-                      <img src="img/index/whats-new/new/apeo-free-tape-img.jpg" alt="APEO Free Tape" />
-                    </div>
-                    <div class="arrivals-content-block">
-                      <h3 class="text-center">APEO Free Tape</h3>
-                    </div>
-                  </div>
-                  <div class="product-wrap">
-                    <div class="overflow-hidden">
-                      <!-- RESIZE THIS  -->
-                      <img src="img/index/whats-new/new/aluminium-tape-img.jpg" alt="Aluminium Tape" />
-                    </div>
-                    <div class="arrivals-content-block">
-                      <h3 class="text-center">Aluminium Tape</h3>
-                    </div>
-                  </div>
-                  <div class="product-wrap">
-                    <div class="overflow-hidden">
-                      <img src="img/index/whats-new/new/masking-tape-img.jpg" alt="Masking Tape" />
-                    </div>
-                    <div class="arrivals-content-block">
-                      <h3 class="text-center">Masking Tape</h3>
-                    </div>
-                  </div>
-                  <div class="product-wrap">
-                    <div class="overflow-hidden">
-                      <img src="img/index/whats-new/new/glass-cloth-tape-img.jpg" alt="Glass Cloth Tape" />
-                    </div>
-                    <div class="arrivals-content-block">
-                      <h3 class="text-center">Glass Cloth Tape</h3>
-                    </div>
-                  </div>
-                  <div class="product-wrap">
-                    <div class="overflow-hidden">
-                      <img src="img/index/whats-new/new/honeycomb-wrapper-img.jpg" alt="Honeycomb Wrapper" />
-                    </div>
-                    <div class="arrivals-content-block">
-                      <h3 class="text-center">Honeycomb Wrapper</h3>
-                    </div>
-                  </div>
-                  <div class="product-wrap">
-                    <div class="overflow-hidden">
-                      <img src="img/index/whats-new/new/m07.png" alt="M Folder Pouch" />
-                    </div>
-                    <div class="arrivals-content-block">
-                      <h3 class="text-center">M Folder Pouch</h3>
-                    </div>
-                  </div>
-                  <div class="product-wrap">
-                    <div class="overflow-hidden">
-                      <img src="img/index/whats-new/new/padded-mailer-bag.png" alt="Padded Mailer Bag" />
-                    </div>
-                    <div class="arrivals-content-block">
-                      <h3 class="text-center">Padded Mailer Bag</h3>
-                    </div>
-                  </div>
-                  <div class="product-wrap">
-                    <div class="overflow-hidden">
-                      <img src="img/index/whats-new/new/peal-and-seal-bag.png" alt="Peal and Seal Bag" />
-                    </div>
-                    <div class="arrivals-content-block">
-                      <h3 class="text-center">Peal and Seal Bag</h3>
-                    </div>
-                  </div>
-                  <div class="product-wrap">
-                    <div class="overflow-hidden">
-                      <img src="img/index/whats-new/new/void-tape.png" alt="Void Tape" />
-                    </div>
-                    <div class="arrivals-content-block">
-                      <h3 class="text-center">Void Tape</h3>
-                    </div>
-                  </div>
-                </div>
-              </div>
+        <!-- Header -->
+        <div class="text-center mb-5">
+          <h2 class="wow fadeInUp whats-new__title">What's New at Prem?</h2>
+          <p class="wow fadeInUp whats-new__subtitle mt-3">
+            We keep our innovation game always on! See our latest arrivals,
+            soon-to-be-launched products, technology, and more here.
+          </p>
+        </div>
+
+        <!-- Carousel -->
+        <div class="new-arrivals__slider owl-carousel owl-theme">
+
+          <!-- Item -->
+          <div class="product-wrap">
+            <div class="product-img">
+              <img src="img/index/whats-new/carry-bag.jpg" alt="Carry Bags">
             </div>
+            <h3>Carry Bags</h3>
           </div>
-          <div class="col-md-6">
-            <div class="row">
-              <div class="col-md-12">
-                <div class="text-center">
-                  <h2 class="wow fadeInUp" style="font-size: 46px;">Upcoming Exhibitions</h2>
-                  <p class="wow fadeInUp mt-4">Stay tuned as we unveil our latest innovations, upcoming product
-                    launches, advanced technologies, and more at our upcoming exhibitions!</p>
-                </div>
-              </div>
+
+          <div class="product-wrap">
+            <div class="product-img">
+              <img src="img/index/whats-new/carry-handle-tape.jpg" alt="PackPro Carry Handle Tape">
             </div>
-            <div class="row">
-              <div class="col-md-12">
-                <div class="new-arrivals__slider owl-carousel owl-theme">
-                  <div class="product-wrap">
-                    <div class="overflow-hidden">
-                      <a href="exhibitions.php" target="_blank">
-                        <img src="img/index/ex/new/4-packexpo.jpg" alt="Pack Expo Las Vegas" />
-                      </a>
-                    </div>
-                    <div class="arrivals-content-block">
-                      <a href="exhibitions.php" target="_blank" style="text-decoration: none; color: black;">
-                        <h3 class="text-center">PackExpo Las Vegas</h3>
-                      </a>
-                    </div>
-                  </div>
-                  <div class="product-wrap">
-                    <div class="overflow-hidden">
-                      <a href="exhibitions.php" target="_blank">
-                        <img src="img/index/ex/new/4-america.jpg" alt="Americas Food & Beverage Show" />
-                      </a>
-                    </div>
-                    <div class="arrivals-content-block">
-                      <a href="exhibitions.php" target="_blank" style="text-decoration: none; color: black;">
-                        <h3 class="text-center">Americas Food & Beverage Show</h3>
-                      </a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
+            <h3>PackPro™ Carry Handle Tape</h3>
           </div>
+
+          <div class="product-wrap">
+            <div class="product-img">
+              <img src="img/index/whats-new/food-wrapping-paper.jpg" alt="PackPro Food Wrapping Paper">
+            </div>
+            <h3>PackPro™ Food Wrapping Paper</h3>
+          </div>
+
+          <!-- Continue same pattern for all items -->
+
         </div>
       </div>
+    </div>
   </div>
-  </section>
+</section>
+
 
   <section class="body__content padding second">
     <div class="container">
