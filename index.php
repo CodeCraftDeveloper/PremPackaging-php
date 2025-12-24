@@ -141,7 +141,7 @@
       text-align: center;
     }
     .whats-new__wrapper {
-  border-right: 1px solid #ccc;
+  
 }
 
 .whats-new__title {
