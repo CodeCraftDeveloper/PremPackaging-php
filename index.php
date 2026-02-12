@@ -189,6 +189,16 @@
         display: block;
     }
 
+    /* Keep cooler images proportionate and centered (no stretch) */
+    .paper-slider .whats-new-slide {
+        background: #f3f3f3;
+    }
+
+    .paper-slider .whats-new-slide img {
+        object-fit: contain;
+        object-position: center center;
+    }
+
     .whats-new-overlay {
         position: absolute;
         left: 0;
@@ -493,28 +503,30 @@
 
                     <div class="col-md-6 whats-new-panel">
                         <div class="paper-slider whats-new-slider owl-carousel owl-theme">
+                            <?php
+                            $coolerImages = glob('img/Whats-new/cooler/*.{jpg,jpeg,png,webp,JPG,JPEG,PNG,WEBP}', GLOB_BRACE) ?: [];
+                            natsort($coolerImages);
+                            ?>
+                            <?php if (!empty($coolerImages)): ?>
+                            <?php foreach ($coolerImages as $coolerImage): ?>
                             <div class="whats-new-slide">
-                                <img src="img/index/whats-new/carry-bag.jpg" alt="Carry Bags">
+                                <img src="<?php echo htmlspecialchars($coolerImage, ENT_QUOTES, 'UTF-8'); ?>"
+                                    alt="Cooler innovation at Prem">
                                 <div class="whats-new-overlay">
-                                    <h3>Carry Bags</h3>
-                                    <p>Durable, premium paper bags designed for modern retail needs.</p>
+                                    <h3>Cooler Range</h3>
+                                    <p>High-performance cooler solutions built for reliable everyday use.</p>
                                 </div>
                             </div>
+                            <?php endforeach; ?>
+                            <?php else: ?>
                             <div class="whats-new-slide">
-                                <img src="img/index/whats-new/carry-handle-tape.jpg" alt="PackPro Carry Handle Tape">
+                                <img src="img/Whats-new/cooler/cooler.jpeg" alt="Cooler innovation at Prem">
                                 <div class="whats-new-overlay">
-                                    <h3>PackPro Carry Handle Tape</h3>
-                                    <p>Secure grip and easy carry experience for packaging solutions.</p>
+                                    <h3>Cooler Range</h3>
+                                    <p>High-performance cooler solutions built for reliable everyday use.</p>
                                 </div>
                             </div>
-                            <div class="whats-new-slide">
-                                <img src="img/index/whats-new/food-wrapping-paper.jpg"
-                                    alt="PackPro Food Wrapping Paper">
-                                <div class="whats-new-overlay">
-                                    <h3>PackPro Food Wrapping Paper</h3>
-                                    <p>Food-safe and practical wraps built for daily use and delivery.</p>
-                                </div>
-                            </div>
+                            <?php endif; ?>
                         </div>
                     </div>
                 </div>
