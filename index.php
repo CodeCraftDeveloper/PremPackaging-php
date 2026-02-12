@@ -464,20 +464,30 @@
                 <div class="row no-gutters whats-new-panels">
                     <div class="col-md-6 whats-new-panel">
                         <div class="chimney-slider whats-new-slider owl-carousel owl-theme">
+                            <?php
+                            $chimneyImages = glob('img/chimney/*.{jpg,jpeg,png,webp,JPG,JPEG,PNG,WEBP}', GLOB_BRACE) ?: [];
+                            natsort($chimneyImages);
+                            ?>
+                            <?php if (!empty($chimneyImages)): ?>
+                            <?php foreach ($chimneyImages as $chimneyImage): ?>
                             <div class="whats-new-slide">
-                                <img src="img/chimney.png" alt="Chimney by Prem">
+                                <img src="<?php echo htmlspecialchars($chimneyImage, ENT_QUOTES, 'UTF-8'); ?>"
+                                    alt="Chimney innovation at Prem">
                                 <div class="whats-new-overlay">
                                     <h3>Now Entering Chimney Segment</h3>
                                     <p>Innovation-led chimney solutions built for modern kitchens.</p>
                                 </div>
                             </div>
+                            <?php endforeach; ?>
+                            <?php else: ?>
                             <div class="whats-new-slide">
-                                <img src="img/chimney.png" alt="Chimney innovation at Prem">
+                                <img src="img/chimney/chimney.png" alt="Chimney innovation at Prem">
                                 <div class="whats-new-overlay">
-                                    <h3>Smart Chimney Range</h3>
-                                    <p>Powerful performance, cleaner air, and trusted Prem quality.</p>
+                                    <h3>Now Entering Chimney Segment</h3>
+                                    <p>Innovation-led chimney solutions built for modern kitchens.</p>
                                 </div>
                             </div>
+                            <?php endif; ?>
                         </div>
                     </div>
 
@@ -1007,24 +1017,49 @@
                 }
             }
         });
+
+        $('.chimney-slider').owlCarousel({
+            loop: true,
+            nav: false,
+            dots: false,
+            autoplay: true,
+            autoplayTimeout: 3500,
+            smartSpeed: 900,
+            items: 1
+        });
+
+        $('.paper-slider').owlCarousel({
+            loop: true,
+            nav: false,
+            dots: false,
+            autoplay: true,
+            autoplayTimeout: 3200,
+            smartSpeed: 900,
+            items: 1
+        });
+
         var modal = document.getElementById("myModal");
 
         // Get the <span> element that closes the modal
-        var span = document.getElementsByclass("close")[0];
+        var span = document.getElementsByClassName("close")[0];
 
         // When the page is loaded, display the modal
         window.onload = function() {
-            modal.style.display = "block";
+            if (modal) {
+                modal.style.display = "block";
+            }
         }
 
         // When the user clicks on <span> (x), close the modal
-        span.onclick = function() {
-            modal.style.display = "none";
+        if (span && modal) {
+            span.onclick = function() {
+                modal.style.display = "none";
+            }
         }
 
         // When the user clicks anywhere outside of the modal, close it
         window.onclick = function(event) {
-            if (event.target == modal) {
+            if (modal && event.target == modal) {
                 modal.style.display = "none";
             }
         }
