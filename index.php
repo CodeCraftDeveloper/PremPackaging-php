@@ -457,8 +457,8 @@
         </section>
         <section class="body__content padding second whats-new">
             <div class="container">
-                <div class="row">
-                    <div class="col-12">
+                <div class="row justify-content-center">
+                    <div class="col-12 col-lg-8">
                         <div class="mb-5">
                             <h2 class="wow fadeInUp whats-new__title">What's New at Prem?</h2>
                             <p class="wow fadeInUp whats-new__subtitle mt-3">
@@ -471,8 +471,8 @@
             </div>
 
             <div class="container-fluid px-0">
-                <div class="row no-gutters whats-new-panels">
-                    <div class="col-md-6 whats-new-panel">
+                <div class="row no-gutters justify-content-center whats-new-panels">
+                    <div class="col-md-4 whats-new-panel">
                         <div class="chimney-slider whats-new-slider owl-carousel owl-theme">
                             <?php
                             $chimneyImages = glob('img/chimney/*.{jpg,jpeg,png,webp,JPG,JPEG,PNG,WEBP}', GLOB_BRACE) ?: [];
@@ -501,7 +501,7 @@
                         </div>
                     </div>
 
-                    <div class="col-md-6 whats-new-panel">
+                    <div class="col-md-4 whats-new-panel">
                         <div class="paper-slider whats-new-slider owl-carousel owl-theme">
                             <?php
                             $coolerImages = glob('img/Whats-new/cooler/*.{jpg,jpeg,png,webp,JPG,JPEG,PNG,WEBP}', GLOB_BRACE) ?: [];
@@ -513,7 +513,7 @@
                                 <img src="<?php echo htmlspecialchars($coolerImage, ENT_QUOTES, 'UTF-8'); ?>"
                                     alt="Cooler innovation at Prem">
                                 <div class="whats-new-overlay">
-                                    <h3>Cooler Range</h3>
+                                    <h3>Coolers and OEM Segments</h3>
                                     <p>High-performance cooler solutions built for reliable everyday use.</p>
                                 </div>
                             </div>

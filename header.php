@@ -1,12 +1,12 @@
-<!-- Marquee Announcement -->
+﻿<!-- Marquee Announcement -->
 <div style="background:#E92227; color:white; font-weight:600; font-size:16px; padding:6px 0; overflow:hidden;">
     <div class="custom-marquee">
         <div class="custom-marquee-content">
             <span>
-                ❄️ <strong>Winter Sale is Here!</strong> Enjoy <strong>10% OFF</strong> on all packaging solutions when
+                <strong>Winter Sale is Here!</strong> Enjoy <strong>10% OFF</strong> on all packaging solutions when
                 you shop through our Website or Mobile App.
                 Use code <strong>WINTERSALE10</strong> at checkout.
-                Hurry—offer valid for a limited time!
+                Hurry-offer valid for a limited time!
             </span>
 
             <span class="marquee-gap"></span>
@@ -15,7 +15,7 @@
                 <strong>Winter Sale is Here!</strong> Enjoy <strong>10% OFF</strong> on all packaging solutions when you
                 shop through our Website or Mobile App.
                 Use code <strong>WINTERSALE10</strong> at checkout.
-                Hurry—offer valid for a limited time!
+                Hurry-offer valid for a limited time!
             </span>
         </div>
 
@@ -82,8 +82,7 @@
                     <li class="nav-item dropdown megamenu-li dmenu">
                         <a class="nav-link dropdown-toggle" href="" id="dropdown01" data-toggle="dropdown"
                             aria-haspopup="true" aria-expanded="false">Products</a>
-                        <div class="dropdown-menu megamenu sm-menu border-top p-0 m-0" aria-labelledby="dropdown01"
-                            style="width: 900px;">
+                        <div class="dropdown-menu megamenu sm-menu border-top p-0 m-0" aria-labelledby="dropdown01">
                             <div class="row">
                                 <!-- Add one border-left class bellow for division -->
                                 <div class="col-sm-4 col-lg-4">
@@ -99,19 +98,23 @@
                                     <a class="dropdown-item" href="2-ply-corrugated-mailer-bags.php">2 Ply Corrugated
                                         Mailer Bags</a>
                                     <a class="dropdown-item" href="carry-bags.php">Carry Bags</a>
-                                    <a class="dropdown-item" href="packpro-tapes.php">PackPro<sup>™</sup> Tapes</a>
-                                    <a class="dropdown-item" href="wetboxtech.php">WetBoxTech<sup>™</sup></a>
-                                    <!-- <a class="dropdown-item" href="packpro-tapes.php">PackPro<sup>™</sup> Tapes</a> -->
+                                    <a class="dropdown-item" href="packpro-tapes.php">PackPro<sup>&trade;</sup>
+                                        Tapes</a>
+                                    <a class="dropdown-item" href="wetboxtech.php">WetBoxTech<sup>&trade;</sup></a>
+                                    <!-- <a class="dropdown-item" href="packpro-tapes.php">PackPro<sup>&trade;</sup> Tapes</a> -->
                                 </div>
                                 <div class="col-sm-4 col-lg-4">
-                                    <a class="dropdown-item" href="flexpand.php">Flexpand<sup>™</sup></a>
-                                    <a class="dropdown-item" href="rollabel-labels.php">Rollabel<sup>™</sup> Labels</a>
-                                    <a class="dropdown-item" href="labels-with-multiups.php">Rollabel<sup>™</sup> Labels
+                                    <a class="dropdown-item" href="flexpand.php">Flexpand<sup>&trade;</sup></a>
+                                    <a class="dropdown-item" href="rollabel-labels.php">Rollabel<sup>&trade;</sup>
+                                        Labels</a>
+                                    <a class="dropdown-item" href="labels-with-multiups.php">Rollabel<sup>&trade;</sup>
+                                        Labels
                                         with Multiups</a>
                                     <a class="dropdown-item"
-                                        href="packpro-honeycomb-food-wrapping-paper.php">PackPro<sup>™</sup>
+                                        href="packpro-honeycomb-food-wrapping-paper.php">PackPro<sup>&trade;</sup>
                                         HoneyComb <br>Food Wrapping Papers</a>
-                                    <a class="dropdown-item" href="packpro-carry-handle-tape.php">PackPro<sup>™</sup>
+                                    <a class="dropdown-item"
+                                        href="packpro-carry-handle-tape.php">PackPro<sup>&trade;</sup>
                                         Carry Handle
                                         Tapes</a>
                                     <a class="dropdown-item" href="peel-and-seal-bags.php">Peel and Seal Bags</a>
@@ -122,7 +125,8 @@
                                     <a class="dropdown-item" href="m-folder.php">M Folders</a>
                                 </div>
                                 <div class="col-sm-4 col-lg-4">
-                                    <a class="dropdown-item" href="packpro-honeycomb-wrapper.php">PackPro<sup>™</sup>
+                                    <a class="dropdown-item"
+                                        href="packpro-honeycomb-wrapper.php">PackPro<sup>&trade;</sup>
                                         HoneyComb
                                         <br>Wrappers</a>
                                     <a class="dropdown-item" href="paper-bubble-bag.php">Paper Bubble Bags</a>
@@ -143,7 +147,7 @@
                   <a class="dropdown-item" href="luxury-rigid-boxes.php">Luxury Rigid Boxes</a>
                   <a class="dropdown-item" href="paper-mailer-bags.php">Paper Mailer Bags</a>
                   <a class="dropdown-item" href="2-ply-corrugated-mailer-bags.php">2 Ply Corrugated Mailer Bags</a>
-                  <a class="dropdown-item" href="packpro-tapes.php">PackPro<sup>™</sup> Tapes</a>
+                  <a class="dropdown-item" href="packpro-tapes.php">PackPro<sup>&trade;</sup> Tapes</a>
               </div> -->
                     </li>
                     <!--=========-->
@@ -207,6 +211,12 @@
 
 <head>
     <style>
+    html,
+    body {
+        max-width: 100%;
+        overflow-x: hidden;
+    }
+
     @keyframes shake-cart {
 
         0%,
@@ -237,6 +247,80 @@
     .cart-shake {
         animation: shake-cart 2s infinite;
         display: inline-block;
+    }
+
+    .navbar .container-fluid {
+        display: flex;
+        align-items: center;
+        flex-wrap: nowrap;
+    }
+
+    .navbar .navbar-brand {
+        display: flex;
+        align-items: center;
+        flex-shrink: 0;
+        margin-right: 10px;
+    }
+
+    .navbar .navbar-brand img {
+        display: block;
+        width: auto;
+        max-width: 110px;
+        height: auto;
+        object-fit: contain;
+    }
+
+    .navbar .navbar-toggler {
+        flex-shrink: 0;
+        margin-left: auto;
+    }
+
+    .navbar .navbar-toggler img {
+        display: block;
+        width: 30px;
+        height: 30px;
+        object-fit: contain;
+    }
+
+    .navbar .dropdown-menu.megamenu {
+        width: min(900px, calc(100vw - 24px));
+        max-width: calc(100vw - 24px);
+        overflow-x: hidden;
+    }
+
+    .prem-right-menu {
+        display: flex;
+        align-items: stretch;
+        margin-left: 12px;
+        flex-shrink: 0;
+    }
+
+    .call-header-button {
+        height: auto;
+        min-height: 82px;
+        display: flex;
+        align-items: stretch;
+    }
+
+    .navbar-light .sub-header-button {
+        height: auto;
+        min-height: 82px;
+    }
+
+    .sub-header-button .header-info {
+        padding: 10px 18px;
+        white-space: nowrap;
+    }
+
+    .sub-header-button .header-info span {
+        display: block;
+        font-size: 11px;
+        line-height: 1.2;
+    }
+
+    .sub-header-button .header-info p {
+        font-size: 16px;
+        line-height: 1.2;
     }
 
     .prem-industries-promo {
@@ -331,25 +415,97 @@
         color: #ffffff;
     }
 
-    @media (max-width: 1199px) {
+    @media (min-width: 992px) and (max-width: 1199px) {
+        .navbar .navbar-brand img {
+            max-width: 72px;
+        }
+
         .navbar-light .navbar-nav .nav-link {
-            padding-left: 12px;
-            padding-right: 12px;
+            padding-left: 3px;
+            padding-right: 3px;
+            padding-top: 18px;
+            padding-bottom: 18px;
+            font-size: 11px;
+            letter-spacing: 0;
+        }
+
+        .prem-industries-promo {
+            margin-right: 2px;
+            margin-top: 0;
         }
 
         .prem-industries-promo .prem-industries-promo-link {
-            padding: 6px 10px !important;
-            font-size: 10px;
+            padding: 3px 4px !important;
+            column-gap: 4px;
+        }
+
+        .prem-industries-promo .promo-arrow {
+            font-size: 14px;
+        }
+
+        .prem-industries-promo .promo-kicker {
+            font-size: 7px;
         }
 
         .prem-industries-promo .promo-main {
-            font-size: 13px;
+            font-size: 9px;
+        }
+
+        .prem-right-menu {
+            margin-left: 2px;
+        }
+
+        .call-header-button,
+        .navbar-light .sub-header-button {
+            min-height: 42px;
+        }
+
+        .sub-header-button .header-info {
+            padding: 4px 6px;
+            white-space: normal;
+        }
+
+        .sub-header-button .header-info span {
+            font-size: 7px;
+        }
+
+        .sub-header-button .header-info p {
+            font-size: 10px;
+            line-height: 1.2;
+            margin: 0;
         }
     }
 
     @media (max-width: 991px) {
         .navbar {
             position: relative;
+        }
+
+        .navbar .container-fluid {
+            padding-left: 12px !important;
+            padding-right: 12px !important;
+            flex-wrap: wrap;
+        }
+
+        .navbar .navbar-brand {
+            padding-left: 0 !important;
+            margin-left: 0 !important;
+            margin-right: 8px;
+            max-width: calc(100vw - 80px);
+        }
+
+        .navbar .navbar-brand img {
+            max-width: 104px;
+            max-height: 42px;
+        }
+
+        .navbar .navbar-toggler {
+            padding: 4px;
+        }
+
+        .navbar .navbar-toggler img {
+            width: 26px;
+            height: 26px;
         }
 
         div#mobile_nav {
@@ -413,6 +569,23 @@
         #mobile_nav .sub-header-button .header-info p {
             font-size: 20px;
             line-height: 1.2;
+        }
+
+        #mobile_nav .dropdown-menu.megamenu {
+            width: 100%;
+            max-width: 100%;
+        }
+    }
+
+    @media (max-width: 360px) {
+        .navbar .navbar-brand img {
+            max-width: 92px;
+            max-height: 38px;
+        }
+
+        .navbar .navbar-toggler img {
+            width: 24px;
+            height: 24px;
         }
     }
 
