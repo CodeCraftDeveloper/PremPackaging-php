@@ -182,6 +182,12 @@
         overflow: hidden;
     }
 
+    .whats-new-slide-link {
+        display: block;
+        text-decoration: none;
+        color: inherit;
+    }
+
     .whats-new-slide img {
         width: 100%;
         height: 420px;
@@ -480,23 +486,27 @@
                             ?>
                             <?php if (!empty($chimneyImages)): ?>
                             <?php foreach ($chimneyImages as $chimneyImage): ?>
-                            <div class="whats-new-slide">
+                            <a class="whats-new-slide whats-new-slide-link"
+                                href="https://premindustries.net/redirects/whatsnew/chimney"
+                                aria-label="Now Entering Chimney Segment">
                                 <img src="<?php echo htmlspecialchars($chimneyImage, ENT_QUOTES, 'UTF-8'); ?>"
                                     alt="Chimney innovation at Prem">
                                 <div class="whats-new-overlay">
                                     <h3>Now Entering Chimney Segment</h3>
                                     <p>Innovation-led chimney solutions built for modern kitchens.</p>
                                 </div>
-                            </div>
+                            </a>
                             <?php endforeach; ?>
                             <?php else: ?>
-                            <div class="whats-new-slide">
+                            <a class="whats-new-slide whats-new-slide-link"
+                                href="https://premindustries.net/redirects/whatsnew/chimney"
+                                aria-label="Now Entering Chimney Segment">
                                 <img src="img/chimney/chimney.png" alt="Chimney innovation at Prem">
                                 <div class="whats-new-overlay">
                                     <h3>Now Entering Chimney Segment</h3>
                                     <p>Innovation-led chimney solutions built for modern kitchens.</p>
                                 </div>
-                            </div>
+                            </a>
                             <?php endif; ?>
                         </div>
                     </div>
@@ -509,23 +519,27 @@
                             ?>
                             <?php if (!empty($coolerImages)): ?>
                             <?php foreach ($coolerImages as $coolerImage): ?>
-                            <div class="whats-new-slide">
+                            <a class="whats-new-slide whats-new-slide-link"
+                                href="https://premindustries.net/redirects/whatsnew/coolers"
+                                aria-label="Coolers and OEM Segments">
                                 <img src="<?php echo htmlspecialchars($coolerImage, ENT_QUOTES, 'UTF-8'); ?>"
                                     alt="Cooler innovation at Prem">
                                 <div class="whats-new-overlay">
                                     <h3>Coolers and OEM Segments</h3>
                                     <p>High-performance cooler solutions built for reliable everyday use.</p>
                                 </div>
-                            </div>
+                            </a>
                             <?php endforeach; ?>
                             <?php else: ?>
-                            <div class="whats-new-slide">
+                            <a class="whats-new-slide whats-new-slide-link"
+                                href="https://premindustries.net/redirects/whatsnew/coolers"
+                                aria-label="Coolers and OEM Segments">
                                 <img src="img/Whats-new/cooler/cooler.jpeg" alt="Cooler innovation at Prem">
                                 <div class="whats-new-overlay">
                                     <h3>Cooler Range</h3>
                                     <p>High-performance cooler solutions built for reliable everyday use.</p>
                                 </div>
-                            </div>
+                            </a>
                             <?php endif; ?>
                         </div>
                     </div>
