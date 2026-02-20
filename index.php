@@ -517,12 +517,13 @@
         </section>
         <section class="aahar-banner" aria-label="AAHAR 2026 promotion">
             <div class="aahar-banner-media">
-                <img src="img/aahar/AaharBanner2026.png" alt="Prem Industries at AAHAR 2026">
+                <img src="img/aahar/AaharBanner2026.jpeg" alt="Prem Industries at AAHAR 2026">
             </div>
             <div class="aahar-banner-text">
                 <h2>AAHAR 2026</h2>
                 <p>Visit Prem Industries at AAHAR 2026 to explore our latest sustainable packaging innovations.
-                    <a href="contact-us.php">Connect with our team</a> for product demos and business discussions.</p>
+                    <a href="contact-us.php">Connect with our team</a> for product demos and business discussions.
+                </p>
             </div>
         </section>
         <section class="body__content padding second whats-new">
