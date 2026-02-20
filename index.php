@@ -252,6 +252,61 @@
             font-size: 32px;
         }
     }
+
+    .aahar-banner {
+        width: 100%;
+        margin: 0;
+        background: #fff;
+    }
+
+    .aahar-banner-media {
+        width: 92%;
+        max-width: 1320px;
+        margin: 0 auto;
+        padding: 20px 0;
+        box-sizing: border-box;
+    }
+
+    .aahar-banner img {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+
+    .aahar-banner-text {
+        background: #f8f8f8;
+        padding: 26px 16px;
+        text-align: center;
+    }
+
+    .aahar-banner-text h2 {
+        margin: 0 0 8px 0;
+        font-size: 34px;
+        font-weight: 700;
+        color: #1f1f1f;
+    }
+
+    .aahar-banner-text p {
+        margin: 0;
+        font-size: 17px;
+        line-height: 1.6;
+        color: #4d4d4d;
+    }
+
+    .aahar-banner-text a {
+        color: #e92227;
+        font-weight: 700;
+    }
+
+    @media (max-width: 768px) {
+        .aahar-banner-text h2 {
+            font-size: 26px;
+        }
+
+        .aahar-banner-text p {
+            font-size: 15px;
+        }
+    }
     </style>
 </head>
 
@@ -305,7 +360,6 @@
                 </a>
             </div>
         </div>
-
         <section class="Prem_Experience">
             <div class="container">
                 <div class="row justify-content-center">
@@ -459,6 +513,16 @@
                 <video loop="loop" autoplay="" playsinline="" muted="" class="packaging-video">
                     <source src="img/hero/brc-video-banner.mp4" type="video/mp4">
                 </video>
+            </div>
+        </section>
+        <section class="aahar-banner" aria-label="AAHAR 2026 promotion">
+            <div class="aahar-banner-media">
+                <img src="img/aahar/AaharBanner2026.png" alt="Prem Industries at AAHAR 2026">
+            </div>
+            <div class="aahar-banner-text">
+                <h2>AAHAR 2026</h2>
+                <p>Visit Prem Industries at AAHAR 2026 to explore our latest sustainable packaging innovations.
+                    <a href="contact-us.php">Connect with our team</a> for product demos and business discussions.</p>
             </div>
         </section>
         <section class="body__content padding second whats-new">
