@@ -3,18 +3,18 @@
     <div class="custom-marquee">
         <div class="custom-marquee-content">
             <span>
-                <strong>Winter Sale is Here!</strong> Enjoy <strong>10% OFF</strong> on all packaging solutions when
+                <strong>Summer Sale is Here!</strong> Enjoy <strong>10% OFF</strong> on all packaging solutions when
                 you shop through our Website or Mobile App.
-                Use code <strong>WINTERSALE10</strong> at checkout.
+                Use code <strong>SUMMERSALE10</strong> at checkout.
                 Hurry-offer valid for a limited time!
             </span>
 
             <span class="marquee-gap"></span>
 
             <span>
-                <strong>Winter Sale is Here!</strong> Enjoy <strong>10% OFF</strong> on all packaging solutions when you
+                <strong>Summer Sale is Here!</strong> Enjoy <strong>10% OFF</strong> on all packaging solutions when you
                 shop through our Website or Mobile App.
-                Use code <strong>WINTERSALE10</strong> at checkout.
+                Use code <strong>SUMMERSALE10</strong> at checkout.
                 Hurry-offer valid for a limited time!
             </span>
         </div>
