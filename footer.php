@@ -165,7 +165,7 @@
     
     <div class="copyright margin__top">
 	
-	 <p>Â© 2022 Prem Packaging. All rights reserved. Managed by: <a href="https://assertit.io/" target="_blank"> Assert IT Solutions</a></p>
+	 <p>© 2022 Prem Packaging. All rights reserved. Managed by: <a href="https://assertit.io/" target="_blank"> Assert IT Solutions</a></p>
 	  
     </div>
     -->

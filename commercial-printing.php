@@ -80,7 +80,7 @@
                 of foil, metal or similar media.</li>
               <li><i class="fa fa-arrow-right"></i> Scented Packaging: Consumers engaging packaging innovation. Here you
                 get to choose the scent you wish to add to your packaging.</li>
-              <li><i class="fa fa-arrow-right"></i> In an era where itâ€™s tough to grasp attention, our innovative
+              <li><i class="fa fa-arrow-right"></i> In an era where it’s tough to grasp attention, our innovative
                 packaging can be a game-changer for your product.</li>
             </ul>
 

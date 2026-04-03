@@ -139,7 +139,7 @@
                     </b>
                     <br>
                     <small class="text-muted">Published On: <b>7th August 2025</b></small>
-                    <p class="card-text mt-2">When it comes to child safety, every precaution matters. In todayâ€™s world,
+                    <p class="card-text mt-2">When it comes to child safety, every precaution matters. In today’s world,
                       where households often store products like medicines,... <b
                         class="text-danger">Read&nbsp;More...</b>
                     </p>
@@ -163,7 +163,7 @@
                     </b>
                     <br>
                     <small class="text-muted">Published On: <b>14th July 2025</b></small>
-                    <p class="card-text mt-2">When it comes to food, packaging does more than just wrap a productâ€”it
+                    <p class="card-text mt-2">When it comes to food, packaging does more than just wrap a product—it
                       preserves freshness, ensures safety, and communicates... <b
                         class="text-danger">Read&nbsp;More...</b>
                     </p>
@@ -204,10 +204,10 @@
                                     <a href="<?php echo site_url('choosing-the-right-label-exploring-our-rollabel-label-solutions'); ?>"
                   style="text-decoration: none; color: black;">
                   <img src="img/blog/cards/choosing-the-right-label-exploring-our-rollabel-label-solutions.jpg"
-                    class="card-img-top" alt="Choosing the Right Label: Exploring Our Rollabelâ„¢ Label Solutions">
+                    class="card-img-top" alt="Choosing the Right Label: Exploring Our Rollabel™ Label Solutions">
                   <div class="card-body flex-grow-1">
                     <b style="font-size: 18px;">
-                      Choosing the Right Label: Exploring Our Rollabelâ„¢ Label Solutions
+                      Choosing the Right Label: Exploring Our Rollabel™ Label Solutions
                     </b>
                     <br>
                     <small class="text-muted">Published On: <b>8th July 2025</b></small>
@@ -234,7 +234,7 @@
                     </b>
                     <br>
                     <small class="text-muted">Published On: <b>4th July 2025</b></small>
-                    <p class="card-text mt-2">In todayâ€™s time, convenience and shelf life are two factors that drive
+                    <p class="card-text mt-2">In today’s time, convenience and shelf life are two factors that drive
                       packaging innovation. One such innovation... <b class="text-danger">Read&nbsp;More...</b></p>
                   </div>
                 </a>
@@ -280,7 +280,7 @@
                     </b>
                     <br>
                     <small class="text-muted">Published On: <b>27th June 2025</b></small>
-                    <p class="card-text mt-2">In todayâ€™s fast-moving world of e-commerce and retail, packaging plays a
+                    <p class="card-text mt-2">In today’s fast-moving world of e-commerce and retail, packaging plays a
                       bigger role than ever before. It's not... <b class="text-danger">Read&nbsp;More...</b></p>
                   </div>
                 </a>
@@ -321,11 +321,11 @@
                     class="card-img-top" alt="Seal the Deal: How Void Tape Prevents Product Tampering">
                   <div class="card-body flex-grow-1">
                     <b style="font-size: 18px;">
-                      Unwrapping Freshness: Benefits of PackProâ„¢ Honeycomb Food Wrapping Paper
+                      Unwrapping Freshness: Benefits of PackPro™ Honeycomb Food Wrapping Paper
                     </b>
                     <br>
                     <small class="text-muted">Published On: <b>4th June 2025</b></small>
-                    <p class="card-text mt-2">In todayâ€™s fast-paced world, where food safety and eco-conscious packaging
+                    <p class="card-text mt-2">In today’s fast-paced world, where food safety and eco-conscious packaging
                       are in demand, choosing the right wrapping... <b class="text-danger">Read&nbsp;More...</b></p>
                   </div>
                 </a>
@@ -348,7 +348,7 @@
                     <br>
                     <small class="text-muted">Published On: <b>22nd May 2025</b></small>
                     <p class="card-text mt-2">When it comes to packaging, carry bags are more than just a
-                      convenienceâ€”theyâ€™re an extension of your brand... <b class="text-danger">Read&nbsp;More...</b></p>
+                      convenience—they’re an extension of your brand... <b class="text-danger">Read&nbsp;More...</b></p>
                   </div>
                 </a>
                 <!-- <div class="card-footer mt-auto">
@@ -364,7 +364,7 @@
                   <img
                     src="img/blog/cards/how-to-find-a-trustworthy-packaging-manufacturer-without-breaking-the-bank.jpg"
                     class="card-img-top"
-                    alt="Lift with Ease: How PackProâ„¢ Carry Handle Tape Transforms Heavy Packaging">
+                    alt="Lift with Ease: How PackPro™ Carry Handle Tape Transforms Heavy Packaging">
                   <div class="card-body flex-grow-1">
                     <b style="font-size: 18px;">
                       How to find a Trustworthy Packaging Manufacturer Without Breaking the Bank
@@ -387,14 +387,14 @@
                   style="text-decoration: none; color: black;">
                   <img src="img/blog/cards/lift-with-ease-how-packpro-carry-handle-tape-transforms-heavy-packaging.jpg"
                     class="card-img-top"
-                    alt="Lift with Ease: How PackProâ„¢ Carry Handle Tape Transforms Heavy Packaging">
+                    alt="Lift with Ease: How PackPro™ Carry Handle Tape Transforms Heavy Packaging">
                   <div class="card-body flex-grow-1">
                     <b style="font-size: 18px;">
-                      Lift with Ease: How PackProâ„¢ Carry Handle Tape Transforms Heavy Packaging
+                      Lift with Ease: How PackPro™ Carry Handle Tape Transforms Heavy Packaging
                     </b>
                     <br>
                     <small class="text-muted">Published On: <b>7th May 2025</b></small>
-                    <p class="card-text mt-2">In the world of modern packaging, convenience isnâ€™t a luxuryâ€”itâ€™s a
+                    <p class="card-text mt-2">In the world of modern packaging, convenience isn’t a luxury—it’s a
                       necessity. As e-commerce, retail, and industrial... <b class="text-danger">Read&nbsp;More...</b>
                     </p>
                   </div>
@@ -462,7 +462,7 @@
                     </b>
                     <br>
                     <small class="text-muted">Published On: <b>7th April 2025</b></small>
-                    <p class="card-text mt-2">In todayâ€™s competitive market, packaging plays a crucial role in brand
+                    <p class="card-text mt-2">In today’s competitive market, packaging plays a crucial role in brand
                       recognition, product safety, and customer satisfaction... <b
                         class="text-danger">Read&nbsp;More...</b>
                     </p>
@@ -489,12 +489,12 @@
                     <div class="row g-0">
                       <div class="col-md-4 d-flex align-items-center justify-content-center">
                         <img src="img/blog/popular/12.jpg" class="img-fluid rounded h-100 w-100 p-1"
-                          alt="Choosing the Right Label: Exploring Our Rollabelâ„¢ Label Solutions">
+                          alt="Choosing the Right Label: Exploring Our Rollabel™ Label Solutions">
                       </div>
                       <div class="col-md-8 d-flex align-items-center">
                         <div class="card-body p-0 w-100">
                           <h5 class="card-title m-0 p-2" style="font-size: 15px;">Choosing the Right Label: Exploring
-                            Our Rollabelâ„¢ Label Solutions </h5>
+                            Our Rollabel™ Label Solutions </h5>
                         </div>
                       </div>
                     </div>
@@ -609,12 +609,12 @@
                   <div class="row g-0">
                     <div class="col-md-4 d-flex align-items-center justify-content-center">
                       <img src="img/blog/popular/07.jpg" class="img-fluid rounded h-100 w-100 p-1"
-                        alt="Unwrapping Freshness: Benefits of PackProâ„¢ Honeycomb Food Wrapping Paper">
+                        alt="Unwrapping Freshness: Benefits of PackPro™ Honeycomb Food Wrapping Paper">
                     </div>
                     <div class="col-md-8 d-flex align-items-center">
                       <div class="card-body p-0 w-100">
                         <h5 class="card-title m-0 p-2" style="font-size: 15px;">Unwrapping Freshness: Benefits of
-                          PackProâ„¢ Honeycomb Food Wrapping Paper</h5>
+                          PackPro™ Honeycomb Food Wrapping Paper</h5>
                       </div>
                     </div>
                   </div>
@@ -669,11 +669,11 @@
                   <div class="row g-0">
                     <div class="col-md-4 d-flex align-items-center justify-content-center">
                       <img src="img/blog/popular/02.jpg" class="img-fluid rounded h-100 w-100 p-1"
-                        alt="Lift with Ease: How PackProâ„¢ Carry Handle Tape Transforms Heavy Packaging">
+                        alt="Lift with Ease: How PackPro™ Carry Handle Tape Transforms Heavy Packaging">
                     </div>
                     <div class="col-md-8 d-flex align-items-center">
                       <div class="card-body p-0 w-100">
-                        <h5 class="card-title m-0 p-2" style="font-size: 15px;">Lift with Ease: How PackProâ„¢ Carry
+                        <h5 class="card-title m-0 p-2" style="font-size: 15px;">Lift with Ease: How PackPro™ Carry
                           Handle Tape Transforms Heavy Packaging</h5>
                       </div>
                     </div>

@@ -88,12 +88,12 @@
               packaging industry. We offer printing inks and coatings approved by some of the leading FMCG companies.
               Our range of printing solutions includes:</p>
             <ul class="mb-3">
-              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">â¦¿</span>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
                 Water-based or solvent-based printing inks</li>
-              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">â¦¿</span>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
                 UV
                 printing ink coatings</li>
-              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">â¦¿</span>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
                 Metallic inks</li>
             </ul>
             <p>Our packaging follows industry-specific packaging specifications for FMCG products in terms of toxicology

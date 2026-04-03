@@ -53,7 +53,7 @@
       <div class="row">
         <div class="col-md-12">
           <div class="text-left mb-4">
-            <h3 class="wow fadeInUp">Our anthem is â€˜Weâ€™ll do it with innovative excellenceâ€™</h3>
+            <h3 class="wow fadeInUp">Our anthem is ‘We’ll do it with innovative excellence’</h3>
           </div>
         </div>
       </div>
@@ -132,16 +132,16 @@
           <div class="col-md-4">
             <div class="gallery-box">
             <a href="<?php echo site_url('wetboxtech'); ?>" style="color: black;" target="_blank">
-              <img src="img/innovation/wetbox-img.png" alt="WetBoxTechâ„¢">
-              <h4 class="text-center">WetBoxTechâ„¢</h4>
+              <img src="img/innovation/wetbox-img.png" alt="WetBoxTech™">
+              <h4 class="text-center">WetBoxTech™</h4>
               </a>
             </div>
           </div>
           <div class="col-md-4">
             <div class="gallery-box">
               <a href="<?php echo site_url('flexpand'); ?>" style="color: black;" target="_blank">
-              <img src="img/innovation/flex.png" alt="Flexpandâ„¢">
-              <h4 class="text-center">Flexpandâ„¢</h4>
+              <img src="img/innovation/flex.png" alt="Flexpand™">
+              <h4 class="text-center">Flexpand™</h4>
               </a>
             </div>
           </div>
@@ -188,8 +188,8 @@
           <div class="col-md-4">
             <div class="gallery-box">
             <a href="<?php echo site_url('packpro-carry-handle-tape'); ?>" style="color: black;" target="_blank">
-              <img src="img/carry-handel-tape/image4.png" alt="PackProâ„¢ Carry Handel Tape">
-              <h4 class="text-center">PackProâ„¢ Carry Handel Tape</h4>
+              <img src="img/carry-handel-tape/image4.png" alt="PackPro™ Carry Handel Tape">
+              <h4 class="text-center">PackPro™ Carry Handel Tape</h4>
               </a>
             </div>
           </div>

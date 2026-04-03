@@ -75,7 +75,7 @@
             <ul class="listing-content">
               <li><i class="fa fa-arrow-right"></i> We follow a circular economy, by mixing the leftover pieces that are
                 considered waste in our recycling machinery. Our recycling machines produce a lot of raw material, which
-                accelerates the greening needs of our planet, which canâ€™t be neglected.</li>
+                accelerates the greening needs of our planet, which can’t be neglected.</li>
               <li><i class="fa fa-arrow-right"></i> We have reduced our use of plastic and it has immensely contributed
                 to the generation of non-degradable waste. It has helped us create a loop ecosystem.</li>
               <li><i class="fa fa-arrow-right"></i> We also offer our customers the option to switch towards an

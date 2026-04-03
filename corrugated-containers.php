@@ -81,17 +81,17 @@
               simple one-color box, or a dynamic display, our skilled team creates and delivers solutions that are
               important to you by:</p>
             <ul class="mt-0 mb-3">
-              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">â¦¿</span>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
                 Lowering your total cost through the supply chain and developing
                 sustainable solutions to reduce environmental impact throughout the package life-cycle</li>
-              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">â¦¿</span>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
                 Increasing sales through innovative designs and dynamic shelf appeal
                 for unique consumer experiences.</li>
-              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">â¦¿</span>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
                 Reduce your risk with time-tested designs, sales support,
-                unparalleled machineâ€™s performance, and a coast-to-coast footprint.
+                unparalleled machine’s performance, and a coast-to-coast footprint.
               </li>
-              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">â¦¿</span>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
                 Increase your sustainability by using more renewable and recyclable
                 resources.</li>
             </ul>

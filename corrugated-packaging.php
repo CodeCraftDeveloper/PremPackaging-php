@@ -32,7 +32,7 @@
         <div class="row">
           <div class="col-md-8">
             <h1>Packaging that Brings Attention to</h1>
-            <h3>Details  â€¢  Interest  â€¢  Desire</h3>
+            <h3>Details  •  Interest  •  Desire</h3>
           </div>
           <div class="col-md-12">
             <nav aria-label="breadcrumb">

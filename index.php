@@ -365,7 +365,7 @@
             <div class="container">
                 <div class="row justify-content-center">
                     <div class="col-lg-8 col-md-12">
-                        <h3 class="image-box-title mb-4">Legacy that ContinuesÃ¢â‚¬Â¦</h3>
+                        <h3 class="image-box-title mb-4">Legacy that Continues...</h3>
                         <div class="Years-of-excellence__slider owl-carousel owl-theme">
                             <div class="product-wrap">
                                 <div class="Years-of-excellence-content">
@@ -625,13 +625,13 @@
                                     style="color: #555555">e-com packaging</a>,
                                 outer cartons, carry bags, <a
                                     href="https://www.store.prempackaging.com/food-wrapping-paper" target="_blank"
-                                    style="color: #555555">PackPro<sup>Ã¢â€žÂ¢</sup> Food Wrapping Paper</a>,
-                                PackPro<sup>Ã¢â€žÂ¢</sup>
-                                Carry Handle Tape, WetBoxTech<sup>Ã¢â€žÂ¢</sup>, Flexpand<sup>Ã¢â€žÂ¢</sup>, <a
+                                    style="color: #555555">PackPro<sup>&trade;</sup> Food Wrapping Paper</a>,
+                                PackPro<sup>&trade;</sup>
+                                Carry Handle Tape, WetBoxTech<sup>&trade;</sup>, Flexpand<sup>&trade;</sup>, <a
                                     href="https://www.store.prempackaging.com/tape" target="_blank"
-                                    style="color: #555555">PackPro<sup>Ã¢â€žÂ¢</sup> Tapes</a>, <a
+                                    style="color: #555555">PackPro<sup>&trade;</sup> Tapes</a>, <a
                                     href="https://www.store.prempackaging.com/label" target="_blank"
-                                    style="color: #555555">Rollabel<sup>Ã¢â€žÂ¢</sup> Labels,</a> etc. Our mission as a small
+                                    style="color: #555555">Rollabel<sup>&trade;</sup> Labels,</a> etc. Our mission as a small
                                 start up in 1976 was
                                 simple: to tailor a
                                 company with the flexibility to fill orders of all sizes and to consistently provide our
@@ -663,7 +663,7 @@
                     <div class="col-md-6 order2">
                         <div class="design-content inovations">
                             <h3 class="wow fadeInUp">Advancing E-com Packaging</h3>
-                            <p class="wow fadeInUp">With decades of expertise, weÃ¢â‚¬â„¢ve grown into a leading packaging
+                            <p class="wow fadeInUp">With decades of expertise, we've grown into a leading packaging
                                 company in Noida,
                                 Ghaziabad, and across Delhi NCR, serving diverse industries with tailored solutions.
                                 Packaging for
@@ -758,9 +758,9 @@
                             <h2 class="wow fadeInUp" style="font-size: 42px;">We are keeping it 'Green'</h2>
                             <p class="wow fadeInUp" style="font-size: 16px;">Our vision is to be the best packaging
                                 company in India and
-                                the world, driving everything we do. WeÃ¢â‚¬â„¢re innovating to help our customers reach their
+                                the world, driving everything we do. We're innovating to help our customers reach their
                                 sustainability
-                                goals and win in the market. WeÃ¢â‚¬â„¢re setting science-based goals to reduce greenhouse gas
+                                goals and win in the market. We're setting science-based goals to reduce greenhouse gas
                                 emissions.
                                 Stewarding natural resources & using material that can be recycled, reused or
                                 decomposed. We are working
@@ -838,7 +838,7 @@
                                 sturdy material enhanced the overall presentation of my product. Highly recommend their
                                 pouches for any
                                 packaging needs.</p>
-                            <h4 class="text-center">- NutsÃ‚Â &Ã‚Â Co.</h4>
+                            <h4 class="text-center">- Nuts&nbsp;&amp;&nbsp;Co.</h4>
                         </div>
                         <div class="product-wrap">
                             <p class="mt-5 text-center">As a long-time partner of Prem Industries India Limited, Fruitri
@@ -860,7 +860,7 @@
                                 professionalism
                                 and attention to detail have greatly enhanced our trust in your services and contributed
                                 to our success.
-                                ItÃ¢â‚¬â„¢s a pleasure to partner with such a reliable team. Thank you for your unwavering
+                                It's a pleasure to partner with such a reliable team. Thank you for your unwavering
                                 dedication. We look
                                 forward to achieving even greater milestones together.</p>
                             <h4 class="text-center">- Bikanerwala Foods Private Limited</h4>
@@ -879,7 +879,7 @@
                             <div class="Average-Clients">
                                 <div class="MaxContent">
                                     <h1>550+</h1>
-                                    <p>Still countingÃ¢â‚¬Â¦</p>
+                                    <p>Still counting...</p>
                                 </div>
                             </div>
                         </div>

@@ -5,14 +5,14 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description"
-    content="Discover high-strength PackProâ„¢ Carry Handle Tape with PET film and natural rubber adhesive. Supports up to 10kg, reduces plastic bag use, and ensures easy portability.">
-  <meta property="og:title" content=" PackProâ„¢ Carry Handle Tape for Easy Transport | Up to 10kg Support">
+    content="Discover high-strength PackPro™ Carry Handle Tape with PET film and natural rubber adhesive. Supports up to 10kg, reduces plastic bag use, and ensures easy portability.">
+  <meta property="og:title" content=" PackPro™ Carry Handle Tape for Easy Transport | Up to 10kg Support">
   <meta name="google-site-verification" content="dy8TnUxfwAmXE1bQiSOV3s_IU8kpFCIp6TT8I7GSZL0" />
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-PSMKSG4F96"></script>
   <script>window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-PSMKSG4F96'); </script>
 
-  <title>PackProâ„¢ Carry Handle Tape Manufacturer | Prem Industries India Limited</title>
+  <title>PackPro™ Carry Handle Tape Manufacturer | Prem Industries India Limited</title>
   <link rel="shortcut icon" href="img/favicon.ico" type="img/x-icon" />
   <!-- Bootstrap core css -->
   <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -33,13 +33,13 @@
     <div class="container">
       <div class="row">
         <div class="col-md-8">
-          <h1>PackPro<sup>â„¢</sup> Carry <br> Handle Tape</h1>
+          <h1>PackPro<sup>™</sup> Carry <br> Handle Tape</h1>
         </div>
         <div class="col-md-12">
           <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
               <li class="breadcrumb-item"><a href="<?php echo site_url(); ?>"><i class="fa fa-home"></i> Home</a></li>
-              <li class="breadcrumb-item active" aria-current="page">PackProâ„¢ Carry Handle Tape</li>
+              <li class="breadcrumb-item active" aria-current="page">PackPro™ Carry Handle Tape</li>
             </ol>
           </nav>
         </div>
@@ -55,7 +55,7 @@
       <div class="row">
         <div class="col-md-12">
           <div>
-            <h3 class="wow fadeInUp" style="font-size: 35px">PackPro<sup>â„¢</sup> Carry Handle Tape for Bulky Items</h3>
+            <h3 class="wow fadeInUp" style="font-size: 35px">PackPro<sup>™</sup> Carry Handle Tape for Bulky Items</h3>
           </div>
         </div>
       </div>
@@ -64,8 +64,8 @@
           <div class="body-content">
             <div class="body-content">
               <p class="wow fadeInUp">Carrying heavy or bulky items has never been easier, thanks to the
-                PackPro<sup>â„¢</sup> Carry Handle Tape! Crafted from high-quality Polyethylene Terephthalate (PET) film,
-                this innovative tape offers unparalleled strength and convenience. Whether youâ€™re managing packages or
+                PackPro<sup>™</sup> Carry Handle Tape! Crafted from high-quality Polyethylene Terephthalate (PET) film,
+                this innovative tape offers unparalleled strength and convenience. Whether you’re managing packages or
                 groceries, this multi-purpose tape provides a reliable solution to simplify your load.</p>
               <h4 style="font-weight: 600;">Superior Features for Unmatched Performance</h4>
               <ul class="mt-0 mb-3">
@@ -97,10 +97,10 @@
                   Replacing traditional plastic bags by simply attaching the handle to your item. </li>
               </ul>
               <h4 style="font-weight: 600;">Ready to Make Carrying Easy?</h4>
-              <p class="wow fadeInUp">Our PackPro<sup>â„¢</sup> Carry Handle Tape is more than a toolâ€”itâ€™s a sustainable
+              <p class="wow fadeInUp">Our PackPro<sup>™</sup> Carry Handle Tape is more than a tool—it’s a sustainable
                 and practical solution for businesses and individuals. Whether in retail, logistics, or daily use, it
                 provides unmatched convenience with minimal effort. Transform your packaging experience with
-                PackPro<sup>â„¢</sup> Carry Handle Tape. Connect us today to know more.</p>
+                PackPro<sup>™</sup> Carry Handle Tape. Connect us today to know more.</p>
             </div>
           </div>
         </div>

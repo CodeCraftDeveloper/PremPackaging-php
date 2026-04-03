@@ -73,29 +73,29 @@
         <div class="col-md-6 order2">
           <div class="body-content">
             <p class="wow fadeInUp">Aroma, hygiene, flavours, freshness and much more when it comes to food packaging,
-              there is a lot to deliver. We understand these needs and have â€˜mouth-wateringâ€™ solutions. Our experience
+              there is a lot to deliver. We understand these needs and have ‘mouth-watering’ solutions. Our experience
               in this sector has given us the ability to create the perfect packaging for you. From chips to drinks to
-              fresh produce our packaging will always make you say â€˜Iâ€™m Lovin it!â€™ Prem Industries India Limited offers
+              fresh produce our packaging will always make you say ‘I’m Lovin it!’ Prem Industries India Limited offers
               more than just
-              packaging; it offers an experience your customer canâ€™t forget.</p>
+              packaging; it offers an experience your customer can’t forget.</p>
 
             <p>Being the best food packaging manufacturer in India, we aim to provide you with perfect
               protection by offering
               packaging that takes care of the following criteria:</p>
 
             <ul class="mb-3">
-              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">â¦¿</span>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
                 Safer
                 Distribution</li>
-              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">â¦¿</span>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
                 Innovative</li>
-              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">â¦¿</span>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
                 Cost-Efficient</li>
-              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">â¦¿</span>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
                 Convenient</li>
-              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">â¦¿</span>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
                 Lightweight</li>
-              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">â¦¿</span>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
                 Customizable</li>
             </ul>
 
