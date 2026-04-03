@@ -49,7 +49,7 @@
         <div class="col-md-12">
           <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-              <li class="breadcrumb-item"><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
+              <li class="breadcrumb-item"><a href="<?php echo site_url(); ?>"><i class="fa fa-home"></i> Home</a></li>
               <li class="breadcrumb-item active" aria-current="page">FMCG Packaging</li>
             </ol>
           </nav>
@@ -66,10 +66,6 @@
         <div class="col-md-12">
           <div class="text-left mb-4">
             <h3 class="wow fadeInUp">FMCG Packaging - As Unique as Your Product</h3>
-            <!-- <a href="contact-us.php" class="contact-add">
-              <i class="fa fa-envelope"></i>
-              <span>Get more information</span>
-            </a> -->
           </div>
         </div>
       </div>
@@ -92,12 +88,12 @@
               packaging industry. We offer printing inks and coatings approved by some of the leading FMCG companies.
               Our range of printing solutions includes:</p>
             <ul class="mb-3">
-              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">â¦¿</span>
                 Water-based or solvent-based printing inks</li>
-              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">â¦¿</span>
                 UV
                 printing ink coatings</li>
-              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">â¦¿</span>
                 Metallic inks</li>
             </ul>
             <p>Our packaging follows industry-specific packaging specifications for FMCG products in terms of toxicology
@@ -128,3 +124,4 @@
 
   <!-- header start -->
   <?php include 'footer.php'; ?>
+

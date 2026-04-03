@@ -32,12 +32,12 @@
         <div class="row">
           <div class="col-md-8">
             <h1>Packaging that Brings Attention to</h1>
-            <h3>Details  •  Interest  •  Desire</h3>
+            <h3>Details  â€¢  Interest  â€¢  Desire</h3>
           </div>
           <div class="col-md-12">
             <nav aria-label="breadcrumb">
               <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
+                <li class="breadcrumb-item"><a href="<?php echo site_url(); ?>"><i class="fa fa-home"></i> Home</a></li>
                 <li class="breadcrumb-item active" aria-current="page">Corrugated Packaging</li>
               </ol>
             </nav>
@@ -54,7 +54,7 @@
         <div class="col-md-12">
           <div class="text-left mb-4">
             <h3 class="wow fadeInUp">Building Memorable Packaging Experiences</h3>
-            <a href="contact-us.php" class="contact-add">
+                  <a href="<?php echo site_url('contact-us'); ?>" class="contact-add">
               <i class="fa fa-envelope"></i>
               <span>Get more information</span>
             </a>
@@ -107,3 +107,4 @@
 
   <!-- header start -->
   <?php include 'footer.php'; ?>
+

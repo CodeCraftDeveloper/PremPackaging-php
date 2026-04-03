@@ -65,7 +65,7 @@
                                             hassle-free experience. That’s where peel and seal bags shine.</p>
                                         <p class="wow fadeInUp">At Prem Industries India Limited, we bring innovation
                                             and convenience together with our <a
-                                                href="https://prempackaging.com/peel-and-seal-bags"
+                                                href="<?php echo site_url('peel-and-seal-bags'); ?>"
                                                 style="color: black;" target="_blank"><b>peel and seal
                                                     bags</b></a>—designed for businesses
                                             that value safety, speed, and sustainability.</p>

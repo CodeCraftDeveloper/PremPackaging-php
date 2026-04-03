@@ -103,7 +103,7 @@
           <nav aria-label="breadcrumb">
             <ol class="breadcrumb" data-aos="fade-right" data-aos-delay="500">
               <li class="breadcrumb-item">
-                <a href="#">
+                <a href="<?php echo site_url(); ?>">
                   <i class="fa fa-home">
                   </i>
                   Home
@@ -129,7 +129,7 @@
             <!-- Blog 15 -->
             <div class="col mt-4 p-0 pr-1" data-aos="fade-up" data-aos-delay="100">
               <div class="card h-100 d-flex flex-column shadow-sm">
-                <a href="why-child-resistant-pouches-are-a-must-for-modern-packaging.php"
+                                    <a href="<?php echo site_url('why-child-resistant-pouches-are-a-must-for-modern-packaging'); ?>"
                   style="text-decoration: none; color: black;">
                   <img src="img/blog/cards/why-child-resistant-pouches-are-a-must-for-modern-packaging.png"
                     class="card-img-top" alt="Why Child-Resistant Pouches Are a Must for Modern Packaging">
@@ -139,7 +139,7 @@
                     </b>
                     <br>
                     <small class="text-muted">Published On: <b>7th August 2025</b></small>
-                    <p class="card-text mt-2">When it comes to child safety, every precaution matters. In today’s world,
+                    <p class="card-text mt-2">When it comes to child safety, every precaution matters. In todayâ€™s world,
                       where households often store products like medicines,... <b
                         class="text-danger">Read&nbsp;More...</b>
                     </p>
@@ -153,7 +153,7 @@
             <!-- Blog 14 -->
             <div class="col mt-4 p-0 pr-1" data-aos="fade-up" data-aos-delay="100">
               <div class="card h-100 d-flex flex-column shadow-sm">
-                <a href="why-choosing-the-right-food-packaging-manufacturer-matters.php"
+                                    <a href="<?php echo site_url('why-choosing-the-right-food-packaging-manufacturer-matters'); ?>"
                   style="text-decoration: none; color: black;">
                   <img src="img/blog/cards/why-choosing-the-right-food-packaging-manufacturer-matters.jpg"
                     class="card-img-top" alt="Why Choosing the Right Food Packaging Manufacturer Matters">
@@ -163,7 +163,7 @@
                     </b>
                     <br>
                     <small class="text-muted">Published On: <b>14th July 2025</b></small>
-                    <p class="card-text mt-2">When it comes to food, packaging does more than just wrap a product—it
+                    <p class="card-text mt-2">When it comes to food, packaging does more than just wrap a productâ€”it
                       preserves freshness, ensures safety, and communicates... <b
                         class="text-danger">Read&nbsp;More...</b>
                     </p>
@@ -177,7 +177,7 @@
             <!-- Blog 13 -->
             <div class="col mt-4 p-0 pr-1" data-aos="fade-up" data-aos-delay="100">
               <div class="card h-100 d-flex flex-column shadow-sm">
-                <a href="why-rigid-boxes-are-excellent-for-luxury-packaging.php"
+                                    <a href="<?php echo site_url('why-rigid-boxes-are-excellent-for-luxury-packaging'); ?>"
                   style="text-decoration: none; color: black;">
                   <img src="img/blog/cards/why-rigid-boxes-are-excellent-for-luxury-packaging.jpg" class="card-img-top"
                     alt="Why Rigid Boxes are Excellent for Luxury Packaging?">
@@ -201,13 +201,13 @@
             <!-- Blog 12 -->
             <div class="col mt-4 p-0 pr-1" data-aos="fade-up" data-aos-delay="100">
               <div class="card h-100 d-flex flex-column shadow-sm">
-                <a href="choosing-the-right-label-exploring-our-rollabel-label-solutions.php"
+                                    <a href="<?php echo site_url('choosing-the-right-label-exploring-our-rollabel-label-solutions'); ?>"
                   style="text-decoration: none; color: black;">
                   <img src="img/blog/cards/choosing-the-right-label-exploring-our-rollabel-label-solutions.jpg"
-                    class="card-img-top" alt="Choosing the Right Label: Exploring Our Rollabel™ Label Solutions">
+                    class="card-img-top" alt="Choosing the Right Label: Exploring Our Rollabelâ„¢ Label Solutions">
                   <div class="card-body flex-grow-1">
                     <b style="font-size: 18px;">
-                      Choosing the Right Label: Exploring Our Rollabel™ Label Solutions
+                      Choosing the Right Label: Exploring Our Rollabelâ„¢ Label Solutions
                     </b>
                     <br>
                     <small class="text-muted">Published On: <b>8th July 2025</b></small>
@@ -224,7 +224,7 @@
             <!-- Blog 11 -->
             <div class="col mt-4 p-0 pr-1" data-aos="fade-up" data-aos-delay="100">
               <div class="card h-100 d-flex flex-column shadow-sm">
-                <a href="why-retort-packaging-is-gaining-popularity-across-industries.php"
+                                    <a href="<?php echo site_url('why-retort-packaging-is-gaining-popularity-across-industries'); ?>"
                   style="text-decoration: none; color: black;">
                   <img src="img/blog/cards/why-retort-packaging-is-gaining-popularity-across-industries.jpg"
                     class="card-img-top" alt="Why Retort Packaging is Gaining Popularity Across Industries">
@@ -234,7 +234,7 @@
                     </b>
                     <br>
                     <small class="text-muted">Published On: <b>4th July 2025</b></small>
-                    <p class="card-text mt-2">In today’s time, convenience and shelf life are two factors that drive
+                    <p class="card-text mt-2">In todayâ€™s time, convenience and shelf life are two factors that drive
                       packaging innovation. One such innovation... <b class="text-danger">Read&nbsp;More...</b></p>
                   </div>
                 </a>
@@ -246,7 +246,7 @@
             <!-- Blog 10 -->
             <div class="col mt-4 p-0 pr-1" data-aos="fade-up" data-aos-delay="100">
               <div class="card h-100 d-flex flex-column shadow-sm">
-                <a href="why-2-ply-corrugated-mailer-bags-might-be-your-smartest-packaging-move-yet.php"
+                                    <a href="<?php echo site_url('why-2-ply-corrugated-mailer-bags-might-be-your-smartest-packaging-move-yet'); ?>"
                   style="text-decoration: none; color: black;">
                   <img
                     src="img/blog/cards/why-2-ply-corrugated-mailer-bags-might-be-your-smartest-packaging-move-yet.jpg"
@@ -270,7 +270,7 @@
             <!-- Blog 9 -->
             <div class="col mt-4 p-0 pr-1" data-aos="fade-up" data-aos-delay="100">
               <div class="card h-100 d-flex flex-column shadow-sm">
-                <a href="seal-the-deal-why-peel-and-seal-bags-are-changing-packaging.php"
+                                    <a href="<?php echo site_url('seal-the-deal-why-peel-and-seal-bags-are-changing-packaging'); ?>"
                   style="text-decoration: none; color: black;">
                   <img src="img/blog/cards/seal-the-deal-why-peel-and-seal-bags-are-changing-packaging.jpg"
                     class="card-img-top" alt="Seal the Deal: Why Peel and Seal Bags Are Changing Packaging">
@@ -280,7 +280,7 @@
                     </b>
                     <br>
                     <small class="text-muted">Published On: <b>27th June 2025</b></small>
-                    <p class="card-text mt-2">In today’s fast-moving world of e-commerce and retail, packaging plays a
+                    <p class="card-text mt-2">In todayâ€™s fast-moving world of e-commerce and retail, packaging plays a
                       bigger role than ever before. It's not... <b class="text-danger">Read&nbsp;More...</b></p>
                   </div>
                 </a>
@@ -292,7 +292,7 @@
             <!-- Blog 8 -->
             <div class="col mt-4 p-0 pr-1" data-aos="fade-up" data-aos-delay="100">
               <div class="card h-100 d-flex flex-column shadow-sm">
-                <a href="seal-the-deal-void-tape-prevents-product-tampering.php"
+                                    <a href="<?php echo site_url('seal-the-deal-void-tape-prevents-product-tampering'); ?>"
                   style="text-decoration: none; color: black;">
                   <img src="img/blog/cards/seal-the-deal-void-tape-prevents-product-tampering.jpg" class="card-img-top"
                     alt="Seal the Deal: How Void Tape Prevents Product Tampering ">
@@ -315,17 +315,17 @@
             <!-- Blog 7 -->
             <div class="col mt-4 p-0 pr-1" data-aos="fade-up" data-aos-delay="100">
               <div class="card h-100 d-flex flex-column shadow-sm">
-                <a href="unwrapping-freshness-benefits-of-packpro-honeycomb-food-wrapping-paper.php"
+                                    <a href="<?php echo site_url('unwrapping-freshness-benefits-of-packpro-honeycomb-food-wrapping-paper'); ?>"
                   style="text-decoration: none; color: black;">
                   <img src="img/blog/cards/unwrapping-freshness-benefits-of-packpro-honeycomb-food-wrapping-paper.jpg"
                     class="card-img-top" alt="Seal the Deal: How Void Tape Prevents Product Tampering">
                   <div class="card-body flex-grow-1">
                     <b style="font-size: 18px;">
-                      Unwrapping Freshness: Benefits of PackPro™ Honeycomb Food Wrapping Paper
+                      Unwrapping Freshness: Benefits of PackProâ„¢ Honeycomb Food Wrapping Paper
                     </b>
                     <br>
                     <small class="text-muted">Published On: <b>4th June 2025</b></small>
-                    <p class="card-text mt-2">In today’s fast-paced world, where food safety and eco-conscious packaging
+                    <p class="card-text mt-2">In todayâ€™s fast-paced world, where food safety and eco-conscious packaging
                       are in demand, choosing the right wrapping... <b class="text-danger">Read&nbsp;More...</b></p>
                   </div>
                 </a>
@@ -337,7 +337,7 @@
             <!-- Blog 6 -->
             <div class="col mt-4 p-0 pr-1" data-aos="fade-up" data-aos-delay="100">
               <div class="card h-100 d-flex flex-column shadow-sm">
-                <a href="how-to-choose-the-right-carry-bag-manufacturer-for-your-business.php"
+                                    <a href="<?php echo site_url('how-to-choose-the-right-carry-bag-manufacturer-for-your-business'); ?>"
                   style="text-decoration: none; color: black;">
                   <img src="img/blog/cards/how-to-choose-the-right-carry-bag-manufacturer-for-your-business.jpg"
                     class="card-img-top" alt="How to Choose the Right Carry Bag Manufacturer for Your Business">
@@ -348,7 +348,7 @@
                     <br>
                     <small class="text-muted">Published On: <b>22nd May 2025</b></small>
                     <p class="card-text mt-2">When it comes to packaging, carry bags are more than just a
-                      convenience—they’re an extension of your brand... <b class="text-danger">Read&nbsp;More...</b></p>
+                      convenienceâ€”theyâ€™re an extension of your brand... <b class="text-danger">Read&nbsp;More...</b></p>
                   </div>
                 </a>
                 <!-- <div class="card-footer mt-auto">
@@ -359,12 +359,12 @@
             <!-- Blog 5 -->
             <div class="col mt-4 p-0 pr-1" data-aos="fade-up" data-aos-delay="100">
               <div class="card h-100 d-flex flex-column shadow-sm">
-                <a href="how-to-find-a-trustworthy-packaging-manufacturer-without-breaking-the-bank.php"
+                                    <a href="<?php echo site_url('how-to-find-a-trustworthy-packaging-manufacturer-without-breaking-the-bank'); ?>"
                   style="text-decoration: none; color: black;">
                   <img
                     src="img/blog/cards/how-to-find-a-trustworthy-packaging-manufacturer-without-breaking-the-bank.jpg"
                     class="card-img-top"
-                    alt="Lift with Ease: How PackPro™ Carry Handle Tape Transforms Heavy Packaging">
+                    alt="Lift with Ease: How PackProâ„¢ Carry Handle Tape Transforms Heavy Packaging">
                   <div class="card-body flex-grow-1">
                     <b style="font-size: 18px;">
                       How to find a Trustworthy Packaging Manufacturer Without Breaking the Bank
@@ -383,18 +383,18 @@
             <!-- Blog 4 -->
             <div class="col mt-4 p-0 pr-1" data-aos="fade-up" data-aos-delay="200">
               <div class="card h-100 d-flex flex-column shadow-sm">
-                <a href="lift-with-ease-how-packpro-carry-handle-tape-transforms-heavy-packaging.php"
+                                    <a href="<?php echo site_url('lift-with-ease-how-packpro-carry-handle-tape-transforms-heavy-packaging'); ?>"
                   style="text-decoration: none; color: black;">
                   <img src="img/blog/cards/lift-with-ease-how-packpro-carry-handle-tape-transforms-heavy-packaging.jpg"
                     class="card-img-top"
-                    alt="Lift with Ease: How PackPro™ Carry Handle Tape Transforms Heavy Packaging">
+                    alt="Lift with Ease: How PackProâ„¢ Carry Handle Tape Transforms Heavy Packaging">
                   <div class="card-body flex-grow-1">
                     <b style="font-size: 18px;">
-                      Lift with Ease: How PackPro™ Carry Handle Tape Transforms Heavy Packaging
+                      Lift with Ease: How PackProâ„¢ Carry Handle Tape Transforms Heavy Packaging
                     </b>
                     <br>
                     <small class="text-muted">Published On: <b>7th May 2025</b></small>
-                    <p class="card-text mt-2">In the world of modern packaging, convenience isn’t a luxury—it’s a
+                    <p class="card-text mt-2">In the world of modern packaging, convenience isnâ€™t a luxuryâ€”itâ€™s a
                       necessity. As e-commerce, retail, and industrial... <b class="text-danger">Read&nbsp;More...</b>
                     </p>
                   </div>
@@ -407,7 +407,7 @@
             <!-- Blog 3 -->
             <div class="col mt-4 p-0 pr-1" data-aos="fade-up" data-aos-delay="300">
               <div class="card h-100 d-flex flex-column shadow-sm">
-                <a href="why-healthcare-packaging-is-crucial-for-safety-and-hygiene.php"
+                                    <a href="<?php echo site_url('why-healthcare-packaging-is-crucial-for-safety-and-hygiene'); ?>"
                   style="text-decoration: none; color: black;">
                   <img src="img/blog/cards/why-healthcare-packaging-is-crucial-for-safety-and-hygienee.jpg"
                     class="card-img-top" alt="Why Healthcare Packaging Is Crucial For Safety And Hygiene">
@@ -429,7 +429,7 @@
             <!-- Blog 2 -->
             <div class="col mt-4 p-0 pr-1" data-aos="fade-up" data-aos-delay="100">
               <div class="card h-100 d-flex flex-column shadow-sm">
-                <a href="types-of-pouches-we-provide-at-prem-industries-india-limited.php"
+                                    <a href="<?php echo site_url('types-of-pouches-we-provide-at-prem-industries-india-limited'); ?>"
                   style="text-decoration: none; color: black;">
                   <img src="img/blog/cards/types-of-pouches-we-provide-at-prem-industries-india-limited.png"
                     class="card-img-top" alt="Types of Pouches We Provide at Prem Industries India Limited">
@@ -452,7 +452,7 @@
             <!-- Blog 1 -->
             <div class="col mt-4 p-0 pr-1" data-aos="fade-up" data-aos-delay="200">
               <div class="card h-100 d-flex flex-column shadow-sm">
-                <a href="how-to-choose-the-right-bespoke-packaging-supplier.php"
+                                    <a href="<?php echo site_url('how-to-choose-the-right-bespoke-packaging-supplier'); ?>"
                   style="text-decoration: none; color: black;">
                   <img src="img/blog/cards/how-to-choose-the-right-bespoke-packaging-supplier.png" class="card-img-top"
                     alt="How To Choose The Right Bespoke Packaging Supplier">
@@ -462,7 +462,7 @@
                     </b>
                     <br>
                     <small class="text-muted">Published On: <b>7th April 2025</b></small>
-                    <p class="card-text mt-2">In today’s competitive market, packaging plays a crucial role in brand
+                    <p class="card-text mt-2">In todayâ€™s competitive market, packaging plays a crucial role in brand
                       recognition, product safety, and customer satisfaction... <b
                         class="text-danger">Read&nbsp;More...</b>
                     </p>
@@ -483,18 +483,18 @@
             <!-- Scrollable popular blogs container -->
             <!-- <div class="row pt-3 pb-3" style="max-height: 650px; overflow-y: auto;">
               <div class="col-md-12">
-                <a href="choosing-the-right-label-exploring-our-rollabel-label-solutions.php"
+                                    <a href="<?php echo site_url('choosing-the-right-label-exploring-our-rollabel-label-solutions'); ?>"
                   style="text-decoration: none; color: black;">
                   <div class="card mb-3 shadow-sm" style="max-width: 540px;">
                     <div class="row g-0">
                       <div class="col-md-4 d-flex align-items-center justify-content-center">
                         <img src="img/blog/popular/12.jpg" class="img-fluid rounded h-100 w-100 p-1"
-                          alt="Choosing the Right Label: Exploring Our Rollabel™ Label Solutions">
+                          alt="Choosing the Right Label: Exploring Our Rollabelâ„¢ Label Solutions">
                       </div>
                       <div class="col-md-8 d-flex align-items-center">
                         <div class="card-body p-0 w-100">
                           <h5 class="card-title m-0 p-2" style="font-size: 15px;">Choosing the Right Label: Exploring
-                            Our Rollabel™ Label Solutions </h5>
+                            Our Rollabelâ„¢ Label Solutions </h5>
                         </div>
                       </div>
                     </div>
@@ -503,7 +503,7 @@
               </div> -->
 
             <!-- <div class="col-md-12">
-                <a href="why-retort-packaging-is-gaining-popularity-across-industries.php"
+                                    <a href="<?php echo site_url('why-retort-packaging-is-gaining-popularity-across-industries'); ?>"
                   style="text-decoration: none; color: black;">
                   <div class="card mb-3 shadow-sm" style="max-width: 540px;">
                     <div class="row g-0">
@@ -523,7 +523,7 @@
               </div> -->
 
             <!-- <div class="col-md-12">
-                <a href="why-2-ply-corrugated-mailer-bags-might-be-your-smartest-packaging-move-yet.php"
+                                    <a href="<?php echo site_url('why-2-ply-corrugated-mailer-bags-might-be-your-smartest-packaging-move-yet'); ?>"
                   style="text-decoration: none; color: black;">
                   <div class="card mb-3 shadow-sm" style="max-width: 540px;">
                     <div class="row g-0">
@@ -543,7 +543,7 @@
               </div> -->
 
             <div class="col-md-12">
-              <a href="why-child-resistant-pouches-are-a-must-for-modern-packaging.php"
+                                    <a href="<?php echo site_url('why-child-resistant-pouches-are-a-must-for-modern-packaging'); ?>"
                 style="text-decoration: none; color: black;">
                 <div class="card mb-3 shadow-sm" style="max-width: 540px;">
                   <div class="row g-0">
@@ -563,7 +563,7 @@
             </div>
 
             <div class="col-md-12">
-              <a href="seal-the-deal-why-peel-and-seal-bags-are-changing-packaging.php"
+                                    <a href="<?php echo site_url('seal-the-deal-why-peel-and-seal-bags-are-changing-packaging'); ?>"
                 style="text-decoration: none; color: black;">
                 <div class="card mb-3 shadow-sm" style="max-width: 540px;">
                   <div class="row g-0">
@@ -583,7 +583,7 @@
             </div>
 
             <div class="col-md-12">
-              <a href="seal-the-deal-void-tape-prevents-product-tampering.php"
+                                    <a href="<?php echo site_url('seal-the-deal-void-tape-prevents-product-tampering'); ?>"
                 style="text-decoration: none; color: black;">
                 <div class="card mb-3 shadow-sm" style="max-width: 540px;">
                   <div class="row g-0">
@@ -603,18 +603,18 @@
             </div>
 
             <div class="col-md-12">
-              <a href="unwrapping-freshness-benefits-of-packpro-honeycomb-food-wrapping-paper.php"
+                                    <a href="<?php echo site_url('unwrapping-freshness-benefits-of-packpro-honeycomb-food-wrapping-paper'); ?>"
                 style="text-decoration: none; color: black;">
                 <div class="card mb-3 shadow-sm" style="max-width: 540px;">
                   <div class="row g-0">
                     <div class="col-md-4 d-flex align-items-center justify-content-center">
                       <img src="img/blog/popular/07.jpg" class="img-fluid rounded h-100 w-100 p-1"
-                        alt="Unwrapping Freshness: Benefits of PackPro™ Honeycomb Food Wrapping Paper">
+                        alt="Unwrapping Freshness: Benefits of PackProâ„¢ Honeycomb Food Wrapping Paper">
                     </div>
                     <div class="col-md-8 d-flex align-items-center">
                       <div class="card-body p-0 w-100">
                         <h5 class="card-title m-0 p-2" style="font-size: 15px;">Unwrapping Freshness: Benefits of
-                          PackPro™ Honeycomb Food Wrapping Paper</h5>
+                          PackProâ„¢ Honeycomb Food Wrapping Paper</h5>
                       </div>
                     </div>
                   </div>
@@ -623,7 +623,7 @@
             </div>
 
             <div class="col-md-12">
-              <a href="how-to-choose-the-right-carry-bag-manufacturer-for-your-business.php"
+                                    <a href="<?php echo site_url('how-to-choose-the-right-carry-bag-manufacturer-for-your-business'); ?>"
                 style="text-decoration: none; color: black;">
                 <div class="card mb-3 shadow-sm" style="max-width: 540px;">
                   <div class="row g-0">
@@ -643,7 +643,7 @@
             </div>
 
             <!-- <div class="col-md-12">
-                <a href="how-to-find-a-trustworthy-packaging-manufacturer-without-breaking-the-bank.php"
+                                    <a href="<?php echo site_url('how-to-find-a-trustworthy-packaging-manufacturer-without-breaking-the-bank'); ?>"
                   style="text-decoration: none; color: black;">
                   <div class="card mb-3 shadow-sm" style="max-width: 540px;">
                     <div class="row g-0">
@@ -663,17 +663,17 @@
               </div> -->
 
             <div class="col-md-12">
-              <a href="lift-with-ease-how-packpro-carry-handle-tape-transforms-heavy-packaging.php"
+                                    <a href="<?php echo site_url('lift-with-ease-how-packpro-carry-handle-tape-transforms-heavy-packaging'); ?>"
                 style="text-decoration: none; color: black;">
                 <div class="card mb-3 shadow-sm" style="max-width: 540px;">
                   <div class="row g-0">
                     <div class="col-md-4 d-flex align-items-center justify-content-center">
                       <img src="img/blog/popular/02.jpg" class="img-fluid rounded h-100 w-100 p-1"
-                        alt="Lift with Ease: How PackPro™ Carry Handle Tape Transforms Heavy Packaging">
+                        alt="Lift with Ease: How PackProâ„¢ Carry Handle Tape Transforms Heavy Packaging">
                     </div>
                     <div class="col-md-8 d-flex align-items-center">
                       <div class="card-body p-0 w-100">
-                        <h5 class="card-title m-0 p-2" style="font-size: 15px;">Lift with Ease: How PackPro™ Carry
+                        <h5 class="card-title m-0 p-2" style="font-size: 15px;">Lift with Ease: How PackProâ„¢ Carry
                           Handle Tape Transforms Heavy Packaging</h5>
                       </div>
                     </div>
@@ -683,7 +683,7 @@
             </div>
 
             <!-- <div class="col-md-12">
-                <a href="why-healthcare-packaging-is-crucial-for-safety-and-hygiene.php"
+                                    <a href="<?php echo site_url('why-healthcare-packaging-is-crucial-for-safety-and-hygiene'); ?>"
                   style="text-decoration: none; color: black;">
                   <div class="card mb-3 shadow-sm" style="max-width: 540px;">
                     <div class="row g-0">
@@ -703,7 +703,7 @@
               </div> -->
 
             <!-- <div class="col-md-12">
-              <a href="types-of-pouches-we-provide-at-prem-industries-india-limited.php"
+                                    <a href="<?php echo site_url('types-of-pouches-we-provide-at-prem-industries-india-limited'); ?>"
                 style="text-decoration: none; color: black;">
                 <div class="card mb-3 shadow-sm" style="max-width: 540px;">
                   <div class="row g-0">
@@ -723,7 +723,7 @@
             </div> -->
 
             <!-- <div class="col-md-12">
-                <a href="how-to-choose-the-right-bespoke-packaging-supplier.php"
+                                    <a href="<?php echo site_url('how-to-choose-the-right-bespoke-packaging-supplier'); ?>"
                   style="text-decoration: none; color: black;">
                   <div class="card shadow-sm" style="max-width: 540px;">
                     <div class="row g-0">
@@ -758,3 +758,4 @@
 </body>
 
 </html>
+

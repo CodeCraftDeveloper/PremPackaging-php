@@ -129,7 +129,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         <div class="col-md-12">
           <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-              <li class="breadcrumb-item"><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
+              <li class="breadcrumb-item"><a href="<?php echo site_url(); ?>"><i class="fa fa-home"></i> Home</a></li>
               <li class="breadcrumb-item active" aria-current="page">Careers</li>
             </ol>
           </nav>
@@ -154,7 +154,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
               Begin your job search in Prem Industries India Limited today.</p>
             <p><strong>We are offering a world of opportunities for you and rewarding positions in our team.</strong>
             </p>
-            <a href="#" class="more-btn mt-4" id="myBtn"><i class="fa fa-clone" aria-hidden="true"></i> Apply Now</a>
+            <button type="button" class="more-btn mt-4" id="myBtn"><i class="fa fa-clone" aria-hidden="true"></i> Apply Now</button>
 
             <!-- Modal -->
             <div id="myModal" class="modal">
@@ -289,3 +289,4 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 </body>
 
 </html>
+

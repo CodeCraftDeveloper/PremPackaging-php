@@ -37,7 +37,7 @@
         <div class="col-md-12">
           <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-              <li class="breadcrumb-item"><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
+              <li class="breadcrumb-item"><a href="<?php echo site_url(); ?>"><i class="fa fa-home"></i> Home</a></li>
               <li class="breadcrumb-item active" aria-current="page">About Us</li>
             </ol>
           </nav>
@@ -123,11 +123,11 @@
         <div class="col-md-6 order2">
           <div class="body-content">
             <h3>Mission</h3>
-            <p class="wow fadeInUp">To be one of India’s leading packaging solution providers. <br> To be a customer
+            <p class="wow fadeInUp">To be one of Indiaâ€™s leading packaging solution providers. <br> To be a customer
               driven company with strong focus on:</p>
             <ul class="mb-3">
               <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i>
-                Customer’s needs and total satisfaction</li>
+                Customerâ€™s needs and total satisfaction</li>
               <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><i class="fa fa-arrow-right"></i>
                 Continuous technological upgradations and process enhancements to keep up with the latest paper
                 packaging solutions.</li>
@@ -184,7 +184,7 @@
       <div class="row justify-content-center">
         <div class="col-lg-12 col-md-12">
           <div class="text-center">
-            <h3 class="image-box-title mb-5" style="font-size:36px">Legacy that Continues…</h3>
+            <h3 class="image-box-title mb-5" style="font-size:36px">Legacy that Continuesâ€¦</h3>
           </div>
           <div class="Years-of-excellence__slider owl-carousel owl-theme">
             <div class="product-wrap">
@@ -348,3 +348,4 @@
 
 
   </script>
+

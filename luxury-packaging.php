@@ -50,7 +50,7 @@
         <div class="col-md-12">
           <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-              <li class="breadcrumb-item"><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
+              <li class="breadcrumb-item"><a href="<?php echo site_url(); ?>"><i class="fa fa-home"></i> Home</a></li>
               <li class="breadcrumb-item active" aria-current="page">Luxury Packaging</li>
             </ol>
           </nav>
@@ -77,7 +77,7 @@
             <p class="wow fadeInUp">Premium products need packaging that reflects the same care and attention to detail
               that they are made with. When a consumer buys into a luxury brand they want to be pampered from the moment
               they get the packaging. As a trusted luxury packaging manufacturer, our luxury packaging division creates
-              solutions that ensure this by using the finest materials and crafting designs that reflect the brand’s
+              solutions that ensure this by using the finest materials and crafting designs that reflect the brandâ€™s
               personality. Together this work creates an impression that whispers sophistication.</p>
             <h4 style="font-weight: 600;">Creative Expertise That Builds Your Brand</h4>
             <p class="wow fadeInUp">Our research and development team stays connected to the market trends that can
@@ -88,23 +88,23 @@
             </p>
             <ul class="mb-3">
               <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
-                  class="bullet-point-new">⦿</span></i>
+                  class="bullet-point-new">â¦¿</span></i>
                 Ideation & Conceptualization</li>
               <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
-                  class="bullet-point-new">⦿</span></i>
+                  class="bullet-point-new">â¦¿</span></i>
                 Packaging enhancement</li>
               <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
-                  class="bullet-point-new">⦿</span></i> 3D
+                  class="bullet-point-new">â¦¿</span></i> 3D
                 rendering capabilities and prototype development</li>
               <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
-                  class="bullet-point-new">⦿</span></i>
+                  class="bullet-point-new">â¦¿</span></i>
                 Facilitation of line trial sampling</li>
               <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
-                  class="bullet-point-new">⦿</span></i>
+                  class="bullet-point-new">â¦¿</span></i>
                 Specifications management</li>
             </ul>
             <p class="wow fadeInUp">As a leading luxury packaging manufacturer, we offer a unique breadth of
-              capabilities tailored to your brand’s vision. Creating solutions for all products and brands as needed.
+              capabilities tailored to your brandâ€™s vision. Creating solutions for all products and brands as needed.
             </p>
             <h4 style="font-weight: 600;">Are you Ready to Elevate Your luxury Packaging?</h4>
             <p class="wow fadeInUp">Contact us today to transform your packaging into a luxurious experience that
@@ -140,3 +140,4 @@
       $('.fancybox').fancybox();
     });
   </script>
+

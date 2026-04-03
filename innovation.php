@@ -37,7 +37,7 @@
           <div class="col-md-12">
             <nav aria-label="breadcrumb">
               <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
+                <li class="breadcrumb-item"><a href="<?php echo site_url(); ?>"><i class="fa fa-home"></i> Home</a></li>
                 <li class="breadcrumb-item active" aria-current="page">Innovation</li>
               </ol>
             </nav>
@@ -53,7 +53,7 @@
       <div class="row">
         <div class="col-md-12">
           <div class="text-left mb-4">
-            <h3 class="wow fadeInUp">Our anthem is ‘We’ll do it with innovative excellence’</h3>
+            <h3 class="wow fadeInUp">Our anthem is â€˜Weâ€™ll do it with innovative excellenceâ€™</h3>
           </div>
         </div>
       </div>
@@ -131,23 +131,23 @@
         <div class="row">
           <div class="col-md-4">
             <div class="gallery-box">
-            <a href="https://prempackaging.com/wetboxtech" style="color: black;" target="_blank">
-              <img src="img/innovation/wetbox-img.png" alt="WetBoxTech™">
-              <h4 class="text-center">WetBoxTech™</h4>
+            <a href="<?php echo site_url('wetboxtech'); ?>" style="color: black;" target="_blank">
+              <img src="img/innovation/wetbox-img.png" alt="WetBoxTechâ„¢">
+              <h4 class="text-center">WetBoxTechâ„¢</h4>
               </a>
             </div>
           </div>
           <div class="col-md-4">
             <div class="gallery-box">
-              <a href="https://prempackaging.com/flexpand" style="color: black;" target="_blank">
-              <img src="img/innovation/flex.png" alt="Flexpand™">
-              <h4 class="text-center">Flexpand™</h4>
+              <a href="<?php echo site_url('flexpand'); ?>" style="color: black;" target="_blank">
+              <img src="img/innovation/flex.png" alt="Flexpandâ„¢">
+              <h4 class="text-center">Flexpandâ„¢</h4>
               </a>
             </div>
           </div>
           <div class="col-md-4">
             <div class="gallery-box">
-            <a href="https://prempackaging.com/labels-with-multiups" style="color: black;" target="_blank">
+            <a href="<?php echo site_url('labels-with-multiups'); ?>" style="color: black;" target="_blank">
               <img src="img/innovation/labels-with-multi-ups.png" alt="Labels with Multi-ups">
               <h4 class="text-center">Labels with Multi-ups</h4>
               </a>
@@ -179,7 +179,7 @@
           </div>
           <div class="col-md-4">
             <div class="gallery-box">
-            <a href="https://prempackaging.com/packpro-honeycomb-food-wrapping-paper" style="color: black;" target="_blank">
+            <a href="<?php echo site_url('packpro-honeycomb-food-wrapping-paper'); ?>" style="color: black;" target="_blank">
               <img src="img/innovation/honeycomb-wrapper-img.png" alt="Honeycomb Wrapper">
               <h4 class="text-center">Honeycomb Wrapper</h4>
               </a>
@@ -187,9 +187,9 @@
           </div>
           <div class="col-md-4">
             <div class="gallery-box">
-            <a href="https://prempackaging.com/packpro-carry-handle-tape" style="color: black;" target="_blank">
-              <img src="img/carry-handel-tape/image4.png" alt="PackPro™ Carry Handel Tape">
-              <h4 class="text-center">PackPro™ Carry Handel Tape</h4>
+            <a href="<?php echo site_url('packpro-carry-handle-tape'); ?>" style="color: black;" target="_blank">
+              <img src="img/carry-handel-tape/image4.png" alt="PackProâ„¢ Carry Handel Tape">
+              <h4 class="text-center">PackProâ„¢ Carry Handel Tape</h4>
               </a>
             </div>
           </div>
@@ -207,3 +207,4 @@
   <?php include 'contactsection.php';?>
   <!-- header start -->
   <?php include 'footer.php';?>
+

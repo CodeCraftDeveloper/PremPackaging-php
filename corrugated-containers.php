@@ -50,7 +50,7 @@
         <div class="col-md-12">
           <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-              <li class="breadcrumb-item"><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
+              <li class="breadcrumb-item"><a href="<?php echo site_url(); ?>"><i class="fa fa-home"></i> Home</a></li>
               <li class="breadcrumb-item active" aria-current="page">Corrugated containers</li>
             </ol>
           </nav>
@@ -67,10 +67,6 @@
         <div class="col-md-12">
           <div class="text-left">
             <h3 class="wow fadeInUp">Delivering Diverse Solutions in a Single Range</h3>
-            <!-- <a href="contact-us.php" class="contact-add">
-              <i class="fa fa-envelope"></i>
-              <span>Get more information</span>
-            </a> -->
           </div>
         </div>
       </div>
@@ -85,17 +81,17 @@
               simple one-color box, or a dynamic display, our skilled team creates and delivers solutions that are
               important to you by:</p>
             <ul class="mt-0 mb-3">
-              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">â¦¿</span>
                 Lowering your total cost through the supply chain and developing
                 sustainable solutions to reduce environmental impact throughout the package life-cycle</li>
-              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">â¦¿</span>
                 Increasing sales through innovative designs and dynamic shelf appeal
                 for unique consumer experiences.</li>
-              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">â¦¿</span>
                 Reduce your risk with time-tested designs, sales support,
-                unparalleled machine’s performance, and a coast-to-coast footprint.
+                unparalleled machineâ€™s performance, and a coast-to-coast footprint.
               </li>
-              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">â¦¿</span>
                 Increase your sustainability by using more renewable and recyclable
                 resources.</li>
             </ul>
@@ -124,3 +120,4 @@
 
   <!-- header start -->
   <?php include 'footer.php'; ?>
+

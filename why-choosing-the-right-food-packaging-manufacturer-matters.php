@@ -62,7 +62,7 @@
                                         <p class="wow fadeInUp">When it comes to food, packaging does more than just
                                             wrap a product—it preserves freshness, ensures safety, and communicates your
                                             brand’s value. That’s why selecting the right <a
-                                                href="https://prempackaging.com/food-packaging" target="_blank"
+                                                href="<?php echo site_url('food-packaging'); ?>" target="_blank"
                                                 style="color: black;"><b>food packaging manufacturer</b></a> is
                                             not just a procurement decision—it’s a strategic move that impacts your
                                             product’s journey from production to consumption.</p>

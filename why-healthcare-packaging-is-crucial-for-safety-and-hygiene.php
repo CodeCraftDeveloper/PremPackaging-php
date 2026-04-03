@@ -68,7 +68,7 @@
                       healthcare products require packaging that maintains integrity throughout their lifecycle.
                       Packaging materials must be sterile, moisture-resistant, and strong enough to withstand
                       transportation and handling. Whether it's a swab pouch or a laminate for N95 masks, the right
-                      <a href="https://prempackaging.com/healthcare-packaging" target="_blank"
+                      <a href="<?php echo site_url('healthcare-packaging'); ?>" target="_blank"
                         style="color: black;"><b>healthcare packaging</b></a> extends shelf-life and maintains efficacy.
                     </p>
                     <p class="wow fadeInUp">At Prem Industries India Limited, we understand these requirements deeply.
@@ -102,7 +102,7 @@
                     </h4>
                     <p class="wow fadeInUp">With over four decades of experience in the packaging industry, we at Prem
                       Industries India Limited specialize in delivering top-tier <b><a
-                          href="https://prempackaging.com/healthcare-packaging" target="_blank"
+                          href="<?php echo site_url('healthcare-packaging'); ?>" target="_blank"
                           style="color: black;">healthcare packaging</a></b> solutions. From small-scale startups to
                       large-scale pharmaceutical brands, our flexible packaging capabilities, fast turnaround, and
                       quality checks ensure you get packaging that works as hard as your product does.</p>

@@ -62,10 +62,10 @@
                       shelf appeal, and ensuring convenience for consumers. At Prem Industries India Limited, we
                       specialize in high-quality packaging solutions, offering a wide range of pouches tailored to
                       various industries, including food, beverages, pharmaceuticals, and cosmetics. As the <a
-                        href="https://prempackaging.com/food-packaging" target="_blank" style="color: black;"><b>best
+                        href="<?php echo site_url('food-packaging'); ?>" target="_blank" style="color: black;"><b>best
                           food packaging company in India</b></a>, we provide innovative and sustainable packaging
                       options that meet global standards. In this blog, we’ll explore the different types of <a
-                        href="https://prempackaging.com/flexible-laminates-pouches" target="_blank"
+                        href="<?php echo site_url('flexible-laminates-pouches'); ?>" target="_blank"
                         style="color: black;"><b>flexible laminates & pouches</b></a> we offer and how they benefit
                       businesses.</p>
                     <h4 style="font-weight: 600;" class="mb-3">Types of flexible laminates & pouches we provide</h4>

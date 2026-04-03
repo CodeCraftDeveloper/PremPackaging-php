@@ -64,7 +64,7 @@
                       manufacturer, or a retail brand, choosing the right bespoke packaging supplier is essential for
                       your success. A reliable packaging partner ensures that your products are well-protected, visually
                       appealing, and aligned with your sustainability goals.</p>
-                    <p class="wow fadeInUp">If you are searching for the <a href="https://prempackaging.com/"
+                    <p class="wow fadeInUp">If you are searching for the <a href="<?php echo site_url(); ?>"
                         style="color: black;" target="_blank"><b>best packaging company in India</b></a>, this guide
                       will help you make an informed decision. Prem Industries India Limited, a leader in the packaging
                       industry since 1977, has been setting benchmarks in quality, innovation, and customer service.
@@ -159,7 +159,7 @@
                     <p class="wow fadeInUp">Choosing the right bespoke packaging supplier is vital for the success of
                       your business. From quality materials and customization options to sustainability and
                       cost-effectiveness, every aspect should be carefully evaluated before deciding.</p>
-                    <p class="wow fadeInUp">If you are searching for a <a href="https://prempackaging.com/"
+                    <p class="wow fadeInUp">If you are searching for a <a href="<?php echo site_url(); ?>"
                         style="color: black;" target="_blank"><b>packaging company near me</b></a>, look no further than
                       Prem Industries India Limited. With decades of expertise, cutting-edge technology, and a
                       commitment to innovation, we are the perfect partner for all your packaging needs.</p>

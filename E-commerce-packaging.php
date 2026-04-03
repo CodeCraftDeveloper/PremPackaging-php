@@ -49,7 +49,7 @@
         <div class="col-md-12">
           <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-              <li class="breadcrumb-item"><a href="/"><i class="fa fa-home"></i> Home</a></li>
+              <li class="breadcrumb-item"><a href="<?php echo site_url(); ?>"><i class="fa fa-home"></i> Home</a></li>
               <li class="breadcrumb-item active" aria-current="page">Ecommerce Packaging</li>
             </ol>
           </nav>
@@ -85,15 +85,15 @@
               <br><br>Key Features of Our ecommerce Packaging:
             </p>
             <ul class="mb-3">
-              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">â¦¿</span>
                 Reduced DIM Weight</li>
-              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">â¦¿</span>
                 Void
                 Filling</li>
-              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">â¦¿</span>
                 Usage
                 of fibre to decrease the total cost</li>
-              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">â¦¿</span>
                 Improved Supply Chain Efficiency</li>
             </ul>
             <h4 style="font-weight: 600;">Trust us to Help you Get the Best Ecommerce Packaging</h4>
@@ -129,13 +129,13 @@
           <div class="gallery-box">
             <a href="https://www.store.prempackaging.com/bopp-tape" style="color: black;" target="_blank">
               <img src="img/e-com-packaging/bopp.jpg" alt="BOPP Tape">
-              <h4 class="text-center"><span>PackPro<sup>™</sup> BOPP Tapes</span></h4>
+              <h4 class="text-center"><span>PackPro<sup>â„¢</sup> BOPP Tapes</span></h4>
             </a>
           </div>
         </div>
         <div class="col-md-4">
           <div class="gallery-box">
-            <a href="https://prempackaging.com/2-ply-corrugated-mailer-bags" style="color: black;" target="_blank">
+            <a href="<?php echo site_url('2-ply-corrugated-mailer-bags'); ?>" style="color: black;" target="_blank">
               <img src="img/e-com-packaging/paper-bag.png" alt="Corrugated Mailer Bags">
               <h4 class="text-center">Corrugated Mailer Bags</h4>
             </a>
@@ -145,7 +145,7 @@
           <div class="gallery-box">
             <a href="https://www.store.prempackaging.com/paper-tape" style="color: black;" target="_blank">
               <img src="img/e-com-packaging/paper.png" alt="Packpro Paper Tapes">
-              <h4 class="text-center"><span>PackPro<sup>™</sup> Paper Tapes</span></h4>
+              <h4 class="text-center"><span>PackPro<sup>â„¢</sup> Paper Tapes</span></h4>
             </a>
           </div>
         </div>
@@ -177,15 +177,15 @@
           <div class="gallery-box">
             <a href="https://www.store.prempackaging.com/label" style="color: black;" target="_blank">
               <img src="img/e-com-packaging/3-new.jpg" alt="Rollabel Labels">
-              <h4 class="text-center">Rollabel<sup>™</sup> Label</h4>
+              <h4 class="text-center">Rollabel<sup>â„¢</sup> Label</h4>
             </a>
           </div>
         </div>
         <div class="col-md-4">
           <div class="gallery-box">
-            <a href="https://prempackaging.com/wetboxtech" style="color: black;" target="_blank">
+            <a href="<?php echo site_url('wetboxtech'); ?>" style="color: black;" target="_blank">
               <img src="img/e-com-packaging/4.jpg" alt="WetBoxTech">
-              <h4 class="text-center">WetBoxTech<sup>™</sup></h4>
+              <h4 class="text-center">WetBoxTech<sup>â„¢</sup></h4>
             </a>
           </div>
         </div>
@@ -201,29 +201,29 @@
           <div class="gallery-box">
             <a href="https://www.store.prempackaging.com/food-wrapping-paper" style="color: black;" target="_blank">
               <img src="img/e-com-packaging/6.jpg" alt="PackPro Food Wrapping Paper">
-              <h4 class="text-center">PackPro<sup>™</sup> Food Wrapping Paper</h4>
+              <h4 class="text-center">PackPro<sup>â„¢</sup> Food Wrapping Paper</h4>
             </a>
           </div>
         </div>
         <div class="col-md-4">
           <div class="gallery-box">
-            <a href="https://prempackaging.com/flexpand" style="color: black;" target="_blank">
+            <a href="<?php echo site_url('flexpand'); ?>" style="color: black;" target="_blank">
               <img src="img/e-com-packaging/7.jpg" alt="Flexpand">
-              <h4 class="text-center">FlexPand<sup>™</sup></h4>
+              <h4 class="text-center">FlexPand<sup>â„¢</sup></h4>
             </a>
           </div>
         </div>
         <div class="col-md-4">
           <div class="gallery-box">
-            <a href="https://prempackaging.com/packpro-carry-handle-tape" style="color: black;" target="_blank">
+            <a href="<?php echo site_url('packpro-carry-handle-tape'); ?>" style="color: black;" target="_blank">
               <img src="img/e-com-packaging/8.jpg" alt="PackPro Carry Handle Tapes">
-              <h4 class="text-center">PackPro<sup>™</sup> Carry Handle Tape</h4>
+              <h4 class="text-center">PackPro<sup>â„¢</sup> Carry Handle Tape</h4>
             </a>
           </div>
         </div>
         <div class="col-md-4">
           <div class="gallery-box">
-            <a href="https://prempackaging.com/carry-bag" style="color: black;" target="_blank">
+            <a href="<?php echo site_url('carry-bags'); ?>" style="color: black;" target="_blank">
               <img src="img/e-com-packaging/9-new.jpg" alt="Carry Bags without Handle">
               <h4 class="text-center">Carry Bag without Handle</h4>
             </a>
@@ -231,7 +231,7 @@
         </div>
         <div class="col-md-4">
           <div class="gallery-box">
-            <a href="https://prempackaging.com/carry-bag" style="color: black;" target="_blank">
+            <a href="<?php echo site_url('carry-bags'); ?>" style="color: black;" target="_blank">
               <img src="img/e-com-packaging/10-new.jpg" alt="Carry Bags with Handle">
               <h4 class="text-center">Carry Bag with Handle</h4>
             </a>

@@ -36,7 +36,7 @@
           <div class="col-md-12">
             <nav aria-label="breadcrumb">
               <ol class="breadcrumb">
-                <li class="breadcrumb-item"><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
+                <li class="breadcrumb-item"><a href="<?php echo site_url(); ?>"><i class="fa fa-home"></i> Home</a></li>
                 <li class="breadcrumb-item active" aria-current="page">Sustainability</li>
               </ol>
             </nav>
@@ -53,7 +53,7 @@
         <div class="col-md-12">
           <div class="text-left">
             <h3 class="wow fadeInUp">Mindfully Made Packaging</h3>
-            <a href="contact-us.php" class="contact-add">
+                  <a href="<?php echo site_url('contact-us'); ?>" class="contact-add">
               <i class="fa fa-envelope"></i>
               <span>Get more information</span>
             </a>
@@ -75,7 +75,7 @@
             <ul class="listing-content">
               <li><i class="fa fa-arrow-right"></i> We follow a circular economy, by mixing the leftover pieces that are
                 considered waste in our recycling machinery. Our recycling machines produce a lot of raw material, which
-                accelerates the greening needs of our planet, which can’t be neglected.</li>
+                accelerates the greening needs of our planet, which canâ€™t be neglected.</li>
               <li><i class="fa fa-arrow-right"></i> We have reduced our use of plastic and it has immensely contributed
                 to the generation of non-degradable waste. It has helped us create a loop ecosystem.</li>
               <li><i class="fa fa-arrow-right"></i> We also offer our customers the option to switch towards an
@@ -209,3 +209,4 @@
       $('.fancybox').fancybox();
     });
   </script>
+

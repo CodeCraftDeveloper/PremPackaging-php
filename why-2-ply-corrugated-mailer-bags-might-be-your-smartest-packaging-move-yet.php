@@ -62,7 +62,7 @@
                                         <p class="wow fadeInUp">When it comes to choosing the right packaging solution
                                             for your business, strength, cost-efficiency, and sustainability often top
                                             the list. But what if one product could deliver all three and more? Enter
-                                            the <a href="https://prempackaging.com/2-ply-corrugated-mailer-bags"
+                                            the <a href="<?php echo site_url('2-ply-corrugated-mailer-bags'); ?>"
                                                 target="_blank" style="color: black;"><b>2 ply corrugated
                                                     mailer bag</b></a>
                                             — a rising star in modern packaging that’s

@@ -49,7 +49,7 @@
         <div class="col-md-12">
           <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-              <li class="breadcrumb-item"><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
+              <li class="breadcrumb-item"><a href="<?php echo site_url(); ?>"><i class="fa fa-home"></i> Home</a></li>
               <li class="breadcrumb-item active" aria-current="page">Electronics Packaging</li>
             </ol>
           </nav>
@@ -66,10 +66,6 @@
         <div class="col-md-12">
           <div class="text-left">
             <h3 class="wow fadeInUp">ELECTRONIC PACKAGING SOLUTIONS THAT PROTECTS THE DELICATE</h3>
-            <!-- <a href="contact-us.php" class="contact-add">
-              <i class="fa fa-envelope"></i>
-              <span>Get more information</span>
-            </a> -->
           </div>
         </div>
       </div>
@@ -79,7 +75,7 @@
             <p class="wow fadeInUp">In the world of electronics, brand loyalty is a significant way to increase sales.
               Brand loyalty is built on many factors, one being amazing electronic packaging solutions. Nearly 50% of
               the consumers of electronic products already know what brand they will buy. Hence, the packing is the
-              first look of your brand and it can’t be compromised. It also affects the frequency of repeat purchases
+              first look of your brand and it canâ€™t be compromised. It also affects the frequency of repeat purchases
               from the same brand.</p>
 
             <p>Your carton-based branding is done at Prem Industries India Limited with a state-of-the-art digital
@@ -91,22 +87,22 @@
             <p>At Prem Industries India Limited, we offer the following electronic packaging solutions:</p>
 
             <ul>
-              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">â¦¿</span>
                 Complete graphic and customized design services.</li>
-              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">â¦¿</span>
                 Choose
                 from a huge range of pack formats that fit your needs, like
                 rigid boxes, printed boxes, labels, sleeves, etc.</li>
-              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">â¦¿</span>
                 Integrated merchandise displays and product packaging design.</li>
-              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">⦿</span>
+              <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span class="bullet-point-new">â¦¿</span>
                 Retail
                 displays from design to production.</li>
             </ul>
             <p class="mt-3">Our advanced approach and machinery continue to amaze the customers with innovation, cost
               reduction, and
               enhancement of product display.</p>
-            <p>Partner with us as we are a trusted electronics packaging manufacturer — delivering innovation, cost
+            <p>Partner with us as we are a trusted electronics packaging manufacturer â€” delivering innovation, cost
               efficiency, and superior product presentation for custom packaging solutions!</p>
 
           </div>
@@ -132,3 +128,4 @@
 
   <!-- header start -->
   <?php include 'footer.php'; ?>
+

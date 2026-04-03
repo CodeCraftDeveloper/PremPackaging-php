@@ -66,7 +66,7 @@
                                             sustainable, and smart packaging choice trusted by food service brands and
                                             retailers across India.</p>
                                         <p class="wow fadeInUp"><a
-                                                href="https://prempackaging.com/packpro-honeycomb-food-wrapping-paper"
+                                                href="<?php echo site_url('packpro-honeycomb-food-wrapping-paper'); ?>"
                                                 target="_blank" style="color: black;"><b>PackPro™ Honeycomb Food
                                                     Wrapping Paper</b>
                                             </a> is not just another packaging

@@ -63,7 +63,7 @@
                                             just a convenience—they’re an extension of your brand, a customer
                                             touchpoint, and a sustainability statement. Whether you're in retail,
                                             e-commerce, or food delivery, choosing the right <a
-                                                href="https://prempackaging.com/carry-bags" style="color: black;"
+                                                href="<?php echo site_url('carry-bags'); ?>" style="color: black;"
                                                 target="_blank"><b>carry bag manufacturer</b></a> is
                                             crucial for both functionality and brand visibility.</p>
                                         <p class="wow fadeInUp">At Prem Industries India Limited, we understand

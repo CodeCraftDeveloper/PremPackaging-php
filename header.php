@@ -1,4 +1,5 @@
-﻿<!-- Marquee Announcement -->
+<?php require_once __DIR__ . '/url-helper.php'; ?>
+<!-- Marquee Announcement -->
 <div style="background:#E92227; color:white; font-weight:600; font-size:16px; padding:6px 0; overflow:hidden;">
     <div class="custom-marquee">
         <div class="custom-marquee-content">
@@ -24,7 +25,7 @@
 <header>
     <nav class="navbar navbar-expand-lg navbar-light sticky-top">
         <div class="container-fluid p-0">
-            <a class="navbar-brand" href="https://prempackaging.com/">
+            <a class="navbar-brand" href="<?php echo site_url(); ?>">
                 <img width="110" src="img/logo.png" alt="prem Industries India Limited" title="" />
             </a>
 
@@ -54,24 +55,24 @@
                             <div class="row">
                                 <div class="col-sm-6 col-lg-6 border-right">
                                     <h6>What we Serve!</h6>
-                                    <a class="dropdown-item" href="E-commerce-packaging.php">Ecommerce Packaging </a>
-                                    <a class="dropdown-item" href="E-com-paper-bags.php">E-com Paper Bags </a>
-                                    <a class="dropdown-item" href="food-packaging.php">Food Packaging</a>
-                                    <a class="dropdown-item" href="luxury-packaging.php">Luxury Packaging</a>
-                                    <a class="dropdown-item" href="commercial-printing.php">Commercial Printing</a>
-                                    <a class="dropdown-item" href="electronics-packaging.php">Electronics Packaging</a>
-                                    <a class="dropdown-item" href="beauty-personal-care-packaging.php">Beauty & Personal
+                                    <a class="dropdown-item" href="<?php echo site_url('E-commerce-packaging'); ?>">Ecommerce Packaging </a>
+                                    <a class="dropdown-item" href="<?php echo site_url('E-com-paper-bags'); ?>">E-com Paper Bags </a>
+                                    <a class="dropdown-item" href="<?php echo site_url('food-packaging'); ?>">Food Packaging</a>
+                                    <a class="dropdown-item" href="<?php echo site_url('luxury-packaging'); ?>">Luxury Packaging</a>
+                                    <a class="dropdown-item" href="<?php echo site_url('commercial-printing'); ?>">Commercial Printing</a>
+                                    <a class="dropdown-item" href="<?php echo site_url('electronics-packaging'); ?>">Electronics Packaging</a>
+                                    <a class="dropdown-item" href="<?php echo site_url('beauty-personal-care-packaging'); ?>">Beauty & Personal
                                         Care<br />
                                         Packaging</a>
-                                    <a class="dropdown-item" href="fmcg-packaging.php">FMCG Packaging</a>
-                                    <a class="dropdown-item" href="healthcare-packaging.php">Healthcare Packaging</a>
+                                    <a class="dropdown-item" href="<?php echo site_url('fmcg-packaging'); ?>">FMCG Packaging</a>
+                                    <a class="dropdown-item" href="<?php echo site_url('healthcare-packaging'); ?>">Healthcare Packaging</a>
                                 </div>
                                 <div class="col-sm-6 col-lg-6 border-right">
-                                    <h6><a href="corrugated-packaging.php">Corrugated Packaging </a></h6>
-                                    <a class="dropdown-item" href="corrugated-containers.php">Corrugated Containers</a>
-                                    <a class="dropdown-item" href="displays.php">Displays</a>
-                                    <h6><a href="sustainability.php">Sustainability</a></h6>
-                                    <h6><a href="packaging-technology.php">Packaging Technology</a></h6>
+                                    <h6><a href="<?php echo site_url('corrugated-packaging'); ?>">Corrugated Packaging </a></h6>
+                                    <a class="dropdown-item" href="<?php echo site_url('corrugated-containers'); ?>">Corrugated Containers</a>
+                                    <a class="dropdown-item" href="<?php echo site_url('displays'); ?>">Displays</a>
+                                    <h6><a href="<?php echo site_url('sustainability'); ?>">Sustainability</a></h6>
+                                    <h6><a href="<?php echo site_url('packaging-technology'); ?>">Packaging Technology</a></h6>
                                 </div>
                             </div>
                         </div>
@@ -86,97 +87,83 @@
                             <div class="row">
                                 <!-- Add one border-left class bellow for division -->
                                 <div class="col-sm-4 col-lg-4">
-                                    <a class="dropdown-item" href="corrugated-boxes.php">Corrugated Boxes</a>
-                                    <a class="dropdown-item" href="offset-printed-cartons-folding-cartons.php">Offset
+                                    <a class="dropdown-item" href="<?php echo site_url('corrugated-boxes'); ?>">Corrugated Boxes</a>
+                                    <a class="dropdown-item" href="<?php echo site_url('offset-printed-cartons-folding-cartons'); ?>">Offset
                                         Printed Cartons /
                                         <br>Folding Cartons</a>
-                                    <a class="dropdown-item" href="flexible-laminates-pouches.php">Flexible Laminates &
+                                    <a class="dropdown-item" href="<?php echo site_url('flexible-laminates-pouches'); ?>">Flexible Laminates &
                                         Pouches</a>
-                                    <a class="dropdown-item" href="retort-packaging.php">Retort Packaging</a>
-                                    <a class="dropdown-item" href="rigid-boxes.php">Rigid Boxes</a>
-                                    <a class="dropdown-item" href="paper-mailer-bags.php">Paper Mailer Bags</a>
-                                    <a class="dropdown-item" href="2-ply-corrugated-mailer-bags.php">2 Ply Corrugated
+                                    <a class="dropdown-item" href="<?php echo site_url('retort-packaging'); ?>">Retort Packaging</a>
+                                    <a class="dropdown-item" href="<?php echo site_url('rigid-boxes'); ?>">Rigid Boxes</a>
+                                    <a class="dropdown-item" href="<?php echo site_url('paper-mailer-bags'); ?>">Paper Mailer Bags</a>
+                                    <a class="dropdown-item" href="<?php echo site_url('2-ply-corrugated-mailer-bags'); ?>">2 Ply Corrugated
                                         Mailer Bags</a>
-                                    <a class="dropdown-item" href="carry-bags.php">Carry Bags</a>
-                                    <a class="dropdown-item" href="packpro-tapes.php">PackPro<sup>&trade;</sup>
+                                    <a class="dropdown-item" href="<?php echo site_url('carry-bags'); ?>">Carry Bags</a>
+                                    <a class="dropdown-item" href="<?php echo site_url('packpro-tapes'); ?>">PackPro<sup>&trade;</sup>
                                         Tapes</a>
-                                    <a class="dropdown-item" href="wetboxtech.php">WetBoxTech<sup>&trade;</sup></a>
-                                    <!-- <a class="dropdown-item" href="packpro-tapes.php">PackPro<sup>&trade;</sup> Tapes</a> -->
+                                    <a class="dropdown-item" href="<?php echo site_url('wetboxtech'); ?>">WetBoxTech<sup>&trade;</sup></a>
                                 </div>
                                 <div class="col-sm-4 col-lg-4">
-                                    <a class="dropdown-item" href="flexpand.php">Flexpand<sup>&trade;</sup></a>
-                                    <a class="dropdown-item" href="rollabel-labels.php">Rollabel<sup>&trade;</sup>
+                                    <a class="dropdown-item" href="<?php echo site_url('flexpand'); ?>">Flexpand<sup>&trade;</sup></a>
+                                    <a class="dropdown-item" href="<?php echo site_url('rollabel-labels'); ?>">Rollabel<sup>&trade;</sup>
                                         Labels</a>
-                                    <a class="dropdown-item" href="labels-with-multiups.php">Rollabel<sup>&trade;</sup>
+                                    <a class="dropdown-item" href="<?php echo site_url('labels-with-multiups'); ?>">Rollabel<sup>&trade;</sup>
                                         Labels
                                         with Multiups</a>
                                     <a class="dropdown-item"
-                                        href="packpro-honeycomb-food-wrapping-paper.php">PackPro<sup>&trade;</sup>
+                                        href="<?php echo site_url('packpro-honeycomb-food-wrapping-paper'); ?>">PackPro<sup>&trade;</sup>
                                         HoneyComb <br>Food Wrapping Papers</a>
                                     <a class="dropdown-item"
-                                        href="packpro-carry-handle-tape.php">PackPro<sup>&trade;</sup>
+                                        href="<?php echo site_url('packpro-carry-handle-tape'); ?>">PackPro<sup>&trade;</sup>
                                         Carry Handle
                                         Tapes</a>
-                                    <a class="dropdown-item" href="peel-and-seal-bags.php">Peel and Seal Bags</a>
-                                    <a class="dropdown-item" href="void-tape.php">Void Tapes</a>
-                                    <a class="dropdown-item" href="security-bag.php">Security Bags</a>
-                                    <a class="dropdown-item" href="returnable-poly-mailer.php">Returnable Poly
+                                    <a class="dropdown-item" href="<?php echo site_url('peel-and-seal-bags'); ?>">Peel and Seal Bags</a>
+                                    <a class="dropdown-item" href="<?php echo site_url('void-tape'); ?>">Void Tapes</a>
+                                    <a class="dropdown-item" href="<?php echo site_url('security-bag'); ?>">Security Bags</a>
+                                    <a class="dropdown-item" href="<?php echo site_url('returnable-poly-mailer'); ?>">Returnable Poly
                                         Mailers</a>
-                                    <a class="dropdown-item" href="m-folder.php">M Folders</a>
+                                    <a class="dropdown-item" href="<?php echo site_url('m-folder'); ?>">M Folders</a>
                                 </div>
                                 <div class="col-sm-4 col-lg-4">
                                     <a class="dropdown-item"
-                                        href="packpro-honeycomb-wrapper.php">PackPro<sup>&trade;</sup>
+                                        href="<?php echo site_url('packpro-honeycomb-wrapper'); ?>">PackPro<sup>&trade;</sup>
                                         HoneyComb
                                         <br>Wrappers</a>
-                                    <a class="dropdown-item" href="paper-bubble-bag.php">Paper Bubble Bags</a>
-                                    <a class="dropdown-item" href="bubble-pouch.php">Bubble Pouches</a>
-                                    <a class="dropdown-item" href="heattechbox.php">HeatTechBox</a>
-                                    <a class="dropdown-item" href="variable-depth-box.php">Variable Depth Boxes</a>
-                                    <a class="dropdown-item" href="buy-back-box.php">Buy Back Boxes</a>
-                                    <a class="dropdown-item" href="child-resistant-pouch.php">Child Resistant Pouch</a>
-                                    <a class="dropdown-item" href="paper-cups-and-plates.php">Paper Cups and Plates</a>
+                                    <a class="dropdown-item" href="<?php echo site_url('paper-bubble-bag'); ?>">Paper Bubble Bags</a>
+                                    <a class="dropdown-item" href="<?php echo site_url('bubble-pouch'); ?>">Bubble Pouches</a>
+                                    <a class="dropdown-item" href="<?php echo site_url('heattechbox'); ?>">HeatTechBox</a>
+                                    <a class="dropdown-item" href="<?php echo site_url('variable-depth-box'); ?>">Variable Depth Boxes</a>
+                                    <a class="dropdown-item" href="<?php echo site_url('buy-back-box'); ?>">Buy Back Boxes</a>
+                                    <a class="dropdown-item" href="<?php echo site_url('child-resistant-pouch'); ?>">Child Resistant Pouch</a>
+                                    <a class="dropdown-item" href="<?php echo site_url('paper-cups-and-plates'); ?>">Paper Cups and Plates</a>
                                 </div>
                             </div>
                         </div>
-                        <!-- <div class="dropdown-menu megamenu sm-menu border-top" aria-labelledby="dropdown01">
-                  <a class="dropdown-item" href="corrugated-boxes.php">Corrugated Boxes</a>
-                  <a class="dropdown-item" href="offset-printed-cartons-folding-cartons.php">Offset Printed Cartons/ Folding Cartons</a>
-                  <a class="dropdown-item" href="flexible-laminates-pouches.php">Flexible Laminates & Pouches</a>
-                  <a class="dropdown-item" href="retort-packaging.php">Retort Packaging</a>
-                  <a class="dropdown-item" href="luxury-rigid-boxes.php">Luxury Rigid Boxes</a>
-                  <a class="dropdown-item" href="paper-mailer-bags.php">Paper Mailer Bags</a>
-                  <a class="dropdown-item" href="2-ply-corrugated-mailer-bags.php">2 Ply Corrugated Mailer Bags</a>
-                  <a class="dropdown-item" href="packpro-tapes.php">PackPro<sup>&trade;</sup> Tapes</a>
-              </div> -->
                     </li>
                     <!--=========-->
 
                     <li class="nav-item dmenu dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <button class="nav-link dropdown-toggle" type="button" id="navbarDropdown"
+                            data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"
+                            style="background:none; border:0;">
                             Company Overview
-                        </a>
+                        </button>
                         <div class="dropdown-menu sm-menu sm2Menu" aria-labelledby="navbarDropdown">
-                            <a class="dropdown-item" href="about-us.php">About Us</a>
-                            <!--	  <a class="dropdown-item" href="team.php">Our Team</a> -->
-                            <a class="dropdown-item" href="clients.php">Our Clients</a>
-                            <a class="dropdown-item" href="careers.php">Careers</a>
-                            <a class="dropdown-item" href="awards.php">Awards</a>
-                            <a class="dropdown-item" href="quality-control.php">Quality Control</a>
-                            <a class="dropdown-item" href="research-development.php">Research & Development</a>
-                            <a class="dropdown-item" href="exhibitions.php">Exhibitions</a>
-                            <a class="dropdown-item" href="./brochure/Prem Packaging.pdf" download="Prem Packaging.pdf"
+                            <a class="dropdown-item" href="<?php echo site_url('about-us'); ?>">About Us</a>
+                            <a class="dropdown-item" href="<?php echo site_url('clients'); ?>">Our Clients</a>
+                            <a class="dropdown-item" href="<?php echo site_url('careers'); ?>">Careers</a>
+                            <a class="dropdown-item" href="<?php echo site_url('awards'); ?>">Awards</a>
+                            <a class="dropdown-item" href="<?php echo site_url('quality-control'); ?>">Quality Control</a>
+                            <a class="dropdown-item" href="<?php echo site_url('research-development'); ?>">Research & Development</a>
+                            <a class="dropdown-item" href="<?php echo site_url('exhibitions'); ?>">Exhibitions</a>
+                            <a class="dropdown-item" href="<?php echo site_url('brochure/Prem Packaging.pdf'); ?>" download="Prem Packaging.pdf"
                                 target="_blank" rel="noreferrer">Download Brochure</a>
-
-                            <!-- <a class="dropdown-item" href="mission-vision.php">Mission & Vision</a> -->
-                            <!-- <a class="dropdown-item" href="team.php">Team</a> -->
                         </div>
                     </li>
-                    <li class="nav-item"><a class="nav-link" href="innovation.php">Innovation</a></li>
-                    <li class="nav-item"><a class="nav-link" href="contact-us.php">Contact Us</a></li>
+                    <li class="nav-item"><a class="nav-link" href="<?php echo site_url('innovation'); ?>">Innovation</a></li>
+                    <li class="nav-item"><a class="nav-link" href="<?php echo site_url('contact-us'); ?>">Contact Us</a></li>
 
-                    <li class="nav-item"><a class="nav-link" href="/blogs">blogs</a></li>
+                    <li class="nav-item"><a class="nav-link" href="<?php echo site_url('blogs'); ?>">blogs</a></li>
 
 
                     <li class="nav-item"><a class="nav-link" href="https://store.prempackaging.com/">
@@ -625,3 +612,4 @@
     }
     </style>
 </head>
+

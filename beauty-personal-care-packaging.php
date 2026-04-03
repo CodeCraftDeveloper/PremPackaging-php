@@ -49,7 +49,7 @@
         <div class="col-md-12">
           <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-              <li class="breadcrumb-item"><a href="index.php"><i class="fa fa-home"></i> Home</a></li>
+              <li class="breadcrumb-item"><a href="<?php echo site_url(); ?>"><i class="fa fa-home"></i> Home</a></li>
               <li class="breadcrumb-item active" aria-current="page">Beauty & Personal Care Packaging</li>
             </ol>
           </nav>
@@ -80,21 +80,21 @@
               <h4 style="font-weight: 600;">Why Choose us for Beauty & Personal Care Packaging?</h4>
               <p class="wow fadeInUp">At Prem Industries India Limited, a trusted beauty personal care manufacturer, we
                 understand
-                that packaging is more than just a container, it's a reflection of your brand. That’s why our beauty &
+                that packaging is more than just a container, it's a reflection of your brand. Thatâ€™s why our beauty &
                 personal care packaging solutions are designed
                 to combine aesthetics with functionality. We ensure: </p>
               <ul class="mt-0 mb-3">
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
-                    class="bullet-point-new">⦿</span>
+                    class="bullet-point-new">â¦¿</span>
                   Minimized Product Wastage: Packaging that extends shelf life and keeps products fresh. </li>
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
-                    class="bullet-point-new">⦿</span>
+                    class="bullet-point-new">â¦¿</span>
                   Sustainability: Environmentally friendly materials that reduce packaging waste. </li>
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
-                    class="bullet-point-new">⦿</span>
+                    class="bullet-point-new">â¦¿</span>
                   Secure Seals: Solutions that prevent leaks and lock in fragrances effectively.</li>
                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
-                    class="bullet-point-new">⦿</span>
+                    class="bullet-point-new">â¦¿</span>
                   User-Friendly Designs: Easy dispensing systems that enhance convenience for consumers. </li>
               </ul>
               <h4 style="font-weight: 600;">Elevate Your Brand with Innovative Packaging</h4>
@@ -151,3 +151,4 @@
       $('.fancybox').fancybox();
     });
   </script>
+

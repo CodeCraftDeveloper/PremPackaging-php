@@ -73,7 +73,7 @@
                                             luxury packaging is their ability to protect delicate and expensive items.
                                             Unlike flexible packaging or corrugated boxes, rigid box retain their
                                             shape and integrity even under stress. As a leading <a
-                                                href="https://prempackaging.com/rigid-boxes" target="_blank"
+                                                href="<?php echo site_url('rigid-boxes'); ?>" target="_blank"
                                                 style="color: black;"><b>rigid boxes manufacturer</b></a>,
                                             Prem Industries India Limited ensures every box meets high durability
                                             standards, providing complete protection during transit and display.

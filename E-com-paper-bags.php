@@ -36,7 +36,7 @@
         <div class="col-md-12">
           <nav aria-label="breadcrumb">
             <ol class="breadcrumb">
-              <li class="breadcrumb-item"><a href="#"><i class="fa fa-home"></i> Home</a></li>
+              <li class="breadcrumb-item"><a href="<?php echo site_url(); ?>"><i class="fa fa-home"></i> Home</a></li>
               <li class="breadcrumb-item active" aria-current="page">E-Com Paper Bags</li>
             </ol>
           </nav>
@@ -54,7 +54,7 @@
         <div class="col-md-12">
           <div class="text-left mb-4">
             <h3 class="wow fadeInUp">Innovatively Reliable. Environmentally Viable.</h3>
-            <a href="contact-us.php" class="contact-add">
+                  <a href="<?php echo site_url('contact-us'); ?>" class="contact-add">
               <i class="fa fa-envelope"></i>
               <span>Get more information</span>
             </a>
@@ -97,3 +97,4 @@
   <?php include 'contactsection.php'; ?>
   <!-- header start -->
   <?php include 'footer.php'; ?>
+

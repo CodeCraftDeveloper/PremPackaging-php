@@ -65,7 +65,7 @@
                                             the customer in the same condition it left the warehouse is essential. This
                                             is where void tape comes into play.</p>
                                         <p class="wow fadeInUp">At Prem Industries India Limited, a trusted <a
-                                                href="https://prempackaging.com/void-tape" style="color: black;"
+                                                href="<?php echo site_url('void-tape'); ?>" style="color: black;"
                                                 target="_blank"><b>void tape
                                                     manufacturer</b></a>, we understand the importance of secure
                                             packaging. Our

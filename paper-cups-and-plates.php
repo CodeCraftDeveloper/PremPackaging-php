@@ -38,7 +38,7 @@
                 <div class="col-md-12">
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="/"><i class="fa fa-home"></i> Home</a></li>
+                            <li class="breadcrumb-item"><a href="<?php echo site_url(); ?>"><i class="fa fa-home"></i> Home</a></li>
                             <li class="breadcrumb-item active" aria-current="page">Paper Cups and Plates</li>
                         </ol>
                     </nav>
@@ -56,7 +56,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div>
-                        <h3 class="wow fadeInUp" style="font-size: 35px">Paper Cups & Plates – Sustainable Packaging
+                        <h3 class="wow fadeInUp" style="font-size: 35px">Paper Cups & Plates â€“ Sustainable Packaging
                             That Serves Every Need</h3>
                     </div>
                 </div>
@@ -69,13 +69,13 @@
                                 manufacturer, we
                                 believe in delivering packaging solutions that combine convenience, safety, and
                                 sustainability. Our range of paper cups, plates, food bowls, lunch boxes, popcorn tubs,
-                                and ice cream tubs is designed to meet the diverse needs of restaurants, cafés, catering
+                                and ice cream tubs is designed to meet the diverse needs of restaurants, cafÃ©s, catering
                                 services, and quick-service outlets. Made from high-quality food-grade paper, our
                                 products ensure hygiene while being eco-friendly and 100% recyclable.</p>
                             <h4 style="font-weight: 600; color: #14254C;">Paper Cups with Lids</h4>
                             <p class="wow fadeInUp">Our paper cups are the ideal choice for serving hot and cold
                                 beverages. Available in multiple sizes, they are designed with leak-proof construction
-                                and can be paired with tight-fitting lids to ensure spill-free consumption. Whether it’s
+                                and can be paired with tight-fitting lids to ensure spill-free consumption. Whether itâ€™s
                                 coffee, tea, juice, or smoothies, our cups maintain the taste and temperature of the
                                 drink while giving customers a convenient on-the-go experience. Custom branding options
                                 are also available, allowing businesses to showcase their identity through attractive
@@ -107,29 +107,29 @@
                                 cream brands and dessert shops.</p>
                             <ul class="mt-0 mb-3">
                                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
-                                        style="color: #14254C;"><span style="color: #14254C;">⦿</span></span> <b
+                                        style="color: #14254C;"><span style="color: #14254C;">â¦¿</span></span> <b
                                         style="color: #14254C;">Eco-Friendly Solutions:</b>
                                     All our products are made from recyclable and biodegradable materials.
                                 </li>
                                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
-                                        style="color: #14254C;">⦿</span>
+                                        style="color: #14254C;">â¦¿</span>
                                     <b style="color: #14254C;">Custom Branding:</b> High-quality printing to promote
                                     your business identity.
                                 </li>
                                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
-                                        style="color: #14254C;">⦿</span>
+                                        style="color: #14254C;">â¦¿</span>
                                     <b style="color: #14254C;">Food-Grade Safety:</b> Certified for direct contact with
                                     food and beverages.
                                 </li>
                                 <li style="font-size: 15px; font-weight: 500; line-height: 26px;"><span
-                                        style="color: #14254C;">⦿</span>
+                                        style="color: #14254C;">â¦¿</span>
                                     <b style="color: #14254C;">Versatile Range:</b> From beverages to full meals and
                                     snacks, we have packaging for every requirement.
                                 </li>
                             </ul>
                             <p class="wow fadeInUp">As a paper cups and plates manufacturer, Prem Industries India
                                 Limited goes beyond
-                                packaging – we deliver solutions that preserve food quality, elevate customer
+                                packaging â€“ we deliver solutions that preserve food quality, elevate customer
                                 experience, and promote a sustainable future.</p>
                         </div>
                     </div>

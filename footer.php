@@ -1,3 +1,4 @@
+<?php require_once __DIR__ . '/url-helper.php'; ?>
   <style>
 .col-lg-3.col-md-6.harry ul li a {
     display: inline-block;
@@ -65,51 +66,43 @@
                   <div class="col-lg-3 col-md-6">
                       <h5 style="font-size: 18px">Packaging Solutions</h5>
                       <ul>
-                          <li><a href="E-commerce-packaging.php" style="font-size: 16px">E-Commerce Packaging</a></li>
-                          <li><a href="E-com-paper-bags.php" style="font-size: 16px">E-com Paper Bags </a></li>
-                          <li><a href="food-packaging.php" style="font-size: 16px">Food Packaging</a></li>
-                          <li><a href="luxury-packaging.php" style="font-size: 16px">Luxury Packaging</a></li>
-                          <li><a href="commercial-printing.php" style="font-size: 16px">Commercial Printing</a></li>
-                          <li><a href="electronics-packaging.php" style="font-size: 16px">Electronics Packaging</a></li>
-                          <li><a href="beauty-personal-care-packaging.php" style="font-size: 16px">Beauty & Personal
+                          <li><a href="<?php echo site_url('E-commerce-packaging'); ?>" style="font-size: 16px">E-Commerce Packaging</a></li>
+                          <li><a href="<?php echo site_url('E-com-paper-bags'); ?>" style="font-size: 16px">E-com Paper Bags </a></li>
+                          <li><a href="<?php echo site_url('food-packaging'); ?>" style="font-size: 16px">Food Packaging</a></li>
+                          <li><a href="<?php echo site_url('luxury-packaging'); ?>" style="font-size: 16px">Luxury Packaging</a></li>
+                          <li><a href="<?php echo site_url('commercial-printing'); ?>" style="font-size: 16px">Commercial Printing</a></li>
+                          <li><a href="<?php echo site_url('electronics-packaging'); ?>" style="font-size: 16px">Electronics Packaging</a></li>
+                          <li><a href="<?php echo site_url('beauty-personal-care-packaging'); ?>" style="font-size: 16px">Beauty & Personal
                                   Care</a>
                           </li>
-                          <li><a href="fmcg-packaging.php" style="font-size: 16px">FMCG Packaging</a></li>
-                          <li><a href="healthcare-packaging.php" style="font-size: 16px">Healthcare Packaging</a></li>
-                      </ul>
-                      <ul>
-                          <li><a href="#"></a></li>
+                          <li><a href="<?php echo site_url('fmcg-packaging'); ?>" style="font-size: 16px">FMCG Packaging</a></li>
+                          <li><a href="<?php echo site_url('healthcare-packaging'); ?>" style="font-size: 16px">Healthcare Packaging</a></li>
                       </ul>
                   </div>
                   <div class="col-lg-3 col-md-6">
-                      <a href="corrugated-packaging.php">
+                      <a href="<?php echo site_url('corrugated-packaging'); ?>">
                           <h5 style="font-size: 18px">Corrugated Packaging</h5>
                       </a>
                       <ul>
-                          <li><a href="corrugated-containers.php" style="font-size: 16px">Corrugated Containers</a></li>
-                          <li><a href="displays.php" style="font-size: 16px">Displays</a></li>
+                          <li><a href="<?php echo site_url('corrugated-containers'); ?>" style="font-size: 16px">Corrugated Containers</a></li>
+                          <li><a href="<?php echo site_url('displays'); ?>" style="font-size: 16px">Displays</a></li>
                       </ul>
-                      <a href="sustainability.php">
+                      <a href="<?php echo site_url('sustainability'); ?>">
                           <h5 style="font-size: 18px">Sustainability</h5>
                       </a>
-                      <a href="packaging-technology.php">
+                      <a href="<?php echo site_url('packaging-technology'); ?>">
                           <h5 style="font-size: 18px" class="m-0">Packaging Technology</h5>
                       </a>
-                      <ul>
-                          <li><a href="#">&nbsp;</a></li>
-                      </ul>
                   </div>
                   <div class="col-lg-3 col-md-6">
                       <h5 style="font-size: 18px">Company Overview</h5>
                       <ul>
-                          <li><a href="about-us.php" style="font-size: 16px">About Us</a></li>
-                          <!--	 <li><a href="team.php">Our Team</a></li> -->
-                          <li><a href="clients.php" style="font-size: 16px">Our Clients</a></li>
+                          <li><a href="<?php echo site_url('about-us'); ?>" style="font-size: 16px">About Us</a></li>
+                          <li><a href="<?php echo site_url('clients'); ?>" style="font-size: 16px">Our Clients</a></li>
 
-                          <!-- <li><a href="mission-vision.php">Mission & Vision</a></li> -->
-                          <li><a href="careers.php" style="font-size: 16px">Careers</a></li>
-                          <li><a href="quality-control.php" style="font-size: 16px">Quality Control</a></li>
-                          <li><a href="research-development.php" style="font-size: 16px">Research & Development</a></li>
+                          <li><a href="<?php echo site_url('careers'); ?>" style="font-size: 16px">Careers</a></li>
+                          <li><a href="<?php echo site_url('quality-control'); ?>" style="font-size: 16px">Quality Control</a></li>
+                          <li><a href="<?php echo site_url('research-development'); ?>" style="font-size: 16px">Research & Development</a></li>
                           <li><a href="https://store.prempackaging.com" style="font-size: 16px">Shop</a></li>
                       </ul>
                   </div>
@@ -164,7 +157,7 @@
     
     <div class="copyright margin__top">
 	
-	 <p>© 2022 Prem Packaging. All rights reserved. Managed by: <a href="https://assertit.io/" target="_blank"> Assert IT Solutions</a></p>
+	 <p>Â© 2022 Prem Packaging. All rights reserved. Managed by: <a href="https://assertit.io/" target="_blank"> Assert IT Solutions</a></p>
 	  
     </div>
     -->
@@ -179,3 +172,4 @@
   </body>
 
   </html>
+

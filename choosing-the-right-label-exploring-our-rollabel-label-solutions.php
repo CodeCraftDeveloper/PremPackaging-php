@@ -69,7 +69,7 @@
                                             for retail products, our labels deliver performance and reliability.</p>
                                         <p class="wow fadeInUp">In this blog, we’ll explore the two primary types of
                                             labels we offer under the Rollabel™ <a
-                                                href="https://prempackaging.com/rollabel-labels" target="_blank"
+                                                href="<?php echo site_url('rollabel-labels'); ?>" target="_blank"
                                                 style="color: black;"><b>label manufacturer</b></a> brand—Direct Thermal
                                             Labels and Chromo Labels—along with their features and best-use scenarios.
                                         </p>

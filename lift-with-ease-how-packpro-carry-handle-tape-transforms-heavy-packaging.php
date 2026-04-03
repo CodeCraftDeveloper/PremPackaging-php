@@ -62,7 +62,7 @@
                     <p class="wow fadeInUp">In the world of modern packaging, convenience isn’t a luxury—it’s a
                       necessity. As e-commerce, retail, and industrial sectors expand, the demand for packaging that’s
                       not only secure but also user-friendly has surged. One innovation making waves in this space is
-                      PackPro™ <a href="https://prempackaging.com/packpro-carry-handle-tape" target="_blank"
+                      PackPro™ <a href="<?php echo site_url('packpro-carry-handle-tape'); ?>" target="_blank"
                         style="color: black;"><b>carry handle tape</b></a>—a simple yet powerful solution designed to
                       ease the burden of lifting heavy packages.</p>
                     <h4 style="font-weight: 600;" class="mb-3">What is Carry Handle Tape?</h4>
@@ -73,7 +73,7 @@
                     </p>
                     <h4 style="font-weight: 600;" class="mb-3">Designed for Strength and Durability</h4>
                     <p class="wow fadeInUp">At Prem Industries India Limited, we offer PackPro™ <a
-                        href="https://prempackaging.com/packpro-carry-handle-tape" target="_blank"
+                        href="<?php echo site_url('packpro-carry-handle-tape'); ?>" target="_blank"
                         style="color: black;"><b>carry handle tape</b></a> that is engineered to hold up to 20 kgs or
                       more. The tape is made from high-strength film with industrial-grade adhesive that bonds securely
                       with a wide range of packaging materials. Once applied, it forms a reliable grip that can handle
