@@ -1,4 +1,4 @@
-<?php require_once __DIR__ . '/url-helper.php'; ?>
+﻿<?php require_once __DIR__ . '/url-helper.php'; ?>
 <!doctype html>
 <html lang="en">
 
@@ -459,7 +459,8 @@
                         <div class="EXp_BG" style="background: url(./img/index/years/exp-new.jpg);">
                             <div class="EXp_Content">
                                 <div class="ReadMore_btn">
-                                    <a href="<?php echo site_url('about-us'); ?>"><i class="fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                                    <a href="<?php echo site_url('about-us'); ?>"><i class="fa fa-long-arrow-right"
+                                            aria-hidden="true"></i></a>
                                 </div>
                                 <div class="Heading">
                                     <h2 id="year"></h2>
@@ -472,28 +473,26 @@
                     </div>
 
                     <script>
-                    console.log('JavaScript code is running');
+                    (function() {
+                        const START_YEAR = 1977;
 
-                    // Define the starting year
-                    const startingYear = 1977;
+                        function updateYearsOfExcellence() {
+                            const yearElement = document.getElementById('year');
 
-                    // Get the current year
-                    const currentYear = new Date().getFullYear();
+                            if (!yearElement) {
+                                return;
+                            }
 
-                    // Calculate the years of excellence
-                    const yearsOfExcellence = currentYear - startingYear;
+                            const currentYear = new Date().getFullYear();
+                            yearElement.textContent = currentYear - START_YEAR + 1;
+                        }
 
-                    console.log('Years of excellence:', yearsOfExcellence);
-
-                    // Update the year in the HTML
-                    const yearElement = document.getElementById('year');
-                    console.log('Year element:', yearElement);
-
-                    if (yearElement) {
-                        yearElement.innerText = yearsOfExcellence;
-                    } else {
-                        console.error('Year element not found');
-                    }
+                        if (document.readyState === 'loading') {
+                            document.addEventListener('DOMContentLoaded', updateYearsOfExcellence);
+                        } else {
+                            updateYearsOfExcellence();
+                        }
+                    })();
                     </script>
                 </div>
             </div>
@@ -631,15 +630,16 @@
                                     href="https://www.store.prempackaging.com/tape" target="_blank"
                                     style="color: #555555">PackPro<sup>&trade;</sup> Tapes</a>, <a
                                     href="https://www.store.prempackaging.com/label" target="_blank"
-                                    style="color: #555555">Rollabel<sup>&trade;</sup> Labels,</a> etc. Our mission as a small
+                                    style="color: #555555">Rollabel<sup>&trade;</sup> Labels,</a> etc. Our mission as a
+                                small
                                 start up in 1976 was
                                 simple: to tailor a
                                 company with the flexibility to fill orders of all sizes and to consistently provide our
                                 customers with a
                                 superior product.
                             </p>
-                                <a href="<?php echo site_url('corrugated-packaging'); ?>" class="more-btn mt-4"><i class="fa fa-clone"
-                                    aria-hidden="true"></i> Read
+                            <a href="<?php echo site_url('corrugated-packaging'); ?>" class="more-btn mt-4"><i
+                                    class="fa fa-clone" aria-hidden="true"></i> Read
                                 More</a>
                         </div>
                     </div>
@@ -671,8 +671,8 @@
                                 greater grasp of consumer lifestyle trends, consumer habits, and retail transformations
                                 that affect the
                                 consumer experience is the first step...</p>
-                                <a href="<?php echo site_url('E-commerce-packaging'); ?>" class="more-btn mt-4"><i class="fa fa-clone"
-                                    aria-hidden="true"></i> Read
+                            <a href="<?php echo site_url('E-commerce-packaging'); ?>" class="more-btn mt-4"><i
+                                    class="fa fa-clone" aria-hidden="true"></i> Read
                                 More</a>
                         </div>
                     </div>
@@ -688,8 +688,8 @@
                                 thing that people consider, but when it comes to luxury goods, rigid box packaging is
                                 actually a highly
                                 popular option. We use technology to craft it elegantly for you!</p>
-                                <a href="<?php echo site_url('luxury-packaging'); ?>" class="more-btn mt-4"><i class="fa fa-clone"
-                                    aria-hidden="true"></i> Read
+                            <a href="<?php echo site_url('luxury-packaging'); ?>" class="more-btn mt-4"><i
+                                    class="fa fa-clone" aria-hidden="true"></i> Read
                                 More</a>
                         </div>
                     </div>
@@ -719,8 +719,8 @@
                                 enhancing the quality and visibility of the items. Take into account the benefits of
                                 packaging that may
                                 flex, stretch, or shrink to accommodate various needs.</p>
-                                <a href="<?php echo site_url('flexible-laminates-pouches'); ?>" class="more-btn mt-4"><i class="fa fa-clone"
-                                    aria-hidden="true"></i> Read More</a>
+                            <a href="<?php echo site_url('flexible-laminates-pouches'); ?>" class="more-btn mt-4"><i
+                                    class="fa fa-clone" aria-hidden="true"></i> Read More</a>
                         </div>
                     </div>
                 </div>
@@ -1146,4 +1146,3 @@
             }
         }
         </script>
-
